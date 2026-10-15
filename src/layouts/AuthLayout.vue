@@ -6,7 +6,7 @@ import ThemeToggle from '@/components/common/ThemeToggle.vue'
 const features = [
   'Không cần tài khoản - khai báo vài thông tin là bắt đầu học ngay',
   'Lộ trình cá nhân hóa theo trình độ và mục tiêu Giao tiếp, TOEIC, IELTS',
-  '1.500+ từ vựng, 270+ mẫu câu và gần 800 câu luyện thi TOEIC',
+  '4.000+ từ vựng, 270+ mẫu câu và gần 800 câu luyện thi TOEIC',
   'Dữ liệu học lưu ngay trên máy bạn, sao lưu ra file JSON bất cứ lúc nào',
 ]
 </script>

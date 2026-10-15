@@ -4,6 +4,8 @@
  * - Nội dung cốt lõi (level, khóa học, bài test, từ vựng) được đóng gói sẵn (eager).
  * - Mẫu câu và đề luyện TOEIC lớn hơn nên chỉ tải khi người học mở trang tương ứng (lazy).
  * - Thêm file từ vựng mới: đặt vào data/vocabulary với tên *-words.json / *-sets.json là tự được nạp.
+ * - Mở rộng bộ từ có sẵn mà không sửa file gốc: thêm mục { "id": <id bộ>, "wordIds": [...] } (không có "name") vào bất kỳ file *-sets.json;
+ *   các wordIds được nối vào bộ cùng id.
  */
 import levelsJson from '../../../data/levels.json'
 import coursesJson from '../../../data/courses.json'
@@ -70,7 +72,22 @@ for (const w of words) {
 /** Tra theo headword (không phân biệt hoa thường). */
 export const findWordsByHeadword = (headword) => wordsByHeadword.get((headword ?? '').toLowerCase()) ?? []
 
-export const vocabularySets = Object.values(setFiles).flat()
+/** Mọi mục bộ từ trước khi gộp (dùng cho kiểm tra dữ liệu). */
+export const rawVocabularySets = Object.values(setFiles).flat()
+
+/** Gộp phần mở rộng vào bộ gốc (bộ gốc = mục có "name"); từ trùng được bỏ, thứ tự giữ nguyên. */
+function mergeSets(entries) {
+  const bases = new Map(entries.filter((s) => s.name).map((s) => [s.id, { ...s, wordIds: [...s.wordIds] }]))
+  for (const ext of entries.filter((s) => !s.name)) {
+    const base = bases.get(ext.id)
+    if (!base) continue
+    const have = new Set(base.wordIds)
+    for (const id of ext.wordIds) if (!have.has(id)) { have.add(id); base.wordIds.push(id) }
+  }
+  return [...bases.values()]
+}
+
+export const vocabularySets = mergeSets(rawVocabularySets)
   .sort((a, b) => (a.levelId ?? 0) - (b.levelId ?? 0) || a.name.localeCompare(b.name, 'vi'))
 export const getVocabularySet = (id) => vocabularySets.find((s) => s.id === Number(id)) ?? null
 

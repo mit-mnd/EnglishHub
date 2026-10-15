@@ -1,4 +1,4 @@
-/** Ôn flashcard theo lịch lặp lại ngắt quãng (SM-2) với giới hạn số thẻ mới mỗi ngày. */
+/** Ôn flashcard theo lịch lặp lại ngắt quãng (SM-2). Không giới hạn số thẻ mới mỗi ngày; mỗi phiên chia lô nhỏ cho dễ theo dõi. */
 import * as db from '../storage/db'
 import { addDays, localDate, nowIso, startOfToday } from '../clock'
 import { invalid, notFound } from '../errors'
@@ -6,7 +6,6 @@ import { DAY_MS, GRADES, preview, schedule } from '../domain/sm2'
 import { record as recordActivity } from './activity'
 import { findWord, wordResponse } from './vocabulary'
 
-export const NEW_CARDS_PER_DAY = 20
 const NOT_SCHEDULED = new Set(['NEW', 'SUSPENDED'])
 const MAX_QUEUE = 50
 const DEFAULT_SECONDS_PER_CARD = 8
@@ -14,13 +13,6 @@ const MAX_SECONDS_PER_CARD = 60
 const FORECAST_DAYS = 7
 
 const dueTime = (uw) => new Date(uw.dueAt).getTime()
-
-/** Số thẻ mới còn được học hôm nay = giới hạn - số thẻ được ôn lần đầu từ 0h. */
-function newRemainingToday() {
-  const dayStart = startOfToday().getTime()
-  const introduced = db.read('reviews').filter((r) => r.wasNew && new Date(r.reviewedAt).getTime() >= dayStart).length
-  return Math.max(0, NEW_CARDS_PER_DAY - introduced)
-}
 
 function toCard(uw) {
   return {
@@ -55,27 +47,24 @@ export function summary() {
   const dayStart = startOfToday().getTime()
   return {
     total: notebook.length, newCards: counts.NEW, learning: counts.LEARNING, review: counts.REVIEW, mastered: counts.MASTERED,
-    suspended: counts.SUSPENDED, dueNow, newAvailableToday: Math.min(counts.NEW, newRemainingToday()),
-    newCardsPerDay: NEW_CARDS_PER_DAY,
+    suspended: counts.SUSPENDED, dueNow, newAvailableToday: counts.NEW,
     reviewedToday: db.read('reviews').filter((r) => new Date(r.reviewedAt).getTime() >= dayStart).length,
     nextDueAt: next?.dueAt ?? null, forecast,
   }
 }
 
-/** Hàng đợi một phiên: thẻ đến hạn (hạn sớm nhất trước), rồi thẻ mới trong giới hạn ngày. */
+/** Hàng đợi một phiên (tối đa `limit` thẻ): thẻ đến hạn (hạn sớm nhất trước), rồi thẻ mới theo thứ tự thêm vào sổ. */
 export function queue(requestedLimit = 20) {
   const limit = Math.max(1, Math.min(Number(requestedLimit) || 20, MAX_QUEUE))
   const notebook = db.read('notebook')
   const now = Date.now()
   const due = notebook.filter((uw) => !NOT_SCHEDULED.has(uw.status) && dueTime(uw) <= now)
     .sort((a, b) => dueTime(a) - dueTime(b) || a.id - b.id).slice(0, limit)
-  const newRemaining = newRemainingToday()
-  const newSlots = Math.min(newRemaining, limit - due.length)
+  const newSlots = limit - due.length
   const fresh = newSlots <= 0 ? [] : notebook.filter((uw) => uw.status === 'NEW')
     .sort((a, b) => a.createdAt.localeCompare(b.createdAt) || a.id - b.id).slice(0, newSlots)
   return {
     cards: [...due, ...fresh].map(toCard), dueCount: due.length, newCount: fresh.length,
-    newRemainingToday: Math.max(0, newRemaining - fresh.length),
   }
 }
 

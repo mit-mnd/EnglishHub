@@ -1,0 +1,4478 @@
+[
+  {
+    "id": 5001,
+    "headword": "wash your face",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/wɒʃ jɔː feɪs/",
+    "phoneticUs": "/wɑːʃ jɔːr feɪs/",
+    "meaningVi": "rửa mặt",
+    "definitionEn": "to clean your face with water",
+    "example": "She washes her face before going to bed.",
+    "exampleTranslation": "Cô ấy rửa mặt trước khi đi ngủ.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5002,
+    "headword": "comb your hair",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kəʊm jɔː heə/",
+    "phoneticUs": "/koʊm jɔːr her/",
+    "meaningVi": "chải tóc",
+    "definitionEn": "to make your hair neat with a comb",
+    "example": "He combs his hair in front of the mirror.",
+    "exampleTranslation": "Anh ấy chải tóc trước gương.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5003,
+    "headword": "cook dinner",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kʊk ˈdɪnə/",
+    "phoneticUs": "/kʊk ˈdɪnər/",
+    "meaningVi": "nấu bữa tối",
+    "definitionEn": "to prepare the evening meal",
+    "example": "My mother cooks dinner for the whole family.",
+    "exampleTranslation": "Mẹ tôi nấu bữa tối cho cả nhà.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5005,
+    "headword": "fall asleep",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/fɔːl əˈsliːp/",
+    "phoneticUs": "/fɔːl əˈsliːp/",
+    "meaningVi": "ngủ thiếp đi",
+    "definitionEn": "to start sleeping",
+    "example": "The baby fell asleep in my arms.",
+    "exampleTranslation": "Em bé ngủ thiếp đi trong vòng tay tôi.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5007,
+    "headword": "stay up late",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/steɪ ʌp leɪt/",
+    "phoneticUs": "/steɪ ʌp leɪt/",
+    "meaningVi": "thức khuya",
+    "definitionEn": "to go to bed much later than usual",
+    "example": "Don’t stay up late; you have school tomorrow.",
+    "exampleTranslation": "Đừng thức khuya, mai con phải đi học.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5008,
+    "headword": "get home",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡet həʊm/",
+    "phoneticUs": "/ɡet hoʊm/",
+    "meaningVi": "về đến nhà",
+    "definitionEn": "to arrive at your house",
+    "example": "I usually get home around six o’clock.",
+    "exampleTranslation": "Tôi thường về đến nhà khoảng sáu giờ.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5009,
+    "headword": "leave home",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/liːv həʊm/",
+    "phoneticUs": "/liːv hoʊm/",
+    "meaningVi": "ra khỏi nhà, rời nhà",
+    "definitionEn": "to go out of your house",
+    "example": "He leaves home at half past seven.",
+    "exampleTranslation": "Anh ấy ra khỏi nhà lúc bảy giờ rưỡi.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5010,
+    "headword": "clean the house",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kliːn ðə haʊs/",
+    "phoneticUs": "/kliːn ðə haʊs/",
+    "meaningVi": "dọn dẹp nhà cửa",
+    "definitionEn": "to make all the rooms tidy and free of dirt",
+    "example": "We clean the house together every weekend.",
+    "exampleTranslation": "Cuối tuần nào chúng tôi cũng cùng nhau dọn nhà.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5011,
+    "headword": "take out the trash",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/teɪk aʊt ðə træʃ/",
+    "phoneticUs": "/teɪk aʊt ðə træʃ/",
+    "meaningVi": "đổ rác",
+    "definitionEn": "to carry the rubbish outside",
+    "example": "It’s your turn to take out the trash.",
+    "exampleTranslation": "Đến lượt con đi đổ rác rồi.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5012,
+    "headword": "water the plants",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈwɔːtə ðə plɑːnts/",
+    "phoneticUs": "/ˈwɔːtər ðə plænts/",
+    "meaningVi": "tưới cây",
+    "definitionEn": "to give water to plants",
+    "example": "My grandfather waters the plants every morning.",
+    "exampleTranslation": "Ông tôi tưới cây mỗi buổi sáng.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5013,
+    "headword": "feed",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/fiːd/",
+    "phoneticUs": "/fiːd/",
+    "meaningVi": "cho ăn",
+    "definitionEn": "to give food to a person or animal",
+    "example": "I feed the cat before I go to work.",
+    "exampleTranslation": "Tôi cho mèo ăn trước khi đi làm.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5014,
+    "headword": "relax",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/rɪˈlæks/",
+    "phoneticUs": "/rɪˈlæks/",
+    "meaningVi": "thư giãn, nghỉ ngơi",
+    "definitionEn": "to rest and feel calm",
+    "example": "I relax by listening to music in the evening.",
+    "exampleTranslation": "Buổi tối tôi thư giãn bằng cách nghe nhạc.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine",
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 5016,
+    "headword": "early",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˈɜːli/",
+    "phoneticUs": "/ˈɜːrli/",
+    "meaningVi": "sớm",
+    "definitionEn": "before the usual or expected time",
+    "example": "He gets up early to run in the park.",
+    "exampleTranslation": "Anh ấy dậy sớm để chạy bộ trong công viên.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5017,
+    "headword": "late",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/leɪt/",
+    "phoneticUs": "/leɪt/",
+    "meaningVi": "muộn, trễ",
+    "definitionEn": "after the usual or expected time",
+    "example": "I got up late and missed the bus.",
+    "exampleTranslation": "Tôi dậy muộn nên lỡ chuyến xe buýt.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5020,
+    "headword": "clear the table",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/klɪə ðə ˈteɪbl/",
+    "phoneticUs": "/klɪr ðə ˈteɪbl/",
+    "meaningVi": "dọn bàn sau bữa ăn",
+    "definitionEn": "to take plates away after a meal",
+    "example": "He clears the table after dinner.",
+    "exampleTranslation": "Anh ấy dọn bàn sau bữa tối.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5021,
+    "headword": "iron",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈaɪən/",
+    "phoneticUs": "/ˈaɪərn/",
+    "meaningVi": "là (ủi) quần áo",
+    "definitionEn": "to make clothes flat with a hot tool",
+    "example": "She irons her shirt every morning.",
+    "exampleTranslation": "Sáng nào cô ấy cũng là áo sơ mi.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5022,
+    "headword": "sweep the floor",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/swiːp ðə flɔː/",
+    "phoneticUs": "/swiːp ðə flɔːr/",
+    "meaningVi": "quét nhà",
+    "definitionEn": "to clean the floor with a brush",
+    "example": "I sweep the floor every evening.",
+    "exampleTranslation": "Tối nào tôi cũng quét nhà.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5023,
+    "headword": "mop the floor",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/mɒp ðə flɔː/",
+    "phoneticUs": "/mɑːp ðə flɔːr/",
+    "meaningVi": "lau nhà",
+    "definitionEn": "to clean the floor with a wet cloth on a stick",
+    "example": "He mops the floor on Saturdays.",
+    "exampleTranslation": "Anh ấy lau nhà vào thứ Bảy.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5024,
+    "headword": "turn off the light",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/tɜːn ɒf ðə laɪt/",
+    "phoneticUs": "/tɜːrn ɔːf ðə laɪt/",
+    "meaningVi": "tắt đèn",
+    "definitionEn": "to stop the light from shining",
+    "example": "Turn off the light when you leave the room.",
+    "exampleTranslation": "Hãy tắt đèn khi rời khỏi phòng.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5025,
+    "headword": "lock the door",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/lɒk ðə dɔː/",
+    "phoneticUs": "/lɑːk ðə dɔːr/",
+    "meaningVi": "khóa cửa",
+    "definitionEn": "to close the door with a key",
+    "example": "Don’t forget to lock the door.",
+    "exampleTranslation": "Đừng quên khóa cửa nhé.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5026,
+    "headword": "check your phone",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/tʃek jɔː fəʊn/",
+    "phoneticUs": "/tʃek jɔːr foʊn/",
+    "meaningVi": "xem điện thoại",
+    "definitionEn": "to look at your phone for messages",
+    "example": "I check my phone as soon as I wake up.",
+    "exampleTranslation": "Tôi xem điện thoại ngay khi thức dậy.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5028,
+    "headword": "hang out the washing",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/hæŋ aʊt ðə ˈwɒʃɪŋ/",
+    "phoneticUs": "/hæŋ aʊt ðə ˈwɑːʃɪŋ/",
+    "meaningVi": "phơi quần áo",
+    "definitionEn": "to put wet clothes outside to dry",
+    "example": "She hangs out the washing in the sun.",
+    "exampleTranslation": "Cô ấy phơi quần áo dưới nắng.",
+    "levelId": 1,
+    "topics": [
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 5030,
+    "headword": "pork",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pɔːk/",
+    "phoneticUs": "/pɔːrk/",
+    "meaningVi": "thịt lợn",
+    "definitionEn": "meat from a pig",
+    "example": "We had grilled pork with rice for lunch.",
+    "exampleTranslation": "Bữa trưa chúng tôi ăn thịt lợn nướng với cơm.",
+    "levelId": 1,
+    "topics": [
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 5031,
+    "headword": "beef",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/biːf/",
+    "phoneticUs": "/biːf/",
+    "meaningVi": "thịt bò",
+    "definitionEn": "meat from a cow",
+    "example": "My father cooks beef noodle soup on Sundays.",
+    "exampleTranslation": "Bố tôi nấu phở bò vào Chủ nhật.",
+    "levelId": 1,
+    "topics": [
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 5032,
+    "headword": "shrimp",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ʃrɪmp/",
+    "phoneticUs": "/ʃrɪmp/",
+    "meaningVi": "tôm",
+    "definitionEn": "a small sea animal with a curved body, eaten as food",
+    "example": "I’m allergic to shrimp.",
+    "exampleTranslation": "Tôi bị dị ứng với tôm.",
+    "levelId": 1,
+    "topics": [
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 5035,
+    "headword": "cake",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/keɪk/",
+    "phoneticUs": "/keɪk/",
+    "meaningVi": "bánh ngọt, bánh kem",
+    "definitionEn": "a sweet food made from flour, eggs and sugar",
+    "example": "She baked a chocolate cake for my birthday.",
+    "exampleTranslation": "Cô ấy nướng bánh sô-cô-la mừng sinh nhật tôi.",
+    "levelId": 1,
+    "topics": [
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 5037,
+    "headword": "chocolate",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtʃɒklət/",
+    "phoneticUs": "/ˈtʃɔːklət/",
+    "meaningVi": "sô-cô-la",
+    "definitionEn": "a sweet brown food made from cocoa",
+    "example": "I bought a bar of dark chocolate.",
+    "exampleTranslation": "Tôi đã mua một thanh sô-cô-la đen.",
+    "levelId": 1,
+    "topics": [
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 5038,
+    "headword": "cheese",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/tʃiːz/",
+    "phoneticUs": "/tʃiːz/",
+    "meaningVi": "phô mai",
+    "definitionEn": "a solid food made from milk",
+    "example": "Do you want some cheese on your pasta?",
+    "exampleTranslation": "Bạn có muốn thêm phô mai lên mì Ý không?",
+    "levelId": 1,
+    "topics": [
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 5039,
+    "headword": "butter",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbʌtə/",
+    "phoneticUs": "/ˈbʌtər/",
+    "meaningVi": "bơ (làm từ sữa)",
+    "definitionEn": "a soft yellow food made from milk, put on bread",
+    "example": "Spread some butter on the toast.",
+    "exampleTranslation": "Phết chút bơ lên bánh mì nướng.",
+    "levelId": 1,
+    "topics": [
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 5052,
+    "headword": "grilled",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ɡrɪld/",
+    "phoneticUs": "/ɡrɪld/",
+    "meaningVi": "nướng (trên vỉ)",
+    "definitionEn": "cooked over direct heat",
+    "example": "We ordered grilled chicken with vegetables.",
+    "exampleTranslation": "Chúng tôi gọi gà nướng ăn kèm rau.",
+    "levelId": 1,
+    "topics": [
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 5053,
+    "headword": "pancake",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpænkeɪk/",
+    "phoneticUs": "/ˈpænkeɪk/",
+    "meaningVi": "bánh kếp",
+    "definitionEn": "a thin flat cake cooked in a pan",
+    "example": "We had pancakes with honey for breakfast.",
+    "exampleTranslation": "Chúng tôi ăn bánh kếp với mật ong vào bữa sáng.",
+    "levelId": 1,
+    "topics": [
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 5054,
+    "headword": "pizza",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpiːtsə/",
+    "phoneticUs": "/ˈpiːtsə/",
+    "meaningVi": "bánh pizza",
+    "definitionEn": "a flat round bread with cheese and other food on top",
+    "example": "Let’s order a pizza tonight.",
+    "exampleTranslation": "Tối nay mình gọi pizza đi.",
+    "levelId": 1,
+    "topics": [
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 5055,
+    "headword": "hamburger",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhæmbɜːɡə/",
+    "phoneticUs": "/ˈhæmbɜːrɡər/",
+    "meaningVi": "bánh hamburger",
+    "definitionEn": "a round sandwich with a meat patty inside",
+    "example": "He ate a hamburger and some chips.",
+    "exampleTranslation": "Anh ấy ăn một cái hamburger và ít khoai tây chiên.",
+    "levelId": 1,
+    "topics": [
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 5056,
+    "headword": "yogurt",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈjɒɡət/",
+    "phoneticUs": "/ˈjoʊɡərt/",
+    "meaningVi": "sữa chua",
+    "definitionEn": "a thick sour food made from milk",
+    "example": "I eat yogurt with fruit every morning.",
+    "exampleTranslation": "Sáng nào tôi cũng ăn sữa chua với trái cây.",
+    "levelId": 1,
+    "topics": [
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 5057,
+    "headword": "honey",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhʌni/",
+    "phoneticUs": "/ˈhʌni/",
+    "meaningVi": "mật ong",
+    "definitionEn": "a sweet sticky food made by bees",
+    "example": "She put honey in her tea.",
+    "exampleTranslation": "Cô ấy cho mật ong vào trà.",
+    "levelId": 1,
+    "topics": [
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 5058,
+    "headword": "cereal",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɪəriəl/",
+    "phoneticUs": "/ˈsɪriəl/",
+    "meaningVi": "ngũ cốc ăn sáng",
+    "definitionEn": "a breakfast food made from grain, eaten with milk",
+    "example": "The kids eat cereal before school.",
+    "exampleTranslation": "Bọn trẻ ăn ngũ cốc trước khi đi học.",
+    "levelId": 1,
+    "topics": [
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 5059,
+    "headword": "lemonade",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌleməˈneɪd/",
+    "phoneticUs": "/ˌleməˈneɪd/",
+    "meaningVi": "nước chanh",
+    "definitionEn": "a sweet drink made from lemons",
+    "example": "Would you like a glass of cold lemonade?",
+    "exampleTranslation": "Bạn có muốn một ly nước chanh lạnh không?",
+    "levelId": 1,
+    "topics": [
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 5062,
+    "headword": "apartment",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/əˈpɑːtmənt/",
+    "phoneticUs": "/əˈpɑːrtmənt/",
+    "meaningVi": "căn hộ",
+    "definitionEn": "a set of rooms for living in, in a larger building",
+    "example": "They live in a small apartment downtown.",
+    "exampleTranslation": "Họ sống trong một căn hộ nhỏ ở trung tâm.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5063,
+    "headword": "ceiling",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsiːlɪŋ/",
+    "phoneticUs": "/ˈsiːlɪŋ/",
+    "meaningVi": "trần nhà",
+    "definitionEn": "the top surface inside a room",
+    "example": "There is a big fan on the ceiling.",
+    "exampleTranslation": "Có một chiếc quạt lớn trên trần nhà.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5064,
+    "headword": "wall",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/wɔːl/",
+    "phoneticUs": "/wɔːl/",
+    "meaningVi": "bức tường",
+    "definitionEn": "a side of a room or building",
+    "example": "She hung a picture on the wall.",
+    "exampleTranslation": "Cô ấy treo một bức tranh lên tường.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5065,
+    "headword": "roof",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ruːf/",
+    "phoneticUs": "/ruːf/",
+    "meaningVi": "mái nhà",
+    "definitionEn": "the top outside part of a building",
+    "example": "The roof leaks when it rains heavily.",
+    "exampleTranslation": "Mái nhà bị dột khi mưa to.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5066,
+    "headword": "garden",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɡɑːdn/",
+    "phoneticUs": "/ˈɡɑːrdn/",
+    "meaningVi": "khu vườn",
+    "definitionEn": "a piece of land near a house with plants",
+    "example": "We grow vegetables in our garden.",
+    "exampleTranslation": "Chúng tôi trồng rau trong vườn nhà.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5067,
+    "headword": "stairs",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/steəz/",
+    "phoneticUs": "/sterz/",
+    "meaningVi": "cầu thang",
+    "definitionEn": "steps that go from one floor to another",
+    "example": "Be careful on the stairs.",
+    "exampleTranslation": "Hãy cẩn thận khi đi cầu thang.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5069,
+    "headword": "garage",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɡærɑːʒ/",
+    "phoneticUs": "/ɡəˈrɑːʒ/",
+    "meaningVi": "nhà để xe, ga-ra",
+    "definitionEn": "a building or room where you keep a car",
+    "example": "He parked the car in the garage.",
+    "exampleTranslation": "Anh ấy đỗ xe trong ga-ra.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5070,
+    "headword": "curtain",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkɜːtn/",
+    "phoneticUs": "/ˈkɜːrtn/",
+    "meaningVi": "rèm cửa",
+    "definitionEn": "a piece of cloth that covers a window",
+    "example": "Please close the curtains; it’s too bright.",
+    "exampleTranslation": "Làm ơn kéo rèm lại, chói quá.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5071,
+    "headword": "carpet",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkɑːpɪt/",
+    "phoneticUs": "/ˈkɑːrpɪt/",
+    "meaningVi": "thảm trải sàn",
+    "definitionEn": "a thick cover for a floor",
+    "example": "The new carpet in the living room is soft.",
+    "exampleTranslation": "Tấm thảm mới trong phòng khách rất mềm.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5072,
+    "headword": "pillow",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpɪləʊ/",
+    "phoneticUs": "/ˈpɪloʊ/",
+    "meaningVi": "cái gối",
+    "definitionEn": "a soft bag you put your head on in bed",
+    "example": "I need a softer pillow.",
+    "exampleTranslation": "Tôi cần một chiếc gối mềm hơn.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5073,
+    "headword": "blanket",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈblæŋkɪt/",
+    "phoneticUs": "/ˈblæŋkɪt/",
+    "meaningVi": "cái chăn, cái mền",
+    "definitionEn": "a thick cover that keeps you warm in bed",
+    "example": "She pulled the blanket up to her chin.",
+    "exampleTranslation": "Cô ấy kéo chăn lên đến cằm.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5076,
+    "headword": "sink",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/sɪŋk/",
+    "phoneticUs": "/sɪŋk/",
+    "meaningVi": "bồn rửa",
+    "definitionEn": "a bowl in a kitchen or bathroom for washing",
+    "example": "The dirty dishes are in the sink.",
+    "exampleTranslation": "Bát đĩa bẩn đang để trong bồn rửa.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5077,
+    "headword": "bathtub",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbɑːθtʌb/",
+    "phoneticUs": "/ˈbæθtʌb/",
+    "meaningVi": "bồn tắm",
+    "definitionEn": "a large container you fill with water to wash in",
+    "example": "The bathtub is too small for two children.",
+    "exampleTranslation": "Bồn tắm quá nhỏ cho hai đứa trẻ.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5078,
+    "headword": "toilet",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtɔɪlət/",
+    "phoneticUs": "/ˈtɔɪlət/",
+    "meaningVi": "nhà vệ sinh, bồn cầu",
+    "definitionEn": "a bowl used for getting rid of body waste, or the room with it",
+    "example": "Excuse me, where is the toilet?",
+    "exampleTranslation": "Xin lỗi, nhà vệ sinh ở đâu ạ?",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5079,
+    "headword": "fan",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/fæn/",
+    "phoneticUs": "/fæn/",
+    "meaningVi": "cái quạt",
+    "definitionEn": "a machine that moves air to make you cooler",
+    "example": "Turn on the fan; it’s very hot in here.",
+    "exampleTranslation": "Bật quạt lên đi, trong này nóng quá.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5080,
+    "headword": "air conditioner",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈeə kənˌdɪʃənə/",
+    "phoneticUs": "/ˈer kənˌdɪʃənər/",
+    "meaningVi": "máy điều hòa",
+    "definitionEn": "a machine that makes the air in a room cool",
+    "example": "The air conditioner in my bedroom is broken.",
+    "exampleTranslation": "Máy điều hòa trong phòng ngủ của tôi bị hỏng.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5081,
+    "headword": "washing machine",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈwɒʃɪŋ məˌʃiːn/",
+    "phoneticUs": "/ˈwɑːʃɪŋ məˌʃiːn/",
+    "meaningVi": "máy giặt",
+    "definitionEn": "a machine that cleans clothes with water",
+    "example": "I put the clothes in the washing machine.",
+    "exampleTranslation": "Tôi cho quần áo vào máy giặt.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5083,
+    "headword": "tidy",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈtaɪdi/",
+    "phoneticUs": "/ˈtaɪdi/",
+    "meaningVi": "gọn gàng, ngăn nắp",
+    "definitionEn": "neat, with everything in the right place",
+    "example": "Her room is always tidy.",
+    "exampleTranslation": "Phòng của cô ấy lúc nào cũng gọn gàng.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5084,
+    "headword": "messy",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈmesi/",
+    "phoneticUs": "/ˈmesi/",
+    "meaningVi": "bừa bộn",
+    "definitionEn": "not neat; with things in the wrong places",
+    "example": "My desk is messy, so I can’t find anything.",
+    "exampleTranslation": "Bàn của tôi bừa bộn nên tôi không tìm được gì.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5085,
+    "headword": "bookcase",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbʊkkeɪs/",
+    "phoneticUs": "/ˈbʊkkeɪs/",
+    "meaningVi": "tủ sách",
+    "definitionEn": "a piece of furniture with shelves for books",
+    "example": "There is a big bookcase in his study.",
+    "exampleTranslation": "Có một tủ sách lớn trong phòng làm việc của anh ấy.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5086,
+    "headword": "drawer",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/drɔː/",
+    "phoneticUs": "/drɔːr/",
+    "meaningVi": "ngăn kéo",
+    "definitionEn": "a box in a table or desk that slides in and out",
+    "example": "The keys are in the top drawer.",
+    "exampleTranslation": "Chìa khóa nằm trong ngăn kéo trên cùng.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5087,
+    "headword": "cupboard",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkʌbəd/",
+    "phoneticUs": "/ˈkʌbərd/",
+    "meaningVi": "tủ bếp, tủ chén",
+    "definitionEn": "a piece of furniture with doors for storing things",
+    "example": "The plates are in the cupboard.",
+    "exampleTranslation": "Bát đĩa ở trong tủ chén.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5088,
+    "headword": "doorbell",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdɔːbel/",
+    "phoneticUs": "/ˈdɔːrbel/",
+    "meaningVi": "chuông cửa",
+    "definitionEn": "a button you press to ring a bell at the door",
+    "example": "The doorbell rang while I was cooking.",
+    "exampleTranslation": "Chuông cửa reo khi tôi đang nấu ăn.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5089,
+    "headword": "rug",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/rʌɡ/",
+    "phoneticUs": "/rʌɡ/",
+    "meaningVi": "tấm thảm nhỏ",
+    "definitionEn": "a small carpet",
+    "example": "The cat sleeps on the rug.",
+    "exampleTranslation": "Con mèo ngủ trên tấm thảm nhỏ.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5090,
+    "headword": "vase",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/vɑːz/",
+    "phoneticUs": "/veɪs/",
+    "meaningVi": "bình hoa",
+    "definitionEn": "a container for holding flowers",
+    "example": "She put the roses in a glass vase.",
+    "exampleTranslation": "Cô ấy cắm hoa hồng vào bình thủy tinh.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5091,
+    "headword": "cushion",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkʊʃn/",
+    "phoneticUs": "/ˈkʊʃn/",
+    "meaningVi": "cái gối tựa",
+    "definitionEn": "a soft bag you sit or lean on",
+    "example": "There are three cushions on the sofa.",
+    "exampleTranslation": "Có ba cái gối tựa trên ghế sofa.",
+    "levelId": 1,
+    "topics": [
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 5094,
+    "headword": "thunder",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈθʌndə/",
+    "phoneticUs": "/ˈθʌndər/",
+    "meaningVi": "sấm",
+    "definitionEn": "the loud noise in the sky during a storm",
+    "example": "The thunder woke me up at midnight.",
+    "exampleTranslation": "Tiếng sấm đánh thức tôi lúc nửa đêm.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5095,
+    "headword": "lightning",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlaɪtnɪŋ/",
+    "phoneticUs": "/ˈlaɪtnɪŋ/",
+    "meaningVi": "tia chớp, sét",
+    "definitionEn": "a bright flash of light in the sky during a storm",
+    "example": "We saw lightning over the mountains.",
+    "exampleTranslation": "Chúng tôi thấy chớp sáng trên dãy núi.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5096,
+    "headword": "fog",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/fɒɡ/",
+    "phoneticUs": "/fɑːɡ/",
+    "meaningVi": "sương mù",
+    "definitionEn": "thick cloud close to the ground that is hard to see through",
+    "example": "Thick fog covered the road this morning.",
+    "exampleTranslation": "Sáng nay sương mù dày đặc phủ kín con đường.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5097,
+    "headword": "wind",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/wɪnd/",
+    "phoneticUs": "/wɪnd/",
+    "meaningVi": "gió",
+    "definitionEn": "air that moves outside",
+    "example": "A strong wind blew the hat off his head.",
+    "exampleTranslation": "Một cơn gió mạnh thổi bay chiếc mũ khỏi đầu anh ấy.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5098,
+    "headword": "sunshine",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsʌnʃaɪn/",
+    "phoneticUs": "/ˈsʌnʃaɪn/",
+    "meaningVi": "ánh nắng",
+    "definitionEn": "the light and heat from the sun",
+    "example": "We sat in the sunshine and drank coffee.",
+    "exampleTranslation": "Chúng tôi ngồi dưới nắng và uống cà phê.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5099,
+    "headword": "rainbow",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈreɪnbəʊ/",
+    "phoneticUs": "/ˈreɪnboʊ/",
+    "meaningVi": "cầu vồng",
+    "definitionEn": "a curved band of colours in the sky after rain",
+    "example": "Look, there’s a rainbow over the river!",
+    "exampleTranslation": "Nhìn kìa, có cầu vồng trên sông!",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5100,
+    "headword": "raincoat",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈreɪnkəʊt/",
+    "phoneticUs": "/ˈreɪnkoʊt/",
+    "meaningVi": "áo mưa",
+    "definitionEn": "a coat that keeps you dry in the rain",
+    "example": "She wore a yellow raincoat to school.",
+    "exampleTranslation": "Cô bé mặc chiếc áo mưa màu vàng đến trường.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5101,
+    "headword": "dry",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/draɪ/",
+    "phoneticUs": "/draɪ/",
+    "meaningVi": "khô, khô ráo",
+    "definitionEn": "without water or rain",
+    "example": "It has been a very dry winter this year.",
+    "exampleTranslation": "Năm nay là một mùa đông rất khô hanh.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5102,
+    "headword": "wet",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/wet/",
+    "phoneticUs": "/wet/",
+    "meaningVi": "ướt",
+    "definitionEn": "covered with water or rain",
+    "example": "My shoes got wet in the rain.",
+    "exampleTranslation": "Giày của tôi bị ướt vì mưa.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5103,
+    "headword": "cool",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/kuːl/",
+    "phoneticUs": "/kuːl/",
+    "meaningVi": "mát mẻ",
+    "definitionEn": "slightly cold in a pleasant way",
+    "example": "The evenings are cool in autumn.",
+    "exampleTranslation": "Buổi tối mùa thu thật mát mẻ.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5104,
+    "headword": "freezing",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈfriːzɪŋ/",
+    "phoneticUs": "/ˈfriːzɪŋ/",
+    "meaningVi": "lạnh cóng",
+    "definitionEn": "extremely cold",
+    "example": "It’s freezing; put on your scarf.",
+    "exampleTranslation": "Lạnh cóng đấy, quàng khăn vào đi.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5105,
+    "headword": "foggy",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈfɒɡi/",
+    "phoneticUs": "/ˈfɑːɡi/",
+    "meaningVi": "có sương mù",
+    "definitionEn": "with thick fog in the air",
+    "example": "It was too foggy to see the mountains.",
+    "exampleTranslation": "Trời có sương mù nên không nhìn thấy núi.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5106,
+    "headword": "stormy",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈstɔːmi/",
+    "phoneticUs": "/ˈstɔːrmi/",
+    "meaningVi": "có bão, giông bão",
+    "definitionEn": "with strong wind and heavy rain",
+    "example": "The weather was stormy all weekend.",
+    "exampleTranslation": "Thời tiết giông bão suốt cuối tuần.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5107,
+    "headword": "snowy",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈsnəʊi/",
+    "phoneticUs": "/ˈsnoʊi/",
+    "meaningVi": "có tuyết",
+    "definitionEn": "with a lot of snow",
+    "example": "We spent a snowy week in the mountains.",
+    "exampleTranslation": "Chúng tôi đã trải qua một tuần đầy tuyết trên núi.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5109,
+    "headword": "freeze",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/friːz/",
+    "phoneticUs": "/friːz/",
+    "meaningVi": "đóng băng",
+    "definitionEn": "to become ice because it is very cold",
+    "example": "The lake freezes every winter.",
+    "exampleTranslation": "Hồ đóng băng vào mỗi mùa đông.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons",
+      "toeic-technology-it"
+    ]
+  },
+  {
+    "id": 5110,
+    "headword": "shine",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ʃaɪn/",
+    "phoneticUs": "/ʃaɪn/",
+    "meaningVi": "chiếu sáng, tỏa nắng",
+    "definitionEn": "to give out bright light",
+    "example": "The sun is shining, so let’s go outside.",
+    "exampleTranslation": "Trời nắng đẹp, mình ra ngoài đi.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5111,
+    "headword": "rainy season",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈreɪni ˌsiːzn/",
+    "phoneticUs": "/ˈreɪni ˌsiːzn/",
+    "meaningVi": "mùa mưa",
+    "definitionEn": "the time of year when it rains a lot",
+    "example": "The rainy season starts in May.",
+    "exampleTranslation": "Mùa mưa bắt đầu vào tháng Năm.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5112,
+    "headword": "heat wave",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhiːt weɪv/",
+    "phoneticUs": "/ˈhiːt weɪv/",
+    "meaningVi": "đợt nắng nóng",
+    "definitionEn": "a period of very hot weather",
+    "example": "A heat wave is coming this week.",
+    "exampleTranslation": "Một đợt nắng nóng sắp đến trong tuần này.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5113,
+    "headword": "mild",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/maɪld/",
+    "phoneticUs": "/maɪld/",
+    "meaningVi": "ôn hòa, ấm áp nhẹ",
+    "definitionEn": "not too hot and not too cold",
+    "example": "The weather is mild in Da Lat all year.",
+    "exampleTranslation": "Thời tiết ở Đà Lạt ôn hòa quanh năm.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5114,
+    "headword": "drizzle",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdrɪzl/",
+    "phoneticUs": "/ˈdrɪzl/",
+    "meaningVi": "mưa phùn",
+    "definitionEn": "light rain with very small drops",
+    "example": "A light drizzle fell all afternoon.",
+    "exampleTranslation": "Mưa phùn nhẹ rơi suốt buổi chiều.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5115,
+    "headword": "hail",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/heɪl/",
+    "phoneticUs": "/heɪl/",
+    "meaningVi": "mưa đá",
+    "definitionEn": "small balls of ice that fall like rain",
+    "example": "The hail damaged the cars.",
+    "exampleTranslation": "Mưa đá đã làm hư hại những chiếc xe.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5116,
+    "headword": "breeze",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/briːz/",
+    "phoneticUs": "/briːz/",
+    "meaningVi": "làn gió nhẹ",
+    "definitionEn": "a gentle, pleasant wind",
+    "example": "A cool breeze came from the sea.",
+    "exampleTranslation": "Một làn gió mát thổi từ biển vào.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5117,
+    "headword": "shower",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈʃaʊə/",
+    "phoneticUs": "/ˈʃaʊər/",
+    "meaningVi": "cơn mưa rào",
+    "definitionEn": "a short period of rain",
+    "example": "There will be a few showers this afternoon.",
+    "exampleTranslation": "Chiều nay sẽ có vài cơn mưa rào.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5118,
+    "headword": "downpour",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdaʊnpɔː/",
+    "phoneticUs": "/ˈdaʊnpɔːr/",
+    "meaningVi": "trận mưa như trút",
+    "definitionEn": "a sudden very heavy rain",
+    "example": "We got wet in a heavy downpour.",
+    "exampleTranslation": "Chúng tôi bị ướt trong một trận mưa như trút.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5119,
+    "headword": "puddle",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpʌdl/",
+    "phoneticUs": "/ˈpʌdl/",
+    "meaningVi": "vũng nước",
+    "definitionEn": "a small pool of water on the ground",
+    "example": "The boy jumped in a puddle.",
+    "exampleTranslation": "Cậu bé nhảy vào vũng nước.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5120,
+    "headword": "sunrise",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsʌnraɪz/",
+    "phoneticUs": "/ˈsʌnraɪz/",
+    "meaningVi": "bình minh, lúc mặt trời mọc",
+    "definitionEn": "the time in the morning when the sun comes up",
+    "example": "We watched the sunrise from the beach.",
+    "exampleTranslation": "Chúng tôi ngắm bình minh từ bãi biển.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5121,
+    "headword": "sunset",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsʌnset/",
+    "phoneticUs": "/ˈsʌnset/",
+    "meaningVi": "hoàng hôn",
+    "definitionEn": "the time in the evening when the sun goes down",
+    "example": "The sunset over the river was beautiful.",
+    "exampleTranslation": "Hoàng hôn trên sông thật đẹp.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5122,
+    "headword": "chilly",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈtʃɪli/",
+    "phoneticUs": "/ˈtʃɪli/",
+    "meaningVi": "se lạnh",
+    "definitionEn": "rather cold",
+    "example": "It’s a bit chilly this morning.",
+    "exampleTranslation": "Sáng nay trời hơi se lạnh.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5123,
+    "headword": "boiling",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈbɔɪlɪŋ/",
+    "phoneticUs": "/ˈbɔɪlɪŋ/",
+    "meaningVi": "nóng như thiêu",
+    "definitionEn": "extremely hot",
+    "example": "It’s boiling in this room.",
+    "exampleTranslation": "Trong phòng này nóng như thiêu.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5124,
+    "headword": "overcast",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌəʊvəˈkɑːst/",
+    "phoneticUs": "/ˌoʊvərˈkæst/",
+    "meaningVi": "u ám, nhiều mây",
+    "definitionEn": "covered with grey clouds",
+    "example": "The sky was overcast all day.",
+    "exampleTranslation": "Bầu trời u ám suốt cả ngày.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5125,
+    "headword": "clear",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/klɪə/",
+    "phoneticUs": "/klɪr/",
+    "meaningVi": "quang đãng",
+    "definitionEn": "without clouds or fog",
+    "example": "Tonight the sky is clear and full of stars.",
+    "exampleTranslation": "Tối nay bầu trời quang đãng đầy sao.",
+    "levelId": 1,
+    "topics": [
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 5126,
+    "headword": "jeans",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dʒiːnz/",
+    "phoneticUs": "/dʒiːnz/",
+    "meaningVi": "quần jean",
+    "definitionEn": "trousers made of strong blue cotton cloth",
+    "example": "I bought a new pair of jeans.",
+    "exampleTranslation": "Tôi đã mua một chiếc quần jean mới.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5127,
+    "headword": "shorts",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ʃɔːts/",
+    "phoneticUs": "/ʃɔːrts/",
+    "meaningVi": "quần short",
+    "definitionEn": "short trousers that end above the knee",
+    "example": "He wears shorts when it’s hot.",
+    "exampleTranslation": "Anh ấy mặc quần short khi trời nóng.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5128,
+    "headword": "sweater",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈswetə/",
+    "phoneticUs": "/ˈswetər/",
+    "meaningVi": "áo len",
+    "definitionEn": "a warm piece of clothing made of wool",
+    "example": "My grandmother knitted this sweater for me.",
+    "exampleTranslation": "Bà tôi đan chiếc áo len này cho tôi.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5129,
+    "headword": "coat",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kəʊt/",
+    "phoneticUs": "/koʊt/",
+    "meaningVi": "áo khoác dày",
+    "definitionEn": "a long warm piece of clothing worn outside",
+    "example": "It’s cold, so wear a thick coat.",
+    "exampleTranslation": "Trời lạnh nên hãy mặc áo khoác dày.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5130,
+    "headword": "sock",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/sɒk/",
+    "phoneticUs": "/sɑːk/",
+    "meaningVi": "tất, vớ",
+    "definitionEn": "a soft cover for your foot, worn inside a shoe",
+    "example": "I can’t find my other sock.",
+    "exampleTranslation": "Tôi không tìm thấy chiếc tất còn lại.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5131,
+    "headword": "scarf",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/skɑːf/",
+    "phoneticUs": "/skɑːrf/",
+    "meaningVi": "khăn quàng cổ",
+    "definitionEn": "a long piece of cloth worn around the neck",
+    "example": "She wore a red scarf in winter.",
+    "exampleTranslation": "Cô ấy quàng chiếc khăn đỏ vào mùa đông.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5132,
+    "headword": "glasses",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɡlɑːsɪz/",
+    "phoneticUs": "/ˈɡlæsɪz/",
+    "meaningVi": "kính mắt",
+    "definitionEn": "two pieces of glass you wear to see better",
+    "example": "He can’t read without his glasses.",
+    "exampleTranslation": "Anh ấy không đọc được nếu thiếu kính.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5134,
+    "headword": "pocket",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpɒkɪt/",
+    "phoneticUs": "/ˈpɑːkɪt/",
+    "meaningVi": "túi (quần, áo)",
+    "definitionEn": "a small bag sewn into clothes",
+    "example": "He put the keys in his pocket.",
+    "exampleTranslation": "Anh ấy bỏ chìa khóa vào túi.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5135,
+    "headword": "wallet",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈwɒlɪt/",
+    "phoneticUs": "/ˈwɑːlɪt/",
+    "meaningVi": "ví (nam)",
+    "definitionEn": "a small flat case for money and cards",
+    "example": "I left my wallet at home.",
+    "exampleTranslation": "Tôi để quên ví ở nhà.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5136,
+    "headword": "shopping mall",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈʃɒpɪŋ mɔːl/",
+    "phoneticUs": "/ˈʃɑːpɪŋ mɔːl/",
+    "meaningVi": "trung tâm thương mại",
+    "definitionEn": "a large building with many shops inside",
+    "example": "We went to the shopping mall on Saturday.",
+    "exampleTranslation": "Thứ Bảy chúng tôi đi trung tâm thương mại.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5137,
+    "headword": "sale",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/seɪl/",
+    "phoneticUs": "/seɪl/",
+    "meaningVi": "đợt giảm giá, khuyến mãi",
+    "definitionEn": "a time when a shop sells things at lower prices",
+    "example": "Everything in the shop is on sale this week.",
+    "exampleTranslation": "Tuần này mọi thứ trong cửa hàng đều đang giảm giá.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5139,
+    "headword": "credit card",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkredɪt kɑːd/",
+    "phoneticUs": "/ˈkredɪt kɑːrd/",
+    "meaningVi": "thẻ tín dụng",
+    "definitionEn": "a plastic card used to pay for things later",
+    "example": "Can I pay by credit card?",
+    "exampleTranslation": "Tôi có thể trả bằng thẻ tín dụng không?",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5141,
+    "headword": "fit",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/fɪt/",
+    "phoneticUs": "/fɪt/",
+    "meaningVi": "vừa vặn",
+    "definitionEn": "to be the right size for someone",
+    "example": "These shoes don’t fit me.",
+    "exampleTranslation": "Đôi giày này không vừa với tôi.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5142,
+    "headword": "return",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/rɪˈtɜːn/",
+    "phoneticUs": "/rɪˈtɜːrn/",
+    "meaningVi": "trả lại, đổi trả",
+    "definitionEn": "to take something back to a shop",
+    "example": "I want to return this shirt; it’s too big.",
+    "exampleTranslation": "Tôi muốn trả lại chiếc áo này vì nó quá rộng.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5143,
+    "headword": "tight",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/taɪt/",
+    "phoneticUs": "/taɪt/",
+    "meaningVi": "chật, bó sát",
+    "definitionEn": "fitting closely to the body",
+    "example": "These trousers are too tight.",
+    "exampleTranslation": "Chiếc quần này chật quá.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5144,
+    "headword": "loose",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/luːs/",
+    "phoneticUs": "/luːs/",
+    "meaningVi": "rộng, lỏng",
+    "definitionEn": "not fitting closely; a little big",
+    "example": "I prefer loose shirts in hot weather.",
+    "exampleTranslation": "Tôi thích áo rộng khi trời nóng.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5146,
+    "headword": "sneakers",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsniːkəz/",
+    "phoneticUs": "/ˈsniːkərz/",
+    "meaningVi": "giày thể thao",
+    "definitionEn": "soft shoes for sport and everyday wear",
+    "example": "He bought white sneakers for school.",
+    "exampleTranslation": "Cậu ấy mua giày thể thao trắng đi học.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5147,
+    "headword": "sandals",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsændlz/",
+    "phoneticUs": "/ˈsændlz/",
+    "meaningVi": "dép quai hậu, xăng-đan",
+    "definitionEn": "light open shoes for warm weather",
+    "example": "I wear sandals in summer.",
+    "exampleTranslation": "Tôi đi xăng-đan vào mùa hè.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5148,
+    "headword": "boots",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/buːts/",
+    "phoneticUs": "/buːts/",
+    "meaningVi": "ủng, bốt",
+    "definitionEn": "strong shoes that cover the ankle",
+    "example": "Wear boots when it rains.",
+    "exampleTranslation": "Hãy đi ủng khi trời mưa.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5149,
+    "headword": "belt",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/belt/",
+    "phoneticUs": "/belt/",
+    "meaningVi": "thắt lưng",
+    "definitionEn": "a band worn around the waist",
+    "example": "He needs a new leather belt.",
+    "exampleTranslation": "Anh ấy cần một chiếc thắt lưng da mới.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5150,
+    "headword": "tie",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/taɪ/",
+    "phoneticUs": "/taɪ/",
+    "meaningVi": "cà vạt",
+    "definitionEn": "a long piece of cloth worn around the neck with a shirt",
+    "example": "He wore a blue tie to the meeting.",
+    "exampleTranslation": "Anh ấy đeo cà vạt xanh đến buổi họp.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5151,
+    "headword": "gloves",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɡlʌvz/",
+    "phoneticUs": "/ɡlʌvz/",
+    "meaningVi": "găng tay",
+    "definitionEn": "clothes that cover your hands",
+    "example": "Don’t forget your gloves; it’s freezing.",
+    "exampleTranslation": "Đừng quên găng tay, trời lạnh cóng đấy.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5152,
+    "headword": "pyjamas",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pəˈdʒɑːməz/",
+    "phoneticUs": "/pəˈdʒɑːməz/",
+    "meaningVi": "bộ đồ ngủ",
+    "definitionEn": "loose clothes you wear in bed",
+    "example": "The children are already in their pyjamas.",
+    "exampleTranslation": "Bọn trẻ đã mặc đồ ngủ rồi.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5153,
+    "headword": "swimsuit",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈswɪmsuːt/",
+    "phoneticUs": "/ˈswɪmsuːt/",
+    "meaningVi": "đồ bơi",
+    "definitionEn": "clothing you wear for swimming",
+    "example": "Pack your swimsuit; we’re going to the beach.",
+    "exampleTranslation": "Hãy mang đồ bơi, chúng ta đi biển.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5154,
+    "headword": "suit",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/suːt/",
+    "phoneticUs": "/suːt/",
+    "meaningVi": "bộ com-lê",
+    "definitionEn": "a jacket and trousers made of the same cloth",
+    "example": "He wore a dark suit to the interview.",
+    "exampleTranslation": "Anh ấy mặc bộ com-lê tối màu đi phỏng vấn.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5155,
+    "headword": "blouse",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/blaʊz/",
+    "phoneticUs": "/blaʊs/",
+    "meaningVi": "áo sơ mi nữ",
+    "definitionEn": "a shirt for women",
+    "example": "She wore a white blouse and a black skirt.",
+    "exampleTranslation": "Cô ấy mặc áo sơ mi trắng và váy đen.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5156,
+    "headword": "cap",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kæp/",
+    "phoneticUs": "/kæp/",
+    "meaningVi": "mũ lưỡi trai",
+    "definitionEn": "a soft hat with a flat front part",
+    "example": "He wears a cap to keep the sun out.",
+    "exampleTranslation": "Anh ấy đội mũ lưỡi trai để che nắng.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5157,
+    "headword": "button",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbʌtn/",
+    "phoneticUs": "/ˈbʌtn/",
+    "meaningVi": "cúc áo",
+    "definitionEn": "a small round thing that fastens clothes",
+    "example": "One button fell off my coat.",
+    "exampleTranslation": "Một chiếc cúc rơi khỏi áo khoác của tôi.",
+    "levelId": 1,
+    "topics": [
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 5158,
+    "headword": "face",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/feɪs/",
+    "phoneticUs": "/feɪs/",
+    "meaningVi": "khuôn mặt",
+    "definitionEn": "the front part of your head",
+    "example": "She washed her face with cold water.",
+    "exampleTranslation": "Cô ấy rửa mặt bằng nước lạnh.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5159,
+    "headword": "neck",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/nek/",
+    "phoneticUs": "/nek/",
+    "meaningVi": "cái cổ",
+    "definitionEn": "the part of the body between the head and shoulders",
+    "example": "I have a pain in my neck.",
+    "exampleTranslation": "Tôi bị đau ở cổ.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5160,
+    "headword": "shoulder",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈʃəʊldə/",
+    "phoneticUs": "/ˈʃoʊldər/",
+    "meaningVi": "bờ vai",
+    "definitionEn": "the part of the body where the arm joins",
+    "example": "He carried the bag on his shoulder.",
+    "exampleTranslation": "Anh ấy đeo chiếc túi trên vai.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5161,
+    "headword": "arm",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɑːm/",
+    "phoneticUs": "/ɑːrm/",
+    "meaningVi": "cánh tay",
+    "definitionEn": "the part of the body between the shoulder and the hand",
+    "example": "She broke her arm playing football.",
+    "exampleTranslation": "Cô ấy bị gãy tay khi chơi bóng đá.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5162,
+    "headword": "finger",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfɪŋɡə/",
+    "phoneticUs": "/ˈfɪŋɡər/",
+    "meaningVi": "ngón tay",
+    "definitionEn": "one of the five parts at the end of your hand",
+    "example": "I cut my finger with a knife.",
+    "exampleTranslation": "Tôi bị dao cắt vào ngón tay.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5163,
+    "headword": "knee",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/niː/",
+    "phoneticUs": "/niː/",
+    "meaningVi": "đầu gối",
+    "definitionEn": "the joint in the middle of your leg",
+    "example": "My knee hurts when I climb stairs.",
+    "exampleTranslation": "Đầu gối tôi đau khi leo cầu thang.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5164,
+    "headword": "foot",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/fʊt/",
+    "phoneticUs": "/fʊt/",
+    "meaningVi": "bàn chân",
+    "definitionEn": "the part of the body at the end of your leg",
+    "example": "My left foot is swollen.",
+    "exampleTranslation": "Bàn chân trái của tôi bị sưng.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5165,
+    "headword": "back",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/bæk/",
+    "phoneticUs": "/bæk/",
+    "meaningVi": "cái lưng",
+    "definitionEn": "the part of the body behind your chest",
+    "example": "I have a bad back after lifting boxes.",
+    "exampleTranslation": "Tôi bị đau lưng sau khi bê thùng.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5166,
+    "headword": "skin",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/skɪn/",
+    "phoneticUs": "/skɪn/",
+    "meaningVi": "da",
+    "definitionEn": "the outer covering of the body",
+    "example": "Use cream if your skin is dry.",
+    "exampleTranslation": "Hãy dùng kem nếu da bạn bị khô.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5167,
+    "headword": "heart",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/hɑːt/",
+    "phoneticUs": "/hɑːrt/",
+    "meaningVi": "trái tim",
+    "definitionEn": "the organ that pumps blood around the body",
+    "example": "Exercise is good for your heart.",
+    "exampleTranslation": "Tập thể dục tốt cho tim của bạn.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5168,
+    "headword": "blood",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/blʌd/",
+    "phoneticUs": "/blʌd/",
+    "meaningVi": "máu",
+    "definitionEn": "the red liquid that flows in the body",
+    "example": "The nurse took a sample of my blood.",
+    "exampleTranslation": "Y tá đã lấy mẫu máu của tôi.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5170,
+    "headword": "sore throat",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌsɔː ˈθrəʊt/",
+    "phoneticUs": "/ˌsɔːr ˈθroʊt/",
+    "meaningVi": "đau họng",
+    "definitionEn": "a painful feeling at the back of the mouth",
+    "example": "I have a sore throat and a cough.",
+    "exampleTranslation": "Tôi bị đau họng và ho.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5172,
+    "headword": "backache",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbækeɪk/",
+    "phoneticUs": "/ˈbækeɪk/",
+    "meaningVi": "đau lưng",
+    "definitionEn": "a pain in your back",
+    "example": "Sitting all day gives me a backache.",
+    "exampleTranslation": "Ngồi cả ngày làm tôi bị đau lưng.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5176,
+    "headword": "ill",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ɪl/",
+    "phoneticUs": "/ɪl/",
+    "meaningVi": "ốm, bệnh",
+    "definitionEn": "not well; suffering from a disease",
+    "example": "He felt ill and went home early.",
+    "exampleTranslation": "Anh ấy thấy không khỏe nên về nhà sớm.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5178,
+    "headword": "injured",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈɪndʒəd/",
+    "phoneticUs": "/ˈɪndʒərd/",
+    "meaningVi": "bị thương",
+    "definitionEn": "hurt in an accident or fight",
+    "example": "Two players were injured in the match.",
+    "exampleTranslation": "Hai cầu thủ bị thương trong trận đấu.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5179,
+    "headword": "rest in bed",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/rest ɪn bed/",
+    "phoneticUs": "/rest ɪn bed/",
+    "meaningVi": "nằm nghỉ trên giường",
+    "definitionEn": "to stay in bed to get better",
+    "example": "The doctor told him to rest in bed.",
+    "exampleTranslation": "Bác sĩ bảo anh ấy nằm nghỉ trên giường.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5180,
+    "headword": "feel better",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/fiːl ˈbetə/",
+    "phoneticUs": "/fiːl ˈbetər/",
+    "meaningVi": "thấy khỏe hơn",
+    "definitionEn": "to be less sick or in less pain",
+    "example": "I hope you feel better soon.",
+    "exampleTranslation": "Mong bạn sớm khỏe lại.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5182,
+    "headword": "ear",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪə/",
+    "phoneticUs": "/ɪr/",
+    "meaningVi": "cái tai",
+    "definitionEn": "the part of the head you hear with",
+    "example": "My ear hurts when I swim.",
+    "exampleTranslation": "Tai tôi đau khi bơi.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5183,
+    "headword": "nose",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/nəʊz/",
+    "phoneticUs": "/noʊz/",
+    "meaningVi": "cái mũi",
+    "definitionEn": "the part of the face you smell with",
+    "example": "I have a runny nose.",
+    "exampleTranslation": "Tôi bị sổ mũi.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5184,
+    "headword": "mouth",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/maʊθ/",
+    "phoneticUs": "/maʊθ/",
+    "meaningVi": "cái miệng",
+    "definitionEn": "the part of the face you eat and speak with",
+    "example": "Open your mouth, please.",
+    "exampleTranslation": "Xin hãy mở miệng ra.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5185,
+    "headword": "elbow",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈelbəʊ/",
+    "phoneticUs": "/ˈelboʊ/",
+    "meaningVi": "khuỷu tay",
+    "definitionEn": "the joint in the middle of your arm",
+    "example": "He fell and hurt his elbow.",
+    "exampleTranslation": "Anh ấy ngã và bị đau khuỷu tay.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5186,
+    "headword": "ankle",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈæŋkl/",
+    "phoneticUs": "/ˈæŋkl/",
+    "meaningVi": "mắt cá chân",
+    "definitionEn": "the joint between your foot and leg",
+    "example": "She twisted her ankle playing tennis.",
+    "exampleTranslation": "Cô ấy bị trẹo mắt cá chân khi chơi quần vợt.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5187,
+    "headword": "chest",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/tʃest/",
+    "phoneticUs": "/tʃest/",
+    "meaningVi": "ngực",
+    "definitionEn": "the front upper part of the body",
+    "example": "I feel pain in my chest.",
+    "exampleTranslation": "Tôi thấy đau ở ngực.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5188,
+    "headword": "bone",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/bəʊn/",
+    "phoneticUs": "/boʊn/",
+    "meaningVi": "xương",
+    "definitionEn": "one of the hard parts inside the body",
+    "example": "Milk helps make strong bones.",
+    "exampleTranslation": "Sữa giúp xương chắc khỏe.",
+    "levelId": 2,
+    "topics": [
+      "health-body"
+    ]
+  },
+  {
+    "id": 5191,
+    "headword": "school",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/skuːl/",
+    "phoneticUs": "/skuːl/",
+    "meaningVi": "trường học",
+    "definitionEn": "a place where children go to learn",
+    "example": "The school is five minutes from my house.",
+    "exampleTranslation": "Trường cách nhà tôi năm phút.",
+    "levelId": 1,
+    "topics": [
+      "school-education"
+    ]
+  },
+  {
+    "id": 5198,
+    "headword": "schoolbag",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈskuːlbæɡ/",
+    "phoneticUs": "/ˈskuːlbæɡ/",
+    "meaningVi": "cặp sách",
+    "definitionEn": "a bag students use to carry books",
+    "example": "His schoolbag is very heavy.",
+    "exampleTranslation": "Chiếc cặp sách của cậu ấy rất nặng.",
+    "levelId": 1,
+    "topics": [
+      "school-education"
+    ]
+  },
+  {
+    "id": 5200,
+    "headword": "test",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/test/",
+    "phoneticUs": "/test/",
+    "meaningVi": "bài kiểm tra",
+    "definitionEn": "a short exam to check what you know",
+    "example": "We have a math test on Friday.",
+    "exampleTranslation": "Chúng tôi có bài kiểm tra toán vào thứ Sáu.",
+    "levelId": 1,
+    "topics": [
+      "school-education"
+    ]
+  },
+  {
+    "id": 5202,
+    "headword": "mathematics",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌmæθəˈmætɪks/",
+    "phoneticUs": "/ˌmæθəˈmætɪks/",
+    "meaningVi": "môn toán",
+    "definitionEn": "the study of numbers and shapes",
+    "example": "Mathematics is her favourite subject.",
+    "exampleTranslation": "Toán là môn học yêu thích của cô ấy.",
+    "levelId": 1,
+    "topics": [
+      "school-education"
+    ]
+  },
+  {
+    "id": 5206,
+    "headword": "attend",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/əˈtend/",
+    "phoneticUs": "/əˈtend/",
+    "meaningVi": "tham dự, đi học",
+    "definitionEn": "to go to a class, lesson or event",
+    "example": "I attend an English class on Tuesday evenings.",
+    "exampleTranslation": "Tôi học một lớp tiếng Anh vào tối thứ Ba.",
+    "levelId": 1,
+    "topics": [
+      "school-education",
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 5207,
+    "headword": "pass",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/pɑːs/",
+    "phoneticUs": "/pæs/",
+    "meaningVi": "đỗ, qua (kỳ thi)",
+    "definitionEn": "to succeed in an exam",
+    "example": "She passed her driving test the first time.",
+    "exampleTranslation": "Cô ấy đỗ bài thi lái xe ngay lần đầu.",
+    "levelId": 1,
+    "topics": [
+      "school-education",
+      "education-learning"
+    ]
+  },
+  {
+    "id": 5208,
+    "headword": "fail",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/feɪl/",
+    "phoneticUs": "/feɪl/",
+    "meaningVi": "trượt, thi rớt",
+    "definitionEn": "to not pass an exam",
+    "example": "He failed the exam because he didn’t study.",
+    "exampleTranslation": "Cậu ấy thi trượt vì không học bài.",
+    "levelId": 1,
+    "topics": [
+      "school-education",
+      "education-learning"
+    ]
+  },
+  {
+    "id": 5210,
+    "headword": "practise",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈpræktɪs/",
+    "phoneticUs": "/ˈpræktɪs/",
+    "meaningVi": "luyện tập",
+    "definitionEn": "to do something again and again to get better",
+    "example": "You should practise speaking English every day.",
+    "exampleTranslation": "Bạn nên luyện nói tiếng Anh mỗi ngày.",
+    "levelId": 1,
+    "topics": [
+      "school-education"
+    ]
+  },
+  {
+    "id": 5211,
+    "headword": "break time",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbreɪk taɪm/",
+    "phoneticUs": "/ˈbreɪk taɪm/",
+    "meaningVi": "giờ ra chơi",
+    "definitionEn": "a short rest between lessons at school",
+    "example": "We play football at break time.",
+    "exampleTranslation": "Chúng tôi đá bóng vào giờ ra chơi.",
+    "levelId": 1,
+    "topics": [
+      "school-education"
+    ]
+  },
+  {
+    "id": 5212,
+    "headword": "kindergarten",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkɪndəɡɑːtn/",
+    "phoneticUs": "/ˈkɪndərɡɑːrtn/",
+    "meaningVi": "trường mẫu giáo",
+    "definitionEn": "a school for very young children",
+    "example": "My son goes to kindergarten.",
+    "exampleTranslation": "Con trai tôi đang học mẫu giáo.",
+    "levelId": 1,
+    "topics": [
+      "school-education",
+      "education-learning"
+    ]
+  },
+  {
+    "id": 5213,
+    "headword": "primary school",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpraɪməri skuːl/",
+    "phoneticUs": "/ˈpraɪmeri skuːl/",
+    "meaningVi": "trường tiểu học",
+    "definitionEn": "a school for children aged about five to eleven",
+    "example": "She started primary school last year.",
+    "exampleTranslation": "Con bé bắt đầu học tiểu học vào năm ngoái.",
+    "levelId": 1,
+    "topics": [
+      "school-education"
+    ]
+  },
+  {
+    "id": 5214,
+    "headword": "secondary school",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsekəndri skuːl/",
+    "phoneticUs": "/ˈsekənderi skuːl/",
+    "meaningVi": "trường trung học",
+    "definitionEn": "a school for children aged about eleven to eighteen",
+    "example": "He is in his second year of secondary school.",
+    "exampleTranslation": "Cậu ấy đang học năm thứ hai trung học.",
+    "levelId": 1,
+    "topics": [
+      "school-education"
+    ]
+  },
+  {
+    "id": 5215,
+    "headword": "campus",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkæmpəs/",
+    "phoneticUs": "/ˈkæmpəs/",
+    "meaningVi": "khuôn viên trường",
+    "definitionEn": "the land and buildings of a university",
+    "example": "The campus has a large library and a canteen.",
+    "exampleTranslation": "Khuôn viên trường có thư viện lớn và căng tin.",
+    "levelId": 1,
+    "topics": [
+      "school-education",
+      "education-learning"
+    ]
+  },
+  {
+    "id": 5216,
+    "headword": "presentation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌpreznˈteɪʃn/",
+    "phoneticUs": "/ˌpreznˈteɪʃn/",
+    "meaningVi": "bài thuyết trình",
+    "definitionEn": "a talk that shows ideas to a group",
+    "example": "I have to give a presentation in class.",
+    "exampleTranslation": "Tôi phải thuyết trình trước lớp.",
+    "levelId": 1,
+    "topics": [
+      "school-education",
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 5217,
+    "headword": "dormitory",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdɔːmɪtri/",
+    "phoneticUs": "/ˈdɔːrmətɔːri/",
+    "meaningVi": "ký túc xá",
+    "definitionEn": "a building where students live",
+    "example": "He lives in a university dormitory.",
+    "exampleTranslation": "Anh ấy sống trong ký túc xá của trường đại học.",
+    "levelId": 1,
+    "topics": [
+      "school-education"
+    ]
+  },
+  {
+    "id": 5218,
+    "headword": "canteen",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kænˈtiːn/",
+    "phoneticUs": "/kænˈtiːn/",
+    "meaningVi": "căng tin",
+    "definitionEn": "a place in a school where you can eat",
+    "example": "We eat lunch in the school canteen.",
+    "exampleTranslation": "Chúng tôi ăn trưa ở căng tin của trường.",
+    "levelId": 1,
+    "topics": [
+      "school-education"
+    ]
+  },
+  {
+    "id": 5222,
+    "headword": "lawyer",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlɔɪə/",
+    "phoneticUs": "/ˈlɔɪər/",
+    "meaningVi": "luật sư",
+    "definitionEn": "a person whose job is to give advice about the law",
+    "example": "He hired a lawyer to read the contract.",
+    "exampleTranslation": "Anh ấy thuê một luật sư đọc hợp đồng.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5224,
+    "headword": "mechanic",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/məˈkænɪk/",
+    "phoneticUs": "/məˈkænɪk/",
+    "meaningVi": "thợ máy",
+    "definitionEn": "a person who repairs cars and machines",
+    "example": "The mechanic fixed my motorbike in an hour.",
+    "exampleTranslation": "Thợ máy sửa xe máy của tôi trong một tiếng.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5226,
+    "headword": "secretary",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsekrətri/",
+    "phoneticUs": "/ˈsekrəteri/",
+    "meaningVi": "thư ký",
+    "definitionEn": "a person who helps a boss with letters and meetings",
+    "example": "The secretary booked a room for the meeting.",
+    "exampleTranslation": "Thư ký đã đặt phòng cho cuộc họp.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5227,
+    "headword": "employer",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪmˈplɔɪə/",
+    "phoneticUs": "/ɪmˈplɔɪər/",
+    "meaningVi": "người sử dụng lao động, chủ",
+    "definitionEn": "a person or company that pays people to work",
+    "example": "My employer offers free English lessons.",
+    "exampleTranslation": "Chỗ làm của tôi tặng các lớp tiếng Anh miễn phí.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5228,
+    "headword": "customer service",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌkʌstəmə ˈsɜːvɪs/",
+    "phoneticUs": "/ˌkʌstəmər ˈsɜːrvɪs/",
+    "meaningVi": "chăm sóc khách hàng",
+    "definitionEn": "the department that helps people who buy things",
+    "example": "She works in customer service.",
+    "exampleTranslation": "Cô ấy làm ở bộ phận chăm sóc khách hàng.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5229,
+    "headword": "full-time",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌfʊl ˈtaɪm/",
+    "phoneticUs": "/ˌfʊl ˈtaɪm/",
+    "meaningVi": "toàn thời gian",
+    "definitionEn": "working all the normal hours of a week",
+    "example": "He has a full-time job in a bank.",
+    "exampleTranslation": "Anh ấy có công việc toàn thời gian ở ngân hàng.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace",
+      "toeic-hr-recruitment"
+    ]
+  },
+  {
+    "id": 5230,
+    "headword": "resume",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈrezjumeɪ/",
+    "phoneticUs": "/ˈrezəmeɪ/",
+    "meaningVi": "sơ yếu lý lịch, CV",
+    "definitionEn": "a short paper about your education and work history",
+    "example": "Send your resume to this email address.",
+    "exampleTranslation": "Hãy gửi sơ yếu lý lịch đến địa chỉ email này.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace",
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 5231,
+    "headword": "earn",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɜːn/",
+    "phoneticUs": "/ɜːrn/",
+    "meaningVi": "kiếm (tiền)",
+    "definitionEn": "to get money for work",
+    "example": "She earns enough to rent a small flat.",
+    "exampleTranslation": "Cô ấy kiếm đủ tiền để thuê một căn hộ nhỏ.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5232,
+    "headword": "day off",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌdeɪ ˈɒf/",
+    "phoneticUs": "/ˌdeɪ ˈɔːf/",
+    "meaningVi": "ngày nghỉ",
+    "definitionEn": "a day when you do not have to work",
+    "example": "Tomorrow is my day off.",
+    "exampleTranslation": "Ngày mai là ngày nghỉ của tôi.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5233,
+    "headword": "business trip",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbɪznəs trɪp/",
+    "phoneticUs": "/ˈbɪznəs trɪp/",
+    "meaningVi": "chuyến công tác",
+    "definitionEn": "a journey for your work",
+    "example": "He is on a business trip to Singapore.",
+    "exampleTranslation": "Anh ấy đang đi công tác ở Singapore.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5235,
+    "headword": "scientist",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsaɪəntɪst/",
+    "phoneticUs": "/ˈsaɪəntɪst/",
+    "meaningVi": "nhà khoa học",
+    "definitionEn": "a person who studies science",
+    "example": "The scientist works in a big laboratory.",
+    "exampleTranslation": "Nhà khoa học làm việc trong một phòng thí nghiệm lớn.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5236,
+    "headword": "designer",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dɪˈzaɪnə/",
+    "phoneticUs": "/dɪˈzaɪnər/",
+    "meaningVi": "nhà thiết kế",
+    "definitionEn": "a person who plans how things will look",
+    "example": "She is a fashion designer in Paris.",
+    "exampleTranslation": "Cô ấy là nhà thiết kế thời trang ở Paris.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5237,
+    "headword": "programmer",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈprəʊɡræmə/",
+    "phoneticUs": "/ˈproʊɡræmər/",
+    "meaningVi": "lập trình viên",
+    "definitionEn": "a person who writes computer programs",
+    "example": "My brother is a programmer at a software company.",
+    "exampleTranslation": "Anh trai tôi là lập trình viên ở một công ty phần mềm.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace",
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 5238,
+    "headword": "tailor",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈteɪlə/",
+    "phoneticUs": "/ˈteɪlər/",
+    "meaningVi": "thợ may",
+    "definitionEn": "a person who makes clothes for customers",
+    "example": "The tailor made a suit for my father.",
+    "exampleTranslation": "Người thợ may đã may một bộ com-lê cho bố tôi.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5239,
+    "headword": "baker",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbeɪkə/",
+    "phoneticUs": "/ˈbeɪkər/",
+    "meaningVi": "thợ làm bánh",
+    "definitionEn": "a person who makes bread and cakes",
+    "example": "The baker gets up at four every morning.",
+    "exampleTranslation": "Người thợ làm bánh dậy lúc bốn giờ mỗi sáng.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5240,
+    "headword": "builder",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbɪldə/",
+    "phoneticUs": "/ˈbɪldər/",
+    "meaningVi": "thợ xây",
+    "definitionEn": "a person whose job is to build houses",
+    "example": "The builders finished the roof last week.",
+    "exampleTranslation": "Những người thợ xây đã làm xong mái nhà tuần trước.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5241,
+    "headword": "security guard",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/sɪˈkjʊərəti ɡɑːd/",
+    "phoneticUs": "/sɪˈkjʊrəti ɡɑːrd/",
+    "meaningVi": "bảo vệ",
+    "definitionEn": "a person whose job is to protect a building",
+    "example": "The security guard checks everyone at the door.",
+    "exampleTranslation": "Người bảo vệ kiểm tra mọi người ở cửa.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5242,
+    "headword": "firefighter",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfaɪəfaɪtə/",
+    "phoneticUs": "/ˈfaɪərfaɪtər/",
+    "meaningVi": "lính cứu hỏa",
+    "definitionEn": "a person whose job is to stop fires",
+    "example": "The firefighters arrived within minutes.",
+    "exampleTranslation": "Lính cứu hỏa đã đến trong vòng vài phút.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5243,
+    "headword": "pharmacist",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfɑːməsɪst/",
+    "phoneticUs": "/ˈfɑːrməsɪst/",
+    "meaningVi": "dược sĩ",
+    "definitionEn": "a person who prepares and sells medicine",
+    "example": "Ask the pharmacist how to take this medicine.",
+    "exampleTranslation": "Hãy hỏi dược sĩ cách dùng thuốc này.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5244,
+    "headword": "vet",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/vet/",
+    "phoneticUs": "/vet/",
+    "meaningVi": "bác sĩ thú y",
+    "definitionEn": "a doctor for animals",
+    "example": "We took our dog to the vet.",
+    "exampleTranslation": "Chúng tôi đưa chó đến bác sĩ thú y.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5245,
+    "headword": "photographer",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/fəˈtɒɡrəfə/",
+    "phoneticUs": "/fəˈtɑːɡrəfər/",
+    "meaningVi": "nhiếp ảnh gia",
+    "definitionEn": "a person who takes photographs as a job",
+    "example": "The photographer took pictures at the wedding.",
+    "exampleTranslation": "Nhiếp ảnh gia chụp ảnh tại đám cưới.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5246,
+    "headword": "tour guide",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtʊə ɡaɪd/",
+    "phoneticUs": "/ˈtʊr ɡaɪd/",
+    "meaningVi": "hướng dẫn viên du lịch",
+    "definitionEn": "a person who shows tourists around places",
+    "example": "Our tour guide spoke excellent English.",
+    "exampleTranslation": "Hướng dẫn viên của chúng tôi nói tiếng Anh rất giỏi.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5247,
+    "headword": "worker",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈwɜːkə/",
+    "phoneticUs": "/ˈwɜːrkər/",
+    "meaningVi": "công nhân, người lao động",
+    "definitionEn": "a person who does a job",
+    "example": "Many workers in this factory are young.",
+    "exampleTranslation": "Nhiều công nhân trong nhà máy này còn trẻ.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5248,
+    "headword": "factory",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfæktri/",
+    "phoneticUs": "/ˈfæktri/",
+    "meaningVi": "nhà máy",
+    "definitionEn": "a building where goods are made",
+    "example": "My uncle works in a shoe factory.",
+    "exampleTranslation": "Chú tôi làm việc ở một nhà máy giày.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5249,
+    "headword": "skill",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/skɪl/",
+    "phoneticUs": "/skɪl/",
+    "meaningVi": "kỹ năng",
+    "definitionEn": "the ability to do something well",
+    "example": "Good communication is an important skill.",
+    "exampleTranslation": "Giao tiếp tốt là một kỹ năng quan trọng.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5250,
+    "headword": "bonus",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbəʊnəs/",
+    "phoneticUs": "/ˈboʊnəs/",
+    "meaningVi": "tiền thưởng",
+    "definitionEn": "extra money you get for good work",
+    "example": "We received a bonus at the end of the year.",
+    "exampleTranslation": "Chúng tôi nhận được tiền thưởng vào cuối năm.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace",
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 5251,
+    "headword": "unemployed",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌʌnɪmˈplɔɪd/",
+    "phoneticUs": "/ˌʌnɪmˈplɔɪd/",
+    "meaningVi": "thất nghiệp",
+    "definitionEn": "without a job",
+    "example": "He has been unemployed for three months.",
+    "exampleTranslation": "Anh ấy đã thất nghiệp ba tháng.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5253,
+    "headword": "working hours",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈwɜːkɪŋ ˌaʊəz/",
+    "phoneticUs": "/ˈwɜːrkɪŋ ˌaʊərz/",
+    "meaningVi": "giờ làm việc",
+    "definitionEn": "the times when you are at work",
+    "example": "Our working hours are from eight to five.",
+    "exampleTranslation": "Giờ làm việc của chúng tôi là từ tám giờ đến năm giờ.",
+    "levelId": 2,
+    "topics": [
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 5254,
+    "headword": "basketball",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbɑːskɪtbɔːl/",
+    "phoneticUs": "/ˈbæskɪtbɔːl/",
+    "meaningVi": "bóng rổ",
+    "definitionEn": "a game where players throw a ball into a high net",
+    "example": "We play basketball after school.",
+    "exampleTranslation": "Chúng tôi chơi bóng rổ sau giờ học.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5255,
+    "headword": "volleyball",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈvɒlibɔːl/",
+    "phoneticUs": "/ˈvɑːlibɔːl/",
+    "meaningVi": "bóng chuyền",
+    "definitionEn": "a game where teams hit a ball over a high net",
+    "example": "They play volleyball on the beach.",
+    "exampleTranslation": "Họ chơi bóng chuyền trên bãi biển.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5256,
+    "headword": "badminton",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbædmɪntən/",
+    "phoneticUs": "/ˈbædmɪntən/",
+    "meaningVi": "cầu lông",
+    "definitionEn": "a game where you hit a small light object over a net",
+    "example": "My parents play badminton every morning.",
+    "exampleTranslation": "Bố mẹ tôi chơi cầu lông mỗi buổi sáng.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5257,
+    "headword": "tennis",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtenɪs/",
+    "phoneticUs": "/ˈtenɪs/",
+    "meaningVi": "quần vợt",
+    "definitionEn": "a game where two players hit a ball over a net",
+    "example": "Do you want to play tennis this weekend?",
+    "exampleTranslation": "Cuối tuần này bạn có muốn chơi quần vợt không?",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5258,
+    "headword": "table tennis",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈteɪbl ˌtenɪs/",
+    "phoneticUs": "/ˈteɪbl ˌtenɪs/",
+    "meaningVi": "bóng bàn",
+    "definitionEn": "a game played on a table with small bats and a light ball",
+    "example": "He is very good at table tennis.",
+    "exampleTranslation": "Anh ấy chơi bóng bàn rất giỏi.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5259,
+    "headword": "cycling",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsaɪklɪŋ/",
+    "phoneticUs": "/ˈsaɪklɪŋ/",
+    "meaningVi": "đạp xe",
+    "definitionEn": "the sport or activity of riding a bicycle",
+    "example": "Cycling is my favourite way to keep fit.",
+    "exampleTranslation": "Đạp xe là cách yêu thích của tôi để giữ dáng.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5260,
+    "headword": "jogging",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdʒɒɡɪŋ/",
+    "phoneticUs": "/ˈdʒɑːɡɪŋ/",
+    "meaningVi": "chạy bộ nhẹ",
+    "definitionEn": "running slowly for exercise",
+    "example": "I go jogging in the park before work.",
+    "exampleTranslation": "Tôi chạy bộ ở công viên trước giờ làm.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports",
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 5261,
+    "headword": "hiking",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhaɪkɪŋ/",
+    "phoneticUs": "/ˈhaɪkɪŋ/",
+    "meaningVi": "đi bộ đường dài",
+    "definitionEn": "walking a long way in the countryside or mountains",
+    "example": "We went hiking in the mountains last weekend.",
+    "exampleTranslation": "Cuối tuần trước chúng tôi đi bộ đường dài trên núi.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5262,
+    "headword": "fishing",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfɪʃɪŋ/",
+    "phoneticUs": "/ˈfɪʃɪŋ/",
+    "meaningVi": "câu cá",
+    "definitionEn": "the activity of catching fish",
+    "example": "My grandfather loves fishing on Sundays.",
+    "exampleTranslation": "Ông tôi rất thích đi câu cá vào Chủ nhật.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5263,
+    "headword": "yoga",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈjəʊɡə/",
+    "phoneticUs": "/ˈjoʊɡə/",
+    "meaningVi": "yoga",
+    "definitionEn": "gentle exercise for the body and mind",
+    "example": "Yoga helps me relax after work.",
+    "exampleTranslation": "Yoga giúp tôi thư giãn sau giờ làm.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports",
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 5264,
+    "headword": "painting",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpeɪntɪŋ/",
+    "phoneticUs": "/ˈpeɪntɪŋ/",
+    "meaningVi": "hội họa; bức tranh",
+    "definitionEn": "a picture made with paint",
+    "example": "There is a beautiful painting on the wall.",
+    "exampleTranslation": "Có một bức tranh rất đẹp trên tường.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5265,
+    "headword": "cooking",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkʊkɪŋ/",
+    "phoneticUs": "/ˈkʊkɪŋ/",
+    "meaningVi": "nấu ăn",
+    "definitionEn": "the activity of preparing food",
+    "example": "Cooking is a great way to relax.",
+    "exampleTranslation": "Nấu ăn là một cách thư giãn tuyệt vời.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5266,
+    "headword": "gardening",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɡɑːdnɪŋ/",
+    "phoneticUs": "/ˈɡɑːrdnɪŋ/",
+    "meaningVi": "làm vườn",
+    "definitionEn": "the activity of growing plants and flowers",
+    "example": "Gardening is popular with older people.",
+    "exampleTranslation": "Làm vườn được người lớn tuổi ưa chuộng.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5267,
+    "headword": "knit",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/nɪt/",
+    "phoneticUs": "/nɪt/",
+    "meaningVi": "đan len",
+    "definitionEn": "to make clothes by joining wool with long needles",
+    "example": "My aunt knits scarves for the whole family.",
+    "exampleTranslation": "Dì tôi đan khăn cho cả nhà.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5268,
+    "headword": "watch",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/wɒtʃ/",
+    "phoneticUs": "/wɑːtʃ/",
+    "meaningVi": "xem",
+    "definitionEn": "to look at something for a period of time",
+    "example": "We watch football together every Saturday.",
+    "exampleTranslation": "Chúng tôi xem bóng đá cùng nhau mỗi thứ Bảy.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5270,
+    "headword": "go camping",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡəʊ ˈkæmpɪŋ/",
+    "phoneticUs": "/ɡoʊ ˈkæmpɪŋ/",
+    "meaningVi": "đi cắm trại",
+    "definitionEn": "to stay outdoors in a tent",
+    "example": "Let’s go camping next weekend.",
+    "exampleTranslation": "Cuối tuần sau mình đi cắm trại nhé.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5271,
+    "headword": "player",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpleɪə/",
+    "phoneticUs": "/ˈpleɪər/",
+    "meaningVi": "cầu thủ, người chơi",
+    "definitionEn": "a person who takes part in a game or sport",
+    "example": "He is the best player in our team.",
+    "exampleTranslation": "Anh ấy là cầu thủ giỏi nhất đội chúng tôi.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5275,
+    "headword": "board game",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbɔːd ɡeɪm/",
+    "phoneticUs": "/ˈbɔːrd ɡeɪm/",
+    "meaningVi": "trò chơi cờ bàn",
+    "definitionEn": "a game played on a board, like chess",
+    "example": "We play board games on rainy days.",
+    "exampleTranslation": "Chúng tôi chơi trò chơi cờ bàn vào ngày mưa.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5276,
+    "headword": "chess",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/tʃes/",
+    "phoneticUs": "/tʃes/",
+    "meaningVi": "cờ vua",
+    "definitionEn": "a board game for two players with black and white pieces",
+    "example": "My brother taught me how to play chess.",
+    "exampleTranslation": "Anh trai dạy tôi chơi cờ vua.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5277,
+    "headword": "swimming",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈswɪmɪŋ/",
+    "phoneticUs": "/ˈswɪmɪŋ/",
+    "meaningVi": "bơi lội",
+    "definitionEn": "the sport of moving through water",
+    "example": "Swimming is good exercise for everyone.",
+    "exampleTranslation": "Bơi lội là bài tập tốt cho mọi người.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5278,
+    "headword": "skiing",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈskiːɪŋ/",
+    "phoneticUs": "/ˈskiːɪŋ/",
+    "meaningVi": "trượt tuyết",
+    "definitionEn": "the sport of sliding over snow on long boards",
+    "example": "We go skiing in the Alps every winter.",
+    "exampleTranslation": "Mỗi mùa đông chúng tôi đi trượt tuyết ở dãy Alps.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5279,
+    "headword": "golf",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɡɒlf/",
+    "phoneticUs": "/ɡɑːlf/",
+    "meaningVi": "gôn",
+    "definitionEn": "a sport where you hit a small ball into holes",
+    "example": "My father plays golf on Sundays.",
+    "exampleTranslation": "Bố tôi chơi gôn vào Chủ nhật.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5280,
+    "headword": "baseball",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbeɪsbɔːl/",
+    "phoneticUs": "/ˈbeɪsbɔːl/",
+    "meaningVi": "bóng chày",
+    "definitionEn": "a game where a player hits a ball with a bat and runs",
+    "example": "They watched a baseball game on TV.",
+    "exampleTranslation": "Họ xem một trận bóng chày trên TV.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5281,
+    "headword": "karate",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kəˈrɑːti/",
+    "phoneticUs": "/kəˈrɑːti/",
+    "meaningVi": "võ karate",
+    "definitionEn": "a Japanese sport of fighting without weapons",
+    "example": "My son learns karate on Saturdays.",
+    "exampleTranslation": "Con trai tôi học karate vào thứ Bảy.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5282,
+    "headword": "competition",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌkɒmpəˈtɪʃn/",
+    "phoneticUs": "/ˌkɑːmpəˈtɪʃn/",
+    "meaningVi": "cuộc thi, giải đấu",
+    "definitionEn": "an event where people try to win",
+    "example": "She entered a singing competition.",
+    "exampleTranslation": "Cô ấy tham gia một cuộc thi hát.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports",
+      "money-economy"
+    ]
+  },
+  {
+    "id": 5283,
+    "headword": "champion",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtʃæmpiən/",
+    "phoneticUs": "/ˈtʃæmpiən/",
+    "meaningVi": "nhà vô địch",
+    "definitionEn": "a person who wins a big competition",
+    "example": "He is the school swimming champion.",
+    "exampleTranslation": "Cậu ấy là nhà vô địch bơi lội của trường.",
+    "levelId": 1,
+    "topics": [
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 5286,
+    "headword": "truck",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/trʌk/",
+    "phoneticUs": "/trʌk/",
+    "meaningVi": "xe tải",
+    "definitionEn": "a large vehicle for carrying goods",
+    "example": "A truck was parked outside the shop.",
+    "exampleTranslation": "Một chiếc xe tải đang đỗ trước cửa hàng.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5288,
+    "headword": "plane",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pleɪn/",
+    "phoneticUs": "/pleɪn/",
+    "meaningVi": "máy bay",
+    "definitionEn": "a vehicle with wings that flies in the air",
+    "example": "The plane lands at nine o’clock.",
+    "exampleTranslation": "Máy bay hạ cánh lúc chín giờ.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5289,
+    "headword": "bus stop",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbʌs stɒp/",
+    "phoneticUs": "/ˈbʌs stɑːp/",
+    "meaningVi": "trạm xe buýt",
+    "definitionEn": "a place where buses stop for passengers",
+    "example": "The bus stop is across the road.",
+    "exampleTranslation": "Trạm xe buýt ở bên kia đường.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5290,
+    "headword": "road",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/rəʊd/",
+    "phoneticUs": "/roʊd/",
+    "meaningVi": "con đường",
+    "definitionEn": "a hard surface for vehicles to drive on",
+    "example": "The road to the village is very narrow.",
+    "exampleTranslation": "Con đường vào làng rất hẹp.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5293,
+    "headword": "traffic light",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtræfɪk laɪt/",
+    "phoneticUs": "/ˈtræfɪk laɪt/",
+    "meaningVi": "đèn giao thông",
+    "definitionEn": "a light that tells vehicles when to stop and go",
+    "example": "Stop when the traffic light is red.",
+    "exampleTranslation": "Hãy dừng lại khi đèn giao thông màu đỏ.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5294,
+    "headword": "zebra crossing",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌzebrə ˈkrɒsɪŋ/",
+    "phoneticUs": "/ˌziːbrə ˈkrɔːsɪŋ/",
+    "meaningVi": "vạch qua đường cho người đi bộ",
+    "definitionEn": "black and white lines where people cross the road",
+    "example": "Always use the zebra crossing.",
+    "exampleTranslation": "Hãy luôn đi qua đường ở vạch dành cho người đi bộ.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5295,
+    "headword": "traffic jam",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtræfɪk dʒæm/",
+    "phoneticUs": "/ˈtræfɪk dʒæm/",
+    "meaningVi": "kẹt xe",
+    "definitionEn": "a long line of vehicles that cannot move",
+    "example": "We were late because of a traffic jam.",
+    "exampleTranslation": "Chúng tôi đến muộn vì kẹt xe.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5296,
+    "headword": "rush hour",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈrʌʃ aʊə/",
+    "phoneticUs": "/ˈrʌʃ aʊər/",
+    "meaningVi": "giờ cao điểm",
+    "definitionEn": "the time when many people travel to or from work",
+    "example": "The streets are crowded during rush hour.",
+    "exampleTranslation": "Đường phố rất đông vào giờ cao điểm.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5298,
+    "headword": "helmet",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhelmɪt/",
+    "phoneticUs": "/ˈhelmɪt/",
+    "meaningVi": "mũ bảo hiểm",
+    "definitionEn": "a hard hat that protects your head",
+    "example": "Always wear a helmet on your motorbike.",
+    "exampleTranslation": "Luôn đội mũ bảo hiểm khi đi xe máy.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5299,
+    "headword": "ride",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/raɪd/",
+    "phoneticUs": "/raɪd/",
+    "meaningVi": "đi (xe đạp, xe máy)",
+    "definitionEn": "to sit on a bike or horse and control it",
+    "example": "He rides his bicycle to school.",
+    "exampleTranslation": "Cậu ấy đạp xe đến trường.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5304,
+    "headword": "shopping centre",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈʃɒpɪŋ ˌsentə/",
+    "phoneticUs": "/ˈʃɑːpɪŋ ˌsentər/",
+    "meaningVi": "trung tâm mua sắm",
+    "definitionEn": "a large area with many shops together",
+    "example": "The new shopping centre opens next week.",
+    "exampleTranslation": "Trung tâm mua sắm mới sẽ mở cửa vào tuần sau.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5305,
+    "headword": "highway",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhaɪweɪ/",
+    "phoneticUs": "/ˈhaɪweɪ/",
+    "meaningVi": "đường cao tốc",
+    "definitionEn": "a wide road for fast traffic between cities",
+    "example": "The highway was empty at night.",
+    "exampleTranslation": "Đường cao tốc vắng vẻ vào ban đêm.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5307,
+    "headword": "parking lot",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpɑːkɪŋ lɒt/",
+    "phoneticUs": "/ˈpɑːrkɪŋ lɑːt/",
+    "meaningVi": "bãi đỗ xe",
+    "definitionEn": "an area where you can leave your car",
+    "example": "The parking lot is behind the mall.",
+    "exampleTranslation": "Bãi đỗ xe nằm sau trung tâm thương mại.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5308,
+    "headword": "petrol station",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpetrəl ˌsteɪʃn/",
+    "phoneticUs": "/ˈpetrəl ˌsteɪʃn/",
+    "meaningVi": "trạm xăng",
+    "definitionEn": "a place where you buy fuel for your car",
+    "example": "There’s a petrol station near the bridge.",
+    "exampleTranslation": "Có một trạm xăng gần cây cầu.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5309,
+    "headword": "ferry",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈferi/",
+    "phoneticUs": "/ˈferi/",
+    "meaningVi": "phà",
+    "definitionEn": "a boat that carries people and cars across water",
+    "example": "We took the ferry across the river.",
+    "exampleTranslation": "Chúng tôi đi phà qua sông.",
+    "levelId": 1,
+    "topics": [
+      "transport-city",
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 5310,
+    "headword": "boat",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/bəʊt/",
+    "phoneticUs": "/boʊt/",
+    "meaningVi": "thuyền",
+    "definitionEn": "a small vehicle that travels on water",
+    "example": "They crossed the lake by boat.",
+    "exampleTranslation": "Họ băng qua hồ bằng thuyền.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5311,
+    "headword": "ship",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ʃɪp/",
+    "phoneticUs": "/ʃɪp/",
+    "meaningVi": "con tàu thủy",
+    "definitionEn": "a large boat that travels on the sea",
+    "example": "The ship arrives in port tomorrow.",
+    "exampleTranslation": "Con tàu sẽ cập cảng vào ngày mai.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5312,
+    "headword": "scooter",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈskuːtə/",
+    "phoneticUs": "/ˈskuːtər/",
+    "meaningVi": "xe tay ga",
+    "definitionEn": "a small motorbike or a toy you push with one foot",
+    "example": "Many people in the city ride scooters.",
+    "exampleTranslation": "Nhiều người trong thành phố đi xe tay ga.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5314,
+    "headword": "tunnel",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtʌnl/",
+    "phoneticUs": "/ˈtʌnl/",
+    "meaningVi": "đường hầm",
+    "definitionEn": "a long passage under the ground or a mountain",
+    "example": "The train goes through a long tunnel.",
+    "exampleTranslation": "Tàu chạy qua một đường hầm dài.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5317,
+    "headword": "city centre",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌsɪti ˈsentə/",
+    "phoneticUs": "/ˌsɪti ˈsentər/",
+    "meaningVi": "trung tâm thành phố",
+    "definitionEn": "the middle part of a city",
+    "example": "The hotel is in the city centre.",
+    "exampleTranslation": "Khách sạn nằm ở trung tâm thành phố.",
+    "levelId": 1,
+    "topics": [
+      "transport-city"
+    ]
+  },
+  {
+    "id": 5318,
+    "headword": "grass",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɡrɑːs/",
+    "phoneticUs": "/ɡræs/",
+    "meaningVi": "cỏ",
+    "definitionEn": "a green plant that covers the ground",
+    "example": "The children sat on the grass.",
+    "exampleTranslation": "Bọn trẻ ngồi trên bãi cỏ.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5319,
+    "headword": "leaf",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/liːf/",
+    "phoneticUs": "/liːf/",
+    "meaningVi": "chiếc lá",
+    "definitionEn": "a flat green part of a plant or tree",
+    "example": "A yellow leaf fell on my head.",
+    "exampleTranslation": "Một chiếc lá vàng rơi xuống đầu tôi.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5320,
+    "headword": "rose",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/rəʊz/",
+    "phoneticUs": "/roʊz/",
+    "meaningVi": "hoa hồng",
+    "definitionEn": "a flower with a sweet smell and sharp stems",
+    "example": "He gave her a red rose.",
+    "exampleTranslation": "Anh ấy tặng cô ấy một bông hồng đỏ.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5321,
+    "headword": "island",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈaɪlənd/",
+    "phoneticUs": "/ˈaɪlənd/",
+    "meaningVi": "hòn đảo",
+    "definitionEn": "a piece of land with water all around it",
+    "example": "We took a boat to a small island.",
+    "exampleTranslation": "Chúng tôi đi thuyền ra một hòn đảo nhỏ.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5322,
+    "headword": "hill",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/hɪl/",
+    "phoneticUs": "/hɪl/",
+    "meaningVi": "ngọn đồi",
+    "definitionEn": "a small mountain",
+    "example": "There is a temple on top of the hill.",
+    "exampleTranslation": "Có một ngôi chùa trên đỉnh đồi.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5323,
+    "headword": "desert",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdezət/",
+    "phoneticUs": "/ˈdezərt/",
+    "meaningVi": "sa mạc",
+    "definitionEn": "a large dry area with very little rain",
+    "example": "Camels live in the desert.",
+    "exampleTranslation": "Lạc đà sống ở sa mạc.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5324,
+    "headword": "waterfall",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈwɔːtəfɔːl/",
+    "phoneticUs": "/ˈwɔːtərfɔːl/",
+    "meaningVi": "thác nước",
+    "definitionEn": "water falling from a high place",
+    "example": "We swam under the waterfall.",
+    "exampleTranslation": "Chúng tôi bơi dưới thác nước.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5325,
+    "headword": "field",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/fiːld/",
+    "phoneticUs": "/fiːld/",
+    "meaningVi": "cánh đồng",
+    "definitionEn": "a large area of land used for growing crops",
+    "example": "Farmers are working in the rice field.",
+    "exampleTranslation": "Những người nông dân đang làm việc trên cánh đồng lúa.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5327,
+    "headword": "sun",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/sʌn/",
+    "phoneticUs": "/sʌn/",
+    "meaningVi": "mặt trời",
+    "definitionEn": "the star that gives light and heat to Earth",
+    "example": "The sun rises in the east.",
+    "exampleTranslation": "Mặt trời mọc ở phía đông.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5328,
+    "headword": "moon",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/muːn/",
+    "phoneticUs": "/muːn/",
+    "meaningVi": "mặt trăng",
+    "definitionEn": "the bright object that you see in the sky at night",
+    "example": "The moon is full tonight.",
+    "exampleTranslation": "Đêm nay trăng tròn.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5330,
+    "headword": "horse",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/hɔːs/",
+    "phoneticUs": "/hɔːrs/",
+    "meaningVi": "con ngựa",
+    "definitionEn": "a large animal that people ride",
+    "example": "She learned to ride a horse last summer.",
+    "exampleTranslation": "Cô ấy học cưỡi ngựa vào mùa hè năm ngoái.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5331,
+    "headword": "pig",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pɪɡ/",
+    "phoneticUs": "/pɪɡ/",
+    "meaningVi": "con lợn",
+    "definitionEn": "a pink farm animal kept for meat",
+    "example": "The farmer keeps ten pigs.",
+    "exampleTranslation": "Người nông dân nuôi mười con lợn.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5332,
+    "headword": "duck",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dʌk/",
+    "phoneticUs": "/dʌk/",
+    "meaningVi": "con vịt",
+    "definitionEn": "a bird that swims on water",
+    "example": "Ducks are swimming on the pond.",
+    "exampleTranslation": "Những chú vịt đang bơi trên ao.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5333,
+    "headword": "rabbit",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈræbɪt/",
+    "phoneticUs": "/ˈræbɪt/",
+    "meaningVi": "con thỏ",
+    "definitionEn": "a small animal with long ears",
+    "example": "The rabbit ate a carrot.",
+    "exampleTranslation": "Chú thỏ ăn một củ cà rốt.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5334,
+    "headword": "tiger",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtaɪɡə/",
+    "phoneticUs": "/ˈtaɪɡər/",
+    "meaningVi": "con hổ",
+    "definitionEn": "a large wild cat with orange and black stripes",
+    "example": "Tigers are in danger of disappearing.",
+    "exampleTranslation": "Loài hổ đang có nguy cơ biến mất.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5335,
+    "headword": "lion",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlaɪən/",
+    "phoneticUs": "/ˈlaɪən/",
+    "meaningVi": "sư tử",
+    "definitionEn": "a large wild cat; the male has long hair",
+    "example": "The lion is called the king of animals.",
+    "exampleTranslation": "Sư tử được gọi là chúa tể của muôn loài.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5336,
+    "headword": "snake",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/sneɪk/",
+    "phoneticUs": "/sneɪk/",
+    "meaningVi": "con rắn",
+    "definitionEn": "a long thin animal with no legs",
+    "example": "Be careful; there may be snakes in the grass.",
+    "exampleTranslation": "Cẩn thận, có thể có rắn trong bụi cỏ.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5337,
+    "headword": "butterfly",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbʌtəflaɪ/",
+    "phoneticUs": "/ˈbʌtərflaɪ/",
+    "meaningVi": "con bướm",
+    "definitionEn": "an insect with large colourful wings",
+    "example": "A butterfly landed on the flower.",
+    "exampleTranslation": "Một chú bướm đậu xuống bông hoa.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5338,
+    "headword": "insect",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɪnsekt/",
+    "phoneticUs": "/ˈɪnsekt/",
+    "meaningVi": "côn trùng",
+    "definitionEn": "a small animal with six legs",
+    "example": "Ants are small insects.",
+    "exampleTranslation": "Kiến là những loài côn trùng nhỏ.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5339,
+    "headword": "mosquito",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/məˈskiːtəʊ/",
+    "phoneticUs": "/məˈskiːtoʊ/",
+    "meaningVi": "con muỗi",
+    "definitionEn": "a small flying insect that bites people",
+    "example": "Mosquitoes bit me all night.",
+    "exampleTranslation": "Muỗi đốt tôi suốt đêm.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5340,
+    "headword": "seed",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/siːd/",
+    "phoneticUs": "/siːd/",
+    "meaningVi": "hạt giống",
+    "definitionEn": "a small hard part of a plant that grows into a new plant",
+    "example": "We planted some tomato seeds.",
+    "exampleTranslation": "Chúng tôi gieo vài hạt cà chua.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5341,
+    "headword": "jungle",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdʒʌŋɡl/",
+    "phoneticUs": "/ˈdʒʌŋɡl/",
+    "meaningVi": "rừng nhiệt đới",
+    "definitionEn": "a thick forest in a hot, wet place",
+    "example": "Tigers live in the jungle.",
+    "exampleTranslation": "Hổ sống trong rừng nhiệt đới.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5342,
+    "headword": "valley",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈvæli/",
+    "phoneticUs": "/ˈvæli/",
+    "meaningVi": "thung lũng",
+    "definitionEn": "low land between hills or mountains",
+    "example": "A river runs through the valley.",
+    "exampleTranslation": "Một dòng sông chảy qua thung lũng.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5343,
+    "headword": "cave",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/keɪv/",
+    "phoneticUs": "/keɪv/",
+    "meaningVi": "hang động",
+    "definitionEn": "a large hole in a hill or under the ground",
+    "example": "We explored a huge cave.",
+    "exampleTranslation": "Chúng tôi khám phá một hang động khổng lồ.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5344,
+    "headword": "ocean",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈəʊʃn/",
+    "phoneticUs": "/ˈoʊʃn/",
+    "meaningVi": "đại dương",
+    "definitionEn": "a very large area of salt water",
+    "example": "The ship crossed the Pacific Ocean.",
+    "exampleTranslation": "Con tàu vượt qua Thái Bình Dương.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5345,
+    "headword": "pond",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pɒnd/",
+    "phoneticUs": "/pɑːnd/",
+    "meaningVi": "cái ao",
+    "definitionEn": "a small area of still water",
+    "example": "Fish live in the pond behind the house.",
+    "exampleTranslation": "Cá sống trong cái ao sau nhà.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5346,
+    "headword": "sand",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/sænd/",
+    "phoneticUs": "/sænd/",
+    "meaningVi": "cát",
+    "definitionEn": "tiny pieces of rock on a beach or desert",
+    "example": "The children built a castle in the sand.",
+    "exampleTranslation": "Bọn trẻ xây lâu đài trên cát.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5347,
+    "headword": "wave",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/weɪv/",
+    "phoneticUs": "/weɪv/",
+    "meaningVi": "con sóng",
+    "definitionEn": "a moving line of water on the sea",
+    "example": "The waves were very high today.",
+    "exampleTranslation": "Hôm nay sóng rất cao.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5348,
+    "headword": "cloud",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/klaʊd/",
+    "phoneticUs": "/klaʊd/",
+    "meaningVi": "đám mây",
+    "definitionEn": "a white or grey mass in the sky",
+    "example": "There isn’t a single cloud in the sky.",
+    "exampleTranslation": "Trên trời không có một đám mây nào.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5349,
+    "headword": "sheep",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ʃiːp/",
+    "phoneticUs": "/ʃiːp/",
+    "meaningVi": "con cừu",
+    "definitionEn": "a farm animal with thick wool",
+    "example": "The sheep are eating grass on the hill.",
+    "exampleTranslation": "Đàn cừu đang gặm cỏ trên đồi.",
+    "levelId": 1,
+    "topics": [
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 5350,
+    "headword": "glad",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ɡlæd/",
+    "phoneticUs": "/ɡlæd/",
+    "meaningVi": "vui mừng",
+    "definitionEn": "happy about something",
+    "example": "I’m so glad you could come to my party.",
+    "exampleTranslation": "Tôi rất vui vì bạn đến dự tiệc của tôi.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5351,
+    "headword": "proud",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/praʊd/",
+    "phoneticUs": "/praʊd/",
+    "meaningVi": "tự hào",
+    "definitionEn": "very pleased about something you or others have done",
+    "example": "Her parents are proud of her.",
+    "exampleTranslation": "Bố mẹ cô ấy tự hào về cô.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5352,
+    "headword": "annoyed",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/əˈnɔɪd/",
+    "phoneticUs": "/əˈnɔɪd/",
+    "meaningVi": "bực mình",
+    "definitionEn": "a little angry about something",
+    "example": "He was annoyed because the bus was late.",
+    "exampleTranslation": "Anh ấy bực mình vì xe buýt đến muộn.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5353,
+    "headword": "relaxed",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/rɪˈlækst/",
+    "phoneticUs": "/rɪˈlækst/",
+    "meaningVi": "thoải mái, thư thái",
+    "definitionEn": "calm and not worried",
+    "example": "I feel relaxed after a long holiday.",
+    "exampleTranslation": "Tôi thấy thư thái sau một kỳ nghỉ dài.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5354,
+    "headword": "curious",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈkjʊəriəs/",
+    "phoneticUs": "/ˈkjʊriəs/",
+    "meaningVi": "tò mò",
+    "definitionEn": "wanting to know or learn about something",
+    "example": "Children are naturally curious.",
+    "exampleTranslation": "Trẻ em vốn rất tò mò.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5355,
+    "headword": "upset",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ʌpˈset/",
+    "phoneticUs": "/ʌpˈset/",
+    "meaningVi": "buồn bã, khó chịu",
+    "definitionEn": "unhappy or worried because of something bad",
+    "example": "She was upset when she heard the news.",
+    "exampleTranslation": "Cô ấy buồn bã khi nghe tin đó.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5356,
+    "headword": "calm",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/kɑːm/",
+    "phoneticUs": "/kɑːm/",
+    "meaningVi": "bình tĩnh",
+    "definitionEn": "not nervous, angry or excited",
+    "example": "Stay calm and listen to me.",
+    "exampleTranslation": "Hãy bình tĩnh và nghe tôi nói.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5357,
+    "headword": "polite",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/pəˈlaɪt/",
+    "phoneticUs": "/pəˈlaɪt/",
+    "meaningVi": "lịch sự",
+    "definitionEn": "showing good manners to other people",
+    "example": "The children are always polite to guests.",
+    "exampleTranslation": "Bọn trẻ luôn lịch sự với khách.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5358,
+    "headword": "rude",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ruːd/",
+    "phoneticUs": "/ruːd/",
+    "meaningVi": "thô lỗ",
+    "definitionEn": "not polite",
+    "example": "It’s rude to talk with your mouth full.",
+    "exampleTranslation": "Nói chuyện khi đang đầy miệng là thô lỗ.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5359,
+    "headword": "hard-working",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌhɑːd ˈwɜːkɪŋ/",
+    "phoneticUs": "/ˌhɑːrd ˈwɜːrkɪŋ/",
+    "meaningVi": "chăm chỉ",
+    "definitionEn": "putting a lot of effort into your work",
+    "example": "She is a hard-working student.",
+    "exampleTranslation": "Cô ấy là một học sinh chăm chỉ.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality",
+      "career-success"
+    ]
+  },
+  {
+    "id": 5360,
+    "headword": "brave",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/breɪv/",
+    "phoneticUs": "/breɪv/",
+    "meaningVi": "dũng cảm",
+    "definitionEn": "not afraid of danger or difficulty",
+    "example": "The brave boy saved his friend from the river.",
+    "exampleTranslation": "Cậu bé dũng cảm đã cứu bạn khỏi dòng sông.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5361,
+    "headword": "clever",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈklevə/",
+    "phoneticUs": "/ˈklevər/",
+    "meaningVi": "thông minh, lanh lợi",
+    "definitionEn": "able to learn and understand things quickly",
+    "example": "She is a clever girl who loves puzzles.",
+    "exampleTranslation": "Cô bé thông minh và rất thích câu đố.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5362,
+    "headword": "careful",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈkeəfl/",
+    "phoneticUs": "/ˈkerfl/",
+    "meaningVi": "cẩn thận",
+    "definitionEn": "thinking about what you do so you avoid mistakes",
+    "example": "Be careful with that hot cup.",
+    "exampleTranslation": "Cẩn thận với cái cốc nóng đó.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5363,
+    "headword": "selfish",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈselfɪʃ/",
+    "phoneticUs": "/ˈselfɪʃ/",
+    "meaningVi": "ích kỷ",
+    "definitionEn": "caring only about yourself",
+    "example": "Don’t be selfish; share your toys.",
+    "exampleTranslation": "Đừng ích kỷ, hãy chia sẻ đồ chơi của con.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality",
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 5364,
+    "headword": "outgoing",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌaʊtˈɡəʊɪŋ/",
+    "phoneticUs": "/ˌaʊtˈɡoʊɪŋ/",
+    "meaningVi": "hướng ngoại, cởi mở",
+    "definitionEn": "friendly and enjoying meeting new people",
+    "example": "He is outgoing and makes friends easily.",
+    "exampleTranslation": "Anh ấy cởi mở và dễ kết bạn.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5365,
+    "headword": "cry",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kraɪ/",
+    "phoneticUs": "/kraɪ/",
+    "meaningVi": "khóc",
+    "definitionEn": "to have tears come from your eyes",
+    "example": "The baby began to cry at night.",
+    "exampleTranslation": "Em bé bắt đầu khóc vào ban đêm.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5366,
+    "headword": "laugh",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/lɑːf/",
+    "phoneticUs": "/læf/",
+    "meaningVi": "cười lớn",
+    "definitionEn": "to make sounds that show you think something is funny",
+    "example": "We laughed a lot at the film.",
+    "exampleTranslation": "Chúng tôi cười rất nhiều khi xem phim.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5367,
+    "headword": "miss",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/mɪs/",
+    "phoneticUs": "/mɪs/",
+    "meaningVi": "nhớ (ai đó)",
+    "definitionEn": "to feel sad because someone is not with you",
+    "example": "I miss my family when I’m away.",
+    "exampleTranslation": "Tôi nhớ gia đình khi ở xa.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality",
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 5368,
+    "headword": "stressed",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/strest/",
+    "phoneticUs": "/strest/",
+    "meaningVi": "căng thẳng",
+    "definitionEn": "feeling worried because of too much pressure",
+    "example": "I’m stressed because of my heavy workload.",
+    "exampleTranslation": "Tôi căng thẳng vì khối lượng công việc nặng.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5369,
+    "headword": "delighted",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/dɪˈlaɪtɪd/",
+    "phoneticUs": "/dɪˈlaɪtɪd/",
+    "meaningVi": "rất vui sướng",
+    "definitionEn": "very pleased",
+    "example": "We were delighted with the news.",
+    "exampleTranslation": "Chúng tôi rất vui mừng với tin đó.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5370,
+    "headword": "terrified",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈterɪfaɪd/",
+    "phoneticUs": "/ˈterɪfaɪd/",
+    "meaningVi": "khiếp sợ",
+    "definitionEn": "extremely afraid",
+    "example": "She was terrified of the dark.",
+    "exampleTranslation": "Cô bé rất sợ bóng tối.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5371,
+    "headword": "furious",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈfjʊəriəs/",
+    "phoneticUs": "/ˈfjʊriəs/",
+    "meaningVi": "giận dữ",
+    "definitionEn": "extremely angry",
+    "example": "He was furious when he saw the broken window.",
+    "exampleTranslation": "Anh ấy giận dữ khi thấy cửa sổ bị vỡ.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5372,
+    "headword": "depressed",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/dɪˈprest/",
+    "phoneticUs": "/dɪˈprest/",
+    "meaningVi": "chán nản, suy sụp",
+    "definitionEn": "very sad for a long time",
+    "example": "He felt depressed after losing his job.",
+    "exampleTranslation": "Anh ấy chán nản sau khi mất việc.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5373,
+    "headword": "ashamed",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/əˈʃeɪmd/",
+    "phoneticUs": "/əˈʃeɪmd/",
+    "meaningVi": "hổ thẹn",
+    "definitionEn": "feeling bad about something wrong you did",
+    "example": "He felt ashamed of his behaviour.",
+    "exampleTranslation": "Anh ấy thấy hổ thẹn về cách cư xử của mình.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5374,
+    "headword": "sleepy",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈsliːpi/",
+    "phoneticUs": "/ˈsliːpi/",
+    "meaningVi": "buồn ngủ",
+    "definitionEn": "feeling that you want to sleep",
+    "example": "I feel sleepy after lunch.",
+    "exampleTranslation": "Tôi thấy buồn ngủ sau bữa trưa.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5375,
+    "headword": "energetic",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌenəˈdʒetɪk/",
+    "phoneticUs": "/ˌenərˈdʒetɪk/",
+    "meaningVi": "tràn đầy năng lượng",
+    "definitionEn": "having a lot of energy",
+    "example": "She is an energetic young teacher.",
+    "exampleTranslation": "Cô ấy là một giáo viên trẻ tràn đầy năng lượng.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5376,
+    "headword": "creative",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/kriˈeɪtɪv/",
+    "phoneticUs": "/kriˈeɪtɪv/",
+    "meaningVi": "sáng tạo",
+    "definitionEn": "good at thinking of new ideas",
+    "example": "He is a creative boy who loves drawing.",
+    "exampleTranslation": "Cậu bé rất sáng tạo và thích vẽ.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5377,
+    "headword": "ambitious",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/æmˈbɪʃəs/",
+    "phoneticUs": "/æmˈbɪʃəs/",
+    "meaningVi": "tham vọng",
+    "definitionEn": "wanting very much to be successful",
+    "example": "She is young and ambitious.",
+    "exampleTranslation": "Cô ấy trẻ và đầy tham vọng.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality",
+      "career-success",
+      "toeic-corporate-strategy"
+    ]
+  },
+  {
+    "id": 5379,
+    "headword": "modest",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈmɒdɪst/",
+    "phoneticUs": "/ˈmɑːdɪst/",
+    "meaningVi": "khiêm tốn",
+    "definitionEn": "not talking too proudly about yourself",
+    "example": "He is modest about his success.",
+    "exampleTranslation": "Anh ấy khiêm tốn về thành công của mình.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5380,
+    "headword": "thoughtful",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈθɔːtfl/",
+    "phoneticUs": "/ˈθɔːtfl/",
+    "meaningVi": "chu đáo, ân cần",
+    "definitionEn": "thinking about what other people need",
+    "example": "It was thoughtful of you to call me.",
+    "exampleTranslation": "Bạn gọi cho tôi thật chu đáo.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  },
+  {
+    "id": 5381,
+    "headword": "caring",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈkeərɪŋ/",
+    "phoneticUs": "/ˈkerɪŋ/",
+    "meaningVi": "quan tâm, chu đáo",
+    "definitionEn": "showing kindness and concern for others",
+    "example": "She is a caring mother.",
+    "exampleTranslation": "Cô ấy là một người mẹ chu đáo.",
+    "levelId": 2,
+    "topics": [
+      "feelings-personality"
+    ]
+  }
+]

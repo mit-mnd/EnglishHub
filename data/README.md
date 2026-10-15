@@ -16,12 +16,14 @@ npm run validate:data
 | `courses.json` | Khóa học, bài học lồng bên trong (kèm phụ đề có mốc thời gian) | 6 khóa · 14 bài |
 | `tests/placement.json` | Bài kiểm tra xếp lớp | 20 câu |
 | `tests/lesson-exercises.json` | Bài tập / quiz gắn bài học (7 dạng câu hỏi) | 7 bài · 19 câu |
-| `vocabulary/*words.json` | Kho từ: `words` (gốc), `everyday-words` (thông dụng), `toeic-words`, `toeic2-words` (TOEIC), `intermediate-words` (B1-B2), `phrases-words` (cụm từ) | 1.506 từ |
-| `vocabulary/*sets.json` | Bộ từ theo chủ đề | 59 bộ |
+| `vocabulary/*words.json` | Kho từ: `words` (gốc), `everyday-words` (thông dụng), `toeic-words`, `toeic2-words` (TOEIC), `intermediate-words` (B1-B2), `phrases-words` (cụm từ), `basic-a/b`, `intermediate-new`, `toeic-new`, `advanced` (chủ đề mới), `*-plus`, `*-plus-a/b` (từ bổ sung cho bộ có sẵn) | 4.313 từ |
+| `vocabulary/*sets.json` | Bộ từ theo chủ đề | 97 bộ |
 | `sentences/patterns.json` | Mẫu câu theo tình huống | 22 chủ đề · 272 mẫu |
 | `toeic/partN.json`, `partN-b.json` | Luyện thi TOEIC Listening (Part 2-4) & Reading (Part 5-7); các file cùng Part được gộp tự động | 788 câu (P2 105 · P3 87 · P4 69 · P5 270 · P6 104 · P7 153) |
 
 Mọi file `*-words.json` / `*-sets.json` trong `vocabulary/` được tự nạp - thêm bộ từ mới chỉ cần thêm file.
+
+**Mở rộng bộ có sẵn mà không sửa file gốc:** thêm vào bất kỳ `*-sets.json` một mục chỉ có `id` và `wordIds` (không có `name`), ví dụ `{ "id": 201, "wordIds": [5001, 5002] }`; các từ được nối vào bộ cùng `id`. Test dữ liệu kiểm tra mục mở rộng trỏ đúng bộ gốc và không có từ lặp.
 Nội dung TOEIC, từ vựng mới và mẫu câu do EnglishHub tự biên soạn theo định dạng đề thi, **không** sao chép đề của ETS.
 
 ## Quy ước chung

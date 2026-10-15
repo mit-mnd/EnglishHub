@@ -1,0 +1,4031 @@
+[
+  {
+    "id": 6001,
+    "headword": "mother",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmʌðə/",
+    "phoneticUs": "/ˈmʌðər/",
+    "meaningVi": "mẹ",
+    "definitionEn": "a woman who has a child",
+    "example": "My mother cooks dinner for us every evening.",
+    "exampleTranslation": "Mẹ tôi nấu bữa tối cho chúng tôi mỗi buổi chiều.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6002,
+    "headword": "father",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfɑːðə/",
+    "phoneticUs": "/ˈfɑːðər/",
+    "meaningVi": "bố, cha",
+    "definitionEn": "a man who has a child",
+    "example": "My father drives me to school on Mondays.",
+    "exampleTranslation": "Bố tôi chở tôi đến trường vào các ngày thứ Hai.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6003,
+    "headword": "parent",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpeərənt/",
+    "phoneticUs": "/ˈperənt/",
+    "meaningVi": "cha mẹ, phụ huynh",
+    "definitionEn": "a mother or a father",
+    "example": "Both of my parents work in a hospital.",
+    "exampleTranslation": "Cả bố và mẹ tôi đều làm việc trong bệnh viện.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6004,
+    "headword": "sibling",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɪblɪŋ/",
+    "phoneticUs": "/ˈsɪblɪŋ/",
+    "meaningVi": "anh chị em ruột",
+    "definitionEn": "a brother or a sister",
+    "example": "Do you have any siblings, or are you an only child?",
+    "exampleTranslation": "Bạn có anh chị em ruột không, hay bạn là con một?",
+    "levelId": 1,
+    "topics": [
+      "family-relatives",
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 6005,
+    "headword": "brother",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbrʌðə/",
+    "phoneticUs": "/ˈbrʌðər/",
+    "meaningVi": "anh trai, em trai",
+    "definitionEn": "a boy or man with the same parents as you",
+    "example": "My younger brother plays football every weekend.",
+    "exampleTranslation": "Em trai tôi chơi bóng đá mỗi cuối tuần.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives",
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 6006,
+    "headword": "sister",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɪstə/",
+    "phoneticUs": "/ˈsɪstər/",
+    "meaningVi": "chị gái, em gái",
+    "definitionEn": "a girl or woman with the same parents as you",
+    "example": "My older sister lives in Ho Chi Minh City.",
+    "exampleTranslation": "Chị gái tôi sống ở thành phố Hồ Chí Minh.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives",
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 6007,
+    "headword": "grandmother",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɡrænmʌðə/",
+    "phoneticUs": "/ˈɡrænmʌðər/",
+    "meaningVi": "bà (nội, ngoại)",
+    "definitionEn": "the mother of your mother or father",
+    "example": "My grandmother tells us stories before bedtime.",
+    "exampleTranslation": "Bà tôi kể chuyện cho chúng tôi nghe trước giờ đi ngủ.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6008,
+    "headword": "grandfather",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɡrænfɑːðə/",
+    "phoneticUs": "/ˈɡrænfɑːðər/",
+    "meaningVi": "ông (nội, ngoại)",
+    "definitionEn": "the father of your mother or father",
+    "example": "My grandfather grows vegetables in his garden.",
+    "exampleTranslation": "Ông tôi trồng rau trong vườn nhà.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6009,
+    "headword": "grandparent",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɡrænpeərənt/",
+    "phoneticUs": "/ˈɡrænperənt/",
+    "meaningVi": "ông bà",
+    "definitionEn": "the mother or father of your parent",
+    "example": "I visit my grandparents in the countryside every summer.",
+    "exampleTranslation": "Tôi về thăm ông bà ở quê mỗi mùa hè.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6010,
+    "headword": "grandchild",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɡræntʃaɪld/",
+    "phoneticUs": "/ˈɡræntʃaɪld/",
+    "meaningVi": "cháu (của ông bà)",
+    "definitionEn": "the child of your son or daughter",
+    "example": "She has five grandchildren and loves them all.",
+    "exampleTranslation": "Bà ấy có năm đứa cháu và yêu thương tất cả chúng.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6011,
+    "headword": "uncle",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈʌŋkl/",
+    "phoneticUs": "/ˈʌŋkl/",
+    "meaningVi": "chú, bác, cậu, dượng",
+    "definitionEn": "the brother of your parent, or your aunt's husband",
+    "example": "My uncle gave me a bicycle for my birthday.",
+    "exampleTranslation": "Chú tôi tặng tôi một chiếc xe đạp vào sinh nhật.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6012,
+    "headword": "aunt",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɑːnt/",
+    "phoneticUs": "/ænt/",
+    "meaningVi": "cô, dì, bác gái, mợ, thím",
+    "definitionEn": "the sister of your parent, or your uncle's wife",
+    "example": "My aunt makes the best spring rolls in the family.",
+    "exampleTranslation": "Dì tôi làm món nem ngon nhất trong cả nhà.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6013,
+    "headword": "cousin",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkʌzn/",
+    "phoneticUs": "/ˈkʌzn/",
+    "meaningVi": "anh chị em họ",
+    "definitionEn": "the child of your uncle or aunt",
+    "example": "My cousin and I are the same age.",
+    "exampleTranslation": "Anh họ của tôi và tôi bằng tuổi nhau.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6014,
+    "headword": "nephew",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈnefjuː/",
+    "phoneticUs": "/ˈnefjuː/",
+    "meaningVi": "cháu trai (con của anh chị em)",
+    "definitionEn": "the son of your brother or sister",
+    "example": "My nephew is learning to ride a bike.",
+    "exampleTranslation": "Cháu trai tôi đang tập đi xe đạp.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6015,
+    "headword": "niece",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/niːs/",
+    "phoneticUs": "/niːs/",
+    "meaningVi": "cháu gái (con của anh chị em)",
+    "definitionEn": "the daughter of your brother or sister",
+    "example": "My niece draws pictures for me every week.",
+    "exampleTranslation": "Cháu gái tôi vẽ tranh tặng tôi mỗi tuần.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6016,
+    "headword": "husband",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhʌzbənd/",
+    "phoneticUs": "/ˈhʌzbənd/",
+    "meaningVi": "chồng",
+    "definitionEn": "the man someone is married to",
+    "example": "Her husband works as an engineer.",
+    "exampleTranslation": "Chồng cô ấy làm kỹ sư.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives",
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 6017,
+    "headword": "wife",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/waɪf/",
+    "phoneticUs": "/waɪf/",
+    "meaningVi": "vợ",
+    "definitionEn": "the woman someone is married to",
+    "example": "His wife teaches English at a high school.",
+    "exampleTranslation": "Vợ anh ấy dạy tiếng Anh ở một trường trung học.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives",
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 6018,
+    "headword": "spouse",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/spaʊs/",
+    "phoneticUs": "/spaʊs/",
+    "meaningVi": "vợ hoặc chồng, bạn đời",
+    "definitionEn": "a husband or wife",
+    "example": "Please write your spouse's name on this form.",
+    "exampleTranslation": "Vui lòng ghi tên vợ hoặc chồng của bạn vào mẫu này.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives",
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 6019,
+    "headword": "son",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/sʌn/",
+    "phoneticUs": "/sʌn/",
+    "meaningVi": "con trai",
+    "definitionEn": "a male child",
+    "example": "Their son starts primary school next year.",
+    "exampleTranslation": "Con trai họ sẽ vào tiểu học năm sau.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6020,
+    "headword": "daughter",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdɔːtə/",
+    "phoneticUs": "/ˈdɔːtər/",
+    "meaningVi": "con gái",
+    "definitionEn": "a female child",
+    "example": "My daughter loves painting and music.",
+    "exampleTranslation": "Con gái tôi thích vẽ và âm nhạc.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6021,
+    "headword": "twin",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/twɪn/",
+    "phoneticUs": "/twɪn/",
+    "meaningVi": "anh em sinh đôi",
+    "definitionEn": "one of two children born at the same time",
+    "example": "I can never tell the twins apart.",
+    "exampleTranslation": "Tôi không bao giờ phân biệt được hai anh em sinh đôi.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6022,
+    "headword": "stepmother",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈstepmʌðə/",
+    "phoneticUs": "/ˈstepmʌðər/",
+    "meaningVi": "mẹ kế, dì ghẻ",
+    "definitionEn": "the woman your father marries after your mother",
+    "example": "My stepmother is kind and always helps me with homework.",
+    "exampleTranslation": "Mẹ kế của tôi rất tốt và luôn giúp tôi làm bài tập.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6023,
+    "headword": "stepfather",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈstepfɑːðə/",
+    "phoneticUs": "/ˈstepfɑːðər/",
+    "meaningVi": "bố dượng",
+    "definitionEn": "the man your mother marries after your father",
+    "example": "His stepfather taught him how to play chess.",
+    "exampleTranslation": "Bố dượng dạy anh ấy chơi cờ vua.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6024,
+    "headword": "in-laws",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɪn lɔːz/",
+    "phoneticUs": "/ˈɪn lɔːz/",
+    "meaningVi": "họ hàng bên vợ hoặc chồng",
+    "definitionEn": "the family of your husband or wife",
+    "example": "We are having dinner with my in-laws tonight.",
+    "exampleTranslation": "Tối nay chúng tôi ăn tối với nhà chồng tôi.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6025,
+    "headword": "mother-in-law",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmʌðər ɪn lɔː/",
+    "phoneticUs": "/ˈmʌðər ɪn lɔː/",
+    "meaningVi": "mẹ chồng, mẹ vợ",
+    "definitionEn": "the mother of your husband or wife",
+    "example": "My mother-in-law lives with us in the same house.",
+    "exampleTranslation": "Mẹ chồng tôi sống cùng chúng tôi trong một nhà.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6026,
+    "headword": "brother-in-law",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbrʌðər ɪn lɔː/",
+    "phoneticUs": "/ˈbrʌðər ɪn lɔː/",
+    "meaningVi": "anh rể, em rể, anh vợ, em vợ",
+    "definitionEn": "the brother of your husband or wife, or your sister's husband",
+    "example": "My brother-in-law runs a small coffee shop.",
+    "exampleTranslation": "Anh rể tôi điều hành một quán cà phê nhỏ.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6027,
+    "headword": "relative",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈrelətɪv/",
+    "phoneticUs": "/ˈrelətɪv/",
+    "meaningVi": "họ hàng, người thân",
+    "definitionEn": "a person who belongs to the same family as you",
+    "example": "Many relatives came to celebrate the wedding.",
+    "exampleTranslation": "Nhiều họ hàng đã đến chúc mừng đám cưới.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6028,
+    "headword": "only child",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈəʊnli tʃaɪld/",
+    "phoneticUs": "/ˈoʊnli tʃaɪld/",
+    "meaningVi": "con một",
+    "definitionEn": "a person who has no brothers or sisters",
+    "example": "As an only child, I often played alone.",
+    "exampleTranslation": "Là con một nên tôi thường chơi một mình.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6029,
+    "headword": "twin brother",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/twɪn ˈbrʌðə/",
+    "phoneticUs": "/twɪn ˈbrʌðər/",
+    "meaningVi": "anh/em trai sinh đôi",
+    "definitionEn": "a brother who was born at the same time as you",
+    "example": "My twin brother and I have different jobs.",
+    "exampleTranslation": "Anh trai sinh đôi của tôi và tôi có công việc khác nhau.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6030,
+    "headword": "baby",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbeɪbi/",
+    "phoneticUs": "/ˈbeɪbi/",
+    "meaningVi": "em bé, trẻ sơ sinh",
+    "definitionEn": "a very young child",
+    "example": "The baby sleeps for most of the day.",
+    "exampleTranslation": "Em bé ngủ gần hết cả ngày.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6031,
+    "headword": "toddler",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtɒdlə/",
+    "phoneticUs": "/ˈtɑːdlər/",
+    "meaningVi": "trẻ mới biết đi",
+    "definitionEn": "a child who is just learning to walk",
+    "example": "The toddler laughed and ran across the room.",
+    "exampleTranslation": "Đứa bé mới biết đi cười và chạy khắp phòng.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6032,
+    "headword": "teenager",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtiːneɪdʒə/",
+    "phoneticUs": "/ˈtiːneɪdʒər/",
+    "meaningVi": "thiếu niên, tuổi teen",
+    "definitionEn": "a person between thirteen and nineteen years old",
+    "example": "My teenager spends hours chatting with friends online.",
+    "exampleTranslation": "Con tuổi teen của tôi dành hàng giờ trò chuyện với bạn bè trên mạng.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6033,
+    "headword": "adult",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈædʌlt/",
+    "phoneticUs": "/əˈdʌlt/",
+    "meaningVi": "người lớn, người trưởng thành",
+    "definitionEn": "a person who is fully grown",
+    "example": "Tickets cost ten dollars for each adult.",
+    "exampleTranslation": "Vé giá mười đô la cho mỗi người lớn.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6034,
+    "headword": "couple",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkʌpl/",
+    "phoneticUs": "/ˈkʌpl/",
+    "meaningVi": "cặp vợ chồng, cặp đôi",
+    "definitionEn": "two people who are married or in a relationship",
+    "example": "The young couple bought a small apartment.",
+    "exampleTranslation": "Cặp vợ chồng trẻ đã mua một căn hộ nhỏ.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives",
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 6035,
+    "headword": "get married",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡet ˈmærid/",
+    "phoneticUs": "/ɡet ˈmærid/",
+    "meaningVi": "kết hôn, lấy nhau",
+    "definitionEn": "to become husband and wife",
+    "example": "They plan to get married next spring.",
+    "exampleTranslation": "Họ dự định kết hôn vào mùa xuân năm sau.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6036,
+    "headword": "take after",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈteɪk ɑːftə/",
+    "phoneticUs": "/ˈteɪk æftər/",
+    "meaningVi": "giống (ai đó trong gia đình)",
+    "definitionEn": "to look or behave like an older family member",
+    "example": "You really take after your father when you laugh.",
+    "exampleTranslation": "Khi cười bạn thật sự giống bố của bạn.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6037,
+    "headword": "be related to",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/bi rɪˈleɪtɪd tuː/",
+    "phoneticUs": "/bi rɪˈleɪtɪd tuː/",
+    "meaningVi": "có quan hệ họ hàng với",
+    "definitionEn": "to belong to the same family as someone",
+    "example": "Are you related to the new teacher?",
+    "exampleTranslation": "Bạn có họ hàng với cô giáo mới không?",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6038,
+    "headword": "divorce",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/dɪˈvɔːs/",
+    "phoneticUs": "/dɪˈvɔːrs/",
+    "meaningVi": "ly hôn",
+    "definitionEn": "to legally end a marriage",
+    "example": "They decided to divorce after ten years together.",
+    "exampleTranslation": "Họ quyết định ly hôn sau mười năm chung sống.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6039,
+    "headword": "married",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈmærid/",
+    "phoneticUs": "/ˈmærid/",
+    "meaningVi": "đã kết hôn, đã có gia đình",
+    "definitionEn": "having a husband or wife",
+    "example": "My brother is married and has two children.",
+    "exampleTranslation": "Anh trai tôi đã có gia đình và có hai con.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives",
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 6040,
+    "headword": "single",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈsɪŋɡl/",
+    "phoneticUs": "/ˈsɪŋɡl/",
+    "meaningVi": "độc thân",
+    "definitionEn": "not married and not in a relationship",
+    "example": "My cousin is still single and loves to travel.",
+    "exampleTranslation": "Anh họ tôi vẫn độc thân và thích đi du lịch.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives",
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 6041,
+    "headword": "close-knit",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌkləʊs ˈnɪt/",
+    "phoneticUs": "/ˌkloʊs ˈnɪt/",
+    "meaningVi": "gắn bó, đoàn kết",
+    "definitionEn": "having strong and friendly links between members",
+    "example": "We come from a close-knit family and meet every Sunday.",
+    "exampleTranslation": "Chúng tôi xuất thân từ một gia đình gắn bó và gặp nhau mỗi Chủ nhật.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6042,
+    "headword": "family tree",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfæməli triː/",
+    "phoneticUs": "/ˈfæməli triː/",
+    "meaningVi": "cây gia phả",
+    "definitionEn": "a drawing that shows the people in a family",
+    "example": "He drew a family tree for his school project.",
+    "exampleTranslation": "Cậu ấy vẽ một cây gia phả cho dự án ở trường.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6043,
+    "headword": "eldest",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈeldɪst/",
+    "phoneticUs": "/ˈeldɪst/",
+    "meaningVi": "lớn tuổi nhất (trong các anh chị em)",
+    "definitionEn": "the oldest of the children in a family",
+    "example": "She is the eldest of four children.",
+    "exampleTranslation": "Cô ấy là chị cả trong bốn người con.",
+    "levelId": 1,
+    "topics": [
+      "family-relatives"
+    ]
+  },
+  {
+    "id": 6044,
+    "headword": "Monday",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmʌndeɪ/",
+    "phoneticUs": "/ˈmʌndeɪ/",
+    "meaningVi": "thứ Hai",
+    "definitionEn": "the day after Sunday",
+    "example": "We have an English class every Monday morning.",
+    "exampleTranslation": "Chúng tôi có lớp tiếng Anh vào sáng thứ Hai hằng tuần.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6045,
+    "headword": "Wednesday",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈwenzdeɪ/",
+    "phoneticUs": "/ˈwenzdeɪ/",
+    "meaningVi": "thứ Tư",
+    "definitionEn": "the day after Tuesday",
+    "example": "The shop is closed on Wednesday afternoons.",
+    "exampleTranslation": "Cửa hàng đóng cửa vào các buổi chiều thứ Tư.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6046,
+    "headword": "Saturday",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsætədeɪ/",
+    "phoneticUs": "/ˈsætərdeɪ/",
+    "meaningVi": "thứ Bảy",
+    "definitionEn": "the day before Sunday",
+    "example": "We usually go to the market on Saturday.",
+    "exampleTranslation": "Chúng tôi thường đi chợ vào thứ Bảy.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6047,
+    "headword": "January",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdʒænjuəri/",
+    "phoneticUs": "/ˈdʒænjueri/",
+    "meaningVi": "tháng Một",
+    "definitionEn": "the first month of the year",
+    "example": "It is very cold in January where I live.",
+    "exampleTranslation": "Ở nơi tôi sống, tháng Một rất lạnh.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6048,
+    "headword": "July",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dʒuˈlaɪ/",
+    "phoneticUs": "/dʒuˈlaɪ/",
+    "meaningVi": "tháng Bảy",
+    "definitionEn": "the seventh month of the year",
+    "example": "Our summer holiday starts in July.",
+    "exampleTranslation": "Kỳ nghỉ hè của chúng tôi bắt đầu vào tháng Bảy.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6049,
+    "headword": "December",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dɪˈsembə/",
+    "phoneticUs": "/dɪˈsembər/",
+    "meaningVi": "tháng Mười Hai",
+    "definitionEn": "the twelfth month of the year",
+    "example": "Many people travel home in December for the holidays.",
+    "exampleTranslation": "Nhiều người về quê vào tháng Mười Hai để nghỉ lễ.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6050,
+    "headword": "second",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsekənd/",
+    "phoneticUs": "/ˈsekənd/",
+    "meaningVi": "giây",
+    "definitionEn": "a very short unit of time, one part of a minute",
+    "example": "Please wait a second while I find my keys.",
+    "exampleTranslation": "Làm ơn đợi một giây để tôi tìm chìa khóa.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6051,
+    "headword": "minute",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmɪnɪt/",
+    "phoneticUs": "/ˈmɪnɪt/",
+    "meaningVi": "phút",
+    "definitionEn": "a period of sixty seconds",
+    "example": "The bus arrives in about ten minutes.",
+    "exampleTranslation": "Xe buýt sẽ đến trong khoảng mười phút nữa.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6052,
+    "headword": "hour",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈaʊə/",
+    "phoneticUs": "/ˈaʊər/",
+    "meaningVi": "giờ, tiếng đồng hồ",
+    "definitionEn": "a period of sixty minutes",
+    "example": "It takes one hour to walk to the station.",
+    "exampleTranslation": "Đi bộ đến nhà ga mất một tiếng.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6053,
+    "headword": "midnight",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmɪdnaɪt/",
+    "phoneticUs": "/ˈmɪdnaɪt/",
+    "meaningVi": "nửa đêm, 12 giờ đêm",
+    "definitionEn": "twelve o'clock at night",
+    "example": "We watched the fireworks at midnight.",
+    "exampleTranslation": "Chúng tôi xem pháo hoa vào lúc nửa đêm.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6054,
+    "headword": "noon",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/nuːn/",
+    "phoneticUs": "/nuːn/",
+    "meaningVi": "buổi trưa, 12 giờ trưa",
+    "definitionEn": "twelve o'clock in the middle of the day",
+    "example": "Let's meet at noon in front of the cinema.",
+    "exampleTranslation": "Hãy gặp nhau lúc 12 giờ trưa trước rạp chiếu phim.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6055,
+    "headword": "dawn",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dɔːn/",
+    "phoneticUs": "/dɔːn/",
+    "meaningVi": "bình minh, rạng sáng",
+    "definitionEn": "the time of day when light first appears",
+    "example": "The farmers get up at dawn to work in the fields.",
+    "exampleTranslation": "Những người nông dân dậy từ rạng sáng để ra đồng.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6056,
+    "headword": "morning",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmɔːnɪŋ/",
+    "phoneticUs": "/ˈmɔːrnɪŋ/",
+    "meaningVi": "buổi sáng",
+    "definitionEn": "the early part of the day before noon",
+    "example": "I drink a cup of tea every morning.",
+    "exampleTranslation": "Tôi uống một tách trà mỗi buổi sáng.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months",
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 6057,
+    "headword": "afternoon",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌɑːftəˈnuːn/",
+    "phoneticUs": "/ˌæftərˈnuːn/",
+    "meaningVi": "buổi chiều",
+    "definitionEn": "the time between noon and evening",
+    "example": "The kids play in the park in the afternoon.",
+    "exampleTranslation": "Bọn trẻ chơi trong công viên vào buổi chiều.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6058,
+    "headword": "evening",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈiːvnɪŋ/",
+    "phoneticUs": "/ˈiːvnɪŋ/",
+    "meaningVi": "buổi tối",
+    "definitionEn": "the part of the day between afternoon and night",
+    "example": "We often take a walk in the evening.",
+    "exampleTranslation": "Chúng tôi thường đi dạo vào buổi tối.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months",
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 6059,
+    "headword": "tonight",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/təˈnaɪt/",
+    "phoneticUs": "/təˈnaɪt/",
+    "meaningVi": "tối nay, đêm nay",
+    "definitionEn": "during the night of today",
+    "example": "I am going to a friend's party tonight.",
+    "exampleTranslation": "Tối nay tôi sẽ đến dự tiệc của một người bạn.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6060,
+    "headword": "yesterday",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˈjestədeɪ/",
+    "phoneticUs": "/ˈjestərdeɪ/",
+    "meaningVi": "hôm qua",
+    "definitionEn": "on the day before today",
+    "example": "I saw an old friend yesterday.",
+    "exampleTranslation": "Hôm qua tôi gặp một người bạn cũ.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6061,
+    "headword": "tomorrow",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/təˈmɒrəʊ/",
+    "phoneticUs": "/təˈmɑːroʊ/",
+    "meaningVi": "ngày mai",
+    "definitionEn": "on the day after today",
+    "example": "I have a dentist appointment tomorrow.",
+    "exampleTranslation": "Ngày mai tôi có cuộc hẹn với nha sĩ.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6062,
+    "headword": "the day after tomorrow",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ðə deɪ ˌɑːftə təˈmɒrəʊ/",
+    "phoneticUs": "/ðə deɪ ˌæftər təˈmɑːroʊ/",
+    "meaningVi": "ngày kia",
+    "definitionEn": "two days from today",
+    "example": "The exam is the day after tomorrow.",
+    "exampleTranslation": "Kỳ thi diễn ra vào ngày kia.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6063,
+    "headword": "daily",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈdeɪli/",
+    "phoneticUs": "/ˈdeɪli/",
+    "meaningVi": "hằng ngày",
+    "definitionEn": "happening every day",
+    "example": "Reading is part of my daily routine.",
+    "exampleTranslation": "Đọc sách là một phần trong thói quen hằng ngày của tôi.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months",
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 6064,
+    "headword": "weekly",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈwiːkli/",
+    "phoneticUs": "/ˈwiːkli/",
+    "meaningVi": "hằng tuần",
+    "definitionEn": "happening once every week",
+    "example": "We have a weekly meeting on Fridays.",
+    "exampleTranslation": "Chúng tôi có một cuộc họp hằng tuần vào thứ Sáu.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6065,
+    "headword": "monthly",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈmʌnθli/",
+    "phoneticUs": "/ˈmʌnθli/",
+    "meaningVi": "hằng tháng",
+    "definitionEn": "happening once every month",
+    "example": "I pay my monthly rent on the first day.",
+    "exampleTranslation": "Tôi trả tiền thuê nhà hằng tháng vào ngày đầu tiên.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6066,
+    "headword": "decade",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdekeɪd/",
+    "phoneticUs": "/ˈdekeɪd/",
+    "meaningVi": "thập kỷ, mười năm",
+    "definitionEn": "a period of ten years",
+    "example": "The city has changed a lot in the last decade.",
+    "exampleTranslation": "Thành phố đã thay đổi rất nhiều trong thập kỷ qua.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6067,
+    "headword": "century",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsentʃəri/",
+    "phoneticUs": "/ˈsentʃəri/",
+    "meaningVi": "thế kỷ, một trăm năm",
+    "definitionEn": "a period of one hundred years",
+    "example": "This old temple is over three centuries old.",
+    "exampleTranslation": "Ngôi chùa cổ này đã hơn ba trăm năm tuổi.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6068,
+    "headword": "calendar",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkælɪndə/",
+    "phoneticUs": "/ˈkælɪndər/",
+    "meaningVi": "lịch",
+    "definitionEn": "a chart showing the days and months of a year",
+    "example": "I marked her birthday on the calendar.",
+    "exampleTranslation": "Tôi đánh dấu sinh nhật của cô ấy trên cuốn lịch.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6069,
+    "headword": "often",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˈɒfn/",
+    "phoneticUs": "/ˈɔːfn/",
+    "meaningVi": "thường, hay",
+    "definitionEn": "many times; frequently",
+    "example": "We often eat dinner together on Sundays.",
+    "exampleTranslation": "Chúng tôi thường ăn tối cùng nhau vào Chủ nhật.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months",
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 6070,
+    "headword": "rarely",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˈreəli/",
+    "phoneticUs": "/ˈrerli/",
+    "meaningVi": "hiếm khi",
+    "definitionEn": "not often",
+    "example": "He rarely watches television in the evening.",
+    "exampleTranslation": "Anh ấy hiếm khi xem tivi vào buổi tối.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6071,
+    "headword": "hardly ever",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌhɑːdli ˈevə/",
+    "phoneticUs": "/ˌhɑːrdli ˈevər/",
+    "meaningVi": "hầu như không bao giờ",
+    "definitionEn": "almost never",
+    "example": "I hardly ever eat fast food now.",
+    "exampleTranslation": "Giờ tôi hầu như không bao giờ ăn đồ ăn nhanh.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6072,
+    "headword": "occasionally",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/əˈkeɪʒənəli/",
+    "phoneticUs": "/əˈkeɪʒənəli/",
+    "meaningVi": "thỉnh thoảng, đôi khi",
+    "definitionEn": "sometimes but not often",
+    "example": "She occasionally calls me on weekends.",
+    "exampleTranslation": "Thỉnh thoảng cô ấy gọi điện cho tôi vào cuối tuần.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6073,
+    "headword": "frequently",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˈfriːkwəntli/",
+    "phoneticUs": "/ˈfriːkwəntli/",
+    "meaningVi": "thường xuyên",
+    "definitionEn": "very often",
+    "example": "The train is frequently late in the winter.",
+    "exampleTranslation": "Tàu thường xuyên bị trễ vào mùa đông.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6074,
+    "headword": "every day",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈevri deɪ/",
+    "phoneticUs": "/ˈevri deɪ/",
+    "meaningVi": "mỗi ngày",
+    "definitionEn": "on each day of the week",
+    "example": "I practice English for thirty minutes every day.",
+    "exampleTranslation": "Tôi luyện tiếng Anh ba mươi phút mỗi ngày.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6075,
+    "headword": "once a week",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/wʌns ə wiːk/",
+    "phoneticUs": "/wʌns ə wiːk/",
+    "meaningVi": "một lần mỗi tuần",
+    "definitionEn": "one time in each week",
+    "example": "We clean the whole house once a week.",
+    "exampleTranslation": "Chúng tôi dọn dẹp cả nhà mỗi tuần một lần.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6076,
+    "headword": "twice",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/twaɪs/",
+    "phoneticUs": "/twaɪs/",
+    "meaningVi": "hai lần",
+    "definitionEn": "two times",
+    "example": "I brush my teeth twice a day.",
+    "exampleTranslation": "Tôi đánh răng hai lần một ngày.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6077,
+    "headword": "early",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈɜːli/",
+    "phoneticUs": "/ˈɜːrli/",
+    "meaningVi": "sớm; đầu (thời gian)",
+    "definitionEn": "near the beginning of a period of time",
+    "example": "I caught an early train to avoid the traffic.",
+    "exampleTranslation": "Tôi bắt chuyến tàu sớm để tránh kẹt xe.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6078,
+    "headword": "late",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/leɪt/",
+    "phoneticUs": "/leɪt/",
+    "meaningVi": "muộn, trễ",
+    "definitionEn": "after the expected or usual time",
+    "example": "Sorry I am late, the traffic was terrible.",
+    "exampleTranslation": "Xin lỗi tôi đến trễ, đường kẹt xe kinh khủng.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6079,
+    "headword": "soon",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/suːn/",
+    "phoneticUs": "/suːn/",
+    "meaningVi": "sớm, chẳng bao lâu nữa",
+    "definitionEn": "in a short time from now",
+    "example": "The film will start soon, so please sit down.",
+    "exampleTranslation": "Bộ phim sắp bắt đầu rồi, xin hãy ngồi xuống.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6080,
+    "headword": "already",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ɔːlˈredi/",
+    "phoneticUs": "/ɔːlˈredi/",
+    "meaningVi": "đã, rồi",
+    "definitionEn": "before now or before the expected time",
+    "example": "I have already finished my homework.",
+    "exampleTranslation": "Tôi đã làm xong bài tập về nhà rồi.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6081,
+    "headword": "recently",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˈriːsntli/",
+    "phoneticUs": "/ˈriːsntli/",
+    "meaningVi": "gần đây, mới đây",
+    "definitionEn": "not long ago",
+    "example": "I recently moved to a new apartment.",
+    "exampleTranslation": "Gần đây tôi mới chuyển đến một căn hộ mới.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6082,
+    "headword": "nowadays",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˈnaʊədeɪz/",
+    "phoneticUs": "/ˈnaʊədeɪz/",
+    "meaningVi": "ngày nay, hiện nay",
+    "definitionEn": "at the present time, compared with the past",
+    "example": "Nowadays most people shop online.",
+    "exampleTranslation": "Ngày nay hầu hết mọi người mua sắm trực tuyến.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6083,
+    "headword": "o'clock",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/əˈklɒk/",
+    "phoneticUs": "/əˈklɑːk/",
+    "meaningVi": "giờ (đúng)",
+    "definitionEn": "used after a number to say the exact hour",
+    "example": "The lesson starts at nine o'clock sharp.",
+    "exampleTranslation": "Buổi học bắt đầu đúng chín giờ.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6084,
+    "headword": "half past",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌhɑːf ˈpɑːst/",
+    "phoneticUs": "/ˌhæf ˈpæst/",
+    "meaningVi": "(giờ) rưỡi, giờ hơn ba mươi phút",
+    "definitionEn": "thirty minutes after an hour",
+    "example": "We leave home at half past seven.",
+    "exampleTranslation": "Chúng tôi rời nhà lúc bảy giờ rưỡi.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6085,
+    "headword": "quarter to",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈkwɔːtə tuː/",
+    "phoneticUs": "/ˈkwɔːrtər tuː/",
+    "meaningVi": "kém mười lăm phút",
+    "definitionEn": "fifteen minutes before an hour",
+    "example": "The class ends at quarter to five.",
+    "exampleTranslation": "Lớp học kết thúc lúc năm giờ kém mười lăm.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6086,
+    "headword": "first",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/fɜːst/",
+    "phoneticUs": "/fɜːrst/",
+    "meaningVi": "thứ nhất, đầu tiên",
+    "definitionEn": "coming before all others in order",
+    "example": "Today is my first day at the new school.",
+    "exampleTranslation": "Hôm nay là ngày đầu tiên của tôi ở trường mới.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6087,
+    "headword": "third",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/θɜːd/",
+    "phoneticUs": "/θɜːrd/",
+    "meaningVi": "thứ ba",
+    "definitionEn": "number three in order",
+    "example": "My office is on the third floor.",
+    "exampleTranslation": "Văn phòng của tôi ở tầng ba.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6088,
+    "headword": "tenth",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/tenθ/",
+    "phoneticUs": "/tenθ/",
+    "meaningVi": "thứ mười",
+    "definitionEn": "number ten in order",
+    "example": "Her birthday is on the tenth of May.",
+    "exampleTranslation": "Sinh nhật cô ấy vào ngày mười tháng Năm.",
+    "levelId": 1,
+    "topics": [
+      "time-days-months"
+    ]
+  },
+  {
+    "id": 6089,
+    "headword": "color",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkʌlə/",
+    "phoneticUs": "/ˈkʌlər/",
+    "meaningVi": "màu sắc",
+    "definitionEn": "red, blue or green, for example",
+    "example": "What is your favorite color?",
+    "exampleTranslation": "Màu sắc yêu thích của bạn là gì?",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6090,
+    "headword": "red",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/red/",
+    "phoneticUs": "/red/",
+    "meaningVi": "màu đỏ, đỏ",
+    "definitionEn": "having the color of blood",
+    "example": "She wore a red dress to the party.",
+    "exampleTranslation": "Cô ấy mặc một chiếc váy đỏ đến bữa tiệc.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6091,
+    "headword": "blue",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/bluː/",
+    "phoneticUs": "/bluː/",
+    "meaningVi": "màu xanh dương, xanh da trời",
+    "definitionEn": "having the color of a clear sky",
+    "example": "The sea looks very blue today.",
+    "exampleTranslation": "Hôm nay biển trông rất xanh.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6092,
+    "headword": "green",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ɡriːn/",
+    "phoneticUs": "/ɡriːn/",
+    "meaningVi": "màu xanh lá, xanh lục",
+    "definitionEn": "having the color of fresh grass",
+    "example": "The garden is full of green leaves.",
+    "exampleTranslation": "Khu vườn đầy lá xanh.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6093,
+    "headword": "yellow",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈjeləʊ/",
+    "phoneticUs": "/ˈjeloʊ/",
+    "meaningVi": "màu vàng, vàng",
+    "definitionEn": "having the color of a lemon",
+    "example": "The children painted the sun yellow.",
+    "exampleTranslation": "Bọn trẻ tô mặt trời màu vàng.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6094,
+    "headword": "orange",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈɒrɪndʒ/",
+    "phoneticUs": "/ˈɔːrɪndʒ/",
+    "meaningVi": "màu cam; quả cam",
+    "definitionEn": "having the color between red and yellow",
+    "example": "He bought an orange scarf for the winter.",
+    "exampleTranslation": "Anh ấy mua một chiếc khăn màu cam cho mùa đông.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6095,
+    "headword": "purple",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈpɜːpl/",
+    "phoneticUs": "/ˈpɜːrpl/",
+    "meaningVi": "màu tím",
+    "definitionEn": "having the color of ripe grapes",
+    "example": "My sister loves purple flowers.",
+    "exampleTranslation": "Chị tôi thích những bông hoa màu tím.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6096,
+    "headword": "pink",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/pɪŋk/",
+    "phoneticUs": "/pɪŋk/",
+    "meaningVi": "màu hồng, hồng",
+    "definitionEn": "having a light red color",
+    "example": "The baby is wearing a pink hat.",
+    "exampleTranslation": "Em bé đang đội một chiếc mũ màu hồng.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6097,
+    "headword": "brown",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/braʊn/",
+    "phoneticUs": "/braʊn/",
+    "meaningVi": "màu nâu, nâu",
+    "definitionEn": "having the color of chocolate or soil",
+    "example": "My dog has soft brown fur.",
+    "exampleTranslation": "Con chó của tôi có bộ lông nâu mềm mượt.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6098,
+    "headword": "black",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/blæk/",
+    "phoneticUs": "/blæk/",
+    "meaningVi": "màu đen, đen",
+    "definitionEn": "having the color of coal or the night sky",
+    "example": "He always carries a black bag to work.",
+    "exampleTranslation": "Anh ấy luôn mang một chiếc túi đen đi làm.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6099,
+    "headword": "white",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/waɪt/",
+    "phoneticUs": "/waɪt/",
+    "meaningVi": "màu trắng, trắng",
+    "definitionEn": "having the color of snow or milk",
+    "example": "The walls of our kitchen are white.",
+    "exampleTranslation": "Tường nhà bếp của chúng tôi màu trắng.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6100,
+    "headword": "grey",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ɡreɪ/",
+    "phoneticUs": "/ɡreɪ/",
+    "meaningVi": "màu xám, xám",
+    "definitionEn": "having a color between black and white",
+    "example": "The sky was grey and it started to rain.",
+    "exampleTranslation": "Bầu trời xám xịt và trời bắt đầu mưa.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6101,
+    "headword": "gold",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ɡəʊld/",
+    "phoneticUs": "/ɡoʊld/",
+    "meaningVi": "màu vàng kim; vàng (kim loại)",
+    "definitionEn": "having the shiny yellow color of a valuable metal",
+    "example": "She gave me a small gold ring.",
+    "exampleTranslation": "Cô ấy tặng tôi một chiếc nhẫn vàng nhỏ.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6102,
+    "headword": "silver",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈsɪlvə/",
+    "phoneticUs": "/ˈsɪlvər/",
+    "meaningVi": "màu bạc; bạc (kim loại)",
+    "definitionEn": "having a shiny grey-white color",
+    "example": "He drives a silver car.",
+    "exampleTranslation": "Anh ấy lái một chiếc xe màu bạc.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6103,
+    "headword": "dark",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/dɑːk/",
+    "phoneticUs": "/dɑːrk/",
+    "meaningVi": "tối; sẫm màu",
+    "definitionEn": "with little or no light; deep in color",
+    "example": "I prefer dark colors like navy and black.",
+    "exampleTranslation": "Tôi thích các màu sẫm như xanh navy và đen.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6104,
+    "headword": "bright",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/braɪt/",
+    "phoneticUs": "/braɪt/",
+    "meaningVi": "sáng, rực rỡ",
+    "definitionEn": "having a strong, clear color or light",
+    "example": "The children wore bright yellow raincoats.",
+    "exampleTranslation": "Bọn trẻ mặc áo mưa màu vàng rực rỡ.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6105,
+    "headword": "pale",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/peɪl/",
+    "phoneticUs": "/peɪl/",
+    "meaningVi": "nhạt, nhợt nhạt",
+    "definitionEn": "light in color, not strong",
+    "example": "She painted her room a pale blue.",
+    "exampleTranslation": "Cô ấy sơn phòng mình màu xanh nhạt.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6106,
+    "headword": "colorful",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈkʌləfl/",
+    "phoneticUs": "/ˈkʌlərfl/",
+    "meaningVi": "nhiều màu sắc, sặc sỡ",
+    "definitionEn": "having many different colors",
+    "example": "The market was full of colorful fruit and flowers.",
+    "exampleTranslation": "Khu chợ đầy hoa quả và hoa nhiều màu sắc.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6107,
+    "headword": "light blue",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌlaɪt ˈbluː/",
+    "phoneticUs": "/ˌlaɪt ˈbluː/",
+    "meaningVi": "xanh da trời nhạt",
+    "definitionEn": "a pale shade of blue",
+    "example": "He wore a light blue shirt to the interview.",
+    "exampleTranslation": "Anh ấy mặc áo sơ mi xanh nhạt đến buổi phỏng vấn.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6108,
+    "headword": "shape",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ʃeɪp/",
+    "phoneticUs": "/ʃeɪp/",
+    "meaningVi": "hình dạng, hình dáng",
+    "definitionEn": "the outside form of something",
+    "example": "The cookies have the shape of a star.",
+    "exampleTranslation": "Những chiếc bánh quy có hình ngôi sao.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6109,
+    "headword": "circle",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɜːkl/",
+    "phoneticUs": "/ˈsɜːrkl/",
+    "meaningVi": "hình tròn, vòng tròn",
+    "definitionEn": "a perfectly round shape",
+    "example": "The teacher asked us to sit in a circle.",
+    "exampleTranslation": "Cô giáo bảo chúng tôi ngồi thành vòng tròn.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6110,
+    "headword": "square",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/skweə/",
+    "phoneticUs": "/skwer/",
+    "meaningVi": "hình vuông",
+    "definitionEn": "a shape with four equal sides",
+    "example": "Draw a square and then add a triangle on top.",
+    "exampleTranslation": "Hãy vẽ một hình vuông rồi thêm một hình tam giác lên trên.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes",
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 6111,
+    "headword": "triangle",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtraɪæŋɡl/",
+    "phoneticUs": "/ˈtraɪæŋɡl/",
+    "meaningVi": "hình tam giác",
+    "definitionEn": "a shape with three straight sides",
+    "example": "A triangle has three corners.",
+    "exampleTranslation": "Hình tam giác có ba góc.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6112,
+    "headword": "rectangle",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈrektæŋɡl/",
+    "phoneticUs": "/ˈrektæŋɡl/",
+    "meaningVi": "hình chữ nhật",
+    "definitionEn": "a shape with four sides and four right angles",
+    "example": "The table is a long rectangle.",
+    "exampleTranslation": "Chiếc bàn có dạng hình chữ nhật dài.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6113,
+    "headword": "oval",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈəʊvl/",
+    "phoneticUs": "/ˈoʊvl/",
+    "meaningVi": "hình bầu dục, hình trái xoan",
+    "definitionEn": "a shape like an egg or a long circle",
+    "example": "The mirror in the hall is an oval.",
+    "exampleTranslation": "Chiếc gương ở hành lang có hình bầu dục.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6114,
+    "headword": "round",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/raʊnd/",
+    "phoneticUs": "/raʊnd/",
+    "meaningVi": "tròn",
+    "definitionEn": "shaped like a circle or a ball",
+    "example": "We bought a round table for the dining room.",
+    "exampleTranslation": "Chúng tôi mua một chiếc bàn tròn cho phòng ăn.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6115,
+    "headword": "flat",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/flæt/",
+    "phoneticUs": "/flæt/",
+    "meaningVi": "phẳng, bằng",
+    "definitionEn": "smooth and level, with no high or low parts",
+    "example": "The road is flat, so it is easy to ride a bike.",
+    "exampleTranslation": "Con đường bằng phẳng nên rất dễ đi xe đạp.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6116,
+    "headword": "curved",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/kɜːvd/",
+    "phoneticUs": "/kɜːrvd/",
+    "meaningVi": "cong, uốn cong",
+    "definitionEn": "bending like part of a circle",
+    "example": "The river makes a curved line through the valley.",
+    "exampleTranslation": "Dòng sông tạo thành một đường cong qua thung lũng.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6117,
+    "headword": "pointed",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈpɔɪntɪd/",
+    "phoneticUs": "/ˈpɔɪntɪd/",
+    "meaningVi": "nhọn, có đầu nhọn",
+    "definitionEn": "having a thin, sharp end",
+    "example": "The witch in the story wore a pointed hat.",
+    "exampleTranslation": "Mụ phù thủy trong truyện đội một chiếc mũ nhọn.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6118,
+    "headword": "stripe",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/straɪp/",
+    "phoneticUs": "/straɪp/",
+    "meaningVi": "sọc, vằn",
+    "definitionEn": "a long narrow line of color",
+    "example": "The tiger has black stripes on its body.",
+    "exampleTranslation": "Con hổ có những vằn đen trên thân.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6119,
+    "headword": "striped",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/straɪpt/",
+    "phoneticUs": "/straɪpt/",
+    "meaningVi": "có sọc, kẻ sọc",
+    "definitionEn": "having lines of different colors",
+    "example": "He bought a striped shirt for his father.",
+    "exampleTranslation": "Anh ấy mua một chiếc áo sơ mi kẻ sọc cho bố.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6120,
+    "headword": "plain",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/pleɪn/",
+    "phoneticUs": "/pleɪn/",
+    "meaningVi": "trơn, một màu, giản dị",
+    "definitionEn": "simple, with no pattern or decoration",
+    "example": "I prefer plain T-shirts to ones with pictures.",
+    "exampleTranslation": "Tôi thích áo thun trơn hơn áo có hình.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes",
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 6121,
+    "headword": "small",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/smɔːl/",
+    "phoneticUs": "/smɔːl/",
+    "meaningVi": "nhỏ, bé",
+    "definitionEn": "not large in size",
+    "example": "We live in a small house near the lake.",
+    "exampleTranslation": "Chúng tôi sống trong một ngôi nhà nhỏ gần hồ.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6122,
+    "headword": "large",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/lɑːdʒ/",
+    "phoneticUs": "/lɑːrdʒ/",
+    "meaningVi": "lớn, rộng",
+    "definitionEn": "big in size or amount",
+    "example": "A large crowd waited outside the stadium.",
+    "exampleTranslation": "Một đám đông lớn chờ bên ngoài sân vận động.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6123,
+    "headword": "huge",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/hjuːdʒ/",
+    "phoneticUs": "/hjuːdʒ/",
+    "meaningVi": "khổng lồ, rất to",
+    "definitionEn": "extremely big",
+    "example": "They have a huge garden behind their house.",
+    "exampleTranslation": "Họ có một khu vườn khổng lồ phía sau nhà.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6124,
+    "headword": "tiny",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈtaɪni/",
+    "phoneticUs": "/ˈtaɪni/",
+    "meaningVi": "tí hon, rất nhỏ",
+    "definitionEn": "extremely small",
+    "example": "There is a tiny spider on the wall.",
+    "exampleTranslation": "Có một con nhện tí hon trên tường.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6125,
+    "headword": "medium-sized",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌmiːdiəm ˈsaɪzd/",
+    "phoneticUs": "/ˌmiːdiəm ˈsaɪzd/",
+    "meaningVi": "cỡ vừa, cỡ trung",
+    "definitionEn": "not big and not small",
+    "example": "I'd like a medium-sized pizza, please.",
+    "exampleTranslation": "Làm ơn cho tôi một chiếc pizza cỡ vừa.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6126,
+    "headword": "tall",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/tɔːl/",
+    "phoneticUs": "/tɔːl/",
+    "meaningVi": "cao (người, tòa nhà)",
+    "definitionEn": "having a greater than average height",
+    "example": "My brother is taller than my father now.",
+    "exampleTranslation": "Giờ em trai tôi cao hơn bố tôi.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6127,
+    "headword": "wide",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/waɪd/",
+    "phoneticUs": "/waɪd/",
+    "meaningVi": "rộng, bề ngang lớn",
+    "definitionEn": "measuring a long distance from side to side",
+    "example": "The river is very wide at this point.",
+    "exampleTranslation": "Con sông ở đoạn này rất rộng.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6128,
+    "headword": "narrow",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈnærəʊ/",
+    "phoneticUs": "/ˈneroʊ/",
+    "meaningVi": "hẹp, chật",
+    "definitionEn": "small in width",
+    "example": "The street was too narrow for the big truck.",
+    "exampleTranslation": "Con phố quá hẹp đối với chiếc xe tải lớn.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6129,
+    "headword": "thick",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/θɪk/",
+    "phoneticUs": "/θɪk/",
+    "meaningVi": "dày, đặc",
+    "definitionEn": "having a large distance between two sides",
+    "example": "He wore a thick coat in the snow.",
+    "exampleTranslation": "Anh ấy mặc một chiếc áo khoác dày khi trời có tuyết.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6130,
+    "headword": "thin",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/θɪn/",
+    "phoneticUs": "/θɪn/",
+    "meaningVi": "mỏng; gầy",
+    "definitionEn": "having a small distance between two sides",
+    "example": "The walls in this old building are very thin.",
+    "exampleTranslation": "Tường của tòa nhà cũ này rất mỏng.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6131,
+    "headword": "deep",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/diːp/",
+    "phoneticUs": "/diːp/",
+    "meaningVi": "sâu",
+    "definitionEn": "going far down from the top",
+    "example": "The lake is deep, so do not swim alone.",
+    "exampleTranslation": "Hồ này sâu nên đừng bơi một mình.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6132,
+    "headword": "heavy",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈhevi/",
+    "phoneticUs": "/ˈhevi/",
+    "meaningVi": "nặng",
+    "definitionEn": "weighing a lot",
+    "example": "This suitcase is too heavy for me to lift.",
+    "exampleTranslation": "Chiếc vali này quá nặng để tôi nhấc lên.",
+    "levelId": 1,
+    "topics": [
+      "colors-shapes-sizes"
+    ]
+  },
+  {
+    "id": 6133,
+    "headword": "recipe",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈresəpi/",
+    "phoneticUs": "/ˈresəpi/",
+    "meaningVi": "công thức nấu ăn",
+    "definitionEn": "instructions for making a particular food",
+    "example": "This recipe for chicken soup is easy to follow.",
+    "exampleTranslation": "Công thức nấu súp gà này rất dễ làm theo.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "food-nutrition"
+    ]
+  },
+  {
+    "id": 6134,
+    "headword": "ingredient",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪnˈɡriːdiənt/",
+    "phoneticUs": "/ɪnˈɡriːdiənt/",
+    "meaningVi": "nguyên liệu, thành phần",
+    "definitionEn": "one of the foods used to make a dish",
+    "example": "You need only five ingredients to make this cake.",
+    "exampleTranslation": "Bạn chỉ cần năm nguyên liệu để làm chiếc bánh này.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "food-nutrition",
+      "toeic-hotels-dining"
+    ]
+  },
+  {
+    "id": 6135,
+    "headword": "stove",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/stəʊv/",
+    "phoneticUs": "/stoʊv/",
+    "meaningVi": "bếp (nấu)",
+    "definitionEn": "a kitchen machine with places for heating pans",
+    "example": "Please turn off the stove before you leave.",
+    "exampleTranslation": "Làm ơn tắt bếp trước khi bạn rời đi.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 6136,
+    "headword": "oven",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈʌvn/",
+    "phoneticUs": "/ˈʌvn/",
+    "meaningVi": "lò nướng",
+    "definitionEn": "a box in the kitchen for baking and roasting food",
+    "example": "The bread is in the oven now.",
+    "exampleTranslation": "Bánh mì đang ở trong lò nướng.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 6137,
+    "headword": "microwave",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmaɪkrəweɪv/",
+    "phoneticUs": "/ˈmaɪkrəweɪv/",
+    "meaningVi": "lò vi sóng",
+    "definitionEn": "a machine that heats food very quickly",
+    "example": "I heated my lunch in the microwave.",
+    "exampleTranslation": "Tôi hâm nóng bữa trưa trong lò vi sóng.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 6138,
+    "headword": "pan",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pæn/",
+    "phoneticUs": "/pæn/",
+    "meaningVi": "chảo, cái xoong nông",
+    "definitionEn": "a flat metal container for cooking food",
+    "example": "Heat a little oil in the pan.",
+    "exampleTranslation": "Hãy làm nóng một ít dầu trong chảo.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6139,
+    "headword": "pot",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pɒt/",
+    "phoneticUs": "/pɑːt/",
+    "meaningVi": "nồi",
+    "definitionEn": "a deep round container for cooking food",
+    "example": "She put a big pot of water on the stove.",
+    "exampleTranslation": "Cô ấy đặt một nồi nước lớn lên bếp.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6140,
+    "headword": "frying pan",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfraɪɪŋ pæn/",
+    "phoneticUs": "/ˈfraɪɪŋ pæn/",
+    "meaningVi": "chảo rán",
+    "definitionEn": "a flat pan used for cooking food in hot oil",
+    "example": "He cooked the eggs in a frying pan.",
+    "exampleTranslation": "Anh ấy chiên trứng trong một cái chảo.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6141,
+    "headword": "knife",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/naɪf/",
+    "phoneticUs": "/naɪf/",
+    "meaningVi": "con dao",
+    "definitionEn": "a tool with a sharp edge for cutting",
+    "example": "Be careful, this knife is very sharp.",
+    "exampleTranslation": "Cẩn thận, con dao này rất sắc.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6142,
+    "headword": "spoon",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/spuːn/",
+    "phoneticUs": "/spuːn/",
+    "meaningVi": "cái thìa, cái muỗng",
+    "definitionEn": "a tool with a small bowl for eating or stirring",
+    "example": "Use a spoon to eat the soup.",
+    "exampleTranslation": "Hãy dùng thìa để ăn súp.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6143,
+    "headword": "chopsticks",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtʃɒpstɪks/",
+    "phoneticUs": "/ˈtʃɑːpstɪks/",
+    "meaningVi": "đôi đũa",
+    "definitionEn": "two thin sticks used for eating",
+    "example": "Can you use chopsticks to pick up the noodles?",
+    "exampleTranslation": "Bạn có biết dùng đũa để gắp mì không?",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6144,
+    "headword": "plate",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pleɪt/",
+    "phoneticUs": "/pleɪt/",
+    "meaningVi": "cái đĩa",
+    "definitionEn": "a flat dish that you eat food from",
+    "example": "She put the fish on a white plate.",
+    "exampleTranslation": "Cô ấy đặt con cá lên một chiếc đĩa trắng.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6145,
+    "headword": "bowl",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/bəʊl/",
+    "phoneticUs": "/boʊl/",
+    "meaningVi": "cái bát, cái tô",
+    "definitionEn": "a deep round dish for soup, rice or fruit",
+    "example": "He ate a bowl of hot noodle soup for lunch.",
+    "exampleTranslation": "Anh ấy ăn một tô mì nước nóng cho bữa trưa.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6146,
+    "headword": "cutting board",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkʌtɪŋ bɔːd/",
+    "phoneticUs": "/ˈkʌtɪŋ bɔːrd/",
+    "meaningVi": "cái thớt",
+    "definitionEn": "a flat board for cutting food on",
+    "example": "Chop the onions on the cutting board.",
+    "exampleTranslation": "Hãy thái hành trên thớt.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6147,
+    "headword": "kettle",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈketl/",
+    "phoneticUs": "/ˈketl/",
+    "meaningVi": "ấm đun nước",
+    "definitionEn": "a container with a lid for boiling water",
+    "example": "I put the kettle on to make some tea.",
+    "exampleTranslation": "Tôi bắc ấm lên để pha trà.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "home-furniture"
+    ]
+  },
+  {
+    "id": 6148,
+    "headword": "blender",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈblendə/",
+    "phoneticUs": "/ˈblendər/",
+    "meaningVi": "máy xay sinh tố",
+    "definitionEn": "a machine that mixes soft food into liquid",
+    "example": "We made banana juice with the blender.",
+    "exampleTranslation": "Chúng tôi làm nước chuối bằng máy xay.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6149,
+    "headword": "apron",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈeɪprən/",
+    "phoneticUs": "/ˈeɪprən/",
+    "meaningVi": "tạp dề",
+    "definitionEn": "clothing you wear over your clothes to keep them clean",
+    "example": "He wore an apron while baking cookies.",
+    "exampleTranslation": "Anh ấy mặc tạp dề khi nướng bánh quy.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6150,
+    "headword": "boil",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/bɔɪl/",
+    "phoneticUs": "/bɔɪl/",
+    "meaningVi": "đun sôi, luộc",
+    "definitionEn": "to heat a liquid until it bubbles",
+    "example": "Boil the eggs for ten minutes.",
+    "exampleTranslation": "Hãy luộc trứng trong mười phút.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "food-nutrition",
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 6151,
+    "headword": "fry",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/fraɪ/",
+    "phoneticUs": "/fraɪ/",
+    "meaningVi": "rán, chiên",
+    "definitionEn": "to cook food in hot oil",
+    "example": "My mother fries fish every Sunday.",
+    "exampleTranslation": "Mẹ tôi chiên cá vào mỗi Chủ nhật.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 6152,
+    "headword": "bake",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/beɪk/",
+    "phoneticUs": "/beɪk/",
+    "meaningVi": "nướng (bánh) bằng lò",
+    "definitionEn": "to cook food in an oven",
+    "example": "She likes to bake bread on weekends.",
+    "exampleTranslation": "Cô ấy thích nướng bánh mì vào cuối tuần.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 6153,
+    "headword": "roast",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/rəʊst/",
+    "phoneticUs": "/roʊst/",
+    "meaningVi": "quay, nướng (thịt, rau củ)",
+    "definitionEn": "to cook meat or vegetables in an oven",
+    "example": "We roast a chicken for the family dinner.",
+    "exampleTranslation": "Chúng tôi quay một con gà cho bữa tối gia đình.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6154,
+    "headword": "grill",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɡrɪl/",
+    "phoneticUs": "/ɡrɪl/",
+    "meaningVi": "nướng (trên vỉ)",
+    "definitionEn": "to cook food over strong heat",
+    "example": "They grill fish and corn in the garden.",
+    "exampleTranslation": "Họ nướng cá và ngô ngoài vườn.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6155,
+    "headword": "steam",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/stiːm/",
+    "phoneticUs": "/stiːm/",
+    "meaningVi": "hấp",
+    "definitionEn": "to cook food with hot steam",
+    "example": "Steam the vegetables for five minutes.",
+    "exampleTranslation": "Hãy hấp rau trong năm phút.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6156,
+    "headword": "chop",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/tʃɒp/",
+    "phoneticUs": "/tʃɑːp/",
+    "meaningVi": "chặt, băm, thái nhỏ",
+    "definitionEn": "to cut food into small pieces",
+    "example": "Chop the garlic and onion finely.",
+    "exampleTranslation": "Hãy băm nhỏ tỏi và hành.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "food-nutrition"
+    ]
+  },
+  {
+    "id": 6157,
+    "headword": "slice",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/slaɪs/",
+    "phoneticUs": "/slaɪs/",
+    "meaningVi": "thái lát",
+    "definitionEn": "to cut food into thin flat pieces",
+    "example": "Slice the tomatoes and put them on the bread.",
+    "exampleTranslation": "Hãy thái cà chua thành lát và đặt lên bánh mì.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6158,
+    "headword": "peel",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/piːl/",
+    "phoneticUs": "/piːl/",
+    "meaningVi": "gọt vỏ, bóc vỏ",
+    "definitionEn": "to take the skin off fruit or vegetables",
+    "example": "Can you peel the potatoes for me?",
+    "exampleTranslation": "Bạn có thể gọt khoai tây giúp tôi không?",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6159,
+    "headword": "stir",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/stɜː/",
+    "phoneticUs": "/stɜːr/",
+    "meaningVi": "khuấy, đảo",
+    "definitionEn": "to move food in a pot round and round",
+    "example": "Stir the soup so that it does not burn.",
+    "exampleTranslation": "Hãy khuấy súp để nó không bị cháy.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6160,
+    "headword": "mix",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/mɪks/",
+    "phoneticUs": "/mɪks/",
+    "meaningVi": "trộn",
+    "definitionEn": "to put different things together",
+    "example": "Mix the flour and sugar in a large bowl.",
+    "exampleTranslation": "Hãy trộn bột và đường trong một cái tô lớn.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6161,
+    "headword": "pour",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/pɔː/",
+    "phoneticUs": "/pɔːr/",
+    "meaningVi": "rót, đổ",
+    "definitionEn": "to make a liquid flow out of a container",
+    "example": "She poured milk into the glass.",
+    "exampleTranslation": "Cô ấy rót sữa vào ly.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "weather-seasons"
+    ]
+  },
+  {
+    "id": 6162,
+    "headword": "simmer",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈsɪmə/",
+    "phoneticUs": "/ˈsɪmər/",
+    "meaningVi": "ninh liu riu",
+    "definitionEn": "to cook gently just below boiling point",
+    "example": "Let the soup simmer for twenty minutes.",
+    "exampleTranslation": "Để súp ninh liu riu trong hai mươi phút.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "food-nutrition"
+    ]
+  },
+  {
+    "id": 6163,
+    "headword": "taste",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/teɪst/",
+    "phoneticUs": "/teɪst/",
+    "meaningVi": "nếm; có vị",
+    "definitionEn": "to try a small amount of food",
+    "example": "Taste the sauce and add more salt if needed.",
+    "exampleTranslation": "Hãy nếm nước sốt và thêm muối nếu cần.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6164,
+    "headword": "seasoning",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsiːznɪŋ/",
+    "phoneticUs": "/ˈsiːznɪŋ/",
+    "meaningVi": "gia vị nêm",
+    "definitionEn": "salt, pepper or herbs added to food",
+    "example": "Add a little seasoning to the soup.",
+    "exampleTranslation": "Hãy thêm một ít gia vị nêm vào súp.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "food-nutrition"
+    ]
+  },
+  {
+    "id": 6165,
+    "headword": "salt",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/sɔːlt/",
+    "phoneticUs": "/sɔːlt/",
+    "meaningVi": "muối",
+    "definitionEn": "a white substance that gives food a salty taste",
+    "example": "Could you pass me the salt, please?",
+    "exampleTranslation": "Bạn có thể đưa tôi lọ muối được không?",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 6166,
+    "headword": "pepper",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpepə/",
+    "phoneticUs": "/ˈpepər/",
+    "meaningVi": "hạt tiêu",
+    "definitionEn": "a black powder used to add a hot taste to food",
+    "example": "He added salt and pepper to the eggs.",
+    "exampleTranslation": "Anh ấy thêm muối và tiêu vào trứng.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 6167,
+    "headword": "sugar",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈʃʊɡə/",
+    "phoneticUs": "/ˈʃʊɡər/",
+    "meaningVi": "đường",
+    "definitionEn": "a sweet white substance used in food and drinks",
+    "example": "I don't take sugar in my coffee.",
+    "exampleTranslation": "Tôi không cho đường vào cà phê.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "food-nutrition",
+      "food-drinks",
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 6168,
+    "headword": "flour",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈflaʊə/",
+    "phoneticUs": "/ˈflaʊər/",
+    "meaningVi": "bột mì, bột",
+    "definitionEn": "a powder made from wheat, used for making bread",
+    "example": "You need two cups of flour for this cake.",
+    "exampleTranslation": "Bạn cần hai cốc bột mì cho chiếc bánh này.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6169,
+    "headword": "garlic",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɡɑːlɪk/",
+    "phoneticUs": "/ˈɡɑːrlɪk/",
+    "meaningVi": "tỏi",
+    "definitionEn": "a small white plant with a strong taste",
+    "example": "Fry the garlic until it turns golden.",
+    "exampleTranslation": "Hãy phi tỏi cho đến khi vàng.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6170,
+    "headword": "onion",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈʌnjən/",
+    "phoneticUs": "/ˈʌnjən/",
+    "meaningVi": "hành tây, củ hành",
+    "definitionEn": "a round vegetable with a strong smell",
+    "example": "Cutting onions always makes me cry.",
+    "exampleTranslation": "Thái hành luôn làm tôi chảy nước mắt.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6171,
+    "headword": "sweet",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/swiːt/",
+    "phoneticUs": "/swiːt/",
+    "meaningVi": "ngọt",
+    "definitionEn": "having a taste like sugar",
+    "example": "This mango is very sweet and juicy.",
+    "exampleTranslation": "Quả xoài này rất ngọt và mọng nước.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 6172,
+    "headword": "sour",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈsaʊə/",
+    "phoneticUs": "/ˈsaʊər/",
+    "meaningVi": "chua",
+    "definitionEn": "having a sharp taste like a lemon",
+    "example": "The soup is a little too sour for me.",
+    "exampleTranslation": "Món súp này hơi chua đối với tôi.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 6173,
+    "headword": "bitter",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈbɪtə/",
+    "phoneticUs": "/ˈbɪtər/",
+    "meaningVi": "đắng",
+    "definitionEn": "having a strong, unpleasant taste that is not sweet",
+    "example": "Black coffee tastes bitter without sugar.",
+    "exampleTranslation": "Cà phê đen có vị đắng nếu không có đường.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6174,
+    "headword": "salty",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈsɔːlti/",
+    "phoneticUs": "/ˈsɔːlti/",
+    "meaningVi": "mặn",
+    "definitionEn": "containing a lot of salt",
+    "example": "The fish sauce is too salty for the soup.",
+    "exampleTranslation": "Nước mắm quá mặn cho món canh này.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6175,
+    "headword": "tasty",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈteɪsti/",
+    "phoneticUs": "/ˈteɪsti/",
+    "meaningVi": "ngon, đậm vị",
+    "definitionEn": "having a good flavor",
+    "example": "The grilled pork was really tasty.",
+    "exampleTranslation": "Món thịt heo nướng thật sự rất ngon.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking",
+      "food-nutrition",
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 6176,
+    "headword": "raw",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/rɔː/",
+    "phoneticUs": "/rɔː/",
+    "meaningVi": "sống, chưa nấu chín",
+    "definitionEn": "not cooked",
+    "example": "Do not eat raw eggs or raw meat.",
+    "exampleTranslation": "Đừng ăn trứng sống hay thịt sống.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6177,
+    "headword": "ripe",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/raɪp/",
+    "phoneticUs": "/raɪp/",
+    "meaningVi": "chín (trái cây)",
+    "definitionEn": "ready to be eaten, as fruit",
+    "example": "These bananas are ripe and very sweet.",
+    "exampleTranslation": "Những quả chuối này đã chín và rất ngọt.",
+    "levelId": 2,
+    "topics": [
+      "kitchen-cooking"
+    ]
+  },
+  {
+    "id": 6178,
+    "headword": "menu",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmenjuː/",
+    "phoneticUs": "/ˈmenjuː/",
+    "meaningVi": "thực đơn",
+    "definitionEn": "a list of the food and drinks in a restaurant",
+    "example": "Could we see the menu, please?",
+    "exampleTranslation": "Cho chúng tôi xem thực đơn được không?",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering",
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 6179,
+    "headword": "waiter",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈweɪtə/",
+    "phoneticUs": "/ˈweɪtər/",
+    "meaningVi": "nam phục vụ bàn",
+    "definitionEn": "a man who brings food to customers in a restaurant",
+    "example": "The waiter brought us two glasses of water.",
+    "exampleTranslation": "Anh phục vụ mang cho chúng tôi hai ly nước.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering",
+      "jobs-workplace"
+    ]
+  },
+  {
+    "id": 6180,
+    "headword": "waitress",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈweɪtrəs/",
+    "phoneticUs": "/ˈweɪtrəs/",
+    "meaningVi": "nữ phục vụ bàn",
+    "definitionEn": "a woman who brings food to customers in a restaurant",
+    "example": "The waitress smiled and took our order.",
+    "exampleTranslation": "Cô phục vụ mỉm cười và ghi món cho chúng tôi.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6181,
+    "headword": "starter",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈstɑːtə/",
+    "phoneticUs": "/ˈstɑːrtər/",
+    "meaningVi": "món khai vị",
+    "definitionEn": "a small dish eaten before the main part of a meal",
+    "example": "I'll have the vegetable soup as a starter.",
+    "exampleTranslation": "Tôi sẽ gọi món súp rau làm món khai vị.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6182,
+    "headword": "main course",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌmeɪn ˈkɔːs/",
+    "phoneticUs": "/ˌmeɪn ˈkɔːrs/",
+    "meaningVi": "món chính",
+    "definitionEn": "the biggest dish in a meal",
+    "example": "For the main course, I'd like the grilled fish.",
+    "exampleTranslation": "Cho món chính, tôi muốn món cá nướng.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6183,
+    "headword": "side dish",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsaɪd dɪʃ/",
+    "phoneticUs": "/ˈsaɪd dɪʃ/",
+    "meaningVi": "món ăn kèm",
+    "definitionEn": "a small dish served with the main food",
+    "example": "Would you like rice or potatoes as a side dish?",
+    "exampleTranslation": "Bạn muốn cơm hay khoai tây làm món ăn kèm?",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6184,
+    "headword": "dessert",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dɪˈzɜːt/",
+    "phoneticUs": "/dɪˈzɜːrt/",
+    "meaningVi": "món tráng miệng",
+    "definitionEn": "a sweet food eaten at the end of a meal",
+    "example": "We shared a chocolate cake for dessert.",
+    "exampleTranslation": "Chúng tôi chia nhau một cái bánh sô-cô-la để tráng miệng.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering",
+      "food-nutrition",
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 6185,
+    "headword": "soup",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/suːp/",
+    "phoneticUs": "/suːp/",
+    "meaningVi": "súp, canh",
+    "definitionEn": "a hot liquid food made with vegetables or meat",
+    "example": "The soup of the day is tomato and basil.",
+    "exampleTranslation": "Món súp trong ngày là cà chua và húng quế.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering",
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 6186,
+    "headword": "salad",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsæləd/",
+    "phoneticUs": "/ˈsæləd/",
+    "meaningVi": "món rau trộn, xà lách",
+    "definitionEn": "cold vegetables mixed together and eaten raw",
+    "example": "I ordered a green salad with my steak.",
+    "exampleTranslation": "Tôi gọi một phần salad rau xanh kèm bít tết.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6187,
+    "headword": "steak",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/steɪk/",
+    "phoneticUs": "/steɪk/",
+    "meaningVi": "bít tết, miếng thịt bò",
+    "definitionEn": "a thick flat piece of beef",
+    "example": "He likes his steak with black pepper sauce.",
+    "exampleTranslation": "Anh ấy thích bít tết ăn kèm sốt tiêu đen.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6188,
+    "headword": "sandwich",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsænwɪdʒ/",
+    "phoneticUs": "/ˈsænwɪtʃ/",
+    "meaningVi": "bánh mì kẹp, sandwich",
+    "definitionEn": "two slices of bread with food between them",
+    "example": "I had a cheese sandwich for lunch.",
+    "exampleTranslation": "Tôi ăn một chiếc sandwich phô mai cho bữa trưa.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering",
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 6189,
+    "headword": "ice cream",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌaɪs ˈkriːm/",
+    "phoneticUs": "/ˌaɪs ˈkriːm/",
+    "meaningVi": "kem",
+    "definitionEn": "a sweet frozen food made from milk and sugar",
+    "example": "The children asked for vanilla ice cream.",
+    "exampleTranslation": "Bọn trẻ xin kem vani.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering",
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 6190,
+    "headword": "drink",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/drɪŋk/",
+    "phoneticUs": "/drɪŋk/",
+    "meaningVi": "đồ uống",
+    "definitionEn": "a liquid that you can drink",
+    "example": "What kind of drink would you like with your meal?",
+    "exampleTranslation": "Bạn muốn dùng loại đồ uống nào với bữa ăn?",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6191,
+    "headword": "sparkling water",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌspɑːklɪŋ ˈwɔːtə/",
+    "phoneticUs": "/ˌspɑːrklɪŋ ˈwɔːtər/",
+    "meaningVi": "nước có ga",
+    "definitionEn": "water with small bubbles of gas",
+    "example": "Could I have a bottle of sparkling water?",
+    "exampleTranslation": "Cho tôi một chai nước có ga được không?",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6192,
+    "headword": "vegan",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈviːɡən/",
+    "phoneticUs": "/ˈviːɡən/",
+    "meaningVi": "thuần chay",
+    "definitionEn": "eating or made without any meat, fish, eggs or milk",
+    "example": "The restaurant has several vegan dishes on the menu.",
+    "exampleTranslation": "Nhà hàng có vài món thuần chay trong thực đơn.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6193,
+    "headword": "gluten-free",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌɡluːtn ˈfriː/",
+    "phoneticUs": "/ˌɡluːtn ˈfriː/",
+    "meaningVi": "không chứa gluten",
+    "definitionEn": "not containing a substance found in wheat",
+    "example": "Do you have any gluten-free bread?",
+    "exampleTranslation": "Quán có loại bánh mì không gluten nào không?",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering",
+      "food-nutrition"
+    ]
+  },
+  {
+    "id": 6194,
+    "headword": "set menu",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈset menjuː/",
+    "phoneticUs": "/ˈset menjuː/",
+    "meaningVi": "thực đơn cố định (suất ăn trọn gói)",
+    "definitionEn": "a meal of several dishes at a fixed price",
+    "example": "The set menu includes a starter, a main dish and dessert.",
+    "exampleTranslation": "Thực đơn cố định gồm món khai vị, món chính và món tráng miệng.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6195,
+    "headword": "dish of the day",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌdɪʃ əv ðə ˈdeɪ/",
+    "phoneticUs": "/ˌdɪʃ əv ðə ˈdeɪ/",
+    "meaningVi": "món đặc biệt trong ngày",
+    "definitionEn": "a special dish the restaurant offers today",
+    "example": "What is the dish of the day?",
+    "exampleTranslation": "Món đặc biệt trong ngày là gì vậy?",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6196,
+    "headword": "book a table",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/bʊk ə ˈteɪbl/",
+    "phoneticUs": "/bʊk ə ˈteɪbl/",
+    "meaningVi": "đặt bàn",
+    "definitionEn": "to arrange to have a table at a restaurant",
+    "example": "I'd like to book a table for Saturday evening.",
+    "exampleTranslation": "Tôi muốn đặt bàn cho tối thứ Bảy.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6197,
+    "headword": "booking",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbʊkɪŋ/",
+    "phoneticUs": "/ˈbʊkɪŋ/",
+    "meaningVi": "việc đặt chỗ, đặt bàn",
+    "definitionEn": "an arrangement to have a table or room later",
+    "example": "Do you have a booking under the name Nguyen?",
+    "exampleTranslation": "Anh có đặt bàn dưới tên Nguyễn không?",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering",
+      "toeic-scheduling-appointments-booking"
+    ]
+  },
+  {
+    "id": 6198,
+    "headword": "reserve",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/rɪˈzɜːv/",
+    "phoneticUs": "/rɪˈzɜːrv/",
+    "meaningVi": "đặt trước, giữ chỗ",
+    "definitionEn": "to ask for a table to be kept for you",
+    "example": "We reserved a table by the window.",
+    "exampleTranslation": "Chúng tôi đã đặt trước một bàn cạnh cửa sổ.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6199,
+    "headword": "table for two",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈteɪbl fə tuː/",
+    "phoneticUs": "/ˈteɪbl fər tuː/",
+    "meaningVi": "bàn cho hai người",
+    "definitionEn": "a table where two people can sit",
+    "example": "A table for two, please, near the window.",
+    "exampleTranslation": "Cho một bàn hai người, gần cửa sổ nhé.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6200,
+    "headword": "ready to order",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈredi tuː ˈɔːdə/",
+    "phoneticUs": "/ˈredi tuː ˈɔːrdər/",
+    "meaningVi": "sẵn sàng gọi món",
+    "definitionEn": "prepared to say what food you want",
+    "example": "Are you ready to order, or do you need more time?",
+    "exampleTranslation": "Anh chị đã sẵn sàng gọi món chưa, hay cần thêm thời gian?",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6201,
+    "headword": "recommend",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˌrekəˈmend/",
+    "phoneticUs": "/ˌrekəˈmend/",
+    "meaningVi": "giới thiệu, khuyên dùng",
+    "definitionEn": "to say that something is good or useful",
+    "example": "What would you recommend for a first-time visitor?",
+    "exampleTranslation": "Bạn gợi ý món nào cho người lần đầu đến đây?",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6202,
+    "headword": "serve",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/sɜːv/",
+    "phoneticUs": "/sɜːrv/",
+    "meaningVi": "phục vụ (món ăn), dọn món",
+    "definitionEn": "to give food or drink to people",
+    "example": "The restaurant serves fresh seafood every day.",
+    "exampleTranslation": "Nhà hàng phục vụ hải sản tươi mỗi ngày.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6203,
+    "headword": "portion",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpɔːʃn/",
+    "phoneticUs": "/ˈpɔːrʃn/",
+    "meaningVi": "phần ăn, khẩu phần",
+    "definitionEn": "the amount of food for one person",
+    "example": "The portions here are quite big.",
+    "exampleTranslation": "Khẩu phần ở đây khá lớn.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering",
+      "food-nutrition",
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 6204,
+    "headword": "napkin",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈnæpkɪn/",
+    "phoneticUs": "/ˈnæpkɪn/",
+    "meaningVi": "khăn ăn",
+    "definitionEn": "a piece of paper or cloth for wiping your mouth",
+    "example": "Could I have another napkin, please?",
+    "exampleTranslation": "Cho tôi xin thêm một chiếc khăn ăn được không?",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6205,
+    "headword": "straw",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/strɔː/",
+    "phoneticUs": "/strɔː/",
+    "meaningVi": "ống hút",
+    "definitionEn": "a thin tube for drinking with",
+    "example": "He drank his juice through a straw.",
+    "exampleTranslation": "Cậu bé uống nước ép bằng ống hút.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6206,
+    "headword": "glass",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɡlɑːs/",
+    "phoneticUs": "/ɡlæs/",
+    "meaningVi": "cái ly, cốc thủy tinh",
+    "definitionEn": "a container made of glass for drinking",
+    "example": "She asked for a glass of orange juice.",
+    "exampleTranslation": "Cô ấy xin một ly nước cam.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6207,
+    "headword": "cutlery",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkʌtləri/",
+    "phoneticUs": "/ˈkʌtləri/",
+    "meaningVi": "bộ dao muỗng nĩa",
+    "definitionEn": "knives, forks and spoons used for eating",
+    "example": "The waiter put clean cutlery on the table.",
+    "exampleTranslation": "Người phục vụ đặt bộ dao nĩa sạch lên bàn.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6208,
+    "headword": "sauce",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/sɔːs/",
+    "phoneticUs": "/sɔːs/",
+    "meaningVi": "nước sốt, nước chấm",
+    "definitionEn": "a thick liquid served with food to add flavor",
+    "example": "Would you like some chili sauce with your noodles?",
+    "exampleTranslation": "Bạn có muốn thêm tương ớt với mì không?",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering",
+      "food-drinks"
+    ]
+  },
+  {
+    "id": 6209,
+    "headword": "well done",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌwel ˈdʌn/",
+    "phoneticUs": "/ˌwel ˈdʌn/",
+    "meaningVi": "chín kỹ (thịt)",
+    "definitionEn": "cooked for a long time, with no red inside",
+    "example": "I would like my steak well done, please.",
+    "exampleTranslation": "Cho tôi bít tết chín kỹ nhé.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6210,
+    "headword": "refill",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˌriːˈfɪl/",
+    "phoneticUs": "/ˌriːˈfɪl/",
+    "meaningVi": "rót đầy lại, thêm lần nữa",
+    "definitionEn": "to fill a glass or cup again",
+    "example": "Excuse me, could you refill my water?",
+    "exampleTranslation": "Xin lỗi, bạn có thể rót thêm nước cho tôi không?",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6211,
+    "headword": "leftovers",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈleftəʊvəz/",
+    "phoneticUs": "/ˈleftoʊvərz/",
+    "meaningVi": "thức ăn thừa",
+    "definitionEn": "food that remains after a meal",
+    "example": "Can I take the leftovers home in a box?",
+    "exampleTranslation": "Tôi có thể mang đồ ăn thừa về trong hộp không?",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering",
+      "food-nutrition"
+    ]
+  },
+  {
+    "id": 6212,
+    "headword": "full",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/fʊl/",
+    "phoneticUs": "/fʊl/",
+    "meaningVi": "no, đã đủ",
+    "definitionEn": "having eaten enough and not wanting more",
+    "example": "No dessert for me, thanks. I'm full.",
+    "exampleTranslation": "Tôi không dùng tráng miệng đâu, cảm ơn. Tôi no rồi.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6213,
+    "headword": "enjoy your meal",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪnˈdʒɔɪ jə ˈmiːl/",
+    "phoneticUs": "/ɪnˈdʒɔɪ jər ˈmiːl/",
+    "meaningVi": "chúc ngon miệng",
+    "definitionEn": "a polite thing to say when giving someone food",
+    "example": "Here is your soup. Enjoy your meal!",
+    "exampleTranslation": "Súp của bạn đây. Chúc ngon miệng!",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6214,
+    "headword": "bill",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/bɪl/",
+    "phoneticUs": "/bɪl/",
+    "meaningVi": "hóa đơn thanh toán",
+    "definitionEn": "a piece of paper that shows how much you must pay",
+    "example": "Could we have the bill, please?",
+    "exampleTranslation": "Cho chúng tôi xin hóa đơn thanh toán nhé?",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering",
+      "bank-post-office-services",
+      "money-economy",
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 6215,
+    "headword": "pay the bill",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌpeɪ ðə ˈbɪl/",
+    "phoneticUs": "/ˌpeɪ ðə ˈbɪl/",
+    "meaningVi": "thanh toán hóa đơn",
+    "definitionEn": "to give money for the food you have eaten",
+    "example": "I'll pay the bill, you paid last time.",
+    "exampleTranslation": "Để tôi thanh toán, lần trước bạn trả rồi.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6216,
+    "headword": "split the bill",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌsplɪt ðə ˈbɪl/",
+    "phoneticUs": "/ˌsplɪt ðə ˈbɪl/",
+    "meaningVi": "chia đều tiền hóa đơn",
+    "definitionEn": "to share the cost of a meal between people",
+    "example": "Let's split the bill between the four of us.",
+    "exampleTranslation": "Chúng ta chia đều hóa đơn cho bốn người nhé.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6217,
+    "headword": "tip",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/tɪp/",
+    "phoneticUs": "/tɪp/",
+    "meaningVi": "tiền boa",
+    "definitionEn": "a small extra amount of money given for good service",
+    "example": "We left a ten percent tip for the waiter.",
+    "exampleTranslation": "Chúng tôi để lại mười phần trăm tiền boa cho người phục vụ.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6218,
+    "headword": "service charge",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɜːvɪs tʃɑːdʒ/",
+    "phoneticUs": "/ˈsɜːrvɪs tʃɑːrdʒ/",
+    "meaningVi": "phí phục vụ",
+    "definitionEn": "an extra fee added to a restaurant bill",
+    "example": "A ten percent service charge is added to the bill.",
+    "exampleTranslation": "Phí phục vụ mười phần trăm được cộng vào hóa đơn.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6219,
+    "headword": "takeaway",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈteɪkəweɪ/",
+    "phoneticUs": "/ˈteɪkəweɪ/",
+    "meaningVi": "đồ ăn mang đi",
+    "definitionEn": "cooked food that you buy and eat somewhere else",
+    "example": "Let's order a takeaway and watch a film at home.",
+    "exampleTranslation": "Hãy gọi đồ ăn mang về rồi xem phim ở nhà.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering",
+      "food-nutrition"
+    ]
+  },
+  {
+    "id": 6220,
+    "headword": "on the house",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɒn ðə ˈhaʊs/",
+    "phoneticUs": "/ɑːn ðə ˈhaʊs/",
+    "meaningVi": "do quán tặng, miễn phí",
+    "definitionEn": "given free by the restaurant",
+    "example": "The dessert is on the house today.",
+    "exampleTranslation": "Hôm nay món tráng miệng do quán mời.",
+    "levelId": 2,
+    "topics": [
+      "restaurant-ordering"
+    ]
+  },
+  {
+    "id": 6221,
+    "headword": "smartphone",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsmɑːtfəʊn/",
+    "phoneticUs": "/ˈsmɑːrtfoʊn/",
+    "meaningVi": "điện thoại thông minh",
+    "definitionEn": "a mobile phone that can use the internet and apps",
+    "example": "She uses her smartphone to read the news every morning.",
+    "exampleTranslation": "Cô ấy dùng điện thoại thông minh để đọc tin tức mỗi sáng.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication",
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 6222,
+    "headword": "mobile phone",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌməʊbaɪl ˈfəʊn/",
+    "phoneticUs": "/ˌmoʊbl ˈfoʊn/",
+    "meaningVi": "điện thoại di động",
+    "definitionEn": "a small phone you can carry anywhere",
+    "example": "Please turn off your mobile phone during the lesson.",
+    "exampleTranslation": "Vui lòng tắt điện thoại di động trong giờ học.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6223,
+    "headword": "phone number",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfəʊn nʌmbə/",
+    "phoneticUs": "/ˈfoʊn nʌmbər/",
+    "meaningVi": "số điện thoại",
+    "definitionEn": "the numbers you press to call someone",
+    "example": "Can I have your phone number, please?",
+    "exampleTranslation": "Cho tôi xin số điện thoại của bạn được không?",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6224,
+    "headword": "call",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kɔːl/",
+    "phoneticUs": "/kɔːl/",
+    "meaningVi": "gọi điện thoại; cuộc gọi",
+    "definitionEn": "to telephone someone",
+    "example": "I'll call you when I get home.",
+    "exampleTranslation": "Tôi sẽ gọi cho bạn khi về đến nhà.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6225,
+    "headword": "missed call",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌmɪst ˈkɔːl/",
+    "phoneticUs": "/ˌmɪst ˈkɔːl/",
+    "meaningVi": "cuộc gọi nhỡ",
+    "definitionEn": "a phone call that you did not answer",
+    "example": "I saw three missed calls from my mother.",
+    "exampleTranslation": "Tôi thấy ba cuộc gọi nhỡ từ mẹ tôi.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6226,
+    "headword": "wrong number",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌrɒŋ ˈnʌmbə/",
+    "phoneticUs": "/ˌrɔːŋ ˈnʌmbər/",
+    "meaningVi": "gọi nhầm số",
+    "definitionEn": "a phone number that you called by mistake",
+    "example": "Sorry, I think I have the wrong number.",
+    "exampleTranslation": "Xin lỗi, tôi nghĩ mình gọi nhầm số.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6227,
+    "headword": "ring",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/rɪŋ/",
+    "phoneticUs": "/rɪŋ/",
+    "meaningVi": "(điện thoại) reo, đổ chuông",
+    "definitionEn": "to make a sound when someone is calling",
+    "example": "My phone rang during the meeting.",
+    "exampleTranslation": "Điện thoại của tôi reo trong lúc họp.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6228,
+    "headword": "ringtone",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈrɪŋtəʊn/",
+    "phoneticUs": "/ˈrɪŋtoʊn/",
+    "meaningVi": "nhạc chuông",
+    "definitionEn": "the sound a phone makes when someone calls",
+    "example": "I changed my ringtone to a funny song.",
+    "exampleTranslation": "Tôi đã đổi nhạc chuông thành một bài hát vui nhộn.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6229,
+    "headword": "voicemail",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈvɔɪsmeɪl/",
+    "phoneticUs": "/ˈvɔɪsmeɪl/",
+    "meaningVi": "hộp thư thoại",
+    "definitionEn": "a system that records messages when you cannot answer",
+    "example": "He did not pick up, so I left a voicemail.",
+    "exampleTranslation": "Anh ấy không nghe máy nên tôi đã để lại tin nhắn thoại.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication",
+      "toeic-phone-email-correspondence",
+      "toeic-office-2"
+    ]
+  },
+  {
+    "id": 6230,
+    "headword": "leave a message",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌliːv ə ˈmesɪdʒ/",
+    "phoneticUs": "/ˌliːv ə ˈmesɪdʒ/",
+    "meaningVi": "để lại lời nhắn",
+    "definitionEn": "to give information to be passed on later",
+    "example": "Would you like to leave a message for him?",
+    "exampleTranslation": "Bạn có muốn để lại lời nhắn cho anh ấy không?",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication",
+      "toeic-phone-email-correspondence"
+    ]
+  },
+  {
+    "id": 6231,
+    "headword": "message",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmesɪdʒ/",
+    "phoneticUs": "/ˈmesɪdʒ/",
+    "meaningVi": "tin nhắn, lời nhắn",
+    "definitionEn": "written or spoken information sent to someone",
+    "example": "I got a message from my teacher this morning.",
+    "exampleTranslation": "Sáng nay tôi nhận được tin nhắn từ giáo viên.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6232,
+    "headword": "text message",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtekst mesɪdʒ/",
+    "phoneticUs": "/ˈtekst mesɪdʒ/",
+    "meaningVi": "tin nhắn văn bản (SMS)",
+    "definitionEn": "a short written message sent from a phone",
+    "example": "She sent me a text message to say she was late.",
+    "exampleTranslation": "Cô ấy nhắn tin cho tôi để báo là cô ấy đến muộn.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6233,
+    "headword": "text",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/tekst/",
+    "phoneticUs": "/tekst/",
+    "meaningVi": "nhắn tin",
+    "definitionEn": "to send a written message from a phone",
+    "example": "Text me when you arrive at the station.",
+    "exampleTranslation": "Nhắn tin cho tôi khi bạn đến nhà ga nhé.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6234,
+    "headword": "battery",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbætəri/",
+    "phoneticUs": "/ˈbætəri/",
+    "meaningVi": "pin",
+    "definitionEn": "a device that stores power for a phone",
+    "example": "My phone battery is almost empty.",
+    "exampleTranslation": "Pin điện thoại của tôi gần hết rồi.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6235,
+    "headword": "charger",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtʃɑːdʒə/",
+    "phoneticUs": "/ˈtʃɑːrdʒər/",
+    "meaningVi": "cục sạc, bộ sạc",
+    "definitionEn": "a device used to put power into a battery",
+    "example": "Do you have a phone charger I can borrow?",
+    "exampleTranslation": "Bạn có cục sạc điện thoại nào cho tôi mượn không?",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication",
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 6236,
+    "headword": "signal",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɪɡnəl/",
+    "phoneticUs": "/ˈsɪɡnəl/",
+    "meaningVi": "sóng, tín hiệu",
+    "definitionEn": "the waves that let a phone connect to a network",
+    "example": "There is no signal in the mountains.",
+    "exampleTranslation": "Trên núi không có sóng điện thoại.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication",
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 6237,
+    "headword": "connection",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kəˈnekʃn/",
+    "phoneticUs": "/kəˈnekʃn/",
+    "meaningVi": "kết nối, đường truyền",
+    "definitionEn": "a link between a device and the internet",
+    "example": "The video stopped because of a bad connection.",
+    "exampleTranslation": "Video bị dừng vì đường truyền kém.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6238,
+    "headword": "screen",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/skriːn/",
+    "phoneticUs": "/skriːn/",
+    "meaningVi": "màn hình",
+    "definitionEn": "the flat part of a phone that shows pictures and words",
+    "example": "I dropped my phone and the screen broke.",
+    "exampleTranslation": "Tôi làm rơi điện thoại và màn hình bị vỡ.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication",
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 6239,
+    "headword": "unlock",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ʌnˈlɒk/",
+    "phoneticUs": "/ʌnˈlɑːk/",
+    "meaningVi": "mở khóa",
+    "definitionEn": "to open a phone so that you can use it",
+    "example": "I unlock my phone with my fingerprint.",
+    "exampleTranslation": "Tôi mở khóa điện thoại bằng vân tay.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6240,
+    "headword": "keyboard",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkiːbɔːd/",
+    "phoneticUs": "/ˈkiːbɔːrd/",
+    "meaningVi": "bàn phím",
+    "definitionEn": "a set of keys used to type letters and numbers",
+    "example": "The keyboard on my phone is very small.",
+    "exampleTranslation": "Bàn phím trên điện thoại của tôi rất nhỏ.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication",
+      "toeic-office-equipment-supplies"
+    ]
+  },
+  {
+    "id": 6241,
+    "headword": "app",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/æp/",
+    "phoneticUs": "/æp/",
+    "meaningVi": "ứng dụng",
+    "definitionEn": "a program that you use on a phone",
+    "example": "I downloaded a new app to learn English words.",
+    "exampleTranslation": "Tôi tải một ứng dụng mới để học từ vựng tiếng Anh.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6242,
+    "headword": "internet",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɪntənet/",
+    "phoneticUs": "/ˈɪntərnet/",
+    "meaningVi": "mạng internet",
+    "definitionEn": "the system that connects computers around the world",
+    "example": "We have fast internet at home.",
+    "exampleTranslation": "Nhà chúng tôi có internet tốc độ cao.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6243,
+    "headword": "online",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌɒnˈlaɪn/",
+    "phoneticUs": "/ˌɑːnˈlaɪn/",
+    "meaningVi": "trực tuyến, qua mạng",
+    "definitionEn": "connected to or done through the internet",
+    "example": "I take an online English class twice a week.",
+    "exampleTranslation": "Tôi học lớp tiếng Anh trực tuyến hai lần một tuần.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6244,
+    "headword": "website",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈwebsaɪt/",
+    "phoneticUs": "/ˈwebsaɪt/",
+    "meaningVi": "trang web",
+    "definitionEn": "a place on the internet with information about something",
+    "example": "You can find the opening hours on their website.",
+    "exampleTranslation": "Bạn có thể xem giờ mở cửa trên trang web của họ.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication",
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 6245,
+    "headword": "link",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/lɪŋk/",
+    "phoneticUs": "/lɪŋk/",
+    "meaningVi": "đường dẫn, liên kết",
+    "definitionEn": "a word or picture you click to go to another page",
+    "example": "Click the link to join the video call.",
+    "exampleTranslation": "Hãy bấm vào đường dẫn để tham gia cuộc gọi video.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6246,
+    "headword": "email",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈiːmeɪl/",
+    "phoneticUs": "/ˈiːmeɪl/",
+    "meaningVi": "thư điện tử, email",
+    "definitionEn": "a message sent from one computer to another",
+    "example": "I'll send you an email with the details.",
+    "exampleTranslation": "Tôi sẽ gửi cho bạn một email có thông tin chi tiết.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6247,
+    "headword": "inbox",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɪnbɒks/",
+    "phoneticUs": "/ˈɪnbɑːks/",
+    "meaningVi": "hộp thư đến",
+    "definitionEn": "the place where new emails arrive",
+    "example": "My inbox is full of unread messages.",
+    "exampleTranslation": "Hộp thư đến của tôi đầy những thư chưa đọc.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication",
+      "toeic-phone-email-correspondence"
+    ]
+  },
+  {
+    "id": 6248,
+    "headword": "send",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/send/",
+    "phoneticUs": "/send/",
+    "meaningVi": "gửi",
+    "definitionEn": "to make something go to another person",
+    "example": "Please send me the photos from the trip.",
+    "exampleTranslation": "Làm ơn gửi cho tôi những tấm ảnh của chuyến đi.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6249,
+    "headword": "receive",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/rɪˈsiːv/",
+    "phoneticUs": "/rɪˈsiːv/",
+    "meaningVi": "nhận",
+    "definitionEn": "to get something that someone sends or gives you",
+    "example": "Did you receive my email yesterday?",
+    "exampleTranslation": "Hôm qua bạn có nhận được email của tôi không?",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6250,
+    "headword": "reply",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/rɪˈplaɪ/",
+    "phoneticUs": "/rɪˈplaɪ/",
+    "meaningVi": "trả lời, phản hồi",
+    "definitionEn": "to answer a message or a call",
+    "example": "She replied to my message within five minutes.",
+    "exampleTranslation": "Cô ấy trả lời tin nhắn của tôi trong vòng năm phút.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6251,
+    "headword": "delete",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/dɪˈliːt/",
+    "phoneticUs": "/dɪˈliːt/",
+    "meaningVi": "xóa",
+    "definitionEn": "to remove a message or file from a device",
+    "example": "I deleted all the old photos from my phone.",
+    "exampleTranslation": "Tôi đã xóa hết những tấm ảnh cũ khỏi điện thoại.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6252,
+    "headword": "contact",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkɒntækt/",
+    "phoneticUs": "/ˈkɑːntækt/",
+    "meaningVi": "người trong danh bạ; sự liên lạc",
+    "definitionEn": "a person whose name and number are saved on your phone",
+    "example": "I saved her number in my contacts.",
+    "exampleTranslation": "Tôi đã lưu số của cô ấy vào danh bạ.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6253,
+    "headword": "chat",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/tʃæt/",
+    "phoneticUs": "/tʃæt/",
+    "meaningVi": "trò chuyện, nhắn tin qua mạng",
+    "definitionEn": "to talk in a friendly way, in person or online",
+    "example": "We chat online every night after dinner.",
+    "exampleTranslation": "Chúng tôi trò chuyện trực tuyến mỗi tối sau bữa ăn.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6254,
+    "headword": "video call",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈvɪdiəʊ kɔːl/",
+    "phoneticUs": "/ˈvɪdioʊ kɔːl/",
+    "meaningVi": "cuộc gọi video",
+    "definitionEn": "a call where you can see the other person",
+    "example": "I had a video call with my grandparents on Sunday.",
+    "exampleTranslation": "Tôi đã gọi video với ông bà vào Chủ nhật.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6255,
+    "headword": "selfie",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈselfi/",
+    "phoneticUs": "/ˈselfi/",
+    "meaningVi": "ảnh tự chụp",
+    "definitionEn": "a photo that you take of yourself",
+    "example": "We took a selfie in front of the lake.",
+    "exampleTranslation": "Chúng tôi chụp một tấm ảnh tự sướng trước hồ.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6256,
+    "headword": "post",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/pəʊst/",
+    "phoneticUs": "/poʊst/",
+    "meaningVi": "đăng (bài, ảnh) lên mạng",
+    "definitionEn": "to put a message or picture on a website",
+    "example": "She posted photos of her holiday online.",
+    "exampleTranslation": "Cô ấy đăng ảnh kỳ nghỉ của mình lên mạng.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication",
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 6257,
+    "headword": "share",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ʃeə/",
+    "phoneticUs": "/ʃer/",
+    "meaningVi": "chia sẻ",
+    "definitionEn": "to let other people see or use something",
+    "example": "He shared the video with all his friends.",
+    "exampleTranslation": "Anh ấy chia sẻ video với tất cả bạn bè.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6258,
+    "headword": "comment",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkɒment/",
+    "phoneticUs": "/ˈkɑːment/",
+    "meaningVi": "bình luận",
+    "definitionEn": "a written opinion under a post or picture",
+    "example": "I read the comments under the photo.",
+    "exampleTranslation": "Tôi đọc các bình luận bên dưới bức ảnh.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6259,
+    "headword": "profile",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈprəʊfaɪl/",
+    "phoneticUs": "/ˈproʊfaɪl/",
+    "meaningVi": "trang cá nhân, hồ sơ",
+    "definitionEn": "a page with your personal details on a website",
+    "example": "Please add a photo to your profile.",
+    "exampleTranslation": "Vui lòng thêm một tấm ảnh vào trang cá nhân của bạn.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6260,
+    "headword": "account",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/əˈkaʊnt/",
+    "phoneticUs": "/əˈkaʊnt/",
+    "meaningVi": "tài khoản",
+    "definitionEn": "your personal record that lets you use a website",
+    "example": "I need to create an account to buy tickets.",
+    "exampleTranslation": "Tôi cần tạo một tài khoản để mua vé.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication",
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 6261,
+    "headword": "hashtag",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhæʃtæɡ/",
+    "phoneticUs": "/ˈhæʃtæɡ/",
+    "meaningVi": "thẻ hashtag",
+    "definitionEn": "a word after the # sign used to find posts on a topic",
+    "example": "She used a hashtag to share her trip photos.",
+    "exampleTranslation": "Cô ấy dùng một hashtag để chia sẻ ảnh chuyến đi.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication",
+      "media-news"
+    ]
+  },
+  {
+    "id": 6262,
+    "headword": "emoji",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪˈməʊdʒi/",
+    "phoneticUs": "/ɪˈmoʊdʒi/",
+    "meaningVi": "biểu tượng cảm xúc",
+    "definitionEn": "a small picture used in messages to show feelings",
+    "example": "He sent me a smiling emoji.",
+    "exampleTranslation": "Anh ấy gửi cho tôi một biểu tượng mặt cười.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6263,
+    "headword": "block",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/blɒk/",
+    "phoneticUs": "/blɑːk/",
+    "meaningVi": "chặn (người dùng, số)",
+    "definitionEn": "to stop someone from contacting you",
+    "example": "I blocked the number because of the spam calls.",
+    "exampleTranslation": "Tôi đã chặn số đó vì những cuộc gọi làm phiền.",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  },
+  {
+    "id": 6264,
+    "headword": "Wi-Fi",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈwaɪ faɪ/",
+    "phoneticUs": "/ˈwaɪ faɪ/",
+    "meaningVi": "mạng Wi-Fi",
+    "definitionEn": "a way of connecting to the internet without wires",
+    "example": "Is there free Wi-Fi in this cafe?",
+    "exampleTranslation": "Quán cà phê này có Wi-Fi miễn phí không?",
+    "levelId": 2,
+    "topics": [
+      "phone-online-communication"
+    ]
+  }
+]

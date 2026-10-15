@@ -1,0 +1,4330 @@
+[
+  {
+    "id": 8001,
+    "headword": "pollutant",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pəˈluːtənt/",
+    "phoneticUs": "/pəˈluːtənt/",
+    "meaningVi": "chất gây ô nhiễm",
+    "definitionEn": "a substance that makes air or water dirty",
+    "example": "Factories must reduce the pollutants they release into rivers.",
+    "exampleTranslation": "Các nhà máy phải giảm chất gây ô nhiễm thải ra sông.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate",
+      "toeic-energy-environment"
+    ]
+  },
+  {
+    "id": 8002,
+    "headword": "solar panel",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈsəʊlə ˌpænl/",
+    "phoneticUs": "/ˈsoʊlər ˌpænl/",
+    "meaningVi": "tấm pin mặt trời",
+    "definitionEn": "a flat device that turns sunlight into electricity",
+    "example": "We put solar panels on the roof last year.",
+    "exampleTranslation": "Năm ngoái chúng tôi lắp pin mặt trời trên mái nhà.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate",
+      "toeic-energy-environment"
+    ]
+  },
+  {
+    "id": 8003,
+    "headword": "rising sea levels",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌraɪzɪŋ siː ˈlevlz/",
+    "phoneticUs": "/ˌraɪzɪŋ siː ˈlevlz/",
+    "meaningVi": "mực nước biển dâng",
+    "definitionEn": "the ocean getting higher over time",
+    "example": "Rising sea levels threaten many island nations.",
+    "exampleTranslation": "Mực nước biển dâng đe dọa nhiều quốc đảo.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8004,
+    "headword": "rainforest",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈreɪnfɒrɪst/",
+    "phoneticUs": "/ˈreɪnfɔːrɪst/",
+    "meaningVi": "rừng mưa nhiệt đới",
+    "definitionEn": "a thick forest in a hot place with a lot of rain",
+    "example": "The Amazon rainforest is often called the lungs of the Earth.",
+    "exampleTranslation": "Rừng Amazon thường được gọi là lá phổi của Trái Đất.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8005,
+    "headword": "ozone layer",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈəʊzəʊn ˌleɪə/",
+    "phoneticUs": "/ˈoʊzoʊn ˌleɪər/",
+    "meaningVi": "tầng ô-dôn",
+    "definitionEn": "a layer of gas high above Earth that blocks harmful sun rays",
+    "example": "Scientists say the ozone layer is slowly recovering.",
+    "exampleTranslation": "Các nhà khoa học nói tầng ô-dôn đang dần phục hồi.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8006,
+    "headword": "reduce",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/rɪˈdjuːs/",
+    "phoneticUs": "/rɪˈduːs/",
+    "meaningVi": "giảm, làm giảm",
+    "definitionEn": "to make something smaller in amount",
+    "example": "Walking to work helps reduce traffic and pollution.",
+    "exampleTranslation": "Đi bộ đi làm giúp giảm kẹt xe và ô nhiễm.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8007,
+    "headword": "hurricane",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhʌrɪkən/",
+    "phoneticUs": "/ˈhɜːrəkeɪn/",
+    "meaningVi": "bão lớn, cuồng phong",
+    "definitionEn": "a very strong storm with fast circular winds",
+    "example": "The hurricane destroyed hundreds of homes along the coast.",
+    "exampleTranslation": "Cơn bão lớn đã phá hủy hàng trăm ngôi nhà ven biển.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8008,
+    "headword": "sewage",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsuːɪdʒ/",
+    "phoneticUs": "/ˈsuːɪdʒ/",
+    "meaningVi": "nước thải, chất thải sinh hoạt",
+    "definitionEn": "waste water and waste from toilets carried in pipes",
+    "example": "Untreated sewage should never flow into the sea.",
+    "exampleTranslation": "Nước thải chưa xử lý không bao giờ được chảy ra biển.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8009,
+    "headword": "acid rain",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌæsɪd ˈreɪn/",
+    "phoneticUs": "/ˌæsɪd ˈreɪn/",
+    "meaningVi": "mưa axit",
+    "definitionEn": "rain made harmful by gases from factories and cars",
+    "example": "Acid rain has damaged many forests in Europe.",
+    "exampleTranslation": "Mưa axit đã làm hại nhiều khu rừng ở châu Âu.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8010,
+    "headword": "air quality",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈeə ˌkwɒləti/",
+    "phoneticUs": "/ˈer ˌkwɑːləti/",
+    "meaningVi": "chất lượng không khí",
+    "definitionEn": "how clean or dirty the air is",
+    "example": "Air quality is poor in the city today.",
+    "exampleTranslation": "Hôm nay chất lượng không khí trong thành phố rất kém.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate",
+      "toeic-energy-environment"
+    ]
+  },
+  {
+    "id": 8011,
+    "headword": "carbon dioxide",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌkɑːbən daɪˈɒksaɪd/",
+    "phoneticUs": "/ˌkɑːrbən daɪˈɑːksaɪd/",
+    "meaningVi": "khí CO2, các-bon-níc",
+    "definitionEn": "a gas that people and cars produce and that warms the Earth",
+    "example": "Trees take in carbon dioxide from the air.",
+    "exampleTranslation": "Cây cối hấp thụ khí CO2 từ không khí.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8012,
+    "headword": "exhaust fumes",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪɡˈzɔːst fjuːmz/",
+    "phoneticUs": "/ɪɡˈzɔːst fjuːmz/",
+    "meaningVi": "khói xả (xe)",
+    "definitionEn": "bad-smelling gases from a car engine",
+    "example": "Cyclists breathe in a lot of exhaust fumes in traffic.",
+    "exampleTranslation": "Người đạp xe hít nhiều khói xả khi đi giữa dòng xe.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8013,
+    "headword": "oil spill",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈɔɪl spɪl/",
+    "phoneticUs": "/ˈɔɪl spɪl/",
+    "meaningVi": "sự cố tràn dầu",
+    "definitionEn": "oil accidentally escaping into the sea",
+    "example": "The oil spill killed thousands of seabirds.",
+    "exampleTranslation": "Sự cố tràn dầu đã giết chết hàng nghìn con chim biển.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8014,
+    "headword": "overfishing",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌəʊvəˈfɪʃɪŋ/",
+    "phoneticUs": "/ˌoʊvərˈfɪʃɪŋ/",
+    "meaningVi": "đánh bắt quá mức",
+    "definitionEn": "catching so many fish that numbers fall",
+    "example": "Overfishing is emptying the oceans of fish.",
+    "exampleTranslation": "Đánh bắt quá mức đang làm cạn kiệt cá ở đại dương.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8015,
+    "headword": "poaching",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpəʊtʃɪŋ/",
+    "phoneticUs": "/ˈpoʊtʃɪŋ/",
+    "meaningVi": "nạn săn trộm",
+    "definitionEn": "illegally hunting animals",
+    "example": "Poaching has pushed rhinos close to extinction.",
+    "exampleTranslation": "Nạn săn trộm đã đẩy tê giác đến bờ tuyệt chủng.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8016,
+    "headword": "coral reef",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈkɒrəl riːf/",
+    "phoneticUs": "/ˈkɔːrəl riːf/",
+    "meaningVi": "rạn san hô",
+    "definitionEn": "a line of hard sea plants and animals near the surface of the sea",
+    "example": "Warm water is killing coral reefs around the world.",
+    "exampleTranslation": "Nước ấm đang giết chết các rạn san hô trên thế giới.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8017,
+    "headword": "glacier",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɡlæsiə/",
+    "phoneticUs": "/ˈɡleɪʃər/",
+    "meaningVi": "sông băng",
+    "definitionEn": "a large mass of ice that moves slowly down a valley",
+    "example": "The glacier is getting smaller every year.",
+    "exampleTranslation": "Sông băng nhỏ đi mỗi năm.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8018,
+    "headword": "tornado",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/tɔːˈneɪdəʊ/",
+    "phoneticUs": "/tɔːrˈneɪdoʊ/",
+    "meaningVi": "lốc xoáy",
+    "definitionEn": "a very strong, spinning wind that destroys things",
+    "example": "A tornado hit the small town last night.",
+    "exampleTranslation": "Một cơn lốc xoáy đã tấn công thị trấn nhỏ đêm qua.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8019,
+    "headword": "earthquake",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɜːθkweɪk/",
+    "phoneticUs": "/ˈɜːrθkweɪk/",
+    "meaningVi": "trận động đất",
+    "definitionEn": "a sudden shaking of the ground",
+    "example": "The earthquake damaged many old buildings.",
+    "exampleTranslation": "Trận động đất làm hư hại nhiều tòa nhà cũ.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8020,
+    "headword": "tsunami",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/tsuːˈnɑːmi/",
+    "phoneticUs": "/tsuːˈnɑːmi/",
+    "meaningVi": "sóng thần",
+    "definitionEn": "a huge sea wave caused by an earthquake",
+    "example": "The tsunami destroyed villages along the coast.",
+    "exampleTranslation": "Sóng thần đã phá hủy nhiều ngôi làng ven biển.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8021,
+    "headword": "wildfire",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈwaɪldfaɪə/",
+    "phoneticUs": "/ˈwaɪldfaɪər/",
+    "meaningVi": "cháy rừng",
+    "definitionEn": "a large fire that spreads quickly through forests",
+    "example": "Hot dry weather increases the risk of wildfires.",
+    "exampleTranslation": "Thời tiết nóng khô làm tăng nguy cơ cháy rừng.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8022,
+    "headword": "landslide",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlændslaɪd/",
+    "phoneticUs": "/ˈlændslaɪd/",
+    "meaningVi": "sạt lở đất",
+    "definitionEn": "a fall of earth and rocks down a hill",
+    "example": "Heavy rain caused a landslide that blocked the road.",
+    "exampleTranslation": "Mưa lớn gây sạt lở làm tắc đường.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8023,
+    "headword": "famine",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfæmɪn/",
+    "phoneticUs": "/ˈfæmɪn/",
+    "meaningVi": "nạn đói",
+    "definitionEn": "a time when many people have little or no food",
+    "example": "Drought led to famine in the region.",
+    "exampleTranslation": "Hạn hán dẫn đến nạn đói trong vùng.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate",
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 8024,
+    "headword": "wind turbine",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈwɪnd ˌtɜːbaɪn/",
+    "phoneticUs": "/ˈwɪnd ˌtɜːrbaɪn/",
+    "meaningVi": "tuabin gió",
+    "definitionEn": "a tall machine that makes electricity from wind",
+    "example": "A new wind turbine farm opened near the coast.",
+    "exampleTranslation": "Một trang trại tuabin gió mới mở gần bờ biển.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8025,
+    "headword": "hydropower",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhaɪdrəʊpaʊə/",
+    "phoneticUs": "/ˈhaɪdroʊpaʊər/",
+    "meaningVi": "thủy điện",
+    "definitionEn": "electricity made from moving water",
+    "example": "Hydropower supplies much of the country's electricity.",
+    "exampleTranslation": "Thủy điện cung cấp phần lớn điện của đất nước.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8026,
+    "headword": "nuclear power",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌnjuːkliə ˈpaʊə/",
+    "phoneticUs": "/ˌnuːkliər ˈpaʊər/",
+    "meaningVi": "điện hạt nhân",
+    "definitionEn": "electricity made from the energy in atoms",
+    "example": "Some countries rely on nuclear power for clean energy.",
+    "exampleTranslation": "Một số nước dựa vào điện hạt nhân để có năng lượng sạch.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8027,
+    "headword": "litter",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlɪtə/",
+    "phoneticUs": "/ˈlɪtər/",
+    "meaningVi": "rác vứt bừa bãi",
+    "definitionEn": "rubbish left in public places",
+    "example": "Please do not leave litter on the beach.",
+    "exampleTranslation": "Xin đừng vứt rác bừa bãi trên bãi biển.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8028,
+    "headword": "national park",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌnæʃnəl ˈpɑːk/",
+    "phoneticUs": "/ˌnæʃnəl ˈpɑːrk/",
+    "meaningVi": "vườn quốc gia",
+    "definitionEn": "a large area of land protected by the government",
+    "example": "Cuc Phuong is Vietnam's oldest national park.",
+    "exampleTranslation": "Cúc Phương là vườn quốc gia lâu đời nhất của Việt Nam.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8029,
+    "headword": "vegetation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌvedʒəˈteɪʃn/",
+    "phoneticUs": "/ˌvedʒəˈteɪʃn/",
+    "meaningVi": "thảm thực vật",
+    "definitionEn": "plants that grow in a particular place",
+    "example": "The island has thick tropical vegetation.",
+    "exampleTranslation": "Hòn đảo có thảm thực vật nhiệt đới dày đặc.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8030,
+    "headword": "threaten",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈθretn/",
+    "phoneticUs": "/ˈθretn/",
+    "meaningVi": "đe dọa",
+    "definitionEn": "to be a danger to something",
+    "example": "Climate change threatens many animal species.",
+    "exampleTranslation": "Biến đổi khí hậu đe dọa nhiều loài động vật.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8031,
+    "headword": "harvest",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhɑːvɪst/",
+    "phoneticUs": "/ˈhɑːrvɪst/",
+    "meaningVi": "vụ thu hoạch",
+    "definitionEn": "the time or act of gathering crops",
+    "example": "Drought ruined this year's rice harvest.",
+    "exampleTranslation": "Hạn hán đã làm hỏng vụ lúa năm nay.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8032,
+    "headword": "second-hand",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌsekənd ˈhænd/",
+    "phoneticUs": "/ˌsekənd ˈhænd/",
+    "meaningVi": "đã qua sử dụng, đồ cũ",
+    "definitionEn": "owned by someone else before",
+    "example": "Buying second-hand clothes reduces waste.",
+    "exampleTranslation": "Mua quần áo đã qua sử dụng giúp giảm rác thải.",
+    "levelId": 4,
+    "topics": [
+      "environment-climate"
+    ]
+  },
+  {
+    "id": 8033,
+    "headword": "cloud storage",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈklaʊd ˌstɔːrɪdʒ/",
+    "phoneticUs": "/ˈklaʊd ˌstɔːrɪdʒ/",
+    "meaningVi": "lưu trữ đám mây",
+    "definitionEn": "saving files on internet servers instead of your device",
+    "example": "I keep my photos in cloud storage as a backup.",
+    "exampleTranslation": "Tôi lưu ảnh trên đám mây để dự phòng.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8034,
+    "headword": "broadband",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbrɔːdbænd/",
+    "phoneticUs": "/ˈbrɔːdbænd/",
+    "meaningVi": "internet băng rộng",
+    "definitionEn": "a fast internet connection",
+    "example": "We finally got broadband in our village.",
+    "exampleTranslation": "Cuối cùng làng chúng tôi cũng có internet băng rộng.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8037,
+    "headword": "drone",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/drəʊn/",
+    "phoneticUs": "/droʊn/",
+    "meaningVi": "máy bay không người lái, flycam",
+    "definitionEn": "a small aircraft flown without a pilot on board",
+    "example": "He filmed the wedding with a drone.",
+    "exampleTranslation": "Anh ấy quay đám cưới bằng flycam.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8038,
+    "headword": "laptop",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlæptɒp/",
+    "phoneticUs": "/ˈlæptɑːp/",
+    "meaningVi": "máy tính xách tay",
+    "definitionEn": "a small computer you can carry around",
+    "example": "I take my laptop to work every day.",
+    "exampleTranslation": "Tôi mang laptop đi làm mỗi ngày.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8041,
+    "headword": "virtual reality",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌvɜːtʃuəl riˈæləti/",
+    "phoneticUs": "/ˌvɜːrtʃuəl riˈæləti/",
+    "meaningVi": "thực tế ảo",
+    "definitionEn": "a computer-made world that you can feel you are inside",
+    "example": "Students use virtual reality to explore ancient Rome.",
+    "exampleTranslation": "Học sinh dùng thực tế ảo để khám phá La Mã cổ đại.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8042,
+    "headword": "3D printing",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌθriː diː ˈprɪntɪŋ/",
+    "phoneticUs": "/ˌθriː diː ˈprɪntɪŋ/",
+    "meaningVi": "in 3D",
+    "definitionEn": "making solid objects from a computer design",
+    "example": "3D printing is used to make parts for machines.",
+    "exampleTranslation": "In 3D được dùng để làm các bộ phận cho máy móc.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8043,
+    "headword": "self-driving",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌself ˈdraɪvɪŋ/",
+    "phoneticUs": "/ˌself ˈdraɪvɪŋ/",
+    "meaningVi": "tự lái",
+    "definitionEn": "able to move without a human driver",
+    "example": "Self-driving cars are being tested on city roads.",
+    "exampleTranslation": "Xe tự lái đang được thử nghiệm trên đường phố.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8044,
+    "headword": "electric car",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪˈlektrɪk kɑː/",
+    "phoneticUs": "/ɪˈlektrɪk kɑːr/",
+    "meaningVi": "xe điện",
+    "definitionEn": "a car powered by a battery instead of petrol",
+    "example": "An electric car is cheaper to run than a petrol one.",
+    "exampleTranslation": "Xe điện chạy tốn ít chi phí hơn xe xăng.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8045,
+    "headword": "chatbot",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtʃætbɒt/",
+    "phoneticUs": "/ˈtʃætbɑːt/",
+    "meaningVi": "chatbot, trợ lý trò chuyện tự động",
+    "definitionEn": "a program that talks with people online",
+    "example": "The bank's chatbot answers simple questions at night.",
+    "exampleTranslation": "Chatbot của ngân hàng trả lời các câu hỏi đơn giản vào ban đêm.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet",
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 8046,
+    "headword": "machine learning",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/məˈʃiːn ˌlɜːnɪŋ/",
+    "phoneticUs": "/məˈʃiːn ˌlɜːrnɪŋ/",
+    "meaningVi": "học máy",
+    "definitionEn": "computers learning from data without being told every step",
+    "example": "Machine learning helps apps suggest songs you might like.",
+    "exampleTranslation": "Học máy giúp ứng dụng gợi ý bài hát bạn có thể thích.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet",
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 8047,
+    "headword": "big data",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌbɪɡ ˈdeɪtə/",
+    "phoneticUs": "/ˌbɪɡ ˈdeɪtə/",
+    "meaningVi": "dữ liệu lớn",
+    "definitionEn": "very large amounts of information studied by computers",
+    "example": "Companies use big data to understand their customers.",
+    "exampleTranslation": "Các công ty dùng dữ liệu lớn để hiểu khách hàng.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet",
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 8048,
+    "headword": "cryptocurrency",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkrɪptəʊˌkʌrənsi/",
+    "phoneticUs": "/ˈkrɪptoʊˌkɜːrənsi/",
+    "meaningVi": "tiền mã hóa",
+    "definitionEn": "digital money that exists only online",
+    "example": "Many people are unsure whether cryptocurrency is safe.",
+    "exampleTranslation": "Nhiều người không chắc tiền mã hóa có an toàn không.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8049,
+    "headword": "online shopping",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌɒnlaɪn ˈʃɒpɪŋ/",
+    "phoneticUs": "/ˌɑːnlaɪn ˈʃɑːpɪŋ/",
+    "meaningVi": "mua sắm trực tuyến",
+    "definitionEn": "buying goods on the internet",
+    "example": "Online shopping saves me a lot of time.",
+    "exampleTranslation": "Mua sắm trực tuyến giúp tôi tiết kiệm nhiều thời gian.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8050,
+    "headword": "video call",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈvɪdiəʊ kɔːl/",
+    "phoneticUs": "/ˈvɪdioʊ kɔːl/",
+    "meaningVi": "cuộc gọi video",
+    "definitionEn": "a phone call in which you can see the other person",
+    "example": "I have a video call with my parents every Sunday.",
+    "exampleTranslation": "Tôi gọi video với bố mẹ vào mỗi Chủ nhật.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8051,
+    "headword": "podcast",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpɒdkɑːst/",
+    "phoneticUs": "/ˈpɑːdkæst/",
+    "meaningVi": "podcast, chương trình âm thanh trực tuyến",
+    "definitionEn": "an audio programme you download or stream",
+    "example": "I listen to a history podcast on my way to work.",
+    "exampleTranslation": "Tôi nghe một podcast lịch sử trên đường đi làm.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8052,
+    "headword": "antivirus",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌæntiˈvaɪrəs/",
+    "phoneticUs": "/ˌæntiˈvaɪrəs/",
+    "meaningVi": "phần mềm diệt virus",
+    "definitionEn": "a program that finds and removes computer viruses",
+    "example": "Install antivirus software to protect your files.",
+    "exampleTranslation": "Hãy cài phần mềm diệt virus để bảo vệ tệp của bạn.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8053,
+    "headword": "router",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈruːtə/",
+    "phoneticUs": "/ˈraʊtər/",
+    "meaningVi": "bộ định tuyến, bộ phát Wi-Fi",
+    "definitionEn": "a device that sends the internet signal around your home",
+    "example": "Turn the router off and on if the Wi-Fi stops.",
+    "exampleTranslation": "Hãy tắt rồi bật lại bộ phát Wi-Fi nếu mạng bị mất.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8054,
+    "headword": "hotspot",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhɒtspɒt/",
+    "phoneticUs": "/ˈhɑːtspɑːt/",
+    "meaningVi": "điểm phát Wi-Fi",
+    "definitionEn": "a place or device that gives wireless internet",
+    "example": "I used my phone as a hotspot on the train.",
+    "exampleTranslation": "Tôi dùng điện thoại làm điểm phát Wi-Fi trên tàu.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8056,
+    "headword": "buffering",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbʌfərɪŋ/",
+    "phoneticUs": "/ˈbʌfərɪŋ/",
+    "meaningVi": "đang tải (video bị giật)",
+    "definitionEn": "waiting for a video to load because the connection is slow",
+    "example": "The video kept buffering because of the bad connection.",
+    "exampleTranslation": "Video cứ bị giật vì kết nối kém.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8057,
+    "headword": "username",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈjuːzəneɪm/",
+    "phoneticUs": "/ˈjuːzərneɪm/",
+    "meaningVi": "tên đăng nhập",
+    "definitionEn": "the name you use to enter a website or account",
+    "example": "Please enter your username and password.",
+    "exampleTranslation": "Vui lòng nhập tên đăng nhập và mật khẩu.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet",
+      "toeic-technology-it"
+    ]
+  },
+  {
+    "id": 8058,
+    "headword": "bug",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/bʌɡ/",
+    "phoneticUs": "/bʌɡ/",
+    "meaningVi": "lỗi phần mềm",
+    "definitionEn": "a mistake in a computer program",
+    "example": "The latest update fixed several bugs.",
+    "exampleTranslation": "Bản cập nhật mới nhất đã sửa nhiều lỗi.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8060,
+    "headword": "coding",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkəʊdɪŋ/",
+    "phoneticUs": "/ˈkoʊdɪŋ/",
+    "meaningVi": "lập trình, viết mã",
+    "definitionEn": "writing instructions for computers",
+    "example": "Many schools now teach coding to young children.",
+    "exampleTranslation": "Nhiều trường hiện dạy lập trình cho trẻ nhỏ.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8061,
+    "headword": "startup",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈstɑːtʌp/",
+    "phoneticUs": "/ˈstɑːrtʌp/",
+    "meaningVi": "công ty khởi nghiệp",
+    "definitionEn": "a new small company, often based on a technology idea",
+    "example": "He left his job to start a tech startup.",
+    "exampleTranslation": "Anh ấy bỏ việc để mở một công ty công nghệ khởi nghiệp.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8062,
+    "headword": "digital divide",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌdɪdʒɪtl dɪˈvaɪd/",
+    "phoneticUs": "/ˌdɪdʒɪtl dɪˈvaɪd/",
+    "meaningVi": "khoảng cách số",
+    "definitionEn": "the gap between people who can use technology and those who cannot",
+    "example": "The digital divide leaves rural students behind.",
+    "exampleTranslation": "Khoảng cách số khiến học sinh nông thôn bị tụt lại.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8063,
+    "headword": "voice assistant",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈvɔɪs əˌsɪstənt/",
+    "phoneticUs": "/ˈvɔɪs əˌsɪstənt/",
+    "meaningVi": "trợ lý giọng nói",
+    "definitionEn": "a program that does tasks when you speak to it",
+    "example": "I ask my voice assistant to set an alarm.",
+    "exampleTranslation": "Tôi nhờ trợ lý giọng nói đặt báo thức.",
+    "levelId": 3,
+    "topics": [
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 8066,
+    "headword": "primary school",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈpraɪməri ˌskuːl/",
+    "phoneticUs": "/ˈpraɪmeri ˌskuːl/",
+    "meaningVi": "trường tiểu học",
+    "definitionEn": "a school for children from about five to eleven",
+    "example": "He walks to primary school with his brother.",
+    "exampleTranslation": "Cậu bé đi bộ đến trường tiểu học cùng anh trai.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8067,
+    "headword": "secondary school",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈsekəndri ˌskuːl/",
+    "phoneticUs": "/ˈsekənderi ˌskuːl/",
+    "meaningVi": "trường trung học",
+    "definitionEn": "a school for students from about eleven to eighteen",
+    "example": "She studies science at a secondary school in Hue.",
+    "exampleTranslation": "Cô ấy học môn khoa học ở một trường trung học tại Huế.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8068,
+    "headword": "enrol",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪnˈrəʊl/",
+    "phoneticUs": "/ɪnˈroʊl/",
+    "meaningVi": "đăng ký nhập học",
+    "definitionEn": "to officially join a school or course",
+    "example": "I want to enrol in an evening English class.",
+    "exampleTranslation": "Tôi muốn đăng ký một lớp tiếng Anh buổi tối.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8069,
+    "headword": "syllabus",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɪləbəs/",
+    "phoneticUs": "/ˈsɪləbəs/",
+    "meaningVi": "đề cương môn học",
+    "definitionEn": "a list of topics that a course will cover",
+    "example": "The teacher gave us the syllabus on the first day.",
+    "exampleTranslation": "Giáo viên phát đề cương môn học cho chúng tôi vào ngày đầu.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8070,
+    "headword": "coursework",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkɔːswɜːk/",
+    "phoneticUs": "/ˈkɔːrswɜːrk/",
+    "meaningVi": "bài tập trong khóa học",
+    "definitionEn": "work students do during a course, not in exams",
+    "example": "Coursework counts for forty percent of the final grade.",
+    "exampleTranslation": "Bài tập trong khóa học chiếm bốn mươi phần trăm điểm cuối.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8074,
+    "headword": "cram",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kræm/",
+    "phoneticUs": "/kræm/",
+    "meaningVi": "học nhồi nhét",
+    "definitionEn": "to study a lot in a short time before an exam",
+    "example": "I had to cram all night for the history test.",
+    "exampleTranslation": "Tôi phải học nhồi cả đêm cho bài kiểm tra lịch sử.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8075,
+    "headword": "skip class",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/skɪp klɑːs/",
+    "phoneticUs": "/skɪp klæs/",
+    "meaningVi": "trốn học, bỏ tiết",
+    "definitionEn": "to not go to a lesson that you should attend",
+    "example": "He skipped class to play football with friends.",
+    "exampleTranslation": "Cậu ấy trốn tiết để đá bóng với bạn.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8076,
+    "headword": "catch up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kætʃ ʌp/",
+    "phoneticUs": "/kætʃ ʌp/",
+    "meaningVi": "theo kịp, bắt kịp",
+    "definitionEn": "to reach the same level as others",
+    "example": "I missed a week of lessons and need to catch up.",
+    "exampleTranslation": "Tôi nghỉ một tuần học nên cần bắt kịp bài.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8077,
+    "headword": "elective",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪˈlektɪv/",
+    "phoneticUs": "/ɪˈlektɪv/",
+    "meaningVi": "môn tự chọn",
+    "definitionEn": "a subject that students choose to study",
+    "example": "I took photography as my elective this term.",
+    "exampleTranslation": "Học kỳ này tôi chọn nhiếp ảnh làm môn tự chọn.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8079,
+    "headword": "lecturer",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlektʃərə/",
+    "phoneticUs": "/ˈlektʃərər/",
+    "meaningVi": "giảng viên",
+    "definitionEn": "a teacher at a university",
+    "example": "Our lecturer explains difficult ideas very clearly.",
+    "exampleTranslation": "Giảng viên của chúng tôi giải thích những ý khó rất rõ ràng.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8080,
+    "headword": "dissertation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌdɪsəˈteɪʃn/",
+    "phoneticUs": "/ˌdɪsərˈteɪʃn/",
+    "meaningVi": "luận văn",
+    "definitionEn": "a long piece of writing for a university degree",
+    "example": "He is writing his dissertation on climate policy.",
+    "exampleTranslation": "Anh ấy đang viết luận văn về chính sách khí hậu.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8081,
+    "headword": "literate",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈlɪtərət/",
+    "phoneticUs": "/ˈlɪtərət/",
+    "meaningVi": "biết đọc biết viết",
+    "definitionEn": "able to read and write",
+    "example": "Almost every adult in the country is now literate.",
+    "exampleTranslation": "Gần như mọi người lớn trong nước giờ đều biết chữ.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8082,
+    "headword": "diploma",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dɪˈpləʊmə/",
+    "phoneticUs": "/dɪˈploʊmə/",
+    "meaningVi": "bằng, chứng chỉ tốt nghiệp",
+    "definitionEn": "an official paper that shows you finished a course",
+    "example": "She received her diploma at the graduation ceremony.",
+    "exampleTranslation": "Cô ấy nhận bằng tốt nghiệp tại lễ tốt nghiệp.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8083,
+    "headword": "postgraduate",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌpəʊstˈɡrædʒuət/",
+    "phoneticUs": "/ˌpoʊstˈɡrædʒuət/",
+    "meaningVi": "sau đại học; học viên sau đại học",
+    "definitionEn": "a student who has a first degree and studies further",
+    "example": "He is a postgraduate studying economics in London.",
+    "exampleTranslation": "Anh ấy là nghiên cứu sinh ngành kinh tế ở Luân Đôn.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8084,
+    "headword": "faculty",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfæklti/",
+    "phoneticUs": "/ˈfæklti/",
+    "meaningVi": "khoa (đại học); đội ngũ giảng viên",
+    "definitionEn": "a department of a university",
+    "example": "She studies in the Faculty of Law.",
+    "exampleTranslation": "Cô ấy học ở khoa Luật.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8085,
+    "headword": "tuition fee",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/tjuˈɪʃn fiː/",
+    "phoneticUs": "/tuˈɪʃn fiː/",
+    "meaningVi": "học phí",
+    "definitionEn": "money you pay to take classes",
+    "example": "Tuition fees have gone up again this year.",
+    "exampleTranslation": "Học phí năm nay lại tăng.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8086,
+    "headword": "student loan",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈstjuːdnt ləʊn/",
+    "phoneticUs": "/ˈstuːdnt loʊn/",
+    "meaningVi": "khoản vay sinh viên",
+    "definitionEn": "money borrowed to pay for university",
+    "example": "Many graduates spend years paying back their student loan.",
+    "exampleTranslation": "Nhiều người mới tốt nghiệp mất nhiều năm trả khoản vay sinh viên.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8087,
+    "headword": "boarding school",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈbɔːdɪŋ skuːl/",
+    "phoneticUs": "/ˈbɔːrdɪŋ skuːl/",
+    "meaningVi": "trường nội trú",
+    "definitionEn": "a school where students live during the term",
+    "example": "He went to a boarding school far from home.",
+    "exampleTranslation": "Cậu ấy học trường nội trú xa nhà.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8091,
+    "headword": "summarise",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈsʌməraɪz/",
+    "phoneticUs": "/ˈsʌməraɪz/",
+    "meaningVi": "tóm tắt",
+    "definitionEn": "to give the main points of something in a short way",
+    "example": "Please summarise the chapter in three sentences.",
+    "exampleTranslation": "Hãy tóm tắt chương này trong ba câu.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8092,
+    "headword": "participate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/pɑːˈtɪsɪpeɪt/",
+    "phoneticUs": "/pɑːrˈtɪsɪpeɪt/",
+    "meaningVi": "tham gia",
+    "definitionEn": "to take part in an activity",
+    "example": "Everyone is encouraged to participate in class discussions.",
+    "exampleTranslation": "Mọi người được khuyến khích tham gia thảo luận trên lớp.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8093,
+    "headword": "distract",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/dɪˈstrækt/",
+    "phoneticUs": "/dɪˈstrækt/",
+    "meaningVi": "làm xao nhãng",
+    "definitionEn": "to take someone's attention away from what they are doing",
+    "example": "Noise from the street distracts me while I study.",
+    "exampleTranslation": "Tiếng ồn ngoài phố làm tôi xao nhãng khi học.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8094,
+    "headword": "problem-solving",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈprɒbləm ˌsɒlvɪŋ/",
+    "phoneticUs": "/ˈprɑːbləm ˌsɑːlvɪŋ/",
+    "meaningVi": "kỹ năng giải quyết vấn đề",
+    "definitionEn": "the ability to find answers to difficult questions",
+    "example": "Group projects improve problem-solving skills.",
+    "exampleTranslation": "Dự án nhóm cải thiện kỹ năng giải quyết vấn đề.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8095,
+    "headword": "creativity",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌkriːeɪˈtɪvəti/",
+    "phoneticUs": "/ˌkriːeɪˈtɪvəti/",
+    "meaningVi": "sự sáng tạo",
+    "definitionEn": "the ability to produce new and original ideas",
+    "example": "Art classes help children develop creativity.",
+    "exampleTranslation": "Giờ mỹ thuật giúp trẻ phát triển sự sáng tạo.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8096,
+    "headword": "self-study",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌself ˈstʌdi/",
+    "phoneticUs": "/ˌself ˈstʌdi/",
+    "meaningVi": "tự học",
+    "definitionEn": "learning by yourself without a teacher",
+    "example": "Self-study takes patience and good planning.",
+    "exampleTranslation": "Tự học đòi hỏi sự kiên nhẫn và kế hoạch tốt.",
+    "levelId": 3,
+    "topics": [
+      "education-learning"
+    ]
+  },
+  {
+    "id": 8097,
+    "headword": "community",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kəˈmjuːnəti/",
+    "phoneticUs": "/kəˈmjuːnəti/",
+    "meaningVi": "cộng đồng",
+    "definitionEn": "a group of people who live in the same area",
+    "example": "The whole community came together to help the family.",
+    "exampleTranslation": "Cả cộng đồng đã cùng nhau giúp đỡ gia đình đó.",
+    "levelId": 3,
+    "topics": [
+      "society-community",
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 8098,
+    "headword": "fundraising",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfʌndreɪzɪŋ/",
+    "phoneticUs": "/ˈfʌndreɪzɪŋ/",
+    "meaningVi": "hoạt động gây quỹ",
+    "definitionEn": "collecting money for a cause",
+    "example": "The school held a fundraising event for the hospital.",
+    "exampleTranslation": "Trường tổ chức sự kiện gây quỹ cho bệnh viện.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8099,
+    "headword": "equality",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪˈkwɒləti/",
+    "phoneticUs": "/ɪˈkwɑːləti/",
+    "meaningVi": "sự bình đẳng",
+    "definitionEn": "the same rights and chances for everyone",
+    "example": "Many people march for gender equality.",
+    "exampleTranslation": "Nhiều người xuống đường vì bình đẳng giới.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8100,
+    "headword": "immigrant",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɪmɪɡrənt/",
+    "phoneticUs": "/ˈɪmɪɡrənt/",
+    "meaningVi": "người nhập cư",
+    "definitionEn": "a person who comes to live in a new country",
+    "example": "Her parents were immigrants from Vietnam.",
+    "exampleTranslation": "Bố mẹ cô ấy là người nhập cư từ Việt Nam.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8101,
+    "headword": "refugee",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌrefjuˈdʒiː/",
+    "phoneticUs": "/ˌrefjuˈdʒiː/",
+    "meaningVi": "người tị nạn",
+    "definitionEn": "a person forced to leave their country because of danger",
+    "example": "The camp gives food and shelter to refugees.",
+    "exampleTranslation": "Trại cung cấp thức ăn và chỗ ở cho người tị nạn.",
+    "levelId": 3,
+    "topics": [
+      "society-community",
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 8102,
+    "headword": "minority",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/maɪˈnɒrəti/",
+    "phoneticUs": "/məˈnɔːrəti/",
+    "meaningVi": "nhóm thiểu số",
+    "definitionEn": "a smaller group within a larger society",
+    "example": "The village is home to an ethnic minority.",
+    "exampleTranslation": "Ngôi làng là nơi sinh sống của một dân tộc thiểu số.",
+    "levelId": 3,
+    "topics": [
+      "society-community",
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 8103,
+    "headword": "social worker",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈsəʊʃl ˌwɜːkə/",
+    "phoneticUs": "/ˈsoʊʃl ˌwɜːrkər/",
+    "meaningVi": "nhân viên công tác xã hội",
+    "definitionEn": "a person whose job is to help people with serious problems",
+    "example": "A social worker helped the family find a new home.",
+    "exampleTranslation": "Một nhân viên công tác xã hội đã giúp gia đình tìm nhà mới.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8105,
+    "headword": "social media addiction",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌsəʊʃl ˈmiːdiə əˈdɪkʃn/",
+    "phoneticUs": "/ˌsoʊʃl ˈmiːdiə əˈdɪkʃn/",
+    "meaningVi": "nghiện mạng xã hội",
+    "definitionEn": "being unable to stop using social networks",
+    "example": "Social media addiction can harm teenagers' sleep.",
+    "exampleTranslation": "Nghiện mạng xã hội có thể ảnh hưởng giấc ngủ của thanh thiếu niên.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8106,
+    "headword": "anti-social",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌænti ˈsəʊʃl/",
+    "phoneticUs": "/ˌænti ˈsoʊʃl/",
+    "meaningVi": "gây phiền toái cho cộng đồng; không thích giao tiếp",
+    "definitionEn": "harmful or annoying to other people",
+    "example": "Loud music at night is anti-social behaviour.",
+    "exampleTranslation": "Mở nhạc to ban đêm là hành vi gây phiền cho mọi người.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8107,
+    "headword": "civic",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈsɪvɪk/",
+    "phoneticUs": "/ˈsɪvɪk/",
+    "meaningVi": "thuộc công dân, thuộc thành phố",
+    "definitionEn": "relating to a town or to the people who live there",
+    "example": "Voting is an important civic duty.",
+    "exampleTranslation": "Bỏ phiếu là nghĩa vụ công dân quan trọng.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8108,
+    "headword": "social issue",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈsəʊʃl ˌɪʃuː/",
+    "phoneticUs": "/ˈsoʊʃl ˌɪʃuː/",
+    "meaningVi": "vấn đề xã hội",
+    "definitionEn": "a problem that affects many people in a society",
+    "example": "Homelessness is a major social issue in big cities.",
+    "exampleTranslation": "Tình trạng vô gia cư là vấn đề xã hội lớn ở các thành phố.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8109,
+    "headword": "raise awareness",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/reɪz əˈweənəs/",
+    "phoneticUs": "/reɪz əˈwernəs/",
+    "meaningVi": "nâng cao nhận thức",
+    "definitionEn": "to help people learn about an important problem",
+    "example": "The campaign aims to raise awareness of mental health.",
+    "exampleTranslation": "Chiến dịch nhằm nâng cao nhận thức về sức khỏe tâm thần.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8111,
+    "headword": "gap between rich and poor",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡæp bɪˈtwiːn rɪtʃ ənd pɔː/",
+    "phoneticUs": "/ɡæp bɪˈtwiːn rɪtʃ ənd pɔːr/",
+    "meaningVi": "khoảng cách giàu nghèo",
+    "definitionEn": "the big difference in wealth between people",
+    "example": "The gap between rich and poor keeps growing.",
+    "exampleTranslation": "Khoảng cách giàu nghèo ngày càng lớn.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8112,
+    "headword": "solidarity",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌsɒlɪˈdærəti/",
+    "phoneticUs": "/ˌsɑːləˈdærəti/",
+    "meaningVi": "sự đoàn kết",
+    "definitionEn": "support and unity among people with the same aims",
+    "example": "People showed great solidarity after the storm.",
+    "exampleTranslation": "Mọi người thể hiện sự đoàn kết lớn sau cơn bão.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8113,
+    "headword": "homelessness",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhəʊmləsnəs/",
+    "phoneticUs": "/ˈhoʊmləsnəs/",
+    "meaningVi": "tình trạng vô gia cư",
+    "definitionEn": "the state of having no place to live",
+    "example": "Homelessness is rising in many large cities.",
+    "exampleTranslation": "Tình trạng vô gia cư đang tăng ở nhiều thành phố lớn.",
+    "levelId": 3,
+    "topics": [
+      "society-community",
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 8114,
+    "headword": "shelter",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈʃeltə/",
+    "phoneticUs": "/ˈʃeltər/",
+    "meaningVi": "nơi trú ẩn, mái ấm",
+    "definitionEn": "a place that protects people from danger or bad weather",
+    "example": "The charity runs a shelter for homeless families.",
+    "exampleTranslation": "Tổ chức từ thiện điều hành một mái ấm cho các gia đình vô gia cư.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8115,
+    "headword": "food bank",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈfuːd bæŋk/",
+    "phoneticUs": "/ˈfuːd bæŋk/",
+    "meaningVi": "ngân hàng thực phẩm",
+    "definitionEn": "a place that gives free food to people in need",
+    "example": "The food bank gives meals to hundreds of families each week.",
+    "exampleTranslation": "Ngân hàng thực phẩm phát bữa ăn cho hàng trăm gia đình mỗi tuần.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8116,
+    "headword": "donation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dəʊˈneɪʃn/",
+    "phoneticUs": "/doʊˈneɪʃn/",
+    "meaningVi": "khoản quyên góp",
+    "definitionEn": "money or goods given to help others",
+    "example": "The hospital gratefully accepted the donation.",
+    "exampleTranslation": "Bệnh viện biết ơn đón nhận khoản quyên góp.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8118,
+    "headword": "petition",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pəˈtɪʃn/",
+    "phoneticUs": "/pəˈtɪʃn/",
+    "meaningVi": "bản kiến nghị, đơn thỉnh nguyện",
+    "definitionEn": "a document signed by many people asking for a change",
+    "example": "Over a thousand people signed the petition.",
+    "exampleTranslation": "Hơn một nghìn người đã ký vào bản kiến nghị.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8119,
+    "headword": "racism",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈreɪsɪzəm/",
+    "phoneticUs": "/ˈreɪsɪzəm/",
+    "meaningVi": "nạn phân biệt chủng tộc",
+    "definitionEn": "unfair treatment based on a person's race",
+    "example": "Schools have a duty to teach children about racism.",
+    "exampleTranslation": "Nhà trường có trách nhiệm dạy trẻ về nạn phân biệt chủng tộc.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8120,
+    "headword": "domestic violence",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/dəˌmestɪk ˈvaɪələns/",
+    "phoneticUs": "/dəˌmestɪk ˈvaɪələns/",
+    "meaningVi": "bạo lực gia đình",
+    "definitionEn": "violence between people living in the same home",
+    "example": "The charity supports victims of domestic violence.",
+    "exampleTranslation": "Tổ chức từ thiện hỗ trợ nạn nhân bạo lực gia đình.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8121,
+    "headword": "social security",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌsəʊʃl sɪˈkjʊərəti/",
+    "phoneticUs": "/ˌsoʊʃl sɪˈkjʊrəti/",
+    "meaningVi": "an sinh xã hội, bảo hiểm xã hội",
+    "definitionEn": "money from the government for people who cannot work",
+    "example": "Social security helps older people who have no savings.",
+    "exampleTranslation": "An sinh xã hội giúp người già không có tiền tiết kiệm.",
+    "levelId": 3,
+    "topics": [
+      "society-community",
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 8123,
+    "headword": "congestion",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kənˈdʒestʃən/",
+    "phoneticUs": "/kənˈdʒestʃən/",
+    "meaningVi": "sự ùn tắc",
+    "definitionEn": "a situation with too much traffic or too many people",
+    "example": "The city charges drivers to reduce congestion.",
+    "exampleTranslation": "Thành phố thu phí người lái xe để giảm ùn tắc.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8125,
+    "headword": "countryside",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkʌntrisaɪd/",
+    "phoneticUs": "/ˈkʌntrisaɪd/",
+    "meaningVi": "vùng nông thôn",
+    "definitionEn": "land outside towns, with fields and villages",
+    "example": "We spent the weekend walking in the countryside.",
+    "exampleTranslation": "Chúng tôi dành cuối tuần đi bộ ở vùng quê.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8126,
+    "headword": "gentrification",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌdʒentrɪfɪˈkeɪʃn/",
+    "phoneticUs": "/ˌdʒentrɪfɪˈkeɪʃn/",
+    "meaningVi": "quá trình tân trang khu dân cư (làm giá nhà tăng, dân nghèo phải dời đi)",
+    "definitionEn": "when a poor area becomes richer and old residents are pushed out",
+    "example": "Gentrification has made rents too high for local families.",
+    "exampleTranslation": "Quá trình tân trang khu phố khiến tiền thuê quá cao với các gia đình địa phương.",
+    "levelId": 3,
+    "topics": [
+      "society-community",
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 8127,
+    "headword": "urbanisation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌɜːbənaɪˈzeɪʃn/",
+    "phoneticUs": "/ˌɜːrbənəˈzeɪʃn/",
+    "meaningVi": "đô thị hóa",
+    "definitionEn": "the growth of towns and cities",
+    "example": "Rapid urbanisation has led to housing shortages.",
+    "exampleTranslation": "Đô thị hóa nhanh dẫn đến thiếu nhà ở.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8128,
+    "headword": "asylum",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/əˈsaɪləm/",
+    "phoneticUs": "/əˈsaɪləm/",
+    "meaningVi": "quyền tị nạn, nơi trú ẩn",
+    "definitionEn": "protection given to people who leave their country for safety",
+    "example": "He applied for asylum after fleeing the war.",
+    "exampleTranslation": "Anh ấy xin tị nạn sau khi trốn khỏi chiến tranh.",
+    "levelId": 3,
+    "topics": [
+      "society-community"
+    ]
+  },
+  {
+    "id": 8129,
+    "headword": "newspaper",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈnjuːzpeɪpə/",
+    "phoneticUs": "/ˈnuːzpeɪpər/",
+    "meaningVi": "tờ báo",
+    "definitionEn": "printed sheets with news, sold daily or weekly",
+    "example": "My grandfather reads the newspaper every morning.",
+    "exampleTranslation": "Ông tôi đọc báo mỗi buổi sáng.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8130,
+    "headword": "press",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pres/",
+    "phoneticUs": "/pres/",
+    "meaningVi": "báo chí",
+    "definitionEn": "newspapers and journalists as a group",
+    "example": "The press was waiting outside the court.",
+    "exampleTranslation": "Báo chí đang chờ bên ngoài tòa án.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8132,
+    "headword": "livestream",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlaɪvstriːm/",
+    "phoneticUs": "/ˈlaɪvstriːm/",
+    "meaningVi": "buổi phát trực tiếp",
+    "definitionEn": "a video shown on the internet as it happens",
+    "example": "Thousands watched the concert livestream at home.",
+    "exampleTranslation": "Hàng nghìn người xem buổi hòa nhạc phát trực tiếp tại nhà.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8133,
+    "headword": "rumour",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈruːmə/",
+    "phoneticUs": "/ˈruːmər/",
+    "meaningVi": "tin đồn",
+    "definitionEn": "a story that people repeat but may not be true",
+    "example": "There is a rumour that the company will close.",
+    "exampleTranslation": "Có tin đồn rằng công ty sẽ đóng cửa.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8134,
+    "headword": "credible",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈkredəbl/",
+    "phoneticUs": "/ˈkredəbl/",
+    "meaningVi": "đáng tin cậy",
+    "definitionEn": "able to be believed or trusted",
+    "example": "Check that the website is a credible source.",
+    "exampleTranslation": "Hãy kiểm tra xem trang web có phải nguồn đáng tin không.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8135,
+    "headword": "verify",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈverɪfaɪ/",
+    "phoneticUs": "/ˈverɪfaɪ/",
+    "meaningVi": "xác minh, kiểm chứng",
+    "definitionEn": "to check that something is true",
+    "example": "Always verify a story before you share it.",
+    "exampleTranslation": "Hãy luôn kiểm chứng tin trước khi chia sẻ.",
+    "levelId": 4,
+    "topics": [
+      "media-news",
+      "toeic-technology-it"
+    ]
+  },
+  {
+    "id": 8136,
+    "headword": "exaggerate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪɡˈzædʒəreɪt/",
+    "phoneticUs": "/ɪɡˈzædʒəreɪt/",
+    "meaningVi": "phóng đại",
+    "definitionEn": "to make something seem bigger or better than it is",
+    "example": "The article exaggerated the number of people at the protest.",
+    "exampleTranslation": "Bài báo đã phóng đại số người tham gia biểu tình.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8137,
+    "headword": "opinion piece",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/əˈpɪnjən piːs/",
+    "phoneticUs": "/əˈpɪnjən piːs/",
+    "meaningVi": "bài viết bình luận (quan điểm)",
+    "definitionEn": "an article that gives the writer's own views",
+    "example": "She wrote an opinion piece about school uniforms.",
+    "exampleTranslation": "Cô ấy viết một bài bình luận về đồng phục học sinh.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8138,
+    "headword": "trending",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈtrendɪŋ/",
+    "phoneticUs": "/ˈtrendɪŋ/",
+    "meaningVi": "đang thịnh hành, đang là xu hướng",
+    "definitionEn": "very popular on social media at the moment",
+    "example": "The video has been trending all week.",
+    "exampleTranslation": "Video đó đã là xu hướng suốt cả tuần.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8139,
+    "headword": "go viral",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡəʊ ˈvaɪrəl/",
+    "phoneticUs": "/ɡoʊ ˈvaɪrəl/",
+    "meaningVi": "lan truyền chóng mặt (trên mạng)",
+    "definitionEn": "to be shared very quickly by many people online",
+    "example": "Her cooking video went viral overnight.",
+    "exampleTranslation": "Video nấu ăn của cô ấy lan truyền chóng mặt chỉ sau một đêm.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8140,
+    "headword": "feed",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/fiːd/",
+    "phoneticUs": "/fiːd/",
+    "meaningVi": "bảng tin (mạng xã hội)",
+    "definitionEn": "the page where you see new posts from others",
+    "example": "My feed is full of holiday photos right now.",
+    "exampleTranslation": "Bảng tin của tôi lúc này toàn ảnh đi nghỉ.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8141,
+    "headword": "media outlet",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈmiːdiə ˌaʊtlet/",
+    "phoneticUs": "/ˈmiːdiə ˌaʊtlet/",
+    "meaningVi": "cơ quan truyền thông",
+    "definitionEn": "a company that produces news, such as a TV channel",
+    "example": "Several media outlets reported the same story.",
+    "exampleTranslation": "Nhiều cơ quan truyền thông đưa cùng một tin.",
+    "levelId": 4,
+    "topics": [
+      "media-news",
+      "toeic-advertising-media"
+    ]
+  },
+  {
+    "id": 8142,
+    "headword": "newsletter",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈnjuːzletə/",
+    "phoneticUs": "/ˈnuːzletər/",
+    "meaningVi": "bản tin (gửi qua email)",
+    "definitionEn": "a short report sent regularly to people who signed up",
+    "example": "I read a weekly newsletter about technology.",
+    "exampleTranslation": "Tôi đọc một bản tin công nghệ hằng tuần.",
+    "levelId": 4,
+    "topics": [
+      "media-news",
+      "toeic-advertising-media"
+    ]
+  },
+  {
+    "id": 8143,
+    "headword": "front page",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌfrʌnt ˈpeɪdʒ/",
+    "phoneticUs": "/ˌfrʌnt ˈpeɪdʒ/",
+    "meaningVi": "trang nhất (báo)",
+    "definitionEn": "the first page of a newspaper",
+    "example": "The scandal was on the front page of every paper.",
+    "exampleTranslation": "Vụ bê bối nằm trên trang nhất của mọi tờ báo.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8144,
+    "headword": "magazine",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌmæɡəˈziːn/",
+    "phoneticUs": "/ˌmæɡəˈziːn/",
+    "meaningVi": "tạp chí",
+    "definitionEn": "a thin book with articles and pictures, published regularly",
+    "example": "She reads a fashion magazine every month.",
+    "exampleTranslation": "Cô ấy đọc một tạp chí thời trang mỗi tháng.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8145,
+    "headword": "presenter",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/prɪˈzentə/",
+    "phoneticUs": "/prɪˈzentər/",
+    "meaningVi": "người dẫn chương trình",
+    "definitionEn": "a person who introduces a TV or radio programme",
+    "example": "The news presenter spoke calmly about the storm.",
+    "exampleTranslation": "Người dẫn bản tin nói bình tĩnh về cơn bão.",
+    "levelId": 4,
+    "topics": [
+      "media-news",
+      "toeic-events-conferences"
+    ]
+  },
+  {
+    "id": 8146,
+    "headword": "talk show",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈtɔːk ʃəʊ/",
+    "phoneticUs": "/ˈtɔːk ʃoʊ/",
+    "meaningVi": "chương trình trò chuyện (talk show)",
+    "definitionEn": "a TV programme where a host talks to guests",
+    "example": "The actor appeared on a late-night talk show.",
+    "exampleTranslation": "Nam diễn viên xuất hiện trong một talk show đêm khuya.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8147,
+    "headword": "reality show",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/riˈæləti ʃəʊ/",
+    "phoneticUs": "/riˈæləti ʃoʊ/",
+    "meaningVi": "chương trình truyền hình thực tế",
+    "definitionEn": "a TV programme about real people in unusual situations",
+    "example": "Many young people dream of joining a reality show.",
+    "exampleTranslation": "Nhiều bạn trẻ mơ được tham gia chương trình truyền hình thực tế.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8150,
+    "headword": "blogger",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈblɒɡə/",
+    "phoneticUs": "/ˈblɑːɡər/",
+    "meaningVi": "người viết blog",
+    "definitionEn": "a person who writes a blog online",
+    "example": "The travel blogger shares tips about cheap flights.",
+    "exampleTranslation": "Blogger du lịch chia sẻ mẹo về vé máy bay giá rẻ.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8151,
+    "headword": "troll",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/trəʊl/",
+    "phoneticUs": "/troʊl/",
+    "meaningVi": "người chuyên gây hấn trên mạng",
+    "definitionEn": "a person who posts rude comments online to upset others",
+    "example": "Ignore the trolls and do not reply to them.",
+    "exampleTranslation": "Hãy lờ những kẻ gây hấn và đừng trả lời họ.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8152,
+    "headword": "hoax",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/həʊks/",
+    "phoneticUs": "/hoʊks/",
+    "meaningVi": "tin giả, trò lừa bịp",
+    "definitionEn": "a trick to make people believe something false",
+    "example": "The story about the shark in the river was a hoax.",
+    "exampleTranslation": "Câu chuyện về cá mập ở sông chỉ là trò lừa bịp.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8153,
+    "headword": "conspiracy theory",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kənˌspɪrəsi ˈθɪəri/",
+    "phoneticUs": "/kənˌspɪrəsi ˈθɪri/",
+    "meaningVi": "thuyết âm mưu",
+    "definitionEn": "a belief that secret powers control events",
+    "example": "He believes every conspiracy theory he reads online.",
+    "exampleTranslation": "Anh ấy tin mọi thuyết âm mưu mà đọc được trên mạng.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8155,
+    "headword": "media literacy",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈmiːdiə ˌlɪtərəsi/",
+    "phoneticUs": "/ˈmiːdiə ˌlɪtərəsi/",
+    "meaningVi": "kỹ năng hiểu và đánh giá truyền thông",
+    "definitionEn": "the ability to judge news and online content carefully",
+    "example": "Schools should teach media literacy to teenagers.",
+    "exampleTranslation": "Nhà trường nên dạy thanh thiếu niên kỹ năng đánh giá truyền thông.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8156,
+    "headword": "scoop",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/skuːp/",
+    "phoneticUs": "/skuːp/",
+    "meaningVi": "tin độc quyền, tin nóng đăng đầu tiên",
+    "definitionEn": "an important news story printed before other papers",
+    "example": "The reporter got a scoop about the minister's resignation.",
+    "exampleTranslation": "Phóng viên có được tin độc quyền về việc bộ trưởng từ chức.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8157,
+    "headword": "exclusive",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪkˈskluːsɪv/",
+    "phoneticUs": "/ɪkˈskluːsɪv/",
+    "meaningVi": "bài/tin độc quyền",
+    "definitionEn": "a story published by only one newspaper or channel",
+    "example": "The magazine has an exclusive interview with the singer.",
+    "exampleTranslation": "Tạp chí có bài phỏng vấn độc quyền với ca sĩ.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8158,
+    "headword": "eyewitness",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈaɪwɪtnəs/",
+    "phoneticUs": "/ˈaɪwɪtnəs/",
+    "meaningVi": "nhân chứng tận mắt",
+    "definitionEn": "a person who saw an event happen",
+    "example": "An eyewitness described the accident to the police.",
+    "exampleTranslation": "Một nhân chứng tận mắt kể lại vụ tai nạn cho cảnh sát.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8159,
+    "headword": "viewer",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈvjuːə/",
+    "phoneticUs": "/ˈvjuːər/",
+    "meaningVi": "người xem",
+    "definitionEn": "a person who watches TV or videos",
+    "example": "The show attracts millions of viewers each week.",
+    "exampleTranslation": "Chương trình thu hút hàng triệu người xem mỗi tuần.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8160,
+    "headword": "reader",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈriːdə/",
+    "phoneticUs": "/ˈriːdər/",
+    "meaningVi": "độc giả",
+    "definitionEn": "a person who reads a newspaper or book",
+    "example": "The editor invited readers to send their opinions.",
+    "exampleTranslation": "Biên tập viên mời độc giả gửi ý kiến.",
+    "levelId": 4,
+    "topics": [
+      "media-news"
+    ]
+  },
+  {
+    "id": 8161,
+    "headword": "tradition",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/trəˈdɪʃn/",
+    "phoneticUs": "/trəˈdɪʃn/",
+    "meaningVi": "truyền thống",
+    "definitionEn": "a belief or custom passed down for many years",
+    "example": "Giving red envelopes at Tet is a lovely tradition.",
+    "exampleTranslation": "Lì xì ngày Tết là một truyền thống đẹp.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8162,
+    "headword": "folklore",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfəʊklɔː/",
+    "phoneticUs": "/ˈfoʊklɔːr/",
+    "meaningVi": "văn hóa dân gian",
+    "definitionEn": "old stories and beliefs of a community",
+    "example": "The village is rich in folklore and legends.",
+    "exampleTranslation": "Ngôi làng giàu truyện dân gian và truyền thuyết.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8163,
+    "headword": "myth",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/mɪθ/",
+    "phoneticUs": "/mɪθ/",
+    "meaningVi": "thần thoại; điều hoang đường",
+    "definitionEn": "an ancient story about gods or heroes",
+    "example": "Greek myths are still popular in films today.",
+    "exampleTranslation": "Thần thoại Hy Lạp vẫn được ưa chuộng trong phim ngày nay.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8164,
+    "headword": "pilgrimage",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpɪlɡrɪmɪdʒ/",
+    "phoneticUs": "/ˈpɪlɡrɪmɪdʒ/",
+    "meaningVi": "cuộc hành hương",
+    "definitionEn": "a journey to a holy place",
+    "example": "Thousands make a pilgrimage to the temple every spring.",
+    "exampleTranslation": "Hàng nghìn người hành hương đến ngôi đền mỗi mùa xuân.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8165,
+    "headword": "monument",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmɒnjumənt/",
+    "phoneticUs": "/ˈmɑːnjumənt/",
+    "meaningVi": "tượng đài, di tích",
+    "definitionEn": "a building or statue that honours a person or event",
+    "example": "The monument was built to remember the soldiers.",
+    "exampleTranslation": "Tượng đài được dựng để tưởng nhớ các chiến sĩ.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions",
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 8167,
+    "headword": "ancient",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈeɪnʃənt/",
+    "phoneticUs": "/ˈeɪnʃənt/",
+    "meaningVi": "cổ xưa, cổ đại",
+    "definitionEn": "very old, from a time long ago",
+    "example": "The museum has ancient Egyptian jewellery.",
+    "exampleTranslation": "Bảo tàng có đồ trang sức Ai Cập cổ đại.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions",
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 8168,
+    "headword": "artefact",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɑːtɪfækt/",
+    "phoneticUs": "/ˈɑːrtɪfækt/",
+    "meaningVi": "cổ vật, hiện vật",
+    "definitionEn": "an old object made by people, with historical interest",
+    "example": "Museum staff carefully cleaned the ancient artefact.",
+    "exampleTranslation": "Nhân viên bảo tàng cẩn thận lau chùi cổ vật.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8169,
+    "headword": "ethnic",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈeθnɪk/",
+    "phoneticUs": "/ˈeθnɪk/",
+    "meaningVi": "thuộc dân tộc",
+    "definitionEn": "relating to a group of people with the same culture",
+    "example": "Vietnam has fifty-four ethnic groups.",
+    "exampleTranslation": "Việt Nam có năm mươi bốn dân tộc.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8170,
+    "headword": "folk song",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈfəʊk sɒŋ/",
+    "phoneticUs": "/ˈfoʊk sɔːŋ/",
+    "meaningVi": "dân ca",
+    "definitionEn": "a traditional song of a region or people",
+    "example": "The children learned an old folk song at school.",
+    "exampleTranslation": "Bọn trẻ học một bài dân ca cũ ở trường.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8171,
+    "headword": "handicraft",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhændikrɑːft/",
+    "phoneticUs": "/ˈhændikræft/",
+    "meaningVi": "đồ thủ công",
+    "definitionEn": "objects made by hand with skill",
+    "example": "The village is famous for its bamboo handicrafts.",
+    "exampleTranslation": "Ngôi làng nổi tiếng với đồ thủ công bằng tre.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8172,
+    "headword": "embroidery",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪmˈbrɔɪdəri/",
+    "phoneticUs": "/ɪmˈbrɔɪdəri/",
+    "meaningVi": "nghề thêu, đồ thêu",
+    "definitionEn": "the art of sewing patterns onto cloth",
+    "example": "Her grandmother taught her traditional embroidery.",
+    "exampleTranslation": "Bà dạy cô nghề thêu truyền thống.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8173,
+    "headword": "tribute",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtrɪbjuːt/",
+    "phoneticUs": "/ˈtrɪbjuːt/",
+    "meaningVi": "sự tưởng nhớ, lời tri ân",
+    "definitionEn": "something done or said to show respect",
+    "example": "The concert was a tribute to the famous singer.",
+    "exampleTranslation": "Buổi hòa nhạc là lời tri ân dành cho ca sĩ nổi tiếng.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8174,
+    "headword": "commemorate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kəˈmeməreɪt/",
+    "phoneticUs": "/kəˈmeməreɪt/",
+    "meaningVi": "tưởng niệm, kỷ niệm",
+    "definitionEn": "to remember an important person or event with a ceremony",
+    "example": "Every year the town commemorates the end of the war.",
+    "exampleTranslation": "Mỗi năm thị trấn tổ chức lễ tưởng niệm ngày kết thúc chiến tranh.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8175,
+    "headword": "parade",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pəˈreɪd/",
+    "phoneticUs": "/pəˈreɪd/",
+    "meaningVi": "cuộc diễu hành",
+    "definitionEn": "a public march with music and decorations",
+    "example": "Crowds lined the street to watch the carnival parade.",
+    "exampleTranslation": "Đám đông đứng dọc phố xem cuộc diễu hành lễ hội.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8176,
+    "headword": "lantern",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlæntən/",
+    "phoneticUs": "/ˈlæntərn/",
+    "meaningVi": "đèn lồng",
+    "definitionEn": "a light inside a paper or glass case",
+    "example": "Children carry colourful lanterns at the Mid-Autumn Festival.",
+    "exampleTranslation": "Trẻ em cầm đèn lồng đủ màu trong Tết Trung thu.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8177,
+    "headword": "offering",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɒfərɪŋ/",
+    "phoneticUs": "/ˈɔːfərɪŋ/",
+    "meaningVi": "đồ cúng, lễ vật",
+    "definitionEn": "something given to a god or ancestor as a religious act",
+    "example": "They place fruit and flowers as offerings on the altar.",
+    "exampleTranslation": "Họ đặt hoa quả làm lễ vật trên bàn thờ.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8178,
+    "headword": "preserve culture",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/prɪˈzɜːv ˈkʌltʃə/",
+    "phoneticUs": "/prɪˈzɜːrv ˈkʌltʃər/",
+    "meaningVi": "giữ gìn văn hóa",
+    "definitionEn": "to protect the traditions of a group",
+    "example": "Museums help preserve culture for future generations.",
+    "exampleTranslation": "Bảo tàng giúp giữ gìn văn hóa cho các thế hệ sau.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8179,
+    "headword": "cultural exchange",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌkʌltʃərəl ɪksˈtʃeɪndʒ/",
+    "phoneticUs": "/ˌkʌltʃərəl ɪksˈtʃeɪndʒ/",
+    "meaningVi": "giao lưu văn hóa",
+    "definitionEn": "sharing ideas and customs between different countries",
+    "example": "The school runs a cultural exchange with Japan.",
+    "exampleTranslation": "Trường tổ chức chương trình giao lưu văn hóa với Nhật Bản.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8180,
+    "headword": "shrine",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ʃraɪn/",
+    "phoneticUs": "/ʃraɪn/",
+    "meaningVi": "đền thờ, miếu nhỏ",
+    "definitionEn": "a holy place where people pray or leave offerings",
+    "example": "There is a small shrine at the entrance of the village.",
+    "exampleTranslation": "Có một miếu nhỏ ở lối vào làng.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8181,
+    "headword": "pagoda",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pəˈɡəʊdə/",
+    "phoneticUs": "/pəˈɡoʊdə/",
+    "meaningVi": "ngôi chùa (nhiều tầng)",
+    "definitionEn": "a tall Asian temple with several levels",
+    "example": "We visited a famous pagoda in Hanoi.",
+    "exampleTranslation": "Chúng tôi đã thăm một ngôi chùa nổi tiếng ở Hà Nội.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8182,
+    "headword": "monk",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/mʌŋk/",
+    "phoneticUs": "/mʌŋk/",
+    "meaningVi": "nhà sư, thầy tu",
+    "definitionEn": "a man who lives in a religious community",
+    "example": "The monks chant prayers every morning.",
+    "exampleTranslation": "Các nhà sư tụng kinh mỗi sáng.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8183,
+    "headword": "blessing",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈblesɪŋ/",
+    "phoneticUs": "/ˈblesɪŋ/",
+    "meaningVi": "lời chúc phúc, sự ban phước",
+    "definitionEn": "a wish or prayer for good things to happen",
+    "example": "The couple asked their parents for their blessing.",
+    "exampleTranslation": "Đôi uyên ương xin bố mẹ chúc phúc.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8184,
+    "headword": "rite of passage",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌraɪt əv ˈpæsɪdʒ/",
+    "phoneticUs": "/ˌraɪt əv ˈpæsɪdʒ/",
+    "meaningVi": "nghi lễ chuyển giai đoạn cuộc đời",
+    "definitionEn": "an event that marks an important change in life",
+    "example": "Graduating is a rite of passage in many countries.",
+    "exampleTranslation": "Tốt nghiệp là một cột mốc đánh dấu bước trưởng thành ở nhiều nước.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8185,
+    "headword": "taboo",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/təˈbuː/",
+    "phoneticUs": "/təˈbuː/",
+    "meaningVi": "điều cấm kỵ",
+    "definitionEn": "something people should not do or talk about",
+    "example": "Talking about death is taboo in some families.",
+    "exampleTranslation": "Nói về cái chết là điều cấm kỵ ở một số gia đình.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8186,
+    "headword": "belief",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/bɪˈliːf/",
+    "phoneticUs": "/bɪˈliːf/",
+    "meaningVi": "niềm tin, tín ngưỡng",
+    "definitionEn": "a strong feeling that something is true or right",
+    "example": "Respect other people's religious beliefs.",
+    "exampleTranslation": "Hãy tôn trọng tín ngưỡng của người khác.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8187,
+    "headword": "sacred",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈseɪkrɪd/",
+    "phoneticUs": "/ˈseɪkrɪd/",
+    "meaningVi": "thiêng liêng",
+    "definitionEn": "very important in a religion and treated with great respect",
+    "example": "The mountain is sacred to local people.",
+    "exampleTranslation": "Ngọn núi là nơi thiêng liêng đối với người dân địa phương.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8188,
+    "headword": "relic",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈrelɪk/",
+    "phoneticUs": "/ˈrelɪk/",
+    "meaningVi": "di vật, vật còn sót lại",
+    "definitionEn": "an old object that remains from the past",
+    "example": "The museum displays relics from the royal palace.",
+    "exampleTranslation": "Bảo tàng trưng bày di vật từ cung điện hoàng gia.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions",
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 8189,
+    "headword": "archaeologist",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌɑːkiˈɒlədʒɪst/",
+    "phoneticUs": "/ˌɑːrkiˈɑːlədʒɪst/",
+    "meaningVi": "nhà khảo cổ",
+    "definitionEn": "a person who studies the past by digging up old objects",
+    "example": "Archaeologists found a tomb near the river.",
+    "exampleTranslation": "Các nhà khảo cổ tìm thấy một ngôi mộ gần sông.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8190,
+    "headword": "ruins",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈruːɪnz/",
+    "phoneticUs": "/ˈruːɪnz/",
+    "meaningVi": "tàn tích, phế tích",
+    "definitionEn": "the broken remains of an old building",
+    "example": "We walked around the ruins of an ancient temple.",
+    "exampleTranslation": "Chúng tôi đi dạo quanh tàn tích một ngôi đền cổ.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions",
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 8191,
+    "headword": "dynasty",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdɪnəsti/",
+    "phoneticUs": "/ˈdaɪnəsti/",
+    "meaningVi": "triều đại",
+    "definitionEn": "a family that rules a country for a long time",
+    "example": "The Nguyen dynasty built the imperial city in Hue.",
+    "exampleTranslation": "Triều Nguyễn xây dựng kinh thành ở Huế.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions",
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 8192,
+    "headword": "calligraphy",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kəˈlɪɡrəfi/",
+    "phoneticUs": "/kəˈlɪɡrəfi/",
+    "meaningVi": "thư pháp",
+    "definitionEn": "the art of beautiful handwriting",
+    "example": "People buy calligraphy as a gift at Tet.",
+    "exampleTranslation": "Người ta mua thư pháp làm quà vào dịp Tết.",
+    "levelId": 3,
+    "topics": [
+      "culture-traditions"
+    ]
+  },
+  {
+    "id": 8193,
+    "headword": "research",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/rɪˈsɜːtʃ/",
+    "phoneticUs": "/ˈriːsɜːrtʃ/",
+    "meaningVi": "nghiên cứu",
+    "definitionEn": "careful study to find new facts",
+    "example": "Medical research has saved millions of lives.",
+    "exampleTranslation": "Nghiên cứu y học đã cứu sống hàng triệu người.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8194,
+    "headword": "data analysis",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈdeɪtə əˌnæləsɪs/",
+    "phoneticUs": "/ˈdeɪtə əˌnæləsɪs/",
+    "meaningVi": "phân tích dữ liệu",
+    "definitionEn": "studying numbers to find patterns",
+    "example": "Data analysis showed that sales rose in summer.",
+    "exampleTranslation": "Phân tích dữ liệu cho thấy doanh số tăng vào mùa hè.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8195,
+    "headword": "telescope",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtelɪskəʊp/",
+    "phoneticUs": "/ˈtelɪskoʊp/",
+    "meaningVi": "kính thiên văn",
+    "definitionEn": "a tool that makes faraway objects look closer",
+    "example": "He saw Jupiter through his new telescope.",
+    "exampleTranslation": "Anh ấy nhìn thấy sao Mộc qua chiếc kính thiên văn mới.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8196,
+    "headword": "orbit",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɔːbɪt/",
+    "phoneticUs": "/ˈɔːrbɪt/",
+    "meaningVi": "quỹ đạo",
+    "definitionEn": "the path of an object moving around another in space",
+    "example": "The satellite stays in orbit above the Earth.",
+    "exampleTranslation": "Vệ tinh nằm trên quỹ đạo phía trên Trái Đất.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8197,
+    "headword": "spacecraft",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈspeɪskrɑːft/",
+    "phoneticUs": "/ˈspeɪskræft/",
+    "meaningVi": "tàu vũ trụ",
+    "definitionEn": "a vehicle that travels in space",
+    "example": "The spacecraft landed safely on the moon.",
+    "exampleTranslation": "Tàu vũ trụ đã hạ cánh an toàn lên mặt trăng.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8198,
+    "headword": "atom",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈætəm/",
+    "phoneticUs": "/ˈætəm/",
+    "meaningVi": "nguyên tử",
+    "definitionEn": "the smallest part of a chemical element",
+    "example": "Everything around us is made of atoms.",
+    "exampleTranslation": "Mọi thứ quanh ta đều cấu tạo từ nguyên tử.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8199,
+    "headword": "chemical",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkemɪkl/",
+    "phoneticUs": "/ˈkemɪkl/",
+    "meaningVi": "hóa chất",
+    "definitionEn": "a substance used in or made by chemistry",
+    "example": "Wear gloves when you handle chemicals.",
+    "exampleTranslation": "Hãy đeo găng tay khi xử lý hóa chất.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8200,
+    "headword": "DNA",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌdiː en ˈeɪ/",
+    "phoneticUs": "/ˌdiː en ˈeɪ/",
+    "meaningVi": "ADN (vật chất di truyền)",
+    "definitionEn": "the material in cells that carries genetic information",
+    "example": "Police compared the DNA found at the scene.",
+    "exampleTranslation": "Cảnh sát đã so sánh ADN tìm thấy tại hiện trường.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8201,
+    "headword": "species",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈspiːʃiːz/",
+    "phoneticUs": "/ˈspiːʃiːz/",
+    "meaningVi": "loài (sinh vật)",
+    "definitionEn": "a group of animals or plants of the same kind",
+    "example": "Scientists found a new species of frog in the forest.",
+    "exampleTranslation": "Các nhà khoa học tìm thấy một loài ếch mới trong rừng.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8202,
+    "headword": "specimen",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈspesɪmən/",
+    "phoneticUs": "/ˈspesɪmən/",
+    "meaningVi": "mẫu vật",
+    "definitionEn": "a small amount of something taken for study",
+    "example": "She examined a blood specimen under the microscope.",
+    "exampleTranslation": "Cô ấy xem một mẫu máu dưới kính hiển vi.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8204,
+    "headword": "measure",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈmeʒə/",
+    "phoneticUs": "/ˈmeʒər/",
+    "meaningVi": "đo, đo lường",
+    "definitionEn": "to find the size or amount of something",
+    "example": "Use a ruler to measure the length of the leaf.",
+    "exampleTranslation": "Hãy dùng thước để đo chiều dài chiếc lá.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8205,
+    "headword": "accurate",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈækjərət/",
+    "phoneticUs": "/ˈækjərət/",
+    "meaningVi": "chính xác",
+    "definitionEn": "correct and exact",
+    "example": "The thermometer gives very accurate readings.",
+    "exampleTranslation": "Nhiệt kế cho kết quả đo rất chính xác.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8206,
+    "headword": "breakthrough discovery",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈbreɪkθruː dɪˈskʌvəri/",
+    "phoneticUs": "/ˈbreɪkθruː dɪˈskʌvəri/",
+    "meaningVi": "phát hiện mang tính đột phá",
+    "definitionEn": "a very important new finding",
+    "example": "Penicillin was a breakthrough discovery for medicine.",
+    "exampleTranslation": "Penicillin là phát hiện mang tính đột phá của y học.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8207,
+    "headword": "microbe",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmaɪkrəʊb/",
+    "phoneticUs": "/ˈmaɪkroʊb/",
+    "meaningVi": "vi sinh vật",
+    "definitionEn": "a very small living thing you need a microscope to see",
+    "example": "Some microbes in the gut are good for health.",
+    "exampleTranslation": "Một số vi sinh vật trong ruột có lợi cho sức khỏe.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8208,
+    "headword": "artificial",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌɑːtɪˈfɪʃl/",
+    "phoneticUs": "/ˌɑːrtɪˈfɪʃl/",
+    "meaningVi": "nhân tạo",
+    "definitionEn": "made by people, not natural",
+    "example": "Scientists are creating artificial skin for burn patients.",
+    "exampleTranslation": "Các nhà khoa học đang tạo da nhân tạo cho bệnh nhân bỏng.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8209,
+    "headword": "clone",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kləʊn/",
+    "phoneticUs": "/kloʊn/",
+    "meaningVi": "nhân bản (vô tính)",
+    "definitionEn": "to make an exact copy of a living thing",
+    "example": "Scientists cloned a sheep named Dolly in 1996.",
+    "exampleTranslation": "Các nhà khoa học đã nhân bản cừu Dolly năm 1996.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8210,
+    "headword": "inventor",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪnˈventə/",
+    "phoneticUs": "/ɪnˈventər/",
+    "meaningVi": "nhà phát minh",
+    "definitionEn": "a person who creates something new",
+    "example": "The inventor of the telephone was Alexander Graham Bell.",
+    "exampleTranslation": "Nhà phát minh ra điện thoại là Alexander Graham Bell.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8211,
+    "headword": "physicist",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfɪzɪsɪst/",
+    "phoneticUs": "/ˈfɪzɪsɪst/",
+    "meaningVi": "nhà vật lý",
+    "definitionEn": "a scientist who studies energy and matter",
+    "example": "The physicist explained how light travels.",
+    "exampleTranslation": "Nhà vật lý giải thích cách ánh sáng truyền đi.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8212,
+    "headword": "biologist",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/baɪˈɒlədʒɪst/",
+    "phoneticUs": "/baɪˈɑːlədʒɪst/",
+    "meaningVi": "nhà sinh học",
+    "definitionEn": "a scientist who studies living things",
+    "example": "The biologist studies birds in the wetlands.",
+    "exampleTranslation": "Nhà sinh học nghiên cứu các loài chim ở vùng đất ngập nước.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8213,
+    "headword": "astronomer",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/əˈstrɒnəmə/",
+    "phoneticUs": "/əˈstrɑːnəmər/",
+    "meaningVi": "nhà thiên văn học",
+    "definitionEn": "a scientist who studies stars and planets",
+    "example": "Astronomers have discovered a new planet.",
+    "exampleTranslation": "Các nhà thiên văn đã phát hiện một hành tinh mới.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8214,
+    "headword": "formula",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfɔːmjələ/",
+    "phoneticUs": "/ˈfɔːrmjələ/",
+    "meaningVi": "công thức",
+    "definitionEn": "a set of letters or numbers showing a rule in science",
+    "example": "The formula for water is H2O.",
+    "exampleTranslation": "Công thức của nước là H2O.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8215,
+    "headword": "equation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪˈkweɪʒn/",
+    "phoneticUs": "/ɪˈkweɪʒn/",
+    "meaningVi": "phương trình",
+    "definitionEn": "a mathematical statement that two things are equal",
+    "example": "She solved the equation in two minutes.",
+    "exampleTranslation": "Cô ấy giải phương trình trong hai phút.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8216,
+    "headword": "statistics",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/stəˈtɪstɪks/",
+    "phoneticUs": "/stəˈtɪstɪks/",
+    "meaningVi": "số liệu thống kê",
+    "definitionEn": "numbers that show facts about something",
+    "example": "Statistics show that people are living longer.",
+    "exampleTranslation": "Số liệu thống kê cho thấy con người sống thọ hơn.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery",
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 8218,
+    "headword": "virus",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈvaɪrəs/",
+    "phoneticUs": "/ˈvaɪrəs/",
+    "meaningVi": "vi-rút",
+    "definitionEn": "a tiny living thing that causes disease",
+    "example": "The virus spreads easily in crowded places.",
+    "exampleTranslation": "Vi-rút lây lan dễ dàng ở nơi đông người.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery",
+      "toeic-it-security-data",
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 8219,
+    "headword": "bacteria",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/bækˈtɪəriə/",
+    "phoneticUs": "/bækˈtɪriə/",
+    "meaningVi": "vi khuẩn",
+    "definitionEn": "very small living things, some of which cause disease",
+    "example": "Wash your hands to remove harmful bacteria.",
+    "exampleTranslation": "Hãy rửa tay để loại bỏ vi khuẩn có hại.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery",
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 8220,
+    "headword": "cell",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/sel/",
+    "phoneticUs": "/sel/",
+    "meaningVi": "tế bào",
+    "definitionEn": "the smallest living part of a plant or animal",
+    "example": "Every living thing is made of cells.",
+    "exampleTranslation": "Mọi sinh vật sống đều được cấu tạo từ tế bào.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8221,
+    "headword": "gene",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dʒiːn/",
+    "phoneticUs": "/dʒiːn/",
+    "meaningVi": "gen",
+    "definitionEn": "a part of a cell that controls what a living thing is like",
+    "example": "Eye colour is decided by genes.",
+    "exampleTranslation": "Màu mắt do gen quyết định.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8222,
+    "headword": "mutation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/mjuːˈteɪʃn/",
+    "phoneticUs": "/mjuːˈteɪʃn/",
+    "meaningVi": "đột biến",
+    "definitionEn": "a change in a gene that makes a living thing different",
+    "example": "A mutation in the virus made it spread faster.",
+    "exampleTranslation": "Một đột biến ở vi-rút khiến nó lây nhanh hơn.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery",
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 8223,
+    "headword": "extinction",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪkˈstɪŋkʃn/",
+    "phoneticUs": "/ɪkˈstɪŋkʃn/",
+    "meaningVi": "sự tuyệt chủng",
+    "definitionEn": "when a type of animal or plant no longer exists",
+    "example": "Many species face extinction because of hunting.",
+    "exampleTranslation": "Nhiều loài đối mặt với tuyệt chủng vì bị săn bắt.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8224,
+    "headword": "evolve",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪˈvɒlv/",
+    "phoneticUs": "/ɪˈvɑːlv/",
+    "meaningVi": "tiến hóa, phát triển dần",
+    "definitionEn": "to change slowly over a very long time",
+    "example": "Birds evolved from small dinosaurs.",
+    "exampleTranslation": "Chim tiến hóa từ những loài khủng long nhỏ.",
+    "levelId": 3,
+    "topics": [
+      "science-discovery"
+    ]
+  },
+  {
+    "id": 8226,
+    "headword": "stretch",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/stretʃ/",
+    "phoneticUs": "/stretʃ/",
+    "meaningVi": "giãn cơ, duỗi người",
+    "definitionEn": "to pull your muscles gently to make them longer",
+    "example": "Stretch your legs before you go for a run.",
+    "exampleTranslation": "Hãy giãn cơ chân trước khi đi chạy.",
+    "levelId": 3,
+    "topics": [
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 8230,
+    "headword": "fibre",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfaɪbə/",
+    "phoneticUs": "/ˈfaɪbər/",
+    "meaningVi": "chất xơ",
+    "definitionEn": "a part of food that helps your stomach work",
+    "example": "Beans and vegetables are rich in fibre.",
+    "exampleTranslation": "Đậu và rau củ giàu chất xơ.",
+    "levelId": 3,
+    "topics": [
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 8232,
+    "headword": "cholesterol",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kəˈlestərɒl/",
+    "phoneticUs": "/kəˈlestərɔːl/",
+    "meaningVi": "cholesterol (mỡ máu)",
+    "definitionEn": "a fatty substance in the blood that can harm the heart",
+    "example": "High cholesterol can lead to heart disease.",
+    "exampleTranslation": "Cholesterol cao có thể dẫn đến bệnh tim.",
+    "levelId": 3,
+    "topics": [
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 8233,
+    "headword": "saturated fat",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌsætʃəreɪtɪd ˈfæt/",
+    "phoneticUs": "/ˌsætʃəreɪtɪd ˈfæt/",
+    "meaningVi": "chất béo bão hòa",
+    "definitionEn": "unhealthy fat found in butter and fatty meat",
+    "example": "Try to eat less saturated fat.",
+    "exampleTranslation": "Hãy cố ăn ít chất béo bão hòa hơn.",
+    "levelId": 3,
+    "topics": [
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 8235,
+    "headword": "supplement",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsʌplɪmənt/",
+    "phoneticUs": "/ˈsʌplɪmənt/",
+    "meaningVi": "thực phẩm bổ sung",
+    "definitionEn": "a pill or drink that adds vitamins to your diet",
+    "example": "She takes a vitamin D supplement in winter.",
+    "exampleTranslation": "Cô ấy uống bổ sung vitamin D vào mùa đông.",
+    "levelId": 3,
+    "topics": [
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 8238,
+    "headword": "diabetes",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌdaɪəˈbiːtiːz/",
+    "phoneticUs": "/ˌdaɪəˈbiːtiːz/",
+    "meaningVi": "bệnh tiểu đường",
+    "definitionEn": "an illness in which the body cannot control sugar levels",
+    "example": "Regular exercise can help prevent diabetes.",
+    "exampleTranslation": "Tập thể dục đều đặn có thể giúp ngừa bệnh tiểu đường.",
+    "levelId": 3,
+    "topics": [
+      "health-lifestyle",
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 8241,
+    "headword": "vaccination",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌvæksɪˈneɪʃn/",
+    "phoneticUs": "/ˌvæksɪˈneɪʃn/",
+    "meaningVi": "việc tiêm chủng",
+    "definitionEn": "an injection that protects you from a disease",
+    "example": "Vaccination protects children from serious illnesses.",
+    "exampleTranslation": "Tiêm chủng bảo vệ trẻ em khỏi các bệnh nghiêm trọng.",
+    "levelId": 3,
+    "topics": [
+      "health-lifestyle",
+      "toeic-health-insurance",
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 8243,
+    "headword": "fit",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/fɪt/",
+    "phoneticUs": "/fɪt/",
+    "meaningVi": "khỏe mạnh, cân đối",
+    "definitionEn": "healthy and strong because you exercise",
+    "example": "He stays fit by cycling to work.",
+    "exampleTranslation": "Anh ấy giữ dáng khỏe mạnh bằng cách đạp xe đi làm.",
+    "levelId": 3,
+    "topics": [
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 8244,
+    "headword": "quit smoking",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌkwɪt ˈsməʊkɪŋ/",
+    "phoneticUs": "/ˌkwɪt ˈsmoʊkɪŋ/",
+    "meaningVi": "bỏ thuốc lá",
+    "definitionEn": "to stop smoking cigarettes",
+    "example": "My father finally quit smoking last year.",
+    "exampleTranslation": "Bố tôi cuối cùng đã bỏ thuốc lá vào năm ngoái.",
+    "levelId": 3,
+    "topics": [
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 8246,
+    "headword": "hygiene",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhaɪdʒiːn/",
+    "phoneticUs": "/ˈhaɪdʒiːn/",
+    "meaningVi": "vệ sinh",
+    "definitionEn": "keeping yourself and your surroundings clean",
+    "example": "Good hygiene, like washing hands, prevents illness.",
+    "exampleTranslation": "Vệ sinh tốt, như rửa tay, giúp phòng bệnh.",
+    "levelId": 3,
+    "topics": [
+      "health-lifestyle",
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 8250,
+    "headword": "mineral",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmɪnərəl/",
+    "phoneticUs": "/ˈmɪnərəl/",
+    "meaningVi": "khoáng chất",
+    "definitionEn": "a natural substance such as iron or calcium that the body needs",
+    "example": "Milk is a good source of minerals.",
+    "exampleTranslation": "Sữa là nguồn khoáng chất tốt.",
+    "levelId": 3,
+    "topics": [
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 8251,
+    "headword": "antioxidant",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌæntiˈɒksɪdənt/",
+    "phoneticUs": "/ˌæntiˈɑːksɪdənt/",
+    "meaningVi": "chất chống oxy hóa",
+    "definitionEn": "a substance in food that protects body cells",
+    "example": "Blueberries are rich in antioxidants.",
+    "exampleTranslation": "Quả việt quất giàu chất chống oxy hóa.",
+    "levelId": 3,
+    "topics": [
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 8252,
+    "headword": "whole grain",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌhəʊl ˈɡreɪn/",
+    "phoneticUs": "/ˌhoʊl ˈɡreɪn/",
+    "meaningVi": "ngũ cốc nguyên hạt",
+    "definitionEn": "cereal food with the outer part of the grain kept",
+    "example": "Choose whole grain bread instead of white bread.",
+    "exampleTranslation": "Hãy chọn bánh mì nguyên hạt thay vì bánh mì trắng.",
+    "levelId": 3,
+    "topics": [
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 8254,
+    "headword": "fasting",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfɑːstɪŋ/",
+    "phoneticUs": "/ˈfæstɪŋ/",
+    "meaningVi": "nhịn ăn",
+    "definitionEn": "not eating for a period of time",
+    "example": "Some people try fasting to lose weight.",
+    "exampleTranslation": "Một số người thử nhịn ăn để giảm cân.",
+    "levelId": 3,
+    "topics": [
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 8256,
+    "headword": "cardio",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkɑːdiəʊ/",
+    "phoneticUs": "/ˈkɑːrdioʊ/",
+    "meaningVi": "bài tập tim mạch (cardio)",
+    "definitionEn": "exercise that makes your heart beat faster",
+    "example": "I do thirty minutes of cardio three times a week.",
+    "exampleTranslation": "Tôi tập cardio ba mươi phút mỗi tuần ba lần.",
+    "levelId": 3,
+    "topics": [
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 8257,
+    "headword": "shortlist",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈʃɔːtlɪst/",
+    "phoneticUs": "/ˈʃɔːrtlɪst/",
+    "meaningVi": "danh sách rút gọn (ứng viên)",
+    "definitionEn": "a small group chosen from a larger group for final selection",
+    "example": "She made the shortlist for the manager job.",
+    "exampleTranslation": "Cô ấy lọt vào danh sách rút gọn cho vị trí quản lý.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8258,
+    "headword": "adaptable",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/əˈdæptəbl/",
+    "phoneticUs": "/əˈdæptəbl/",
+    "meaningVi": "dễ thích nghi",
+    "definitionEn": "able to change easily to fit new situations",
+    "example": "Employers value adaptable workers.",
+    "exampleTranslation": "Nhà tuyển dụng đánh giá cao nhân viên dễ thích nghi.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8260,
+    "headword": "determined",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/dɪˈtɜːmɪnd/",
+    "phoneticUs": "/dɪˈtɜːrmɪnd/",
+    "meaningVi": "kiên quyết, quyết tâm",
+    "definitionEn": "having made a firm decision not to give up",
+    "example": "She was determined to finish the course.",
+    "exampleTranslation": "Cô ấy quyết tâm hoàn thành khóa học.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8262,
+    "headword": "self-confidence",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌself ˈkɒnfɪdəns/",
+    "phoneticUs": "/ˌself ˈkɑːnfɪdəns/",
+    "meaningVi": "sự tự tin",
+    "definitionEn": "belief in your own abilities",
+    "example": "Good training will build your self-confidence.",
+    "exampleTranslation": "Được đào tạo tốt sẽ xây dựng sự tự tin cho bạn.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8263,
+    "headword": "time management",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈtaɪm ˌmænɪdʒmənt/",
+    "phoneticUs": "/ˈtaɪm ˌmænɪdʒmənt/",
+    "meaningVi": "quản lý thời gian",
+    "definitionEn": "the skill of using your time well",
+    "example": "Good time management reduces stress at work.",
+    "exampleTranslation": "Quản lý thời gian tốt giảm căng thẳng trong công việc.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8264,
+    "headword": "deadline pressure",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈdedlaɪn ˌpreʃə/",
+    "phoneticUs": "/ˈdedlaɪn ˌpreʃər/",
+    "meaningVi": "áp lực deadline",
+    "definitionEn": "stress caused by having to finish work on time",
+    "example": "He works well under deadline pressure.",
+    "exampleTranslation": "Anh ấy làm việc tốt dưới áp lực deadline.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8265,
+    "headword": "work ethic",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈwɜːk ˌeθɪk/",
+    "phoneticUs": "/ˈwɜːrk ˌeθɪk/",
+    "meaningVi": "đạo đức nghề nghiệp",
+    "definitionEn": "a belief in the value of working hard and honestly",
+    "example": "Her strong work ethic impressed the manager.",
+    "exampleTranslation": "Đạo đức nghề nghiệp tốt của cô khiến quản lý ấn tượng.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8266,
+    "headword": "raise",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/reɪz/",
+    "phoneticUs": "/reɪz/",
+    "meaningVi": "sự tăng lương",
+    "definitionEn": "an increase in the money you earn",
+    "example": "I asked my boss for a raise.",
+    "exampleTranslation": "Tôi đã xin sếp tăng lương.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8267,
+    "headword": "overcome",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˌəʊvəˈkʌm/",
+    "phoneticUs": "/ˌoʊvərˈkʌm/",
+    "meaningVi": "vượt qua (khó khăn)",
+    "definitionEn": "to succeed in dealing with a problem",
+    "example": "She overcame many difficulties to become a doctor.",
+    "exampleTranslation": "Cô ấy vượt qua nhiều khó khăn để trở thành bác sĩ.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8268,
+    "headword": "obstacle",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɒbstəkl/",
+    "phoneticUs": "/ˈɑːbstəkl/",
+    "meaningVi": "trở ngại, chướng ngại",
+    "definitionEn": "something that makes it hard to achieve a goal",
+    "example": "Lack of money was the biggest obstacle for him.",
+    "exampleTranslation": "Thiếu tiền là trở ngại lớn nhất đối với anh.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8270,
+    "headword": "take initiative",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/teɪk ɪˈnɪʃətɪv/",
+    "phoneticUs": "/teɪk ɪˈnɪʃətɪv/",
+    "meaningVi": "chủ động",
+    "definitionEn": "to act without waiting to be told",
+    "example": "Managers like staff who take initiative.",
+    "exampleTranslation": "Quản lý thích nhân viên biết chủ động.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8271,
+    "headword": "strive",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/straɪv/",
+    "phoneticUs": "/straɪv/",
+    "meaningVi": "nỗ lực, phấn đấu",
+    "definitionEn": "to try very hard to achieve something",
+    "example": "We strive to give customers the best service.",
+    "exampleTranslation": "Chúng tôi nỗ lực mang lại dịch vụ tốt nhất cho khách hàng.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8272,
+    "headword": "reputation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌrepjuˈteɪʃn/",
+    "phoneticUs": "/ˌrepjuˈteɪʃn/",
+    "meaningVi": "danh tiếng, uy tín",
+    "definitionEn": "the opinion people have about someone",
+    "example": "She has a good reputation as a teacher.",
+    "exampleTranslation": "Cô ấy có uy tín tốt với tư cách giáo viên.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8274,
+    "headword": "stand out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/stænd aʊt/",
+    "phoneticUs": "/stænd aʊt/",
+    "meaningVi": "nổi bật",
+    "definitionEn": "to be easy to notice because you are better",
+    "example": "Add a short video to stand out from other candidates.",
+    "exampleTranslation": "Hãy thêm video ngắn để nổi bật hơn các ứng viên khác.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8275,
+    "headword": "profession",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/prəˈfeʃn/",
+    "phoneticUs": "/prəˈfeʃn/",
+    "meaningVi": "nghề nghiệp (đòi hỏi chuyên môn)",
+    "definitionEn": "a job that needs special training",
+    "example": "Teaching is a very rewarding profession.",
+    "exampleTranslation": "Dạy học là một nghề rất đáng giá.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8276,
+    "headword": "job security",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈdʒɒb sɪˌkjʊərəti/",
+    "phoneticUs": "/ˈdʒɑːb sɪˌkjʊrəti/",
+    "meaningVi": "sự ổn định công việc",
+    "definitionEn": "the feeling that your job is safe",
+    "example": "Many people prefer government work for job security.",
+    "exampleTranslation": "Nhiều người thích làm nhà nước vì công việc ổn định.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8277,
+    "headword": "permanent",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈpɜːmənənt/",
+    "phoneticUs": "/ˈpɜːrmənənt/",
+    "meaningVi": "chính thức, lâu dài",
+    "definitionEn": "lasting for a long time or for ever",
+    "example": "After a trial period, she got a permanent contract.",
+    "exampleTranslation": "Sau thời gian thử việc, cô ấy được ký hợp đồng chính thức.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8278,
+    "headword": "temporary",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈtemprəri/",
+    "phoneticUs": "/ˈtempəreri/",
+    "meaningVi": "tạm thời",
+    "definitionEn": "lasting for only a short time",
+    "example": "He took a temporary job during the summer.",
+    "exampleTranslation": "Anh ấy nhận một công việc tạm thời trong mùa hè.",
+    "levelId": 4,
+    "topics": [
+      "career-success",
+      "toeic-hr-recruitment"
+    ]
+  },
+  {
+    "id": 8279,
+    "headword": "executive",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪɡˈzekjətɪv/",
+    "phoneticUs": "/ɪɡˈzekjətɪv/",
+    "meaningVi": "giám đốc điều hành, cán bộ cấp cao",
+    "definitionEn": "a senior manager in a company",
+    "example": "The executives meet every Monday to plan the week.",
+    "exampleTranslation": "Ban điều hành họp vào mỗi thứ Hai để lên kế hoạch tuần.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8280,
+    "headword": "remote work",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/rɪˌməʊt ˈwɜːk/",
+    "phoneticUs": "/rɪˌmoʊt ˈwɜːrk/",
+    "meaningVi": "làm việc từ xa",
+    "definitionEn": "working from home or another place outside the office",
+    "example": "Remote work saves me two hours of travel a day.",
+    "exampleTranslation": "Làm việc từ xa giúp tôi tiết kiệm hai giờ đi lại mỗi ngày.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8281,
+    "headword": "competent",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈkɒmpɪtənt/",
+    "phoneticUs": "/ˈkɑːmpɪtənt/",
+    "meaningVi": "có năng lực",
+    "definitionEn": "having the skill to do a job well",
+    "example": "She is a competent manager who solves problems quickly.",
+    "exampleTranslation": "Cô ấy là một quản lý có năng lực, giải quyết vấn đề nhanh.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8282,
+    "headword": "dedicated",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈdedɪkeɪtɪd/",
+    "phoneticUs": "/ˈdedɪkeɪtɪd/",
+    "meaningVi": "tận tâm, tận tụy",
+    "definitionEn": "giving a lot of time and energy to something you care about",
+    "example": "He is a dedicated nurse who often works extra hours.",
+    "exampleTranslation": "Anh là một y tá tận tâm, thường làm thêm giờ.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8283,
+    "headword": "passionate",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈpæʃənət/",
+    "phoneticUs": "/ˈpæʃənət/",
+    "meaningVi": "đam mê, nhiệt huyết",
+    "definitionEn": "having strong feelings or enthusiasm for something",
+    "example": "She is passionate about helping young people.",
+    "exampleTranslation": "Cô ấy đam mê việc giúp đỡ người trẻ.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8284,
+    "headword": "prioritise",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/praɪˈɒrɪtaɪz/",
+    "phoneticUs": "/praɪˈɔːrɪtaɪz/",
+    "meaningVi": "ưu tiên",
+    "definitionEn": "to decide which things are most important and do them first",
+    "example": "Learn to prioritise your tasks when you are busy.",
+    "exampleTranslation": "Hãy học cách ưu tiên công việc khi bạn bận.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8285,
+    "headword": "cooperate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kəʊˈɒpəreɪt/",
+    "phoneticUs": "/koʊˈɑːpəreɪt/",
+    "meaningVi": "hợp tác",
+    "definitionEn": "to work together with others for a shared aim",
+    "example": "The two departments need to cooperate on the project.",
+    "exampleTranslation": "Hai phòng ban cần hợp tác trong dự án.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8287,
+    "headword": "public speaking",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌpʌblɪk ˈspiːkɪŋ/",
+    "phoneticUs": "/ˌpʌblɪk ˈspiːkɪŋ/",
+    "meaningVi": "kỹ năng nói trước đám đông",
+    "definitionEn": "the skill of giving talks to large groups",
+    "example": "Public speaking helped me become more confident.",
+    "exampleTranslation": "Nói trước đám đông giúp tôi tự tin hơn.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8288,
+    "headword": "communication skills",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kəˌmjuːnɪˈkeɪʃn skɪlz/",
+    "phoneticUs": "/kəˌmjuːnɪˈkeɪʃn skɪlz/",
+    "meaningVi": "kỹ năng giao tiếp",
+    "definitionEn": "the ability to share ideas clearly with others",
+    "example": "Good communication skills are important for any job.",
+    "exampleTranslation": "Kỹ năng giao tiếp tốt quan trọng với mọi công việc.",
+    "levelId": 4,
+    "topics": [
+      "career-success"
+    ]
+  },
+  {
+    "id": 8289,
+    "headword": "overspend",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˌəʊvəˈspend/",
+    "phoneticUs": "/ˌoʊvərˈspend/",
+    "meaningVi": "chi tiêu quá mức",
+    "definitionEn": "to spend more money than you can afford",
+    "example": "I overspent on holiday and had to borrow money.",
+    "exampleTranslation": "Tôi chi quá tay trong kỳ nghỉ và phải đi vay tiền.",
+    "levelId": 4,
+    "topics": [
+      "money-economy",
+      "toeic-accounting-budgeting"
+    ]
+  },
+  {
+    "id": 8290,
+    "headword": "splash out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/splæʃ aʊt/",
+    "phoneticUs": "/splæʃ aʊt/",
+    "meaningVi": "chi mạnh tay, vung tiền",
+    "definitionEn": "to spend a lot of money on something special",
+    "example": "We splashed out on a nice hotel for our anniversary.",
+    "exampleTranslation": "Chúng tôi chi mạnh tay cho khách sạn đẹp nhân dịp kỷ niệm.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8292,
+    "headword": "broke",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/brəʊk/",
+    "phoneticUs": "/broʊk/",
+    "meaningVi": "hết sạch tiền (thân mật)",
+    "definitionEn": "having no money at all",
+    "example": "I can't come out tonight because I'm broke.",
+    "exampleTranslation": "Tối nay tôi không đi chơi được vì hết sạch tiền.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8293,
+    "headword": "thrifty",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈθrɪfti/",
+    "phoneticUs": "/ˈθrɪfti/",
+    "meaningVi": "tiết kiệm, biết chi tiêu",
+    "definitionEn": "careful about spending money",
+    "example": "My thrifty aunt never wastes food.",
+    "exampleTranslation": "Dì tôi biết tiết kiệm, không bao giờ lãng phí đồ ăn.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8294,
+    "headword": "unemployment rate",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌʌnɪmˈplɔɪmənt reɪt/",
+    "phoneticUs": "/ˌʌnɪmˈplɔɪmənt reɪt/",
+    "meaningVi": "tỷ lệ thất nghiệp",
+    "definitionEn": "the percentage of people without a job",
+    "example": "The unemployment rate fell to five percent.",
+    "exampleTranslation": "Tỷ lệ thất nghiệp giảm xuống còn năm phần trăm.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8295,
+    "headword": "supply and demand",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/səˌplaɪ ənd dɪˈmɑːnd/",
+    "phoneticUs": "/səˌplaɪ ənd dɪˈmænd/",
+    "meaningVi": "cung và cầu",
+    "definitionEn": "the balance between goods available and people wanting them",
+    "example": "Prices depend on supply and demand.",
+    "exampleTranslation": "Giá cả phụ thuộc vào cung và cầu.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8296,
+    "headword": "bankrupt",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈbæŋkrʌpt/",
+    "phoneticUs": "/ˈbæŋkrʌpt/",
+    "meaningVi": "phá sản",
+    "definitionEn": "unable to pay debts and forced to stop business",
+    "example": "The airline went bankrupt last winter.",
+    "exampleTranslation": "Hãng hàng không đã phá sản vào mùa đông năm ngoái.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8299,
+    "headword": "bank account",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈbæŋk əˌkaʊnt/",
+    "phoneticUs": "/ˈbæŋk əˌkaʊnt/",
+    "meaningVi": "tài khoản ngân hàng",
+    "definitionEn": "an arrangement with a bank to keep your money",
+    "example": "You need a bank account to receive your salary.",
+    "exampleTranslation": "Bạn cần tài khoản ngân hàng để nhận lương.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8300,
+    "headword": "instalment",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪnˈstɔːlmənt/",
+    "phoneticUs": "/ɪnˈstɔːlmənt/",
+    "meaningVi": "khoản trả góp",
+    "definitionEn": "one of several regular payments for something",
+    "example": "We are paying for the sofa in monthly instalments.",
+    "exampleTranslation": "Chúng tôi trả tiền ghế sofa theo từng tháng.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8303,
+    "headword": "pricey",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈpraɪsi/",
+    "phoneticUs": "/ˈpraɪsi/",
+    "meaningVi": "đắt (thân mật)",
+    "definitionEn": "costing a lot of money",
+    "example": "That restaurant is nice but a bit pricey.",
+    "exampleTranslation": "Nhà hàng đó đẹp nhưng hơi đắt.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8304,
+    "headword": "worth",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/wɜːθ/",
+    "phoneticUs": "/wɜːrθ/",
+    "meaningVi": "đáng giá",
+    "definitionEn": "having a certain value, or good enough for the cost",
+    "example": "The old painting is worth a lot of money.",
+    "exampleTranslation": "Bức tranh cũ đó đáng giá rất nhiều tiền.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8305,
+    "headword": "fortune",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfɔːtʃuːn/",
+    "phoneticUs": "/ˈfɔːrtʃən/",
+    "meaningVi": "khối tài sản lớn",
+    "definitionEn": "a very large amount of money",
+    "example": "He made a fortune selling computers.",
+    "exampleTranslation": "Ông ấy kiếm được cả gia tài nhờ bán máy tính.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8306,
+    "headword": "millionaire",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌmɪljəˈneə/",
+    "phoneticUs": "/ˌmɪljəˈner/",
+    "meaningVi": "triệu phú",
+    "definitionEn": "a person who has more than a million pounds or dollars",
+    "example": "The young millionaire gave half his money to charity.",
+    "exampleTranslation": "Chàng triệu phú trẻ tặng một nửa tài sản cho từ thiện.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8307,
+    "headword": "income tax",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈɪnkʌm tæks/",
+    "phoneticUs": "/ˈɪnkʌm tæks/",
+    "meaningVi": "thuế thu nhập",
+    "definitionEn": "a tax you pay on the money you earn",
+    "example": "Income tax is taken from your salary each month.",
+    "exampleTranslation": "Thuế thu nhập được trừ vào lương mỗi tháng.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8308,
+    "headword": "shares",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ʃeəz/",
+    "phoneticUs": "/ʃerz/",
+    "meaningVi": "cổ phiếu",
+    "definitionEn": "parts of a company that people can buy",
+    "example": "He bought shares in a technology company.",
+    "exampleTranslation": "Anh ấy mua cổ phiếu của một công ty công nghệ.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8309,
+    "headword": "boom",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/buːm/",
+    "phoneticUs": "/buːm/",
+    "meaningVi": "sự bùng nổ, thời kỳ hưng thịnh",
+    "definitionEn": "a period of fast growth in business",
+    "example": "The city enjoyed a building boom in the 1990s.",
+    "exampleTranslation": "Thành phố có thời kỳ bùng nổ xây dựng vào thập niên 1990.",
+    "levelId": 4,
+    "topics": [
+      "money-economy",
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 8310,
+    "headword": "trade",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/treɪd/",
+    "phoneticUs": "/treɪd/",
+    "meaningVi": "thương mại, buôn bán",
+    "definitionEn": "the buying and selling of goods",
+    "example": "Trade between the two countries has grown quickly.",
+    "exampleTranslation": "Thương mại giữa hai nước đã tăng nhanh.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8311,
+    "headword": "demand",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dɪˈmɑːnd/",
+    "phoneticUs": "/dɪˈmænd/",
+    "meaningVi": "nhu cầu (thị trường)",
+    "definitionEn": "the amount of a product that people want to buy",
+    "example": "There is high demand for electric cars.",
+    "exampleTranslation": "Nhu cầu xe điện rất cao.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8313,
+    "headword": "retail",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈriːteɪl/",
+    "phoneticUs": "/ˈriːteɪl/",
+    "meaningVi": "bán lẻ",
+    "definitionEn": "the selling of goods to the public in shops",
+    "example": "She works in retail and deals with customers all day.",
+    "exampleTranslation": "Cô ấy làm ngành bán lẻ và tiếp khách cả ngày.",
+    "levelId": 4,
+    "topics": [
+      "money-economy",
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 8314,
+    "headword": "mobile payment",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌməʊbaɪl ˈpeɪmənt/",
+    "phoneticUs": "/ˌmoʊbl ˈpeɪmənt/",
+    "meaningVi": "thanh toán qua điện thoại",
+    "definitionEn": "paying for things using your phone",
+    "example": "Mobile payment is now common in small shops.",
+    "exampleTranslation": "Thanh toán qua điện thoại giờ rất phổ biến ở cửa hàng nhỏ.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8315,
+    "headword": "crowdfunding",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkraʊdfʌndɪŋ/",
+    "phoneticUs": "/ˈkraʊdfʌndɪŋ/",
+    "meaningVi": "gọi vốn cộng đồng",
+    "definitionEn": "raising money for a project from many people online",
+    "example": "They used crowdfunding to make their first film.",
+    "exampleTranslation": "Họ dùng gọi vốn cộng đồng để làm bộ phim đầu tay.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8316,
+    "headword": "pay rise",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈpeɪ raɪz/",
+    "phoneticUs": "/ˈpeɪ raɪz/",
+    "meaningVi": "sự tăng lương",
+    "definitionEn": "an increase in the money you are paid",
+    "example": "Everyone in the team got a pay rise this year.",
+    "exampleTranslation": "Cả nhóm được tăng lương trong năm nay.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8317,
+    "headword": "cost-cutting",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkɒst ˌkʌtɪŋ/",
+    "phoneticUs": "/ˈkɔːst ˌkʌtɪŋ/",
+    "meaningVi": "việc cắt giảm chi phí",
+    "definitionEn": "reducing the money a company spends",
+    "example": "The firm announced cost-cutting plans after poor sales.",
+    "exampleTranslation": "Công ty công bố kế hoạch cắt giảm chi phí sau khi doanh số kém.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8318,
+    "headword": "downsizing",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdaʊnsaɪzɪŋ/",
+    "phoneticUs": "/ˈdaʊnsaɪzɪŋ/",
+    "meaningVi": "việc thu hẹp quy mô, cắt giảm nhân sự",
+    "definitionEn": "making a company smaller by reducing staff",
+    "example": "Downsizing left many workers without jobs.",
+    "exampleTranslation": "Việc thu hẹp quy mô khiến nhiều công nhân mất việc.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8319,
+    "headword": "economic crisis",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌiːkənɒmɪk ˈkraɪsɪs/",
+    "phoneticUs": "/ˌekənɑːmɪk ˈkraɪsɪs/",
+    "meaningVi": "khủng hoảng kinh tế",
+    "definitionEn": "a time when a country's economy is in serious trouble",
+    "example": "The economic crisis forced many shops to close.",
+    "exampleTranslation": "Khủng hoảng kinh tế buộc nhiều cửa hàng đóng cửa.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8320,
+    "headword": "income gap",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈɪnkʌm ɡæp/",
+    "phoneticUs": "/ˈɪnkʌm ɡæp/",
+    "meaningVi": "chênh lệch thu nhập",
+    "definitionEn": "the difference between what rich and poor people earn",
+    "example": "The income gap has widened over the last decade.",
+    "exampleTranslation": "Chênh lệch thu nhập đã nới rộng trong thập kỷ qua.",
+    "levelId": 4,
+    "topics": [
+      "money-economy"
+    ]
+  },
+  {
+    "id": 8321,
+    "headword": "friendship",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfrendʃɪp/",
+    "phoneticUs": "/ˈfrendʃɪp/",
+    "meaningVi": "tình bạn",
+    "definitionEn": "a relationship between friends",
+    "example": "Their friendship has lasted more than twenty years.",
+    "exampleTranslation": "Tình bạn của họ đã kéo dài hơn hai mươi năm.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8322,
+    "headword": "get along",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡet əˈlɒŋ/",
+    "phoneticUs": "/ɡet əˈlɔːŋ/",
+    "meaningVi": "hòa thuận, hợp nhau",
+    "definitionEn": "to have a friendly relationship with someone",
+    "example": "I get along well with my coworkers.",
+    "exampleTranslation": "Tôi hòa thuận với đồng nghiệp.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8324,
+    "headword": "support",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/səˈpɔːt/",
+    "phoneticUs": "/səˈpɔːrt/",
+    "meaningVi": "ủng hộ, hỗ trợ",
+    "definitionEn": "to help and encourage someone",
+    "example": "My parents always supported my dream.",
+    "exampleTranslation": "Bố mẹ luôn ủng hộ ước mơ của tôi.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8325,
+    "headword": "respect",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/rɪˈspekt/",
+    "phoneticUs": "/rɪˈspekt/",
+    "meaningVi": "sự tôn trọng",
+    "definitionEn": "a feeling of admiring someone and treating them well",
+    "example": "Children should show respect to their teachers.",
+    "exampleTranslation": "Trẻ em nên tôn trọng thầy cô.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8326,
+    "headword": "sympathy",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɪmpəθi/",
+    "phoneticUs": "/ˈsɪmpəθi/",
+    "meaningVi": "sự cảm thông, thương cảm",
+    "definitionEn": "a feeling of sadness for someone in trouble",
+    "example": "I felt great sympathy for the family.",
+    "exampleTranslation": "Tôi cảm thấy rất thương cảm cho gia đình ấy.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8327,
+    "headword": "compassion",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kəmˈpæʃn/",
+    "phoneticUs": "/kəmˈpæʃn/",
+    "meaningVi": "lòng trắc ẩn",
+    "definitionEn": "a strong feeling of wanting to help someone who suffers",
+    "example": "The nurse treated every patient with compassion.",
+    "exampleTranslation": "Cô y tá đối xử với mọi bệnh nhân bằng lòng trắc ẩn.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8330,
+    "headword": "envy",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈenvi/",
+    "phoneticUs": "/ˈenvi/",
+    "meaningVi": "sự đố kỵ, thèm muốn",
+    "definitionEn": "a wish to have what another person has",
+    "example": "She looked at his new car with envy.",
+    "exampleTranslation": "Cô nhìn chiếc xe mới của anh bằng ánh mắt thèm muốn.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8332,
+    "headword": "apologise",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/əˈpɒlədʒaɪz/",
+    "phoneticUs": "/əˈpɑːlədʒaɪz/",
+    "meaningVi": "xin lỗi",
+    "definitionEn": "to say you are sorry",
+    "example": "He apologised for being late to the meeting.",
+    "exampleTranslation": "Anh ấy xin lỗi vì đến họp muộn.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8333,
+    "headword": "misunderstanding",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌmɪsʌndəˈstændɪŋ/",
+    "phoneticUs": "/ˌmɪsʌndərˈstændɪŋ/",
+    "meaningVi": "sự hiểu lầm",
+    "definitionEn": "a situation where someone does not understand correctly",
+    "example": "The argument was just a misunderstanding.",
+    "exampleTranslation": "Cuộc cãi vã chỉ là một sự hiểu lầm.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions",
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 8335,
+    "headword": "confide in",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kənˈfaɪd ɪn/",
+    "phoneticUs": "/kənˈfaɪd ɪn/",
+    "meaningVi": "tâm sự, giãi bày với",
+    "definitionEn": "to tell someone your secrets or private feelings",
+    "example": "I often confide in my older sister.",
+    "exampleTranslation": "Tôi thường tâm sự với chị gái.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8338,
+    "headword": "get on someone's nerves",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡet ɒn ˈsʌmwʌnz nɜːvz/",
+    "phoneticUs": "/ɡet ɑːn ˈsʌmwʌnz nɜːrvz/",
+    "meaningVi": "làm ai khó chịu, bực mình",
+    "definitionEn": "to annoy someone",
+    "example": "His loud chewing really gets on my nerves.",
+    "exampleTranslation": "Tiếng nhai ồn ào của anh ta thật sự làm tôi bực.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8341,
+    "headword": "crush",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/krʌʃ/",
+    "phoneticUs": "/krʌʃ/",
+    "meaningVi": "sự say nắng, người mình thầm thích",
+    "definitionEn": "a strong, short feeling of love for someone",
+    "example": "She had a crush on her classmate.",
+    "exampleTranslation": "Cô ấy thầm thích bạn cùng lớp.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8342,
+    "headword": "engaged",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ɪnˈɡeɪdʒd/",
+    "phoneticUs": "/ɪnˈɡeɪdʒd/",
+    "meaningVi": "đã đính hôn",
+    "definitionEn": "having agreed to marry someone",
+    "example": "They got engaged last summer.",
+    "exampleTranslation": "Họ đã đính hôn vào mùa hè năm ngoái.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8343,
+    "headword": "divorce",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dɪˈvɔːs/",
+    "phoneticUs": "/dɪˈvɔːrs/",
+    "meaningVi": "sự ly hôn",
+    "definitionEn": "the legal end of a marriage",
+    "example": "Their divorce was hard on the children.",
+    "exampleTranslation": "Cuộc ly hôn của họ ảnh hưởng nặng đến bọn trẻ.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions",
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 8344,
+    "headword": "in-law",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɪn lɔː/",
+    "phoneticUs": "/ˈɪn lɔː/",
+    "meaningVi": "họ hàng bên vợ/chồng",
+    "definitionEn": "a relative by marriage",
+    "example": "I get along well with my in-laws.",
+    "exampleTranslation": "Tôi hòa thuận với nhà chồng/vợ.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8346,
+    "headword": "roommate",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈruːmmeɪt/",
+    "phoneticUs": "/ˈruːmmeɪt/",
+    "meaningVi": "bạn cùng phòng",
+    "definitionEn": "a person you share a room with",
+    "example": "My roommate and I split the rent.",
+    "exampleTranslation": "Tôi và bạn cùng phòng chia đôi tiền thuê.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8347,
+    "headword": "pen pal",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈpen pæl/",
+    "phoneticUs": "/ˈpen pæl/",
+    "meaningVi": "bạn qua thư",
+    "definitionEn": "a friend you write to but may never meet",
+    "example": "He has had a pen pal in Japan for years.",
+    "exampleTranslation": "Anh ấy có một người bạn qua thư ở Nhật nhiều năm nay.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8348,
+    "headword": "role model",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈrəʊl ˌmɒdl/",
+    "phoneticUs": "/ˈroʊl ˌmɑːdl/",
+    "meaningVi": "hình mẫu, tấm gương",
+    "definitionEn": "a person others want to be like",
+    "example": "My teacher has been a role model for me.",
+    "exampleTranslation": "Cô giáo là hình mẫu của tôi.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8350,
+    "headword": "loyalty",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlɔɪəlti/",
+    "phoneticUs": "/ˈlɔɪəlti/",
+    "meaningVi": "lòng trung thành",
+    "definitionEn": "faithful support for a person or group",
+    "example": "Loyalty is important in any friendship.",
+    "exampleTranslation": "Lòng trung thành rất quan trọng trong mọi tình bạn.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8351,
+    "headword": "betrayal",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/bɪˈtreɪəl/",
+    "phoneticUs": "/bɪˈtreɪəl/",
+    "meaningVi": "sự phản bội",
+    "definitionEn": "an act of being disloyal to someone who trusts you",
+    "example": "He felt deep betrayal when his friend lied to him.",
+    "exampleTranslation": "Anh cảm thấy bị phản bội sâu sắc khi bạn nói dối mình.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 8352,
+    "headword": "gossip",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɡɒsɪp/",
+    "phoneticUs": "/ˈɡɑːsɪp/",
+    "meaningVi": "chuyện ngồi lê đôi mách",
+    "definitionEn": "talk about other people's private lives",
+    "example": "I don't like office gossip.",
+    "exampleTranslation": "Tôi không thích chuyện ngồi lê đôi mách ở văn phòng.",
+    "levelId": 3,
+    "topics": [
+      "relationships-emotions"
+    ]
+  }
+]

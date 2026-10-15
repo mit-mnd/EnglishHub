@@ -152,7 +152,7 @@ describe('bài tập trong bài học', () => {
 })
 
 describe('từ vựng & flashcard', () => {
-  it('thêm bộ từ, ôn thẻ theo SM-2, giới hạn thẻ mới, tạm ẩn', () => {
+  it('thêm bộ từ, ôn thẻ theo SM-2, tạm ẩn', () => {
     newProfile()
     const set = vocabularySets[0]
     expect(vocabulary.addSetToNotebook(set.id).added).toBe(set.wordIds.length)
@@ -169,6 +169,22 @@ describe('từ vựng & flashcard', () => {
     expect(() => flashcards.review(q.cards[2].userWordId, 'GOOD')).toThrow()
     expect(flashcards.summary().reviewedToday).toBe(2)
     expect(dashboard.getDashboard().totals.wordsLearning).toBe(2)
+  })
+
+  it('không giới hạn thẻ mới theo ngày: học hết lô này vẫn còn thẻ mới cho lô sau', () => {
+    newProfile()
+    for (const set of vocabularySets.slice(0, 4)) vocabulary.addSetToNotebook(set.id)
+    const total = flashcards.summary().newCards
+    expect(total).toBeGreaterThan(30)
+    let learned = 0
+    for (let batch = 0; batch < 3; batch++) {
+      const q = flashcards.queue(20)
+      expect(q.cards.length).toBeGreaterThan(0)
+      q.cards.forEach((c) => { flashcards.review(c.userWordId, 'GOOD', 3000); learned++ })
+    }
+    expect(learned).toBeGreaterThan(20)                 // vượt mốc 20 thẻ/ngày cũ ngay trong hôm nay
+    const s = flashcards.summary()
+    expect(s.newAvailableToday).toBe(total - learned)   // thẻ mới còn lại đều sẵn sàng
   })
 
   it('tra từ trong kho nội bộ (kể cả dạng số nhiều / quá khứ) và lưu vào sổ', async () => {

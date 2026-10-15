@@ -35,7 +35,7 @@ Bản build là trang tĩnh: chỉ cần phục vụ thư mục `dist/` và chuy
 | Bắt đầu | Khai báo hồ sơ lần đầu · khôi phục từ file sao lưu |
 | Xếp lớp & lộ trình | Bài kiểm tra 20 câu (tự lưu, hẹn giờ) → xếp 5 trình độ, điểm theo kỹ năng → lộ trình tự sinh theo trình độ + mục tiêu + kỹ năng yếu, lên lịch theo phút/ngày; bỏ qua, sắp xếp, thêm bài |
 | 4 kỹ năng | Nghe: phụ đề tương tác, tốc độ 0.5-2x · Đọc: bấm từ để tra & lưu sổ · Nói: ghi âm, chấm phát âm từng từ (Web Speech API) · Viết: chấm theo quy tắc, gợi ý sửa lỗi |
-| Từ vựng | 1.506 từ (thông dụng, TOEIC, B1-B2, cụm từ & collocation), 59 bộ theo chủ đề, tra từ tự động (kho nội bộ → Free Dictionary API + Wiktionary + MyMemory dịch sang tiếng Việt, lưu cache vào máy), dịch cả câu / đoạn khi bôi đen, flashcard lặp lại ngắt quãng SM-2 |
+| Từ vựng | 4.313 từ (đời sống, TOEIC, B1-B2, cụm từ & collocation, học thuật/IELTS), 97 bộ theo chủ đề (lọc theo nhóm, tìm kiếm), tra từ tự động (kho nội bộ → Free Dictionary API + Wiktionary + MyMemory dịch sang tiếng Việt, lưu cache vào máy), dịch cả câu / đoạn khi bôi đen, flashcard lặp lại ngắt quãng SM-2 (không giới hạn thẻ mới mỗi ngày, học theo lô 20 thẻ) |
 | Mẫu câu | 22 chủ đề · 272 mẫu câu đời sống / công việc / TOEIC, nghe mẫu, lưu, tự kiểm tra |
 | Luyện thi TOEIC | 788 câu Part 2-7 có giải thích tiếng Việt & bản dịch · luyện theo Part (ưu tiên câu chưa làm) · đề thi thử rút gọn có điểm ước lượng · phần Nghe đọc bằng giọng nam/nữ của trình duyệt |
 | Luyện tập | Trò chơi ghép từ, xếp chữ, nghe chép (kỷ lục cá nhân) |

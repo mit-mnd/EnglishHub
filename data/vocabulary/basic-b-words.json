@@ -1,0 +1,4073 @@
+[
+  {
+    "id": 7001,
+    "headword": "flight",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/flaɪt/",
+    "phoneticUs": "/flaɪt/",
+    "meaningVi": "chuyến bay",
+    "definitionEn": "a trip made in a plane",
+    "example": "My flight to Hanoi leaves at nine.",
+    "exampleTranslation": "Chuyến bay của tôi đi Hà Nội cất cánh lúc chín giờ.",
+    "levelId": 1,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7002,
+    "headword": "suitcase",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsuːtkeɪs/",
+    "phoneticUs": "/ˈsuːtkeɪs/",
+    "meaningVi": "va li",
+    "definitionEn": "a large case for carrying clothes when you travel",
+    "example": "He packed his suitcase the night before.",
+    "exampleTranslation": "Anh ấy đã sắp va li từ tối hôm trước.",
+    "levelId": 1,
+    "topics": [
+      "airport-flight",
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 7003,
+    "headword": "carry-on",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkæri ɒn/",
+    "phoneticUs": "/ˈkæri ɑːn/",
+    "meaningVi": "hành lý xách tay",
+    "definitionEn": "a small bag you take with you into the plane",
+    "example": "Only one carry-on is allowed per person.",
+    "exampleTranslation": "Mỗi người chỉ được mang một hành lý xách tay.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "travel-discovery",
+      "toeic-travel-transport",
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 7004,
+    "headword": "arrival",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/əˈraɪvl/",
+    "phoneticUs": "/əˈraɪvl/",
+    "meaningVi": "sự đến nơi, giờ đến",
+    "definitionEn": "the time when someone or something gets to a place",
+    "example": "Our arrival was delayed by the storm.",
+    "exampleTranslation": "Giờ đến của chúng tôi bị chậm vì cơn bão.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "toeic-travel-transport"
+    ]
+  },
+  {
+    "id": 7005,
+    "headword": "gate",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɡeɪt/",
+    "phoneticUs": "/ɡeɪt/",
+    "meaningVi": "cổng lên máy bay",
+    "definitionEn": "the door where you get on a plane",
+    "example": "Your flight leaves from gate twelve.",
+    "exampleTranslation": "Chuyến bay của bạn khởi hành từ cổng số mười hai.",
+    "levelId": 1,
+    "topics": [
+      "airport-flight",
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 7006,
+    "headword": "terminal",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtɜːmɪnl/",
+    "phoneticUs": "/ˈtɜːrmɪnl/",
+    "meaningVi": "nhà ga sân bay",
+    "definitionEn": "a large building at an airport for passengers",
+    "example": "Terminal Two is far from the car park.",
+    "exampleTranslation": "Nhà ga số hai ở xa bãi đỗ xe.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "toeic-travel-transport",
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 7007,
+    "headword": "runway",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈrʌnweɪ/",
+    "phoneticUs": "/ˈrʌnweɪ/",
+    "meaningVi": "đường băng",
+    "definitionEn": "the long road where planes take off and land",
+    "example": "The plane waited on the runway for ten minutes.",
+    "exampleTranslation": "Máy bay chờ trên đường băng mười phút.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "toeic-travel-transport"
+    ]
+  },
+  {
+    "id": 7008,
+    "headword": "land",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/lænd/",
+    "phoneticUs": "/lænd/",
+    "meaningVi": "hạ cánh",
+    "definitionEn": "to come down to the ground from the air",
+    "example": "We will land in Tokyo at noon.",
+    "exampleTranslation": "Chúng ta sẽ hạ cánh ở Tokyo lúc trưa.",
+    "levelId": 1,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7009,
+    "headword": "cancel",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈkænsl/",
+    "phoneticUs": "/ˈkænsl/",
+    "meaningVi": "hủy",
+    "definitionEn": "to say that something will not happen",
+    "example": "They had to cancel the flight because of snow.",
+    "exampleTranslation": "Họ phải hủy chuyến bay vì tuyết.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "travel-discovery",
+      "toeic-scheduling-appointments-booking"
+    ]
+  },
+  {
+    "id": 7010,
+    "headword": "immigration",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌɪmɪˈɡreɪʃn/",
+    "phoneticUs": "/ˌɪmɪˈɡreɪʃn/",
+    "meaningVi": "kiểm soát nhập cảnh",
+    "definitionEn": "the place where your passport is checked when you enter a country",
+    "example": "Immigration asked how long I would stay.",
+    "exampleTranslation": "Nhân viên nhập cảnh hỏi tôi sẽ ở lại bao lâu.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "toeic-travel-transport",
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 7011,
+    "headword": "security check",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/sɪˈkjʊərəti tʃek/",
+    "phoneticUs": "/sɪˈkjʊrəti tʃek/",
+    "meaningVi": "kiểm tra an ninh",
+    "definitionEn": "a search of people and bags for dangerous things",
+    "example": "The security check took only ten minutes.",
+    "exampleTranslation": "Việc kiểm tra an ninh chỉ mất mười phút.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7012,
+    "headword": "visa",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈviːzə/",
+    "phoneticUs": "/ˈviːzə/",
+    "meaningVi": "thị thực, visa",
+    "definitionEn": "an official paper that lets you enter a country",
+    "example": "Do I need a visa to visit Japan?",
+    "exampleTranslation": "Tôi có cần visa để đến Nhật Bản không?",
+    "levelId": 1,
+    "topics": [
+      "airport-flight",
+      "travel-discovery",
+      "toeic-travel-transport",
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 7013,
+    "headword": "one-way",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌwʌn ˈweɪ/",
+    "phoneticUs": "/ˌwʌn ˈweɪ/",
+    "meaningVi": "một chiều",
+    "definitionEn": "for a trip in one direction only",
+    "example": "A one-way ticket is cheaper than a return.",
+    "exampleTranslation": "Vé một chiều rẻ hơn vé khứ hồi.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "travel-discovery",
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 7014,
+    "headword": "direct flight",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/dəˈrekt flaɪt/",
+    "phoneticUs": "/dəˈrekt flaɪt/",
+    "meaningVi": "chuyến bay thẳng",
+    "definitionEn": "a flight that goes to a place without stopping",
+    "example": "Is there a direct flight to London?",
+    "exampleTranslation": "Có chuyến bay thẳng đến London không?",
+    "levelId": 2,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7015,
+    "headword": "passenger",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpæsɪndʒə/",
+    "phoneticUs": "/ˈpæsɪndʒər/",
+    "meaningVi": "hành khách",
+    "definitionEn": "a person who travels in a plane, car or train",
+    "example": "All passengers must wear a seat belt.",
+    "exampleTranslation": "Mọi hành khách phải thắt dây an toàn.",
+    "levelId": 1,
+    "topics": [
+      "airport-flight",
+      "transport-city"
+    ]
+  },
+  {
+    "id": 7016,
+    "headword": "pilot",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpaɪlət/",
+    "phoneticUs": "/ˈpaɪlət/",
+    "meaningVi": "phi công",
+    "definitionEn": "a person who flies a plane",
+    "example": "The pilot said we would land soon.",
+    "exampleTranslation": "Phi công nói chúng ta sắp hạ cánh.",
+    "levelId": 1,
+    "topics": [
+      "airport-flight",
+      "jobs-workplace",
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 7017,
+    "headword": "flight attendant",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/flaɪt əˈtendənt/",
+    "phoneticUs": "/flaɪt əˈtendənt/",
+    "meaningVi": "tiếp viên hàng không",
+    "definitionEn": "a person who looks after passengers on a plane",
+    "example": "The flight attendant brought us some water.",
+    "exampleTranslation": "Tiếp viên hàng không mang cho chúng tôi ít nước.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "toeic-travel-transport"
+    ]
+  },
+  {
+    "id": 7018,
+    "headword": "seat belt",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/siːt belt/",
+    "phoneticUs": "/siːt belt/",
+    "meaningVi": "dây an toàn",
+    "definitionEn": "a strap that holds you in your seat",
+    "example": "Please fasten your seat belt now.",
+    "exampleTranslation": "Xin hãy thắt dây an toàn ngay bây giờ.",
+    "levelId": 1,
+    "topics": [
+      "airport-flight",
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 7019,
+    "headword": "window seat",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈwɪndəʊ siːt/",
+    "phoneticUs": "/ˈwɪndoʊ siːt/",
+    "meaningVi": "ghế cạnh cửa sổ",
+    "definitionEn": "a seat next to the window",
+    "example": "I always ask for a window seat.",
+    "exampleTranslation": "Tôi luôn xin ghế cạnh cửa sổ.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 7020,
+    "headword": "overweight",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌəʊvəˈweɪt/",
+    "phoneticUs": "/ˌoʊvərˈweɪt/",
+    "meaningVi": "quá cân",
+    "definitionEn": "heavier than the limit",
+    "example": "My bag was overweight by two kilos.",
+    "exampleTranslation": "Túi của tôi quá cân hai ký.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 7021,
+    "headword": "weigh",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/weɪ/",
+    "phoneticUs": "/weɪ/",
+    "meaningVi": "cân, nặng",
+    "definitionEn": "to measure how heavy something is",
+    "example": "They weigh each bag at the check-in desk.",
+    "exampleTranslation": "Họ cân từng túi ở quầy làm thủ tục.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7022,
+    "headword": "duty-free",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌdjuːti ˈfriː/",
+    "phoneticUs": "/ˌduːti ˈfriː/",
+    "meaningVi": "miễn thuế",
+    "definitionEn": "sold without tax, usually at airports",
+    "example": "I bought perfume at the duty-free shop.",
+    "exampleTranslation": "Tôi mua nước hoa ở cửa hàng miễn thuế.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "toeic-travel-transport"
+    ]
+  },
+  {
+    "id": 7023,
+    "headword": "announcement",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/əˈnaʊnsmənt/",
+    "phoneticUs": "/əˈnaʊnsmənt/",
+    "meaningVi": "thông báo",
+    "definitionEn": "a public message that gives information",
+    "example": "Did you hear the announcement about our gate?",
+    "exampleTranslation": "Bạn có nghe thông báo về cổng của chúng ta không?",
+    "levelId": 2,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7024,
+    "headword": "final call",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈfaɪnl kɔːl/",
+    "phoneticUs": "/ˈfaɪnl kɔːl/",
+    "meaningVi": "lần gọi cuối cùng",
+    "definitionEn": "the last announcement for passengers to get on a plane",
+    "example": "That was the final call for flight 305.",
+    "exampleTranslation": "Đó là lần gọi cuối cùng cho chuyến bay 305.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7025,
+    "headword": "jet lag",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈdʒet læɡ/",
+    "phoneticUs": "/ˈdʒet læɡ/",
+    "meaningVi": "mệt mỏi do lệch múi giờ",
+    "definitionEn": "tiredness after a long flight across time zones",
+    "example": "I had terrible jet lag after the trip.",
+    "exampleTranslation": "Tôi bị lệch múi giờ rất mệt sau chuyến đi.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "travel-discovery",
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 7026,
+    "headword": "turbulence",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtɜːbjələns/",
+    "phoneticUs": "/ˈtɜːrbjələns/",
+    "meaningVi": "sự nhiễu động (khi bay)",
+    "definitionEn": "sudden strong movement of air that shakes a plane",
+    "example": "We felt some turbulence over the mountains.",
+    "exampleTranslation": "Chúng tôi cảm thấy một chút nhiễu động khi bay qua núi.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "toeic-travel-transport",
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 7027,
+    "headword": "lost and found",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌlɒst ənd ˈfaʊnd/",
+    "phoneticUs": "/ˌlɔːst ənd ˈfaʊnd/",
+    "meaningVi": "phòng đồ thất lạc",
+    "definitionEn": "a place where lost things are kept",
+    "example": "I asked at lost and found for my umbrella.",
+    "exampleTranslation": "Tôi hỏi ở phòng đồ thất lạc về cái ô của mình.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "toeic-notices-signs-rules",
+      "toeic-travel-transport",
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 7028,
+    "headword": "trolley",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtrɒli/",
+    "phoneticUs": "/ˈtrɑːli/",
+    "meaningVi": "xe đẩy hành lý",
+    "definitionEn": "a small cart for carrying bags",
+    "example": "Can I borrow a trolley for my suitcases?",
+    "exampleTranslation": "Tôi mượn xe đẩy cho mấy va li được không?",
+    "levelId": 2,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7029,
+    "headword": "check-in desk",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈtʃek ɪn desk/",
+    "phoneticUs": "/ˈtʃek ɪn desk/",
+    "meaningVi": "quầy làm thủ tục",
+    "definitionEn": "the counter where you check in for a flight",
+    "example": "The check-in desk opens three hours before takeoff.",
+    "exampleTranslation": "Quầy làm thủ tục mở trước giờ cất cánh ba tiếng.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "toeic-hotels-dining"
+    ]
+  },
+  {
+    "id": 7030,
+    "headword": "connecting flight",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kəˈnektɪŋ flaɪt/",
+    "phoneticUs": "/kəˈnektɪŋ flaɪt/",
+    "meaningVi": "chuyến bay nối chuyến",
+    "definitionEn": "a flight you take after arriving from another flight",
+    "example": "I almost missed my connecting flight in Dubai.",
+    "exampleTranslation": "Tôi suýt lỡ chuyến bay nối chuyến ở Dubai.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7031,
+    "headword": "economy class",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪˈkɒnəmi klɑːs/",
+    "phoneticUs": "/ɪˈkɑːnəmi klæs/",
+    "meaningVi": "hạng phổ thông",
+    "definitionEn": "the cheapest kind of seat on a plane",
+    "example": "We flew economy class to save money.",
+    "exampleTranslation": "Chúng tôi bay hạng phổ thông để tiết kiệm tiền.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7032,
+    "headword": "business class",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈbɪznəs klɑːs/",
+    "phoneticUs": "/ˈbɪznəs klæs/",
+    "meaningVi": "hạng thương gia",
+    "definitionEn": "a more expensive kind of seat on a plane",
+    "example": "He always travels in business class for work.",
+    "exampleTranslation": "Anh ấy luôn đi hạng thương gia khi công tác.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7033,
+    "headword": "cabin crew",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈkæbɪn kruː/",
+    "phoneticUs": "/ˈkæbɪn kruː/",
+    "meaningVi": "phi hành đoàn (tiếp viên)",
+    "definitionEn": "the people who work on a plane and help passengers",
+    "example": "The cabin crew were very friendly.",
+    "exampleTranslation": "Phi hành đoàn rất thân thiện.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "toeic-travel-transport"
+    ]
+  },
+  {
+    "id": 7034,
+    "headword": "emergency exit",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪˈmɜːdʒənsi ˈeksɪt/",
+    "phoneticUs": "/ɪˈmɜːrdʒənsi ˈeksɪt/",
+    "meaningVi": "cửa thoát hiểm",
+    "definitionEn": "a door used to leave quickly in danger",
+    "example": "Look for the nearest emergency exit.",
+    "exampleTranslation": "Hãy tìm cửa thoát hiểm gần nhất.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "toeic-notices-signs-rules",
+      "toeic-workplace-policies"
+    ]
+  },
+  {
+    "id": 7035,
+    "headword": "life jacket",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈlaɪf dʒækɪt/",
+    "phoneticUs": "/ˈlaɪf dʒækɪt/",
+    "meaningVi": "áo phao",
+    "definitionEn": "a jacket that keeps you floating on water",
+    "example": "There is a life jacket under your seat.",
+    "exampleTranslation": "Có một chiếc áo phao dưới ghế của bạn.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7036,
+    "headword": "landing",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlændɪŋ/",
+    "phoneticUs": "/ˈlændɪŋ/",
+    "meaningVi": "sự hạ cánh",
+    "definitionEn": "the moment when a plane comes down to the ground",
+    "example": "It was a smooth landing despite the wind.",
+    "exampleTranslation": "Đó là một lần hạ cánh êm dù có gió.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7037,
+    "headword": "hand luggage",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈhænd lʌɡɪdʒ/",
+    "phoneticUs": "/ˈhænd lʌɡɪdʒ/",
+    "meaningVi": "hành lý xách tay",
+    "definitionEn": "small bags you carry onto a plane",
+    "example": "Keep your hand luggage under the seat.",
+    "exampleTranslation": "Hãy để hành lý xách tay dưới ghế.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7038,
+    "headword": "luggage tag",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈlʌɡɪdʒ tæɡ/",
+    "phoneticUs": "/ˈlʌɡɪdʒ tæɡ/",
+    "meaningVi": "thẻ hành lý",
+    "definitionEn": "a label with your name put on a bag",
+    "example": "Put a luggage tag on every bag.",
+    "exampleTranslation": "Hãy gắn thẻ hành lý lên mọi túi.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7039,
+    "headword": "metal detector",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈmetl dɪˈtektə/",
+    "phoneticUs": "/ˈmetl dɪˈtektər/",
+    "meaningVi": "máy dò kim loại",
+    "definitionEn": "a machine that finds metal objects",
+    "example": "Everyone walks through the metal detector.",
+    "exampleTranslation": "Mọi người đều đi qua máy dò kim loại.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7040,
+    "headword": "departure lounge",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/dɪˈpɑːtʃə laʊndʒ/",
+    "phoneticUs": "/dɪˈpɑːrtʃər laʊndʒ/",
+    "meaningVi": "phòng chờ khởi hành",
+    "definitionEn": "the waiting area before you get on a plane",
+    "example": "We waited in the departure lounge for two hours.",
+    "exampleTranslation": "Chúng tôi chờ trong phòng chờ khởi hành hai tiếng.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "travel-discovery"
+    ]
+  },
+  {
+    "id": 7041,
+    "headword": "domestic flight",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/dəˈmestɪk flaɪt/",
+    "phoneticUs": "/dəˈmestɪk flaɪt/",
+    "meaningVi": "chuyến bay nội địa",
+    "definitionEn": "a flight inside one country",
+    "example": "A domestic flight is cheaper than an international one.",
+    "exampleTranslation": "Chuyến bay nội địa rẻ hơn chuyến bay quốc tế.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7042,
+    "headword": "international flight",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌɪntəˈnæʃnəl flaɪt/",
+    "phoneticUs": "/ˌɪntərˈnæʃnəl flaɪt/",
+    "meaningVi": "chuyến bay quốc tế",
+    "definitionEn": "a flight to another country",
+    "example": "You must arrive early for an international flight.",
+    "exampleTranslation": "Bạn phải đến sớm cho chuyến bay quốc tế.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7043,
+    "headword": "passport control",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈpɑːspɔːt kənˈtrəʊl/",
+    "phoneticUs": "/ˈpæspɔːrt kənˈtroʊl/",
+    "meaningVi": "quầy kiểm tra hộ chiếu",
+    "definitionEn": "the place where officers check passports",
+    "example": "Go to passport control with your documents.",
+    "exampleTranslation": "Hãy đến quầy kiểm tra hộ chiếu cùng giấy tờ của bạn.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight"
+    ]
+  },
+  {
+    "id": 7044,
+    "headword": "conveyor belt",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kənˈveɪə belt/",
+    "phoneticUs": "/kənˈveɪər belt/",
+    "meaningVi": "băng chuyền hành lý",
+    "definitionEn": "a moving belt that carries bags",
+    "example": "Our bags came out on the conveyor belt.",
+    "exampleTranslation": "Hành lý của chúng tôi chạy ra trên băng chuyền.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "toeic-manufacturing-logistics"
+    ]
+  },
+  {
+    "id": 7045,
+    "headword": "stopover",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈstɒpəʊvə/",
+    "phoneticUs": "/ˈstɑːpoʊvər/",
+    "meaningVi": "điểm dừng chân giữa chuyến bay",
+    "definitionEn": "a short stay in a place during a long journey",
+    "example": "We had a one-night stopover in Bangkok.",
+    "exampleTranslation": "Chúng tôi có một đêm dừng chân ở Bangkok.",
+    "levelId": 2,
+    "topics": [
+      "airport-flight",
+      "travel-discovery",
+      "toeic-travel-transport"
+    ]
+  },
+  {
+    "id": 7101,
+    "headword": "stomachache",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈstʌməkeɪk/",
+    "phoneticUs": "/ˈstʌməkeɪk/",
+    "meaningVi": "đau bụng",
+    "definitionEn": "a pain in your stomach",
+    "example": "Too much ice cream gave him a stomachache.",
+    "exampleTranslation": "Ăn quá nhiều kem làm cậu ấy đau bụng.",
+    "levelId": 1,
+    "topics": [
+      "hospital-pharmacy",
+      "health-body"
+    ]
+  },
+  {
+    "id": 7102,
+    "headword": "toothache",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtuːθeɪk/",
+    "phoneticUs": "/ˈtuːθeɪk/",
+    "meaningVi": "đau răng",
+    "definitionEn": "a pain in a tooth",
+    "example": "She went to the dentist because of a toothache.",
+    "exampleTranslation": "Cô ấy đi nha sĩ vì bị đau răng.",
+    "levelId": 1,
+    "topics": [
+      "hospital-pharmacy",
+      "health-body"
+    ]
+  },
+  {
+    "id": 7103,
+    "headword": "sore throat",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/sɔː θrəʊt/",
+    "phoneticUs": "/sɔːr θroʊt/",
+    "meaningVi": "đau họng",
+    "definitionEn": "a painful feeling in the throat",
+    "example": "I have a sore throat and a runny nose.",
+    "exampleTranslation": "Tôi bị đau họng và sổ mũi.",
+    "levelId": 1,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7104,
+    "headword": "runny nose",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌrʌni ˈnəʊz/",
+    "phoneticUs": "/ˌrʌni ˈnoʊz/",
+    "meaningVi": "sổ mũi",
+    "definitionEn": "a nose with liquid coming out of it",
+    "example": "A runny nose is often the first sign of a cold.",
+    "exampleTranslation": "Sổ mũi thường là dấu hiệu đầu tiên của cảm lạnh.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7105,
+    "headword": "sneeze",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/sniːz/",
+    "phoneticUs": "/sniːz/",
+    "meaningVi": "hắt hơi",
+    "definitionEn": "to blow air out of your nose suddenly",
+    "example": "She sneezed three times in a row.",
+    "exampleTranslation": "Cô ấy hắt hơi ba lần liên tiếp.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy",
+      "health-body"
+    ]
+  },
+  {
+    "id": 7106,
+    "headword": "dizzy",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈdɪzi/",
+    "phoneticUs": "/ˈdɪzi/",
+    "meaningVi": "chóng mặt",
+    "definitionEn": "feeling that everything is turning around",
+    "example": "I felt dizzy when I stood up too fast.",
+    "exampleTranslation": "Tôi thấy chóng mặt khi đứng dậy quá nhanh.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy",
+      "health-body"
+    ]
+  },
+  {
+    "id": 7107,
+    "headword": "nausea",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈnɔːziə/",
+    "phoneticUs": "/ˈnɔːziə/",
+    "meaningVi": "cảm giác buồn nôn",
+    "definitionEn": "a feeling that you want to vomit",
+    "example": "The smell of fish gave her nausea.",
+    "exampleTranslation": "Mùi cá làm cô ấy buồn nôn.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7108,
+    "headword": "rash",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ræʃ/",
+    "phoneticUs": "/ræʃ/",
+    "meaningVi": "phát ban",
+    "definitionEn": "red spots on the skin",
+    "example": "The baby has a rash on his arms.",
+    "exampleTranslation": "Em bé bị phát ban ở hai tay.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7109,
+    "headword": "allergy",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈælədʒi/",
+    "phoneticUs": "/ˈælərdʒi/",
+    "meaningVi": "dị ứng",
+    "definitionEn": "a reaction of the body to something like food or dust",
+    "example": "I have an allergy to peanuts.",
+    "exampleTranslation": "Tôi bị dị ứng với đậu phộng.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy",
+      "food-nutrition",
+      "health-lifestyle",
+      "toeic-health-insurance"
+    ]
+  },
+  {
+    "id": 7110,
+    "headword": "bleed",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/bliːd/",
+    "phoneticUs": "/bliːd/",
+    "meaningVi": "chảy máu",
+    "definitionEn": "to lose blood from the body",
+    "example": "Your finger is bleeding, so use a bandage.",
+    "exampleTranslation": "Ngón tay bạn đang chảy máu, hãy dùng băng.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7111,
+    "headword": "bandage",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbændɪdʒ/",
+    "phoneticUs": "/ˈbændɪdʒ/",
+    "meaningVi": "băng gạc",
+    "definitionEn": "a strip of cloth put around an injury",
+    "example": "The nurse put a bandage on my arm.",
+    "exampleTranslation": "Y tá quấn băng lên cánh tay tôi.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7112,
+    "headword": "tablet",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtæblət/",
+    "phoneticUs": "/ˈtæblət/",
+    "meaningVi": "viên thuốc",
+    "definitionEn": "a small hard piece of medicine you swallow",
+    "example": "Take one tablet twice a day.",
+    "exampleTranslation": "Uống một viên, ngày hai lần.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy",
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 7113,
+    "headword": "pill",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pɪl/",
+    "phoneticUs": "/pɪl/",
+    "meaningVi": "viên thuốc",
+    "definitionEn": "a small round piece of medicine",
+    "example": "I forgot to take my pill this morning.",
+    "exampleTranslation": "Sáng nay tôi quên uống thuốc.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy",
+      "health-body"
+    ]
+  },
+  {
+    "id": 7114,
+    "headword": "syrup",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɪrəp/",
+    "phoneticUs": "/ˈsɪrəp/",
+    "meaningVi": "siro (thuốc)",
+    "definitionEn": "a thick sweet liquid medicine",
+    "example": "The cough syrup tastes like oranges.",
+    "exampleTranslation": "Siro ho có vị cam.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7115,
+    "headword": "ointment",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɔɪntmənt/",
+    "phoneticUs": "/ˈɔɪntmənt/",
+    "meaningVi": "thuốc mỡ",
+    "definitionEn": "a soft cream you put on your skin to heal it",
+    "example": "Put some ointment on the burn.",
+    "exampleTranslation": "Hãy bôi chút thuốc mỡ lên chỗ bỏng.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7116,
+    "headword": "dose",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dəʊs/",
+    "phoneticUs": "/doʊs/",
+    "meaningVi": "liều lượng",
+    "definitionEn": "the amount of medicine you take at one time",
+    "example": "Do not take more than the dose on the label.",
+    "exampleTranslation": "Đừng uống quá liều ghi trên nhãn.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7117,
+    "headword": "side effect",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈsaɪd ɪfekt/",
+    "phoneticUs": "/ˈsaɪd ɪfekt/",
+    "meaningVi": "tác dụng phụ",
+    "definitionEn": "an unwanted result of taking a medicine",
+    "example": "This drug can have side effects like sleepiness.",
+    "exampleTranslation": "Loại thuốc này có thể gây tác dụng phụ như buồn ngủ.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy",
+      "toeic-health-insurance"
+    ]
+  },
+  {
+    "id": 7118,
+    "headword": "injection",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪnˈdʒekʃn/",
+    "phoneticUs": "/ɪnˈdʒekʃn/",
+    "meaningVi": "mũi tiêm",
+    "definitionEn": "medicine put into the body with a needle",
+    "example": "I was afraid of the injection at first.",
+    "exampleTranslation": "Lúc đầu tôi sợ mũi tiêm.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7119,
+    "headword": "blood test",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/blʌd test/",
+    "phoneticUs": "/blʌd test/",
+    "meaningVi": "xét nghiệm máu",
+    "definitionEn": "a check of a small amount of your blood",
+    "example": "The doctor asked me to have a blood test.",
+    "exampleTranslation": "Bác sĩ yêu cầu tôi đi xét nghiệm máu.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7120,
+    "headword": "X-ray",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈeks reɪ/",
+    "phoneticUs": "/ˈeks reɪ/",
+    "meaningVi": "chụp X-quang, phim X-quang",
+    "definitionEn": "a picture of the inside of the body",
+    "example": "They took an X-ray of his leg.",
+    "exampleTranslation": "Họ chụp X-quang chân của anh ấy.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7121,
+    "headword": "surgery",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɜːdʒəri/",
+    "phoneticUs": "/ˈsɜːrdʒəri/",
+    "meaningVi": "phẫu thuật",
+    "definitionEn": "an operation to fix a part of the body",
+    "example": "He needs surgery on his knee.",
+    "exampleTranslation": "Anh ấy cần phẫu thuật đầu gối.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy",
+      "toeic-health-insurance"
+    ]
+  },
+  {
+    "id": 7122,
+    "headword": "emergency room",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪˈmɜːdʒənsi ruːm/",
+    "phoneticUs": "/ɪˈmɜːrdʒənsi ruːm/",
+    "meaningVi": "phòng cấp cứu",
+    "definitionEn": "the part of a hospital for sudden serious problems",
+    "example": "They rushed her to the emergency room.",
+    "exampleTranslation": "Họ vội đưa cô ấy đến phòng cấp cứu.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7123,
+    "headword": "ambulance",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈæmbjələns/",
+    "phoneticUs": "/ˈæmbjələns/",
+    "meaningVi": "xe cứu thương",
+    "definitionEn": "a vehicle that takes sick people to hospital",
+    "example": "Call an ambulance right now!",
+    "exampleTranslation": "Hãy gọi xe cứu thương ngay!",
+    "levelId": 1,
+    "topics": [
+      "hospital-pharmacy",
+      "transport-city"
+    ]
+  },
+  {
+    "id": 7124,
+    "headword": "get well",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡet wel/",
+    "phoneticUs": "/ɡet wel/",
+    "meaningVi": "khỏe lại, bình phục",
+    "definitionEn": "to become healthy again",
+    "example": "I hope you get well soon.",
+    "exampleTranslation": "Mong bạn mau khỏe lại.",
+    "levelId": 1,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7125,
+    "headword": "contagious",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/kənˈteɪdʒəs/",
+    "phoneticUs": "/kənˈteɪdʒəs/",
+    "meaningVi": "dễ lây",
+    "definitionEn": "able to pass from one person to another",
+    "example": "The flu is very contagious.",
+    "exampleTranslation": "Bệnh cúm rất dễ lây.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy",
+      "toeic-health-insurance",
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 7126,
+    "headword": "blood pressure",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈblʌd preʃə/",
+    "phoneticUs": "/ˈblʌd preʃər/",
+    "meaningVi": "huyết áp",
+    "definitionEn": "the force of blood moving through the body",
+    "example": "My blood pressure is a little high.",
+    "exampleTranslation": "Huyết áp của tôi hơi cao.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy",
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 7127,
+    "headword": "dentist",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdentɪst/",
+    "phoneticUs": "/ˈdentɪst/",
+    "meaningVi": "nha sĩ",
+    "definitionEn": "a doctor who looks after your teeth",
+    "example": "I have to see the dentist tomorrow.",
+    "exampleTranslation": "Ngày mai tôi phải đi gặp nha sĩ.",
+    "levelId": 1,
+    "topics": [
+      "hospital-pharmacy",
+      "health-body"
+    ]
+  },
+  {
+    "id": 7128,
+    "headword": "painful",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈpeɪnfl/",
+    "phoneticUs": "/ˈpeɪnfl/",
+    "meaningVi": "đau đớn",
+    "definitionEn": "causing pain",
+    "example": "My knee is still painful when I walk.",
+    "exampleTranslation": "Đầu gối tôi vẫn đau khi đi bộ.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7129,
+    "headword": "swollen",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈswəʊlən/",
+    "phoneticUs": "/ˈswoʊlən/",
+    "meaningVi": "sưng",
+    "definitionEn": "bigger than normal because of injury or illness",
+    "example": "His ankle is red and swollen.",
+    "exampleTranslation": "Mắt cá chân anh ấy đỏ và sưng.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7130,
+    "headword": "bruise",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/bruːz/",
+    "phoneticUs": "/bruːz/",
+    "meaningVi": "vết bầm",
+    "definitionEn": "a dark mark on the skin after a hit",
+    "example": "She has a big bruise on her leg.",
+    "exampleTranslation": "Cô ấy có một vết bầm lớn ở chân.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7131,
+    "headword": "burn",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/bɜːn/",
+    "phoneticUs": "/bɜːrn/",
+    "meaningVi": "vết bỏng",
+    "definitionEn": "an injury caused by fire or heat",
+    "example": "Cool the burn under water for ten minutes.",
+    "exampleTranslation": "Hãy làm mát vết bỏng dưới vòi nước mười phút.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7132,
+    "headword": "sprain",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/spreɪn/",
+    "phoneticUs": "/spreɪn/",
+    "meaningVi": "bong gân",
+    "definitionEn": "to hurt a joint by twisting it",
+    "example": "I sprained my ankle playing football.",
+    "exampleTranslation": "Tôi bị bong gân mắt cá khi chơi bóng đá.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy",
+      "sports-fitness"
+    ]
+  },
+  {
+    "id": 7133,
+    "headword": "broken bone",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌbrəʊkən ˈbəʊn/",
+    "phoneticUs": "/ˌbroʊkən ˈboʊn/",
+    "meaningVi": "gãy xương",
+    "definitionEn": "a bone that has cracked or split",
+    "example": "He has a broken bone in his arm.",
+    "exampleTranslation": "Anh ấy bị gãy xương ở cánh tay.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7134,
+    "headword": "thermometer",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/θəˈmɒmɪtə/",
+    "phoneticUs": "/θərˈmɑːmɪtər/",
+    "meaningVi": "nhiệt kế",
+    "definitionEn": "a tool that measures temperature",
+    "example": "Use the thermometer to check her fever.",
+    "exampleTranslation": "Hãy dùng nhiệt kế để kiểm tra cơn sốt của cô bé.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7135,
+    "headword": "flu",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/fluː/",
+    "phoneticUs": "/fluː/",
+    "meaningVi": "bệnh cúm",
+    "definitionEn": "an illness like a very bad cold with fever",
+    "example": "Half of our class has the flu.",
+    "exampleTranslation": "Một nửa lớp chúng tôi bị cúm.",
+    "levelId": 1,
+    "topics": [
+      "hospital-pharmacy",
+      "health-body"
+    ]
+  },
+  {
+    "id": 7136,
+    "headword": "painkiller",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpeɪnkɪlə/",
+    "phoneticUs": "/ˈpeɪnkɪlər/",
+    "meaningVi": "thuốc giảm đau",
+    "definitionEn": "a medicine that reduces pain",
+    "example": "I took a painkiller for my headache.",
+    "exampleTranslation": "Tôi uống thuốc giảm đau vì bị đau đầu.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7137,
+    "headword": "antibiotic",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌæntibaɪˈɒtɪk/",
+    "phoneticUs": "/ˌæntibaɪˈɑːtɪk/",
+    "meaningVi": "thuốc kháng sinh",
+    "definitionEn": "a medicine that kills germs",
+    "example": "The doctor gave me an antibiotic for the infection.",
+    "exampleTranslation": "Bác sĩ kê cho tôi thuốc kháng sinh để chữa nhiễm trùng.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy",
+      "science-discovery",
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 7138,
+    "headword": "crutches",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkrʌtʃɪz/",
+    "phoneticUs": "/ˈkrʌtʃɪz/",
+    "meaningVi": "cây nạng",
+    "definitionEn": "sticks that help you walk with an injured leg",
+    "example": "He walked on crutches for six weeks.",
+    "exampleTranslation": "Anh ấy chống nạng đi lại sáu tuần.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7139,
+    "headword": "wheelchair",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈwiːltʃeə/",
+    "phoneticUs": "/ˈwiːltʃer/",
+    "meaningVi": "xe lăn",
+    "definitionEn": "a chair with wheels for people who cannot walk",
+    "example": "The nurse pushed her in a wheelchair.",
+    "exampleTranslation": "Y tá đẩy bà ấy đi bằng xe lăn.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7140,
+    "headword": "check-up",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtʃek ʌp/",
+    "phoneticUs": "/ˈtʃek ʌp/",
+    "meaningVi": "buổi khám sức khỏe",
+    "definitionEn": "a visit to the doctor to see if you are healthy",
+    "example": "I go for a check-up once a year.",
+    "exampleTranslation": "Tôi đi khám sức khỏe mỗi năm một lần.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy",
+      "health-lifestyle"
+    ]
+  },
+  {
+    "id": 7141,
+    "headword": "wound",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/wuːnd/",
+    "phoneticUs": "/wuːnd/",
+    "meaningVi": "vết thương",
+    "definitionEn": "an injury where the skin is cut",
+    "example": "Clean the wound with water before using a bandage.",
+    "exampleTranslation": "Hãy rửa vết thương bằng nước trước khi băng lại.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7142,
+    "headword": "feel sick",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/fiːl sɪk/",
+    "phoneticUs": "/fiːl sɪk/",
+    "meaningVi": "thấy buồn nôn, thấy mệt",
+    "definitionEn": "to feel that you may vomit",
+    "example": "I feel sick after eating that fish.",
+    "exampleTranslation": "Tôi thấy buồn nôn sau khi ăn món cá đó.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7143,
+    "headword": "stay in bed",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/steɪ ɪn bed/",
+    "phoneticUs": "/steɪ ɪn bed/",
+    "meaningVi": "nằm nghỉ trên giường",
+    "definitionEn": "to rest in bed because you are ill",
+    "example": "The doctor told him to stay in bed.",
+    "exampleTranslation": "Bác sĩ dặn anh ấy nằm nghỉ trên giường.",
+    "levelId": 1,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7144,
+    "headword": "out of breath",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/aʊt əv breθ/",
+    "phoneticUs": "/aʊt əv breθ/",
+    "meaningVi": "hụt hơi, thở không ra hơi",
+    "definitionEn": "breathing fast because of hard exercise",
+    "example": "I was out of breath after climbing the stairs.",
+    "exampleTranslation": "Tôi hụt hơi sau khi leo cầu thang.",
+    "levelId": 2,
+    "topics": [
+      "hospital-pharmacy"
+    ]
+  },
+  {
+    "id": 7201,
+    "headword": "cinema",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɪnəmə/",
+    "phoneticUs": "/ˈsɪnəmə/",
+    "meaningVi": "rạp chiếu phim",
+    "definitionEn": "a place where you go to watch films",
+    "example": "Let's go to the cinema on Saturday.",
+    "exampleTranslation": "Thứ Bảy mình đi rạp chiếu phim nhé.",
+    "levelId": 1,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7202,
+    "headword": "actor",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈæktə/",
+    "phoneticUs": "/ˈæktər/",
+    "meaningVi": "nam diễn viên",
+    "definitionEn": "a man who acts in films or plays",
+    "example": "He is my favourite actor.",
+    "exampleTranslation": "Anh ấy là diễn viên yêu thích của tôi.",
+    "levelId": 1,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7203,
+    "headword": "actress",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈæktrəs/",
+    "phoneticUs": "/ˈæktrəs/",
+    "meaningVi": "nữ diễn viên",
+    "definitionEn": "a woman who acts in films or plays",
+    "example": "The actress won a big prize this year.",
+    "exampleTranslation": "Nữ diễn viên đó đã giành một giải lớn năm nay.",
+    "levelId": 1,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7204,
+    "headword": "director",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dəˈrektə/",
+    "phoneticUs": "/dəˈrektər/",
+    "meaningVi": "đạo diễn",
+    "definitionEn": "the person who guides how a film is made",
+    "example": "The director spent two years on this film.",
+    "exampleTranslation": "Vị đạo diễn đã dành hai năm cho bộ phim này.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment",
+      "arts-entertainment"
+    ]
+  },
+  {
+    "id": 7205,
+    "headword": "plot",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/plɒt/",
+    "phoneticUs": "/plɑːt/",
+    "meaningVi": "cốt truyện",
+    "definitionEn": "the main story of a film or book",
+    "example": "The plot was easy to follow.",
+    "exampleTranslation": "Cốt truyện rất dễ theo dõi.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment",
+      "arts-entertainment"
+    ]
+  },
+  {
+    "id": 7206,
+    "headword": "scene",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/siːn/",
+    "phoneticUs": "/siːn/",
+    "meaningVi": "cảnh (phim)",
+    "definitionEn": "one part of a film or play",
+    "example": "My favourite scene is at the end.",
+    "exampleTranslation": "Cảnh tôi thích nhất là ở đoạn cuối.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7207,
+    "headword": "trailer",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtreɪlə/",
+    "phoneticUs": "/ˈtreɪlər/",
+    "meaningVi": "đoạn giới thiệu phim",
+    "definitionEn": "a short video that advertises a film",
+    "example": "The trailer made me want to see the movie.",
+    "exampleTranslation": "Đoạn giới thiệu khiến tôi muốn xem phim.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7208,
+    "headword": "subtitles",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsʌbtaɪtlz/",
+    "phoneticUs": "/ˈsʌbtaɪtlz/",
+    "meaningVi": "phụ đề",
+    "definitionEn": "words at the bottom of a screen that show what people say",
+    "example": "I watch English films with subtitles.",
+    "exampleTranslation": "Tôi xem phim tiếng Anh có phụ đề.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7209,
+    "headword": "comedy",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkɒmədi/",
+    "phoneticUs": "/ˈkɑːmədi/",
+    "meaningVi": "phim hài, hài kịch",
+    "definitionEn": "a funny film or play",
+    "example": "I prefer a comedy after a hard day.",
+    "exampleTranslation": "Sau một ngày vất vả tôi thích xem phim hài hơn.",
+    "levelId": 1,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7210,
+    "headword": "horror",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhɒrə/",
+    "phoneticUs": "/ˈhɔːrər/",
+    "meaningVi": "phim kinh dị, nỗi kinh hoàng",
+    "definitionEn": "a story that is made to frighten you",
+    "example": "She never watches horror films alone.",
+    "exampleTranslation": "Cô ấy không bao giờ xem phim kinh dị một mình.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7211,
+    "headword": "cartoon",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kɑːˈtuːn/",
+    "phoneticUs": "/kɑːrˈtuːn/",
+    "meaningVi": "phim hoạt hình",
+    "definitionEn": "a film made from drawings that seem to move",
+    "example": "The kids watch cartoons every morning.",
+    "exampleTranslation": "Bọn trẻ xem phim hoạt hình mỗi sáng.",
+    "levelId": 1,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7212,
+    "headword": "series",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɪəriːz/",
+    "phoneticUs": "/ˈsɪriːz/",
+    "meaningVi": "loạt phim, phim nhiều tập",
+    "definitionEn": "a set of programmes with the same characters",
+    "example": "This series has five seasons.",
+    "exampleTranslation": "Bộ phim này có năm mùa.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7213,
+    "headword": "episode",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈepɪsəʊd/",
+    "phoneticUs": "/ˈepɪsoʊd/",
+    "meaningVi": "tập phim",
+    "definitionEn": "one part of a TV series",
+    "example": "I watched two episodes before bed.",
+    "exampleTranslation": "Tôi xem hai tập trước khi đi ngủ.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment",
+      "media-news"
+    ]
+  },
+  {
+    "id": 7214,
+    "headword": "concert",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkɒnsət/",
+    "phoneticUs": "/ˈkɑːnsərt/",
+    "meaningVi": "buổi hòa nhạc",
+    "definitionEn": "a live show where musicians play music",
+    "example": "We got tickets to the concert on Friday.",
+    "exampleTranslation": "Chúng tôi đã có vé buổi hòa nhạc vào thứ Sáu.",
+    "levelId": 1,
+    "topics": [
+      "movies-music-entertainment",
+      "arts-entertainment"
+    ]
+  },
+  {
+    "id": 7215,
+    "headword": "band",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/bænd/",
+    "phoneticUs": "/bænd/",
+    "meaningVi": "ban nhạc",
+    "definitionEn": "a group of people who play music together",
+    "example": "My brother plays guitar in a band.",
+    "exampleTranslation": "Anh trai tôi chơi guitar trong một ban nhạc.",
+    "levelId": 1,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7216,
+    "headword": "singer",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɪŋə/",
+    "phoneticUs": "/ˈsɪŋər/",
+    "meaningVi": "ca sĩ",
+    "definitionEn": "a person who sings",
+    "example": "She is a famous singer in Vietnam.",
+    "exampleTranslation": "Cô ấy là một ca sĩ nổi tiếng ở Việt Nam.",
+    "levelId": 1,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7217,
+    "headword": "song",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/sɒŋ/",
+    "phoneticUs": "/sɔːŋ/",
+    "meaningVi": "bài hát",
+    "definitionEn": "a short piece of music with words",
+    "example": "This song always makes me happy.",
+    "exampleTranslation": "Bài hát này luôn làm tôi vui.",
+    "levelId": 1,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7218,
+    "headword": "lyrics",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlɪrɪks/",
+    "phoneticUs": "/ˈlɪrɪks/",
+    "meaningVi": "lời bài hát",
+    "definitionEn": "the words of a song",
+    "example": "I know all the lyrics by heart.",
+    "exampleTranslation": "Tôi thuộc lòng toàn bộ lời bài hát.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment",
+      "arts-entertainment"
+    ]
+  },
+  {
+    "id": 7219,
+    "headword": "melody",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmelədi/",
+    "phoneticUs": "/ˈmelədi/",
+    "meaningVi": "giai điệu",
+    "definitionEn": "a tune that is easy to remember",
+    "example": "The melody stayed in my head all day.",
+    "exampleTranslation": "Giai điệu đó cứ vang trong đầu tôi cả ngày.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment",
+      "arts-entertainment"
+    ]
+  },
+  {
+    "id": 7220,
+    "headword": "album",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈælbəm/",
+    "phoneticUs": "/ˈælbəm/",
+    "meaningVi": "album nhạc",
+    "definitionEn": "a collection of songs on one disc or online",
+    "example": "Her new album comes out next month.",
+    "exampleTranslation": "Album mới của cô ấy ra mắt vào tháng sau.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7221,
+    "headword": "instrument",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɪnstrəmənt/",
+    "phoneticUs": "/ˈɪnstrəmənt/",
+    "meaningVi": "nhạc cụ",
+    "definitionEn": "an object you play to make music",
+    "example": "Can you play any instrument?",
+    "exampleTranslation": "Bạn có chơi được nhạc cụ nào không?",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7222,
+    "headword": "piano",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/piˈænəʊ/",
+    "phoneticUs": "/piˈænoʊ/",
+    "meaningVi": "đàn piano",
+    "definitionEn": "a large musical instrument with black and white keys",
+    "example": "She practises the piano every evening.",
+    "exampleTranslation": "Cô ấy tập đàn piano mỗi tối.",
+    "levelId": 1,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7223,
+    "headword": "drum",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/drʌm/",
+    "phoneticUs": "/drʌm/",
+    "meaningVi": "cái trống",
+    "definitionEn": "a round instrument you hit to make sound",
+    "example": "The drum was so loud that I covered my ears.",
+    "exampleTranslation": "Tiếng trống to đến mức tôi phải bịt tai.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7224,
+    "headword": "pop music",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/pɒp ˈmjuːzɪk/",
+    "phoneticUs": "/pɑːp ˈmjuːzɪk/",
+    "meaningVi": "nhạc pop",
+    "definitionEn": "popular music with a strong beat",
+    "example": "My sister loves Korean pop music.",
+    "exampleTranslation": "Em gái tôi thích nhạc pop Hàn Quốc.",
+    "levelId": 1,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7225,
+    "headword": "rock",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/rɒk/",
+    "phoneticUs": "/rɑːk/",
+    "meaningVi": "nhạc rock",
+    "definitionEn": "loud music with a strong beat, played with guitars",
+    "example": "My dad listens to old rock all the time.",
+    "exampleTranslation": "Bố tôi lúc nào cũng nghe nhạc rock cũ.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment",
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 7226,
+    "headword": "classical",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈklæsɪkl/",
+    "phoneticUs": "/ˈklæsɪkl/",
+    "meaningVi": "cổ điển",
+    "definitionEn": "connected with serious, traditional music",
+    "example": "She likes classical music when she studies.",
+    "exampleTranslation": "Cô ấy thích nhạc cổ điển khi học bài.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7227,
+    "headword": "listen to",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈlɪsn tuː/",
+    "phoneticUs": "/ˈlɪsn tuː/",
+    "meaningVi": "nghe",
+    "definitionEn": "to pay attention to a sound",
+    "example": "I listen to music on the bus.",
+    "exampleTranslation": "Tôi nghe nhạc trên xe buýt.",
+    "levelId": 1,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7228,
+    "headword": "stream",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/striːm/",
+    "phoneticUs": "/striːm/",
+    "meaningVi": "phát trực tuyến, xem/nghe trực tuyến",
+    "definitionEn": "to watch or listen online without downloading",
+    "example": "We stream movies at home on Sundays.",
+    "exampleTranslation": "Chúng tôi xem phim trực tuyến ở nhà vào Chủ nhật.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment",
+      "arts-entertainment"
+    ]
+  },
+  {
+    "id": 7229,
+    "headword": "playlist",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpleɪlɪst/",
+    "phoneticUs": "/ˈpleɪlɪst/",
+    "meaningVi": "danh sách phát",
+    "definitionEn": "a list of songs you choose to play",
+    "example": "I made a playlist for the trip.",
+    "exampleTranslation": "Tôi đã tạo một danh sách phát cho chuyến đi.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7230,
+    "headword": "volume",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈvɒljuːm/",
+    "phoneticUs": "/ˈvɑːljuːm/",
+    "meaningVi": "âm lượng",
+    "definitionEn": "how loud a sound is",
+    "example": "Please turn down the volume a little.",
+    "exampleTranslation": "Làm ơn vặn nhỏ âm lượng xuống một chút.",
+    "levelId": 1,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7231,
+    "headword": "performance",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pəˈfɔːməns/",
+    "phoneticUs": "/pərˈfɔːrməns/",
+    "meaningVi": "buổi biểu diễn, màn trình diễn",
+    "definitionEn": "a show given to an audience",
+    "example": "Their performance last night was amazing.",
+    "exampleTranslation": "Màn biểu diễn tối qua của họ thật tuyệt vời.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment",
+      "arts-entertainment"
+    ]
+  },
+  {
+    "id": 7232,
+    "headword": "perform",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/pəˈfɔːm/",
+    "phoneticUs": "/pərˈfɔːrm/",
+    "meaningVi": "biểu diễn",
+    "definitionEn": "to sing, act or play for an audience",
+    "example": "The band will perform on the main stage.",
+    "exampleTranslation": "Ban nhạc sẽ biểu diễn trên sân khấu chính.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment",
+      "arts-entertainment"
+    ]
+  },
+  {
+    "id": 7233,
+    "headword": "stage",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/steɪdʒ/",
+    "phoneticUs": "/steɪdʒ/",
+    "meaningVi": "sân khấu",
+    "definitionEn": "the raised area where performers stand",
+    "example": "The singer walked onto the stage.",
+    "exampleTranslation": "Ca sĩ bước lên sân khấu.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7234,
+    "headword": "theatre",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈθɪətə/",
+    "phoneticUs": "/ˈθiːətər/",
+    "meaningVi": "nhà hát, kịch",
+    "definitionEn": "a building where plays are shown",
+    "example": "We saw a play at the theatre.",
+    "exampleTranslation": "Chúng tôi đã xem một vở kịch ở nhà hát.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7235,
+    "headword": "theme park",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈθiːm pɑːk/",
+    "phoneticUs": "/ˈθiːm pɑːrk/",
+    "meaningVi": "công viên giải trí",
+    "definitionEn": "a large park with rides and shows",
+    "example": "The kids had fun at the theme park.",
+    "exampleTranslation": "Bọn trẻ đã chơi rất vui ở công viên giải trí.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7237,
+    "headword": "popcorn",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpɒpkɔːn/",
+    "phoneticUs": "/ˈpɑːpkɔːrn/",
+    "meaningVi": "bắp rang",
+    "definitionEn": "a snack of corn that has been heated until it pops",
+    "example": "We bought popcorn before the film started.",
+    "exampleTranslation": "Chúng tôi mua bắp rang trước khi phim bắt đầu.",
+    "levelId": 1,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7238,
+    "headword": "box office",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈbɒks ɒfɪs/",
+    "phoneticUs": "/ˈbɑːks ɔːfɪs/",
+    "meaningVi": "quầy bán vé",
+    "definitionEn": "the place where tickets are sold at a theatre",
+    "example": "Buy your tickets at the box office.",
+    "exampleTranslation": "Hãy mua vé ở quầy bán vé.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment",
+      "arts-entertainment"
+    ]
+  },
+  {
+    "id": 7239,
+    "headword": "review",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/rɪˈvjuː/",
+    "phoneticUs": "/rɪˈvjuː/",
+    "meaningVi": "bài đánh giá, nhận xét",
+    "definitionEn": "a written opinion about a film or book",
+    "example": "The film got very good reviews.",
+    "exampleTranslation": "Bộ phim nhận được những đánh giá rất tốt.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment",
+      "arts-entertainment",
+      "media-news"
+    ]
+  },
+  {
+    "id": 7240,
+    "headword": "star",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/stɑː/",
+    "phoneticUs": "/stɑːr/",
+    "meaningVi": "ngôi sao, diễn viên chính",
+    "definitionEn": "a very famous actor or singer",
+    "example": "She is a big star in Korea.",
+    "exampleTranslation": "Cô ấy là một ngôi sao lớn ở Hàn Quốc.",
+    "levelId": 1,
+    "topics": [
+      "movies-music-entertainment",
+      "nature-animals"
+    ]
+  },
+  {
+    "id": 7241,
+    "headword": "genre",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈʒɒnrə/",
+    "phoneticUs": "/ˈʒɑːnrə/",
+    "meaningVi": "thể loại",
+    "definitionEn": "a type of film, book or music",
+    "example": "What genre of music do you like?",
+    "exampleTranslation": "Bạn thích thể loại nhạc nào?",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment",
+      "arts-entertainment"
+    ]
+  },
+  {
+    "id": 7242,
+    "headword": "romantic",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/rəʊˈmæntɪk/",
+    "phoneticUs": "/roʊˈmæntɪk/",
+    "meaningVi": "lãng mạn",
+    "definitionEn": "showing love in a gentle way",
+    "example": "It is a romantic film about two students.",
+    "exampleTranslation": "Đó là một bộ phim lãng mạn về hai sinh viên.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment",
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 7243,
+    "headword": "action movie",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈækʃn muːvi/",
+    "phoneticUs": "/ˈækʃn muːvi/",
+    "meaningVi": "phim hành động",
+    "definitionEn": "a film with fights, chases and fast events",
+    "example": "My brother only watches action movies.",
+    "exampleTranslation": "Em trai tôi chỉ xem phim hành động.",
+    "levelId": 1,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7244,
+    "headword": "thriller",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈθrɪlə/",
+    "phoneticUs": "/ˈθrɪlər/",
+    "meaningVi": "phim giật gân, ly kỳ",
+    "definitionEn": "an exciting film or book about crime or danger",
+    "example": "The thriller kept me awake all night.",
+    "exampleTranslation": "Bộ phim giật gân khiến tôi thức cả đêm.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7245,
+    "headword": "science fiction",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌsaɪəns ˈfɪkʃn/",
+    "phoneticUs": "/ˌsaɪəns ˈfɪkʃn/",
+    "meaningVi": "khoa học viễn tưởng",
+    "definitionEn": "stories about the future, space and technology",
+    "example": "She loves reading science fiction novels.",
+    "exampleTranslation": "Cô ấy thích đọc tiểu thuyết khoa học viễn tưởng.",
+    "levelId": 2,
+    "topics": [
+      "movies-music-entertainment"
+    ]
+  },
+  {
+    "id": 7301,
+    "headword": "desk",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/desk/",
+    "phoneticUs": "/desk/",
+    "meaningVi": "bàn học, bàn làm việc",
+    "definitionEn": "a table where you read and write",
+    "example": "Please put your bags under your desk.",
+    "exampleTranslation": "Hãy để cặp dưới bàn của các em.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies",
+      "school-education"
+    ]
+  },
+  {
+    "id": 7302,
+    "headword": "whiteboard",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈwaɪtbɔːd/",
+    "phoneticUs": "/ˈwaɪtbɔːrd/",
+    "meaningVi": "bảng trắng",
+    "definitionEn": "a white board you write on with special pens",
+    "example": "Can you clean the whiteboard, please?",
+    "exampleTranslation": "Bạn lau bảng trắng giúp mình được không?",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies",
+      "toeic-office-equipment-supplies"
+    ]
+  },
+  {
+    "id": 7303,
+    "headword": "chalk",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/tʃɔːk/",
+    "phoneticUs": "/tʃɔːk/",
+    "meaningVi": "phấn",
+    "definitionEn": "a soft white stick for writing on a board",
+    "example": "The teacher's hands were covered in chalk.",
+    "exampleTranslation": "Tay cô giáo dính đầy phấn.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7304,
+    "headword": "marker",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmɑːkə/",
+    "phoneticUs": "/ˈmɑːrkər/",
+    "meaningVi": "bút lông",
+    "definitionEn": "a thick pen used on boards",
+    "example": "I need a new marker for the whiteboard.",
+    "exampleTranslation": "Tôi cần một cây bút lông mới cho bảng trắng.",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7305,
+    "headword": "pencil case",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈpensl keɪs/",
+    "phoneticUs": "/ˈpensl keɪs/",
+    "meaningVi": "hộp bút",
+    "definitionEn": "a small bag or box for pens and pencils",
+    "example": "My pencil case has three pens in it.",
+    "exampleTranslation": "Hộp bút của tôi có ba cây bút.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7306,
+    "headword": "eraser",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪˈreɪzə/",
+    "phoneticUs": "/ɪˈreɪsər/",
+    "meaningVi": "cục tẩy",
+    "definitionEn": "a small object used to rub out pencil marks",
+    "example": "Can I borrow your eraser?",
+    "exampleTranslation": "Mình mượn cục tẩy của bạn được không?",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies",
+      "school-education"
+    ]
+  },
+  {
+    "id": 7307,
+    "headword": "ruler",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈruːlə/",
+    "phoneticUs": "/ˈruːlər/",
+    "meaningVi": "cái thước kẻ",
+    "definitionEn": "a flat tool for measuring and drawing straight lines",
+    "example": "Use a ruler to draw the line.",
+    "exampleTranslation": "Hãy dùng thước kẻ để vẽ đường thẳng.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies",
+      "school-education"
+    ]
+  },
+  {
+    "id": 7308,
+    "headword": "scissors",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɪzəz/",
+    "phoneticUs": "/ˈsɪzərz/",
+    "meaningVi": "cái kéo",
+    "definitionEn": "a tool with two blades for cutting paper",
+    "example": "The scissors are in the drawer.",
+    "exampleTranslation": "Cái kéo ở trong ngăn kéo.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies",
+      "school-education"
+    ]
+  },
+  {
+    "id": 7309,
+    "headword": "glue",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɡluː/",
+    "phoneticUs": "/ɡluː/",
+    "meaningVi": "keo dán",
+    "definitionEn": "a sticky liquid used to join things",
+    "example": "We used glue to stick the pictures on paper.",
+    "exampleTranslation": "Chúng tôi dùng keo để dán các bức tranh lên giấy.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies",
+      "school-education"
+    ]
+  },
+  {
+    "id": 7310,
+    "headword": "calculator",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkælkjuleɪtə/",
+    "phoneticUs": "/ˈkælkjuleɪtər/",
+    "meaningVi": "máy tính bỏ túi",
+    "definitionEn": "a small machine for doing sums",
+    "example": "You may use a calculator in the maths test.",
+    "exampleTranslation": "Em được dùng máy tính bỏ túi trong bài kiểm tra toán.",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies",
+      "school-education"
+    ]
+  },
+  {
+    "id": 7311,
+    "headword": "backpack",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbækpæk/",
+    "phoneticUs": "/ˈbækpæk/",
+    "meaningVi": "ba lô",
+    "definitionEn": "a bag you carry on your back",
+    "example": "His backpack is full of heavy books.",
+    "exampleTranslation": "Ba lô của cậu ấy đầy sách nặng.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies",
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 7312,
+    "headword": "textbook",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtekstbʊk/",
+    "phoneticUs": "/ˈtekstbʊk/",
+    "meaningVi": "sách giáo khoa",
+    "definitionEn": "a book used for studying a subject",
+    "example": "Open your textbook to page ten.",
+    "exampleTranslation": "Hãy mở sách giáo khoa ra trang mười.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies",
+      "school-education",
+      "education-learning"
+    ]
+  },
+  {
+    "id": 7313,
+    "headword": "maths",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/mæθs/",
+    "phoneticUs": "/mæθs/",
+    "meaningVi": "môn toán",
+    "definitionEn": "the study of numbers and shapes",
+    "example": "We have maths on Monday and Wednesday.",
+    "exampleTranslation": "Chúng tôi học toán vào thứ Hai và thứ Tư.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7314,
+    "headword": "science",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsaɪəns/",
+    "phoneticUs": "/ˈsaɪəns/",
+    "meaningVi": "môn khoa học",
+    "definitionEn": "the study of nature and the physical world",
+    "example": "Our science class did an experiment today.",
+    "exampleTranslation": "Lớp khoa học của chúng tôi hôm nay làm một thí nghiệm.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies",
+      "school-education"
+    ]
+  },
+  {
+    "id": 7315,
+    "headword": "history",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhɪstri/",
+    "phoneticUs": "/ˈhɪstri/",
+    "meaningVi": "môn lịch sử",
+    "definitionEn": "the study of past events",
+    "example": "History helps us understand the world today.",
+    "exampleTranslation": "Lịch sử giúp chúng ta hiểu thế giới ngày nay.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies",
+      "school-education"
+    ]
+  },
+  {
+    "id": 7316,
+    "headword": "geography",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dʒiˈɒɡrəfi/",
+    "phoneticUs": "/dʒiˈɑːɡrəfi/",
+    "meaningVi": "môn địa lý",
+    "definitionEn": "the study of countries, rivers and mountains",
+    "example": "In geography we learned about rivers.",
+    "exampleTranslation": "Trong giờ địa lý chúng tôi học về các dòng sông.",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies",
+      "school-education"
+    ]
+  },
+  {
+    "id": 7317,
+    "headword": "literature",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlɪtrətʃə/",
+    "phoneticUs": "/ˈlɪtərətʃər/",
+    "meaningVi": "môn văn học",
+    "definitionEn": "stories, poems and plays that people study",
+    "example": "She loves literature and reads every day.",
+    "exampleTranslation": "Cô ấy yêu văn học và đọc sách mỗi ngày.",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7318,
+    "headword": "art",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɑːt/",
+    "phoneticUs": "/ɑːrt/",
+    "meaningVi": "môn mỹ thuật, nghệ thuật",
+    "definitionEn": "the activity of drawing and painting",
+    "example": "We paint pictures in art class.",
+    "exampleTranslation": "Chúng tôi vẽ tranh trong giờ mỹ thuật.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7319,
+    "headword": "physical education",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌfɪzɪkl edʒuˈkeɪʃn/",
+    "phoneticUs": "/ˌfɪzɪkl edʒuˈkeɪʃn/",
+    "meaningVi": "môn thể dục",
+    "definitionEn": "lessons at school about sport and exercise",
+    "example": "We play football in physical education.",
+    "exampleTranslation": "Chúng tôi chơi bóng đá trong giờ thể dục.",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7320,
+    "headword": "break",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/breɪk/",
+    "phoneticUs": "/breɪk/",
+    "meaningVi": "giờ nghỉ giải lao",
+    "definitionEn": "a short rest between lessons",
+    "example": "We eat snacks during the morning break.",
+    "exampleTranslation": "Chúng tôi ăn đồ ăn nhẹ trong giờ nghỉ buổi sáng.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7321,
+    "headword": "mark",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/mɑːk/",
+    "phoneticUs": "/mɑːrk/",
+    "meaningVi": "điểm số",
+    "definitionEn": "a number or letter that shows how well you did",
+    "example": "She got a high mark in the test.",
+    "exampleTranslation": "Cô ấy được điểm cao trong bài kiểm tra.",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies",
+      "school-education"
+    ]
+  },
+  {
+    "id": 7322,
+    "headword": "open your book",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈəʊpən jɔː bʊk/",
+    "phoneticUs": "/ˈoʊpən jɔːr bʊk/",
+    "meaningVi": "mở sách ra (lệnh của giáo viên)",
+    "definitionEn": "a teacher's instruction to start using the book",
+    "example": "Open your book to page twenty, please.",
+    "exampleTranslation": "Các em hãy mở sách ra trang hai mươi.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7323,
+    "headword": "sit down",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/sɪt daʊn/",
+    "phoneticUs": "/sɪt daʊn/",
+    "meaningVi": "ngồi xuống",
+    "definitionEn": "to move into a seated position",
+    "example": "Please sit down and be quiet.",
+    "exampleTranslation": "Các em ngồi xuống và giữ trật tự.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies",
+      "phrasal-daily"
+    ]
+  },
+  {
+    "id": 7324,
+    "headword": "stand up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/stænd ʌp/",
+    "phoneticUs": "/stænd ʌp/",
+    "meaningVi": "đứng dậy",
+    "definitionEn": "to rise from a seat onto your feet",
+    "example": "Stand up when the teacher comes in.",
+    "exampleTranslation": "Hãy đứng dậy khi giáo viên bước vào.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies",
+      "phrasal-daily"
+    ]
+  },
+  {
+    "id": 7325,
+    "headword": "raise your hand",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/reɪz jɔː hænd/",
+    "phoneticUs": "/reɪz jɔːr hænd/",
+    "meaningVi": "giơ tay",
+    "definitionEn": "to lift your hand to ask or answer a question",
+    "example": "Raise your hand if you know the answer.",
+    "exampleTranslation": "Em nào biết đáp án thì giơ tay.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7326,
+    "headword": "repeat",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/rɪˈpiːt/",
+    "phoneticUs": "/rɪˈpiːt/",
+    "meaningVi": "nhắc lại, lặp lại",
+    "definitionEn": "to say or do something again",
+    "example": "Repeat after me, class.",
+    "exampleTranslation": "Cả lớp nhắc lại theo cô.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies",
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 7327,
+    "headword": "spell",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/spel/",
+    "phoneticUs": "/spel/",
+    "meaningVi": "đánh vần",
+    "definitionEn": "to say the letters of a word in order",
+    "example": "Can you spell your name for me?",
+    "exampleTranslation": "Bạn có thể đánh vần tên của bạn cho tôi không?",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies",
+      "school-education",
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 7328,
+    "headword": "quiet",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈkwaɪət/",
+    "phoneticUs": "/ˈkwaɪət/",
+    "meaningVi": "yên lặng",
+    "definitionEn": "making little or no noise",
+    "example": "Be quiet while others are working.",
+    "exampleTranslation": "Hãy giữ yên lặng khi người khác đang làm việc.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7329,
+    "headword": "take notes",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/teɪk nəʊts/",
+    "phoneticUs": "/teɪk noʊts/",
+    "meaningVi": "ghi chép",
+    "definitionEn": "to write down important points while listening",
+    "example": "I take notes during every lecture.",
+    "exampleTranslation": "Tôi ghi chép trong mọi buổi giảng.",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7330,
+    "headword": "absent",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈæbsənt/",
+    "phoneticUs": "/ˈæbsənt/",
+    "meaningVi": "vắng mặt",
+    "definitionEn": "not at school or at a place when you should be",
+    "example": "Two students were absent today.",
+    "exampleTranslation": "Hôm nay hai học sinh vắng mặt.",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7331,
+    "headword": "uniform",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈjuːnɪfɔːm/",
+    "phoneticUs": "/ˈjuːnɪfɔːrm/",
+    "meaningVi": "đồng phục",
+    "definitionEn": "special clothes that everyone at a school wears",
+    "example": "Our school uniform is white and blue.",
+    "exampleTranslation": "Đồng phục trường chúng tôi màu trắng và xanh.",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies",
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 7332,
+    "headword": "playground",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpleɪɡraʊnd/",
+    "phoneticUs": "/ˈpleɪɡraʊnd/",
+    "meaningVi": "sân chơi",
+    "definitionEn": "an outdoor area where children play",
+    "example": "The children ran to the playground.",
+    "exampleTranslation": "Bọn trẻ chạy ra sân chơi.",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies",
+      "school-education",
+      "education-learning"
+    ]
+  },
+  {
+    "id": 7333,
+    "headword": "pupil",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpjuːpl/",
+    "phoneticUs": "/ˈpjuːpl/",
+    "meaningVi": "học sinh (nhỏ tuổi)",
+    "definitionEn": "a child who goes to school",
+    "example": "Each pupil has a small locker.",
+    "exampleTranslation": "Mỗi học sinh có một tủ đồ nhỏ.",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies",
+      "education-learning"
+    ]
+  },
+  {
+    "id": 7334,
+    "headword": "classmate",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈklɑːsmeɪt/",
+    "phoneticUs": "/ˈklæsmeɪt/",
+    "meaningVi": "bạn cùng lớp",
+    "definitionEn": "a person who is in the same class as you",
+    "example": "My classmate helped me with the homework.",
+    "exampleTranslation": "Bạn cùng lớp đã giúp tôi làm bài tập.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies",
+      "school-education",
+      "education-learning",
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 7335,
+    "headword": "blackboard",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈblækbɔːd/",
+    "phoneticUs": "/ˈblækbɔːrd/",
+    "meaningVi": "bảng đen",
+    "definitionEn": "a dark board that you write on with chalk",
+    "example": "She cleaned the blackboard after the lesson.",
+    "exampleTranslation": "Cô ấy lau bảng đen sau giờ học.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies",
+      "school-education"
+    ]
+  },
+  {
+    "id": 7336,
+    "headword": "pencil",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpensl/",
+    "phoneticUs": "/ˈpensl/",
+    "meaningVi": "bút chì",
+    "definitionEn": "a thin stick used for writing or drawing",
+    "example": "Write the answers in pencil first.",
+    "exampleTranslation": "Hãy viết đáp án bằng bút chì trước.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies",
+      "school-education"
+    ]
+  },
+  {
+    "id": 7337,
+    "headword": "sharpener",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈʃɑːpnə/",
+    "phoneticUs": "/ˈʃɑːrpnər/",
+    "meaningVi": "đồ gọt bút chì",
+    "definitionEn": "a tool that makes a pencil pointed",
+    "example": "I need a sharpener for my pencils.",
+    "exampleTranslation": "Tôi cần cái gọt bút chì cho mấy cây bút của mình.",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7338,
+    "headword": "folder",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfəʊldə/",
+    "phoneticUs": "/ˈfoʊldər/",
+    "meaningVi": "bìa hồ sơ, kẹp tài liệu",
+    "definitionEn": "a cover for keeping papers together",
+    "example": "Keep your worksheets in a folder.",
+    "exampleTranslation": "Hãy để các phiếu bài tập trong một cái bìa hồ sơ.",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7339,
+    "headword": "highlighter",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhaɪlaɪtə/",
+    "phoneticUs": "/ˈhaɪlaɪtər/",
+    "meaningVi": "bút dạ quang",
+    "definitionEn": "a bright pen used to mark important words",
+    "example": "I use a yellow highlighter for key words.",
+    "exampleTranslation": "Tôi dùng bút dạ quang màu vàng cho các từ khóa.",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies",
+      "toeic-office-equipment-supplies"
+    ]
+  },
+  {
+    "id": 7340,
+    "headword": "stapler",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsteɪplə/",
+    "phoneticUs": "/ˈsteɪplər/",
+    "meaningVi": "cái dập ghim",
+    "definitionEn": "a tool that joins papers with small metal pieces",
+    "example": "Could you pass me the stapler?",
+    "exampleTranslation": "Bạn đưa giúp tôi cái dập ghim được không?",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies",
+      "toeic-office-equipment-supplies"
+    ]
+  },
+  {
+    "id": 7341,
+    "headword": "bell",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/bel/",
+    "phoneticUs": "/bel/",
+    "meaningVi": "chuông",
+    "definitionEn": "a metal object that rings to give a signal",
+    "example": "The bell rings at the end of every lesson.",
+    "exampleTranslation": "Chuông reo vào cuối mỗi tiết học.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7342,
+    "headword": "quiz",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kwɪz/",
+    "phoneticUs": "/kwɪz/",
+    "meaningVi": "bài kiểm tra ngắn",
+    "definitionEn": "a short test or set of questions",
+    "example": "We have a quiz at the start of class.",
+    "exampleTranslation": "Chúng tôi có một bài kiểm tra ngắn đầu giờ.",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7343,
+    "headword": "vocabulary",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/vəˈkæbjələri/",
+    "phoneticUs": "/voʊˈkæbjəleri/",
+    "meaningVi": "từ vựng",
+    "definitionEn": "all the words that a person knows",
+    "example": "I learn ten new vocabulary words every day.",
+    "exampleTranslation": "Mỗi ngày tôi học mười từ vựng mới.",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7344,
+    "headword": "mistake",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/mɪˈsteɪk/",
+    "phoneticUs": "/mɪˈsteɪk/",
+    "meaningVi": "lỗi, sai sót",
+    "definitionEn": "something that is wrong",
+    "example": "I made two mistakes in the test.",
+    "exampleTranslation": "Tôi mắc hai lỗi trong bài kiểm tra.",
+    "levelId": 1,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7345,
+    "headword": "correct",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kəˈrekt/",
+    "phoneticUs": "/kəˈrekt/",
+    "meaningVi": "sửa, chữa",
+    "definitionEn": "to make a mistake right",
+    "example": "The teacher corrects our writing every week.",
+    "exampleTranslation": "Giáo viên chữa bài viết của chúng tôi mỗi tuần.",
+    "levelId": 2,
+    "topics": [
+      "classroom-school-supplies"
+    ]
+  },
+  {
+    "id": 7401,
+    "headword": "turn right",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/tɜːn raɪt/",
+    "phoneticUs": "/tɜːrn raɪt/",
+    "meaningVi": "rẽ phải",
+    "definitionEn": "to change direction to the right",
+    "example": "Turn right after the bank.",
+    "exampleTranslation": "Rẽ phải sau ngân hàng.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7402,
+    "headword": "go straight",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡəʊ streɪt/",
+    "phoneticUs": "/ɡoʊ streɪt/",
+    "meaningVi": "đi thẳng",
+    "definitionEn": "to continue in the same direction",
+    "example": "Go straight for two blocks.",
+    "exampleTranslation": "Đi thẳng hai dãy nhà.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places",
+      "transport-city"
+    ]
+  },
+  {
+    "id": 7403,
+    "headword": "straight ahead",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/streɪt əˈhed/",
+    "phoneticUs": "/streɪt əˈhed/",
+    "meaningVi": "ngay phía trước",
+    "definitionEn": "directly in front of you",
+    "example": "The station is straight ahead.",
+    "exampleTranslation": "Nhà ga ở ngay phía trước.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7404,
+    "headword": "left",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/left/",
+    "phoneticUs": "/left/",
+    "meaningVi": "bên trái",
+    "definitionEn": "on the side of your body that has the heart",
+    "example": "The shop is on your left.",
+    "exampleTranslation": "Cửa hàng ở bên trái bạn.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7405,
+    "headword": "right",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/raɪt/",
+    "phoneticUs": "/raɪt/",
+    "meaningVi": "bên phải",
+    "definitionEn": "on the side opposite to left",
+    "example": "Our house is on the right side of the road.",
+    "exampleTranslation": "Nhà chúng tôi ở bên phải đường.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7406,
+    "headword": "crossroads",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkrɒsrəʊdz/",
+    "phoneticUs": "/ˈkrɔːsroʊdz/",
+    "meaningVi": "ngã tư",
+    "definitionEn": "a place where two roads cross",
+    "example": "Turn left at the crossroads.",
+    "exampleTranslation": "Rẽ trái ở ngã tư.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places",
+      "transport-city"
+    ]
+  },
+  {
+    "id": 7407,
+    "headword": "traffic lights",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈtræfɪk laɪts/",
+    "phoneticUs": "/ˈtræfɪk laɪts/",
+    "meaningVi": "đèn giao thông",
+    "definitionEn": "coloured lights that tell cars when to stop",
+    "example": "Stop at the traffic lights.",
+    "exampleTranslation": "Dừng lại ở đèn giao thông.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7408,
+    "headword": "roundabout",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈraʊndəbaʊt/",
+    "phoneticUs": "/ˈraʊndəbaʊt/",
+    "meaningVi": "vòng xuyến",
+    "definitionEn": "a circular junction where cars go around",
+    "example": "Take the second exit at the roundabout.",
+    "exampleTranslation": "Đi lối ra thứ hai ở vòng xuyến.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places",
+      "architecture-urban-life",
+      "transport-city"
+    ]
+  },
+  {
+    "id": 7409,
+    "headword": "pavement",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpeɪvmənt/",
+    "phoneticUs": "/ˈpeɪvmənt/",
+    "meaningVi": "vỉa hè",
+    "definitionEn": "the path at the side of a road for walking",
+    "example": "Please walk on the pavement, not the road.",
+    "exampleTranslation": "Hãy đi trên vỉa hè, đừng đi dưới lòng đường.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places",
+      "architecture-urban-life"
+    ]
+  },
+  {
+    "id": 7410,
+    "headword": "zebra crossing",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌzebrə ˈkrɒsɪŋ/",
+    "phoneticUs": "/ˌziːbrə ˈkrɔːsɪŋ/",
+    "meaningVi": "vạch qua đường",
+    "definitionEn": "black and white lines where people can cross",
+    "example": "Wait at the zebra crossing for the car to stop.",
+    "exampleTranslation": "Chờ ở vạch qua đường cho xe dừng lại.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places",
+      "architecture-urban-life"
+    ]
+  },
+  {
+    "id": 7411,
+    "headword": "cross",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/krɒs/",
+    "phoneticUs": "/krɔːs/",
+    "meaningVi": "băng qua",
+    "definitionEn": "to go from one side to the other",
+    "example": "Be careful when you cross the street.",
+    "exampleTranslation": "Hãy cẩn thận khi băng qua đường.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places",
+      "transport-city"
+    ]
+  },
+  {
+    "id": 7412,
+    "headword": "opposite",
+    "partOfSpeech": "preposition",
+    "phoneticUk": "/ˈɒpəzɪt/",
+    "phoneticUs": "/ˈɑːpəzɪt/",
+    "meaningVi": "đối diện",
+    "definitionEn": "on the other side of, facing something",
+    "example": "The bank is opposite the school.",
+    "exampleTranslation": "Ngân hàng nằm đối diện trường học.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7413,
+    "headword": "next to",
+    "partOfSpeech": "preposition",
+    "phoneticUk": "/ˈnekst tuː/",
+    "phoneticUs": "/ˈnekst tuː/",
+    "meaningVi": "bên cạnh",
+    "definitionEn": "very close to the side of something",
+    "example": "The pharmacy is next to the supermarket.",
+    "exampleTranslation": "Hiệu thuốc nằm cạnh siêu thị.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7414,
+    "headword": "between",
+    "partOfSpeech": "preposition",
+    "phoneticUk": "/bɪˈtwiːn/",
+    "phoneticUs": "/bɪˈtwiːn/",
+    "meaningVi": "ở giữa",
+    "definitionEn": "in the space that separates two things",
+    "example": "The post office is between the bank and the park.",
+    "exampleTranslation": "Bưu điện nằm giữa ngân hàng và công viên.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7415,
+    "headword": "behind",
+    "partOfSpeech": "preposition",
+    "phoneticUk": "/bɪˈhaɪnd/",
+    "phoneticUs": "/bɪˈhaɪnd/",
+    "meaningVi": "phía sau",
+    "definitionEn": "at the back of something",
+    "example": "The car park is behind the hotel.",
+    "exampleTranslation": "Bãi đỗ xe ở phía sau khách sạn.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7416,
+    "headword": "in front of",
+    "partOfSpeech": "preposition",
+    "phoneticUk": "/ɪn ˈfrʌnt əv/",
+    "phoneticUs": "/ɪn ˈfrʌnt əv/",
+    "meaningVi": "phía trước",
+    "definitionEn": "at the front of something",
+    "example": "Wait for me in front of the cinema.",
+    "exampleTranslation": "Hãy đợi tôi trước rạp chiếu phim.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7417,
+    "headword": "across from",
+    "partOfSpeech": "preposition",
+    "phoneticUk": "/əˈkrɒs frɒm/",
+    "phoneticUs": "/əˈkrɔːs frʌm/",
+    "meaningVi": "đối diện, bên kia đường",
+    "definitionEn": "on the other side of the street from",
+    "example": "The coffee shop is across from the library.",
+    "exampleTranslation": "Quán cà phê nằm đối diện thư viện.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7418,
+    "headword": "along",
+    "partOfSpeech": "preposition",
+    "phoneticUk": "/əˈlɒŋ/",
+    "phoneticUs": "/əˈlɔːŋ/",
+    "meaningVi": "dọc theo",
+    "definitionEn": "following the length of something",
+    "example": "Walk along this road for five minutes.",
+    "exampleTranslation": "Đi dọc con đường này khoảng năm phút.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7419,
+    "headword": "lost",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/lɒst/",
+    "phoneticUs": "/lɔːst/",
+    "meaningVi": "bị lạc",
+    "definitionEn": "not knowing where you are",
+    "example": "Excuse me, I think I am lost.",
+    "exampleTranslation": "Xin lỗi, tôi nghĩ mình bị lạc đường.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places",
+      "transport-city"
+    ]
+  },
+  {
+    "id": 7420,
+    "headword": "direction",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dəˈrekʃn/",
+    "phoneticUs": "/dəˈrekʃn/",
+    "meaningVi": "hướng, chỉ dẫn",
+    "definitionEn": "the way you go to reach a place",
+    "example": "Can you give me directions to the station?",
+    "exampleTranslation": "Bạn chỉ đường đến nhà ga giúp tôi được không?",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7421,
+    "headword": "map",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/mæp/",
+    "phoneticUs": "/mæp/",
+    "meaningVi": "bản đồ",
+    "definitionEn": "a drawing that shows roads and places",
+    "example": "I looked at the map on my phone.",
+    "exampleTranslation": "Tôi xem bản đồ trên điện thoại.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places",
+      "transport-city"
+    ]
+  },
+  {
+    "id": 7422,
+    "headword": "block",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/blɒk/",
+    "phoneticUs": "/blɑːk/",
+    "meaningVi": "dãy nhà, khu phố",
+    "definitionEn": "a group of buildings between four streets",
+    "example": "The hotel is two blocks from here.",
+    "exampleTranslation": "Khách sạn cách đây hai dãy nhà.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7423,
+    "headword": "bus stop",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈbʌs stɒp/",
+    "phoneticUs": "/ˈbʌs stɑːp/",
+    "meaningVi": "trạm xe buýt",
+    "definitionEn": "a place where buses stop for passengers",
+    "example": "The bus stop is just around the corner.",
+    "exampleTranslation": "Trạm xe buýt ở ngay góc phố.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7424,
+    "headword": "supermarket",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsuːpəmɑːkɪt/",
+    "phoneticUs": "/ˈsuːpərmɑːrkɪt/",
+    "meaningVi": "siêu thị",
+    "definitionEn": "a large shop that sells food and other goods",
+    "example": "I buy vegetables at the supermarket.",
+    "exampleTranslation": "Tôi mua rau ở siêu thị.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7425,
+    "headword": "shopping mall",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈʃɒpɪŋ mɔːl/",
+    "phoneticUs": "/ˈʃɑːpɪŋ mɔːl/",
+    "meaningVi": "trung tâm thương mại",
+    "definitionEn": "a large building with many shops",
+    "example": "The shopping mall is always crowded on weekends.",
+    "exampleTranslation": "Trung tâm thương mại lúc nào cũng đông vào cuối tuần.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places",
+      "toeic-retail-stores"
+    ]
+  },
+  {
+    "id": 7426,
+    "headword": "bakery",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbeɪkəri/",
+    "phoneticUs": "/ˈbeɪkəri/",
+    "meaningVi": "tiệm bánh",
+    "definitionEn": "a shop that makes and sells bread",
+    "example": "The bakery near my house sells fresh bread.",
+    "exampleTranslation": "Tiệm bánh gần nhà tôi bán bánh mì tươi.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7427,
+    "headword": "police station",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/pəˈliːs steɪʃn/",
+    "phoneticUs": "/pəˈliːs steɪʃn/",
+    "meaningVi": "đồn cảnh sát",
+    "definitionEn": "a building where police officers work",
+    "example": "Go to the police station to report it.",
+    "exampleTranslation": "Hãy đến đồn cảnh sát để báo việc đó.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7428,
+    "headword": "fire station",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈfaɪə steɪʃn/",
+    "phoneticUs": "/ˈfaɪər steɪʃn/",
+    "meaningVi": "trạm cứu hỏa",
+    "definitionEn": "a building where fire fighters work",
+    "example": "The fire station is next to the hospital.",
+    "exampleTranslation": "Trạm cứu hỏa ở cạnh bệnh viện.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7429,
+    "headword": "petrol station",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈpetrəl steɪʃn/",
+    "phoneticUs": "/ˈpetrəl steɪʃn/",
+    "meaningVi": "trạm xăng",
+    "definitionEn": "a place where you buy fuel for your car",
+    "example": "There is a petrol station on the main road.",
+    "exampleTranslation": "Có một trạm xăng ở trên đường chính.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7430,
+    "headword": "church",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/tʃɜːtʃ/",
+    "phoneticUs": "/tʃɜːrtʃ/",
+    "meaningVi": "nhà thờ",
+    "definitionEn": "a building where Christians pray",
+    "example": "The old church is in the town centre.",
+    "exampleTranslation": "Nhà thờ cổ nằm ở trung tâm thị trấn.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7431,
+    "headword": "temple",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtempl/",
+    "phoneticUs": "/ˈtempl/",
+    "meaningVi": "đền, chùa",
+    "definitionEn": "a building used for religious worship",
+    "example": "We visited a beautiful temple in Hue.",
+    "exampleTranslation": "Chúng tôi thăm một ngôi chùa đẹp ở Huế.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7433,
+    "headword": "city centre",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈsɪti ˈsentə/",
+    "phoneticUs": "/ˈsɪti ˈsentər/",
+    "meaningVi": "trung tâm thành phố",
+    "definitionEn": "the middle part of a city",
+    "example": "The hotel is in the city centre.",
+    "exampleTranslation": "Khách sạn nằm ở trung tâm thành phố.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7434,
+    "headword": "How do I get to",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/haʊ duː aɪ ɡet tuː/",
+    "phoneticUs": "/haʊ duː aɪ ɡet tuː/",
+    "meaningVi": "Làm sao để tôi đến...",
+    "definitionEn": "a question used to ask for directions",
+    "example": "How do I get to the post office from here?",
+    "exampleTranslation": "Từ đây tôi đến bưu điện bằng cách nào?",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7435,
+    "headword": "restaurant",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈrestrɒnt/",
+    "phoneticUs": "/ˈrestrɑːnt/",
+    "meaningVi": "nhà hàng",
+    "definitionEn": "a place where you buy and eat meals",
+    "example": "There is a good restaurant near the station.",
+    "exampleTranslation": "Có một nhà hàng ngon gần nhà ga.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7436,
+    "headword": "hotel",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/həʊˈtel/",
+    "phoneticUs": "/hoʊˈtel/",
+    "meaningVi": "khách sạn",
+    "definitionEn": "a building where travellers pay to stay",
+    "example": "Our hotel is five minutes from the beach.",
+    "exampleTranslation": "Khách sạn của chúng tôi cách bãi biển năm phút.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7437,
+    "headword": "zoo",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/zuː/",
+    "phoneticUs": "/zuː/",
+    "meaningVi": "sở thú",
+    "definitionEn": "a place where wild animals are kept for people to see",
+    "example": "The children loved the zoo.",
+    "exampleTranslation": "Bọn trẻ rất thích sở thú.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7438,
+    "headword": "car park",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈkɑː pɑːk/",
+    "phoneticUs": "/ˈkɑːr pɑːrk/",
+    "meaningVi": "bãi đỗ xe",
+    "definitionEn": "an area where you leave your car",
+    "example": "Is there a car park near the market?",
+    "exampleTranslation": "Gần chợ có bãi đỗ xe không?",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places",
+      "architecture-urban-life"
+    ]
+  },
+  {
+    "id": 7439,
+    "headword": "bus station",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈbʌs steɪʃn/",
+    "phoneticUs": "/ˈbʌs steɪʃn/",
+    "meaningVi": "bến xe buýt",
+    "definitionEn": "a place where many buses start and stop",
+    "example": "The bus station is next to the river.",
+    "exampleTranslation": "Bến xe buýt nằm cạnh con sông.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7440,
+    "headword": "train station",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈtreɪn steɪʃn/",
+    "phoneticUs": "/ˈtreɪn steɪʃn/",
+    "meaningVi": "ga tàu",
+    "definitionEn": "a place where trains stop for passengers",
+    "example": "I will meet you at the train station.",
+    "exampleTranslation": "Tôi sẽ gặp bạn ở ga tàu.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7441,
+    "headword": "subway",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsʌbweɪ/",
+    "phoneticUs": "/ˈsʌbweɪ/",
+    "meaningVi": "tàu điện ngầm",
+    "definitionEn": "an underground railway in a city",
+    "example": "We took the subway to the city centre.",
+    "exampleTranslation": "Chúng tôi đi tàu điện ngầm vào trung tâm.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places",
+      "transport-city",
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 7442,
+    "headword": "town hall",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌtaʊn ˈhɔːl/",
+    "phoneticUs": "/ˌtaʊn ˈhɔːl/",
+    "meaningVi": "tòa thị chính, ủy ban",
+    "definitionEn": "the building where the local government works",
+    "example": "The town hall is a hundred years old.",
+    "exampleTranslation": "Tòa thị chính đã có tuổi đời một trăm năm.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7443,
+    "headword": "swimming pool",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈswɪmɪŋ puːl/",
+    "phoneticUs": "/ˈswɪmɪŋ puːl/",
+    "meaningVi": "hồ bơi",
+    "definitionEn": "a place for swimming",
+    "example": "The swimming pool is open every day.",
+    "exampleTranslation": "Hồ bơi mở cửa mỗi ngày.",
+    "levelId": 1,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7444,
+    "headword": "stadium",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsteɪdiəm/",
+    "phoneticUs": "/ˈsteɪdiəm/",
+    "meaningVi": "sân vận động",
+    "definitionEn": "a large place where sports matches are held",
+    "example": "Thousands of fans went to the stadium.",
+    "exampleTranslation": "Hàng nghìn người hâm mộ đã đến sân vận động.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places",
+      "sports-fitness",
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 7445,
+    "headword": "bookshop",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbʊkʃɒp/",
+    "phoneticUs": "/ˈbʊkʃɑːp/",
+    "meaningVi": "hiệu sách",
+    "definitionEn": "a shop that sells books",
+    "example": "I found this novel in a small bookshop.",
+    "exampleTranslation": "Tôi tìm thấy cuốn tiểu thuyết này ở một hiệu sách nhỏ.",
+    "levelId": 2,
+    "topics": [
+      "directions-city-places"
+    ]
+  },
+  {
+    "id": 7501,
+    "headword": "bank",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/bæŋk/",
+    "phoneticUs": "/bæŋk/",
+    "meaningVi": "ngân hàng",
+    "definitionEn": "a place where people keep their money",
+    "example": "I need to go to the bank at lunchtime.",
+    "exampleTranslation": "Tôi cần đến ngân hàng vào giờ trưa.",
+    "levelId": 1,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7502,
+    "headword": "post office",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈpəʊst ɒfɪs/",
+    "phoneticUs": "/ˈpoʊst ɔːfɪs/",
+    "meaningVi": "bưu điện",
+    "definitionEn": "a place where you send letters and parcels",
+    "example": "The post office opens at eight in the morning.",
+    "exampleTranslation": "Bưu điện mở cửa lúc tám giờ sáng.",
+    "levelId": 1,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7504,
+    "headword": "ATM",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌeɪ tiː ˈem/",
+    "phoneticUs": "/ˌeɪ tiː ˈem/",
+    "meaningVi": "máy rút tiền ATM",
+    "definitionEn": "a machine in the street where you get cash",
+    "example": "The ATM is outside the supermarket.",
+    "exampleTranslation": "Máy ATM ở bên ngoài siêu thị.",
+    "levelId": 1,
+    "topics": [
+      "bank-post-office-services",
+      "toeic-banking-investment"
+    ]
+  },
+  {
+    "id": 7505,
+    "headword": "cash",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kæʃ/",
+    "phoneticUs": "/kæʃ/",
+    "meaningVi": "tiền mặt",
+    "definitionEn": "money in coins and notes",
+    "example": "Do you accept cash or only cards?",
+    "exampleTranslation": "Bạn nhận tiền mặt hay chỉ nhận thẻ?",
+    "levelId": 1,
+    "topics": [
+      "bank-post-office-services",
+      "clothes-shopping",
+      "money-economy"
+    ]
+  },
+  {
+    "id": 7506,
+    "headword": "credit card",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈkredɪt kɑːd/",
+    "phoneticUs": "/ˈkredɪt kɑːrd/",
+    "meaningVi": "thẻ tín dụng",
+    "definitionEn": "a plastic card that lets you buy now and pay later",
+    "example": "I paid for the shoes with my credit card.",
+    "exampleTranslation": "Tôi trả tiền đôi giày bằng thẻ tín dụng.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services",
+      "money-economy",
+      "toeic-banking-investment"
+    ]
+  },
+  {
+    "id": 7507,
+    "headword": "PIN",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pɪn/",
+    "phoneticUs": "/pɪn/",
+    "meaningVi": "mã PIN",
+    "definitionEn": "a secret number used with a bank card",
+    "example": "Never tell anyone your PIN.",
+    "exampleTranslation": "Đừng bao giờ nói mã PIN của bạn cho ai.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7508,
+    "headword": "interest",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɪntrəst/",
+    "phoneticUs": "/ˈɪntrəst/",
+    "meaningVi": "lãi suất, tiền lãi",
+    "definitionEn": "extra money a bank pays or charges",
+    "example": "The bank pays low interest on savings.",
+    "exampleTranslation": "Ngân hàng trả lãi thấp cho tiền gửi tiết kiệm.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7509,
+    "headword": "change",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/tʃeɪndʒ/",
+    "phoneticUs": "/tʃeɪndʒ/",
+    "meaningVi": "tiền thừa, tiền lẻ",
+    "definitionEn": "the small money you get back after paying",
+    "example": "Keep the change, please.",
+    "exampleTranslation": "Bạn cứ giữ lại tiền thừa nhé.",
+    "levelId": 1,
+    "topics": [
+      "bank-post-office-services",
+      "clothes-shopping"
+    ]
+  },
+  {
+    "id": 7511,
+    "headword": "fee",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/fiː/",
+    "phoneticUs": "/fiː/",
+    "meaningVi": "phí",
+    "definitionEn": "money you pay for a service",
+    "example": "There is a small fee for sending the money.",
+    "exampleTranslation": "Có một khoản phí nhỏ khi gửi tiền.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7512,
+    "headword": "form",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/fɔːm/",
+    "phoneticUs": "/fɔːrm/",
+    "meaningVi": "mẫu đơn, biểu mẫu",
+    "definitionEn": "a paper with spaces for you to write information",
+    "example": "Please fill in this form.",
+    "exampleTranslation": "Vui lòng điền vào mẫu đơn này.",
+    "levelId": 1,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7513,
+    "headword": "sign",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/saɪn/",
+    "phoneticUs": "/saɪn/",
+    "meaningVi": "ký tên",
+    "definitionEn": "to write your name on a paper",
+    "example": "Sign here at the bottom, please.",
+    "exampleTranslation": "Vui lòng ký tên ở cuối trang này.",
+    "levelId": 1,
+    "topics": [
+      "bank-post-office-services",
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 7514,
+    "headword": "queue",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kjuː/",
+    "phoneticUs": "/kjuː/",
+    "meaningVi": "hàng chờ",
+    "definitionEn": "a line of people waiting for something",
+    "example": "There was a long queue at the post office.",
+    "exampleTranslation": "Có một hàng dài ở bưu điện.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services",
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 7515,
+    "headword": "counter",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkaʊntə/",
+    "phoneticUs": "/ˈkaʊntər/",
+    "meaningVi": "quầy giao dịch",
+    "definitionEn": "a long table where customers are served",
+    "example": "Please go to counter number three.",
+    "exampleTranslation": "Vui lòng đến quầy số ba.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7516,
+    "headword": "envelope",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈenvələʊp/",
+    "phoneticUs": "/ˈenvəloʊp/",
+    "meaningVi": "phong bì",
+    "definitionEn": "a paper cover for a letter",
+    "example": "I put the letter in an envelope.",
+    "exampleTranslation": "Tôi bỏ lá thư vào phong bì.",
+    "levelId": 1,
+    "topics": [
+      "bank-post-office-services",
+      "toeic-office-equipment-supplies"
+    ]
+  },
+  {
+    "id": 7517,
+    "headword": "stamp",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/stæmp/",
+    "phoneticUs": "/stæmp/",
+    "meaningVi": "tem thư",
+    "definitionEn": "a small paper you stick on a letter to post it",
+    "example": "Where can I buy a stamp?",
+    "exampleTranslation": "Tôi có thể mua tem ở đâu?",
+    "levelId": 1,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7518,
+    "headword": "letter",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈletə/",
+    "phoneticUs": "/ˈletər/",
+    "meaningVi": "lá thư",
+    "definitionEn": "a written message sent in an envelope",
+    "example": "I got a letter from my aunt today.",
+    "exampleTranslation": "Hôm nay tôi nhận được một lá thư của dì.",
+    "levelId": 1,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7519,
+    "headword": "postcard",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpəʊstkɑːd/",
+    "phoneticUs": "/ˈpoʊstkɑːrd/",
+    "meaningVi": "bưu thiếp",
+    "definitionEn": "a card with a picture that you send by post",
+    "example": "She sent me a postcard from Paris.",
+    "exampleTranslation": "Cô ấy gửi cho tôi một tấm bưu thiếp từ Paris.",
+    "levelId": 1,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7520,
+    "headword": "postcode",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpəʊstkəʊd/",
+    "phoneticUs": "/ˈpoʊstkoʊd/",
+    "meaningVi": "mã bưu chính",
+    "definitionEn": "letters and numbers added to an address",
+    "example": "Do not forget to write the postcode.",
+    "exampleTranslation": "Đừng quên ghi mã bưu chính.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7522,
+    "headword": "deliver",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/dɪˈlɪvə/",
+    "phoneticUs": "/dɪˈlɪvər/",
+    "meaningVi": "giao, chuyển phát",
+    "definitionEn": "to take goods or letters to a place",
+    "example": "They deliver parcels to your door.",
+    "exampleTranslation": "Họ giao bưu kiện tận cửa.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7523,
+    "headword": "express",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ɪkˈspres/",
+    "phoneticUs": "/ɪkˈspres/",
+    "meaningVi": "nhanh, hỏa tốc",
+    "definitionEn": "very fast, such as post or delivery",
+    "example": "I sent the documents by express mail.",
+    "exampleTranslation": "Tôi gửi giấy tờ bằng thư chuyển phát nhanh.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7524,
+    "headword": "ID card",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌaɪ ˈdiː kɑːd/",
+    "phoneticUs": "/ˌaɪ ˈdiː kɑːrd/",
+    "meaningVi": "thẻ căn cước, chứng minh thư",
+    "definitionEn": "a card that shows who you are",
+    "example": "You must show your ID card at the bank.",
+    "exampleTranslation": "Bạn phải xuất trình thẻ căn cước ở ngân hàng.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7525,
+    "headword": "document",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdɒkjumənt/",
+    "phoneticUs": "/ˈdɑːkjumənt/",
+    "meaningVi": "giấy tờ, tài liệu",
+    "definitionEn": "an official paper with important information",
+    "example": "Bring all your documents to the office.",
+    "exampleTranslation": "Hãy mang tất cả giấy tờ của bạn đến văn phòng.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7526,
+    "headword": "office hours",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈɒfɪs aʊəz/",
+    "phoneticUs": "/ˈɔːfɪs aʊərz/",
+    "meaningVi": "giờ làm việc",
+    "definitionEn": "the time when an office is open",
+    "example": "The office hours are from eight to five.",
+    "exampleTranslation": "Giờ làm việc là từ tám giờ đến năm giờ.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7527,
+    "headword": "service",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɜːvɪs/",
+    "phoneticUs": "/ˈsɜːrvɪs/",
+    "meaningVi": "dịch vụ",
+    "definitionEn": "work done for people, such as banking or post",
+    "example": "The bank offers a fast online service.",
+    "exampleTranslation": "Ngân hàng cung cấp dịch vụ trực tuyến nhanh chóng.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7528,
+    "headword": "open an account",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈəʊpən ən əˈkaʊnt/",
+    "phoneticUs": "/ˈoʊpən ən əˈkaʊnt/",
+    "meaningVi": "mở tài khoản",
+    "definitionEn": "to start a new account at a bank",
+    "example": "Can I open an account with this ID?",
+    "exampleTranslation": "Tôi có thể mở tài khoản bằng giấy tờ này không?",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7529,
+    "headword": "online banking",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌɒnlaɪn ˈbæŋkɪŋ/",
+    "phoneticUs": "/ˌɑːnlaɪn ˈbæŋkɪŋ/",
+    "meaningVi": "ngân hàng trực tuyến",
+    "definitionEn": "using the internet to manage your bank account",
+    "example": "I pay all my bills with online banking.",
+    "exampleTranslation": "Tôi trả mọi hóa đơn bằng ngân hàng trực tuyến.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services",
+      "technology-internet"
+    ]
+  },
+  {
+    "id": 7530,
+    "headword": "debit card",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈdebɪt kɑːd/",
+    "phoneticUs": "/ˈdebɪt kɑːrd/",
+    "meaningVi": "thẻ ghi nợ",
+    "definitionEn": "a card that takes money straight from your account",
+    "example": "Can I pay with my debit card?",
+    "exampleTranslation": "Tôi trả bằng thẻ ghi nợ được không?",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services",
+      "toeic-banking-investment"
+    ]
+  },
+  {
+    "id": 7531,
+    "headword": "coin",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kɔɪn/",
+    "phoneticUs": "/kɔɪn/",
+    "meaningVi": "đồng xu",
+    "definitionEn": "a small round piece of metal money",
+    "example": "I only have a few coins in my pocket.",
+    "exampleTranslation": "Trong túi tôi chỉ có vài đồng xu.",
+    "levelId": 1,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7532,
+    "headword": "banknote",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbæŋknəʊt/",
+    "phoneticUs": "/ˈbæŋknoʊt/",
+    "meaningVi": "tờ tiền giấy",
+    "definitionEn": "a piece of paper money",
+    "example": "He gave me a ten-dollar banknote.",
+    "exampleTranslation": "Anh ấy đưa tôi một tờ tiền giấy mười đô la.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7533,
+    "headword": "mailbox",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmeɪlbɒks/",
+    "phoneticUs": "/ˈmeɪlbɑːks/",
+    "meaningVi": "hòm thư",
+    "definitionEn": "a box where letters are put",
+    "example": "There was a card in the mailbox this morning.",
+    "exampleTranslation": "Sáng nay có một tấm thiệp trong hòm thư.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7534,
+    "headword": "postman",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpəʊstmən/",
+    "phoneticUs": "/ˈpoʊstmən/",
+    "meaningVi": "người đưa thư",
+    "definitionEn": "a person who brings letters to your home",
+    "example": "The postman comes at ten every morning.",
+    "exampleTranslation": "Người đưa thư đến lúc mười giờ mỗi sáng.",
+    "levelId": 1,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7535,
+    "headword": "sender",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsendə/",
+    "phoneticUs": "/ˈsendər/",
+    "meaningVi": "người gửi",
+    "definitionEn": "the person who sends a letter or parcel",
+    "example": "Write the sender's name on the back.",
+    "exampleTranslation": "Hãy viết tên người gửi ở mặt sau.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services",
+      "toeic-phone-email-correspondence"
+    ]
+  },
+  {
+    "id": 7536,
+    "headword": "recipient",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/rɪˈsɪpiənt/",
+    "phoneticUs": "/rɪˈsɪpiənt/",
+    "meaningVi": "người nhận",
+    "definitionEn": "the person who receives something",
+    "example": "The recipient must sign for the parcel.",
+    "exampleTranslation": "Người nhận phải ký nhận bưu kiện.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services",
+      "toeic-phone-email-correspondence"
+    ]
+  },
+  {
+    "id": 7537,
+    "headword": "airmail",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈeəmeɪl/",
+    "phoneticUs": "/ˈermeɪl/",
+    "meaningVi": "thư gửi bằng đường hàng không",
+    "definitionEn": "post sent by plane",
+    "example": "I sent the gift by airmail.",
+    "exampleTranslation": "Tôi gửi món quà bằng đường hàng không.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7538,
+    "headword": "driving licence",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈdraɪvɪŋ ˈlaɪsns/",
+    "phoneticUs": "/ˈdraɪvɪŋ ˈlaɪsns/",
+    "meaningVi": "bằng lái xe",
+    "definitionEn": "an official paper that lets you drive",
+    "example": "Please show your driving licence.",
+    "exampleTranslation": "Vui lòng xuất trình bằng lái xe.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7539,
+    "headword": "register",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈredʒɪstə/",
+    "phoneticUs": "/ˈredʒɪstər/",
+    "meaningVi": "đăng ký",
+    "definitionEn": "to put your name on an official list",
+    "example": "You must register at the town hall.",
+    "exampleTranslation": "Bạn phải đăng ký ở ủy ban phường.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services",
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 7540,
+    "headword": "fine",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/faɪn/",
+    "phoneticUs": "/faɪn/",
+    "meaningVi": "tiền phạt",
+    "definitionEn": "money you must pay as a punishment",
+    "example": "He had to pay a fine for parking there.",
+    "exampleTranslation": "Anh ấy phải nộp phạt vì đỗ xe ở đó.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services",
+      "law-order",
+      "toeic-notices-signs-rules",
+      "money-economy"
+    ]
+  },
+  {
+    "id": 7541,
+    "headword": "official",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/əˈfɪʃl/",
+    "phoneticUs": "/əˈfɪʃl/",
+    "meaningVi": "chính thức",
+    "definitionEn": "approved by the government or an authority",
+    "example": "You need an official letter for this.",
+    "exampleTranslation": "Bạn cần một lá thư chính thức cho việc này.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  },
+  {
+    "id": 7542,
+    "headword": "utility bill",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/juːˈtɪləti bɪl/",
+    "phoneticUs": "/juːˈtɪləti bɪl/",
+    "meaningVi": "hóa đơn điện nước",
+    "definitionEn": "a bill for gas, water or electricity",
+    "example": "I pay my utility bill at the bank.",
+    "exampleTranslation": "Tôi trả hóa đơn điện nước ở ngân hàng.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services",
+      "toeic-energy-environment"
+    ]
+  },
+  {
+    "id": 7543,
+    "headword": "waiting number",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈweɪtɪŋ ˈnʌmbə/",
+    "phoneticUs": "/ˈweɪtɪŋ ˈnʌmbər/",
+    "meaningVi": "số thứ tự chờ",
+    "definitionEn": "a number you take to wait for your turn",
+    "example": "Take a waiting number and sit down.",
+    "exampleTranslation": "Hãy lấy số thứ tự rồi ngồi chờ.",
+    "levelId": 2,
+    "topics": [
+      "bank-post-office-services"
+    ]
+  }
+]

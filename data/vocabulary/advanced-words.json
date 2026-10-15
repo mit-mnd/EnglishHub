@@ -1,0 +1,5207 @@
+[
+  {
+    "id": 14001,
+    "headword": "goodbye",
+    "partOfSpeech": "interjection",
+    "phoneticUk": "/ˌɡʊdˈbaɪ/",
+    "phoneticUs": "/ˌɡʊdˈbaɪ/",
+    "meaningVi": "tạm biệt",
+    "definitionEn": "something you say when you leave",
+    "example": "We said goodbye at the station.",
+    "exampleTranslation": "Chúng tôi chào tạm biệt nhau ở nhà ga.",
+    "levelId": 1,
+    "topics": [
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 14004,
+    "headword": "welcome",
+    "partOfSpeech": "interjection",
+    "phoneticUk": "/ˈwelkəm/",
+    "phoneticUs": "/ˈwelkəm/",
+    "meaningVi": "chào mừng, hoan nghênh",
+    "definitionEn": "a friendly word to greet a guest",
+    "example": "Welcome to our home, please come in.",
+    "exampleTranslation": "Chào mừng đến nhà chúng tôi, mời bạn vào.",
+    "levelId": 1,
+    "topics": [
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 14005,
+    "headword": "please",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/pliːz/",
+    "phoneticUs": "/pliːz/",
+    "meaningVi": "làm ơn, xin vui lòng",
+    "definitionEn": "a polite word used when you ask for something",
+    "example": "Could you pass me the salt, please?",
+    "exampleTranslation": "Bạn làm ơn đưa giúp tôi lọ muối được không?",
+    "levelId": 1,
+    "topics": [
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 14006,
+    "headword": "sorry",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈsɒri/",
+    "phoneticUs": "/ˈsɑːri/",
+    "meaningVi": "xin lỗi, lấy làm tiếc",
+    "definitionEn": "feeling sad about something you did",
+    "example": "I am sorry for being late.",
+    "exampleTranslation": "Tôi xin lỗi vì đã đến muộn.",
+    "levelId": 1,
+    "topics": [
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 14007,
+    "headword": "excuse me",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪkˈskjuːz miː/",
+    "phoneticUs": "/ɪkˈskjuːz miː/",
+    "meaningVi": "xin lỗi (để gây chú ý), làm phiền",
+    "definitionEn": "words used to politely get someone's attention",
+    "example": "Excuse me, where is the bus stop?",
+    "exampleTranslation": "Xin lỗi, trạm xe buýt ở đâu vậy?",
+    "levelId": 1,
+    "topics": [
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 14008,
+    "headword": "how are you",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/haʊ ɑː juː/",
+    "phoneticUs": "/haʊ ɑːr juː/",
+    "meaningVi": "bạn khỏe không",
+    "definitionEn": "a question to ask about someone's health",
+    "example": "Hi Tom, how are you today?",
+    "exampleTranslation": "Chào Tom, hôm nay bạn khỏe không?",
+    "levelId": 1,
+    "topics": [
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 14009,
+    "headword": "nice to meet you",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/naɪs tə miːt juː/",
+    "phoneticUs": "/naɪs tə miːt juː/",
+    "meaningVi": "rất vui được gặp bạn",
+    "definitionEn": "words you say when you meet someone first",
+    "example": "Nice to meet you, my name is Lan.",
+    "exampleTranslation": "Rất vui được gặp bạn, tôi tên là Lan.",
+    "levelId": 1,
+    "topics": [
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 14010,
+    "headword": "see you later",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/siː juː ˈleɪtə/",
+    "phoneticUs": "/siː juː ˈleɪtər/",
+    "meaningVi": "hẹn gặp lại sau",
+    "definitionEn": "words you say when you will meet again soon",
+    "example": "I have to go now, see you later.",
+    "exampleTranslation": "Giờ tôi phải đi rồi, hẹn gặp lại sau nhé.",
+    "levelId": 1,
+    "topics": [
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 14011,
+    "headword": "good night",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡʊd naɪt/",
+    "phoneticUs": "/ɡʊd naɪt/",
+    "meaningVi": "chúc ngủ ngon",
+    "definitionEn": "words you say before someone goes to sleep",
+    "example": "Good night, sleep well.",
+    "exampleTranslation": "Chúc ngủ ngon nhé.",
+    "levelId": 1,
+    "topics": [
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 14012,
+    "headword": "thanks",
+    "partOfSpeech": "interjection",
+    "phoneticUk": "/θæŋks/",
+    "phoneticUs": "/θæŋks/",
+    "meaningVi": "cảm ơn",
+    "definitionEn": "a short and friendly way to say thank you",
+    "example": "Thanks for helping me with my homework.",
+    "exampleTranslation": "Cảm ơn bạn đã giúp tôi làm bài tập.",
+    "levelId": 1,
+    "topics": [
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 14013,
+    "headword": "age",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/eɪdʒ/",
+    "phoneticUs": "/eɪdʒ/",
+    "meaningVi": "tuổi, độ tuổi",
+    "definitionEn": "the number of years someone has lived",
+    "example": "What is your age?",
+    "exampleTranslation": "Tuổi của bạn là bao nhiêu?",
+    "levelId": 1,
+    "topics": [
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 14014,
+    "headword": "country",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkʌntri/",
+    "phoneticUs": "/ˈkʌntri/",
+    "meaningVi": "đất nước, quốc gia",
+    "definitionEn": "an area of land with its own government",
+    "example": "Vietnam is a beautiful country.",
+    "exampleTranslation": "Việt Nam là một đất nước xinh đẹp.",
+    "levelId": 1,
+    "topics": [
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 14015,
+    "headword": "nationality",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌnæʃəˈnæləti/",
+    "phoneticUs": "/ˌnæʃəˈnæləti/",
+    "meaningVi": "quốc tịch",
+    "definitionEn": "the country that a person belongs to",
+    "example": "Her nationality is Korean.",
+    "exampleTranslation": "Quốc tịch của cô ấy là Hàn Quốc.",
+    "levelId": 1,
+    "topics": [
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 14016,
+    "headword": "neighbor",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈneɪbə/",
+    "phoneticUs": "/ˈneɪbər/",
+    "meaningVi": "hàng xóm",
+    "definitionEn": "a person who lives near you",
+    "example": "My neighbor has two cats.",
+    "exampleTranslation": "Hàng xóm của tôi nuôi hai con mèo.",
+    "levelId": 1,
+    "topics": [
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 14022,
+    "headword": "born",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/bɔːn/",
+    "phoneticUs": "/bɔːrn/",
+    "meaningVi": "được sinh ra",
+    "definitionEn": "having started life",
+    "example": "I was born in 1998.",
+    "exampleTranslation": "Tôi sinh năm 1998.",
+    "levelId": 1,
+    "topics": [
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 14025,
+    "headword": "speak",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/spiːk/",
+    "phoneticUs": "/spiːk/",
+    "meaningVi": "nói, nói chuyện",
+    "definitionEn": "to say words with your voice",
+    "example": "Do you speak English?",
+    "exampleTranslation": "Bạn có nói tiếng Anh không?",
+    "levelId": 1,
+    "topics": [
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 14028,
+    "headword": "pleased",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/pliːzd/",
+    "phoneticUs": "/pliːzd/",
+    "meaningVi": "vui, hài lòng",
+    "definitionEn": "happy about something",
+    "example": "I am pleased to meet you.",
+    "exampleTranslation": "Tôi rất vui được gặp bạn.",
+    "levelId": 1,
+    "topics": [
+      "greetings-introductions"
+    ]
+  },
+  {
+    "id": 14029,
+    "headword": "check-in",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtʃek ɪn/",
+    "phoneticUs": "/ˈtʃek ɪn/",
+    "meaningVi": "thủ tục nhận phòng / làm thủ tục",
+    "definitionEn": "the process of arriving and registering",
+    "example": "Check-in starts at two o'clock.",
+    "exampleTranslation": "Thủ tục nhận phòng bắt đầu lúc hai giờ.",
+    "levelId": 2,
+    "topics": [
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 14033,
+    "headword": "tourist",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtʊərɪst/",
+    "phoneticUs": "/ˈtʊrɪst/",
+    "meaningVi": "khách du lịch",
+    "definitionEn": "a person who visits a place for fun",
+    "example": "Many tourists visit the old town.",
+    "exampleTranslation": "Nhiều khách du lịch đến thăm khu phố cổ.",
+    "levelId": 2,
+    "topics": [
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 14034,
+    "headword": "guide",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɡaɪd/",
+    "phoneticUs": "/ɡaɪd/",
+    "meaningVi": "hướng dẫn viên; sách hướng dẫn",
+    "definitionEn": "a person who shows visitors around a place",
+    "example": "The guide told us about the temple.",
+    "exampleTranslation": "Hướng dẫn viên kể cho chúng tôi nghe về ngôi đền.",
+    "levelId": 2,
+    "topics": [
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 14035,
+    "headword": "single room",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈsɪŋɡl ruːm/",
+    "phoneticUs": "/ˈsɪŋɡl ruːm/",
+    "meaningVi": "phòng đơn",
+    "definitionEn": "a hotel room for one person",
+    "example": "I booked a single room for two nights.",
+    "exampleTranslation": "Tôi đã đặt một phòng đơn cho hai đêm.",
+    "levelId": 2,
+    "topics": [
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 14044,
+    "headword": "department",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dɪˈpɑːtmənt/",
+    "phoneticUs": "/dɪˈpɑːrtmənt/",
+    "meaningVi": "phòng ban, bộ phận",
+    "definitionEn": "a section of a company with its own job",
+    "example": "She works in the sales department.",
+    "exampleTranslation": "Cô ấy làm việc ở phòng kinh doanh.",
+    "levelId": 5,
+    "topics": [
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 14048,
+    "headword": "proposal",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/prəˈpəʊzl/",
+    "phoneticUs": "/prəˈpoʊzl/",
+    "meaningVi": "đề xuất, bản kiến nghị",
+    "definitionEn": "a plan that you suggest to others",
+    "example": "Our proposal was accepted by the board.",
+    "exampleTranslation": "Đề xuất của chúng tôi đã được hội đồng chấp thuận.",
+    "levelId": 5,
+    "topics": [
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 14049,
+    "headword": "brief",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/briːf/",
+    "phoneticUs": "/briːf/",
+    "meaningVi": "thông báo ngắn gọn, tóm tắt",
+    "definitionEn": "to give someone short information about a task",
+    "example": "The manager will brief the team tomorrow.",
+    "exampleTranslation": "Quản lý sẽ phổ biến ngắn gọn cho nhóm vào ngày mai.",
+    "levelId": 5,
+    "topics": [
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 14065,
+    "headword": "vacation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/vəˈkeɪʃn/",
+    "phoneticUs": "/vəˈkeɪʃn/",
+    "meaningVi": "kỳ nghỉ",
+    "definitionEn": "a time away from work or school",
+    "example": "We are planning a vacation in July.",
+    "exampleTranslation": "Chúng tôi đang lên kế hoạch cho kỳ nghỉ vào tháng Bảy.",
+    "levelId": 2,
+    "topics": [
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 14066,
+    "headword": "abroad",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/əˈbrɔːd/",
+    "phoneticUs": "/əˈbrɔːd/",
+    "meaningVi": "ở nước ngoài, ra nước ngoài",
+    "definitionEn": "in or to another country",
+    "example": "She studied abroad for two years.",
+    "exampleTranslation": "Cô ấy đã du học nước ngoài hai năm.",
+    "levelId": 2,
+    "topics": [
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 14067,
+    "headword": "traveler",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtrævlə/",
+    "phoneticUs": "/ˈtrævələr/",
+    "meaningVi": "du khách, người đi du lịch",
+    "definitionEn": "a person who goes on a journey",
+    "example": "Experienced travelers pack light.",
+    "exampleTranslation": "Những du khách giàu kinh nghiệm thường mang ít đồ.",
+    "levelId": 2,
+    "topics": [
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 14068,
+    "headword": "journey",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdʒɜːni/",
+    "phoneticUs": "/ˈdʒɜːrni/",
+    "meaningVi": "chuyến đi, hành trình",
+    "definitionEn": "an act of traveling from one place to another",
+    "example": "The journey from Hue to Hanoi takes hours.",
+    "exampleTranslation": "Chuyến đi từ Huế đến Hà Nội mất nhiều giờ.",
+    "levelId": 2,
+    "topics": [
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 14069,
+    "headword": "scenery",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsiːnəri/",
+    "phoneticUs": "/ˈsiːnəri/",
+    "meaningVi": "phong cảnh",
+    "definitionEn": "the natural beauty of a place",
+    "example": "The mountain scenery was amazing.",
+    "exampleTranslation": "Phong cảnh núi non thật tuyệt vời.",
+    "levelId": 2,
+    "topics": [
+      "travel-essentials"
+    ]
+  },
+  {
+    "id": 14073,
+    "headword": "intern",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɪntɜːn/",
+    "phoneticUs": "/ˈɪntɜːrn/",
+    "meaningVi": "thực tập sinh",
+    "definitionEn": "a student who works to gain experience",
+    "example": "The intern helped prepare the slides.",
+    "exampleTranslation": "Thực tập sinh đã giúp chuẩn bị các slide.",
+    "levelId": 5,
+    "topics": [
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 14075,
+    "headword": "briefing",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbriːfɪŋ/",
+    "phoneticUs": "/ˈbriːfɪŋ/",
+    "meaningVi": "buổi phổ biến thông tin",
+    "definitionEn": "a short meeting to give information",
+    "example": "There will be a briefing at nine o'clock.",
+    "exampleTranslation": "Sẽ có một buổi phổ biến thông tin lúc chín giờ.",
+    "levelId": 5,
+    "topics": [
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 14079,
+    "headword": "photocopy",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈfəʊtəʊkɒpi/",
+    "phoneticUs": "/ˈfoʊtoʊkɑːpi/",
+    "meaningVi": "photo, sao chụp",
+    "definitionEn": "to make a copy of a page with a machine",
+    "example": "Please photocopy these documents for the meeting.",
+    "exampleTranslation": "Vui lòng photo những tài liệu này cho buổi họp.",
+    "levelId": 5,
+    "topics": [
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 14080,
+    "headword": "printer",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈprɪntə/",
+    "phoneticUs": "/ˈprɪntər/",
+    "meaningVi": "máy in",
+    "definitionEn": "a machine that prints documents on paper",
+    "example": "The printer is out of paper again.",
+    "exampleTranslation": "Máy in lại hết giấy rồi.",
+    "levelId": 5,
+    "topics": [
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 14082,
+    "headword": "loss",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/lɒs/",
+    "phoneticUs": "/lɔːs/",
+    "meaningVi": "khoản lỗ, sự mất mát",
+    "definitionEn": "money that a business has lost",
+    "example": "The company reported a loss this quarter.",
+    "exampleTranslation": "Công ty báo cáo khoản lỗ trong quý này.",
+    "levelId": 5,
+    "topics": [
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 14083,
+    "headword": "quarter",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkwɔːtə/",
+    "phoneticUs": "/ˈkwɔːrtər/",
+    "meaningVi": "quý (tài chính)",
+    "definitionEn": "a period of three months in business",
+    "example": "Sales rose sharply in the third quarter.",
+    "exampleTranslation": "Doanh số tăng mạnh trong quý ba.",
+    "levelId": 5,
+    "topics": [
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 14086,
+    "headword": "tracking",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtrækɪŋ/",
+    "phoneticUs": "/ˈtrækɪŋ/",
+    "meaningVi": "theo dõi (đơn hàng)",
+    "definitionEn": "following the progress of a package",
+    "example": "You can use the tracking number to check your parcel.",
+    "exampleTranslation": "Bạn có thể dùng mã theo dõi để kiểm tra bưu kiện.",
+    "levelId": 5,
+    "topics": [
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 14088,
+    "headword": "inquire",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪnˈkwaɪə/",
+    "phoneticUs": "/ɪnˈkwaɪər/",
+    "meaningVi": "hỏi thăm, yêu cầu thông tin",
+    "definitionEn": "to ask for information about something",
+    "example": "I am writing to inquire about the vacant position.",
+    "exampleTranslation": "Tôi viết thư để hỏi về vị trí đang tuyển.",
+    "levelId": 5,
+    "topics": [
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 14089,
+    "headword": "payment",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpeɪmənt/",
+    "phoneticUs": "/ˈpeɪmənt/",
+    "meaningVi": "khoản thanh toán",
+    "definitionEn": "money that you pay for something",
+    "example": "Payment is due within thirty days.",
+    "exampleTranslation": "Khoản thanh toán đến hạn trong vòng ba mươi ngày.",
+    "levelId": 5,
+    "topics": [
+      "toeic-office"
+    ]
+  },
+  {
+    "id": 14093,
+    "headword": "deflation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/diːˈfleɪʃn/",
+    "phoneticUs": "/diːˈfleɪʃn/",
+    "meaningVi": "giảm phát",
+    "definitionEn": "a fall in the general level of prices",
+    "example": "Deflation can make people delay big purchases.",
+    "exampleTranslation": "Giảm phát có thể khiến mọi người trì hoãn các khoản mua lớn.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14095,
+    "headword": "trade deficit",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈtreɪd ˈdefɪsɪt/",
+    "phoneticUs": "/ˈtreɪd ˈdefɪsɪt/",
+    "meaningVi": "thâm hụt thương mại",
+    "definitionEn": "when a country imports more than it exports",
+    "example": "The trade deficit widened for the third year.",
+    "exampleTranslation": "Thâm hụt thương mại đã nới rộng năm thứ ba liên tiếp.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14096,
+    "headword": "trade surplus",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈtreɪd ˈsɜːpləs/",
+    "phoneticUs": "/ˈtreɪd ˈsɜːrpləs/",
+    "meaningVi": "thặng dư thương mại",
+    "definitionEn": "when a country exports more than it imports",
+    "example": "The country enjoys a large trade surplus with Europe.",
+    "exampleTranslation": "Quốc gia này có thặng dư thương mại lớn với châu Âu.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14097,
+    "headword": "monetary policy",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈmʌnɪtri ˈpɒləsi/",
+    "phoneticUs": "/ˈmɑːnəteri ˈpɑːləsi/",
+    "meaningVi": "chính sách tiền tệ",
+    "definitionEn": "actions by a central bank to control money supply",
+    "example": "The bank tightened monetary policy to slow inflation.",
+    "exampleTranslation": "Ngân hàng trung ương thắt chặt chính sách tiền tệ để làm chậm lạm phát.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14098,
+    "headword": "fiscal policy",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈfɪskl ˈpɒləsi/",
+    "phoneticUs": "/ˈfɪskl ˈpɑːləsi/",
+    "meaningVi": "chính sách tài khóa",
+    "definitionEn": "government decisions about taxes and spending",
+    "example": "Fiscal policy aims to support growth during a slowdown.",
+    "exampleTranslation": "Chính sách tài khóa nhằm hỗ trợ tăng trưởng khi kinh tế chậm lại.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14099,
+    "headword": "devaluation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌdiːvæljuˈeɪʃn/",
+    "phoneticUs": "/ˌdiːvæljuˈeɪʃn/",
+    "meaningVi": "sự phá giá (tiền tệ)",
+    "definitionEn": "a fall in the official value of a currency",
+    "example": "The devaluation made imports far more expensive.",
+    "exampleTranslation": "Việc phá giá khiến hàng nhập khẩu đắt hơn nhiều.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14100,
+    "headword": "protectionism",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/prəˈtekʃənɪzəm/",
+    "phoneticUs": "/prəˈtekʃənɪzəm/",
+    "meaningVi": "chủ nghĩa bảo hộ",
+    "definitionEn": "policies that protect local industries from foreign goods",
+    "example": "Rising protectionism has damaged world trade.",
+    "exampleTranslation": "Chủ nghĩa bảo hộ gia tăng đã gây hại cho thương mại thế giới.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14101,
+    "headword": "free trade",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌfriː ˈtreɪd/",
+    "phoneticUs": "/ˌfriː ˈtreɪd/",
+    "meaningVi": "thương mại tự do",
+    "definitionEn": "trade between countries without taxes or limits",
+    "example": "Free trade has lowered prices for many consumers.",
+    "exampleTranslation": "Thương mại tự do đã làm giá cả giảm với nhiều người tiêu dùng.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14103,
+    "headword": "labor market",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈleɪbə ˌmɑːkɪt/",
+    "phoneticUs": "/ˈleɪbər ˌmɑːrkɪt/",
+    "meaningVi": "thị trường lao động",
+    "definitionEn": "the supply of workers and the demand for jobs",
+    "example": "The labor market remains tight in many sectors.",
+    "exampleTranslation": "Thị trường lao động vẫn khan hiếm nhân lực ở nhiều lĩnh vực.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14105,
+    "headword": "austerity",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɒˈsterəti/",
+    "phoneticUs": "/ɔːˈsterəti/",
+    "meaningVi": "chính sách thắt lưng buộc bụng",
+    "definitionEn": "strict cuts in public spending to reduce debt",
+    "example": "Austerity measures led to protests in the capital.",
+    "exampleTranslation": "Các biện pháp thắt lưng buộc bụng đã gây ra biểu tình ở thủ đô.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14106,
+    "headword": "stimulus",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈstɪmjələs/",
+    "phoneticUs": "/ˈstɪmjələs/",
+    "meaningVi": "gói kích thích kinh tế; tác nhân kích thích",
+    "definitionEn": "something that helps the economy grow faster",
+    "example": "The government announced a stimulus to boost spending.",
+    "exampleTranslation": "Chính phủ công bố một gói kích thích để thúc đẩy chi tiêu.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14107,
+    "headword": "emerging market",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪˌmɜːdʒɪŋ ˈmɑːkɪt/",
+    "phoneticUs": "/ɪˌmɜːrdʒɪŋ ˈmɑːrkɪt/",
+    "meaningVi": "thị trường mới nổi",
+    "definitionEn": "a country whose economy is growing quickly",
+    "example": "Investors are looking at emerging markets in Asia.",
+    "exampleTranslation": "Các nhà đầu tư đang chú ý đến những thị trường mới nổi ở châu Á.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14108,
+    "headword": "per capita",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/pə ˈkæpɪtə/",
+    "phoneticUs": "/pər ˈkæpɪtə/",
+    "meaningVi": "bình quân đầu người",
+    "definitionEn": "for each person in a group",
+    "example": "Income per capita has doubled in twenty years.",
+    "exampleTranslation": "Thu nhập bình quân đầu người đã tăng gấp đôi trong hai mươi năm.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14109,
+    "headword": "monopoly",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/məˈnɒpəli/",
+    "phoneticUs": "/məˈnɑːpəli/",
+    "meaningVi": "độc quyền",
+    "definitionEn": "control of a market by only one company",
+    "example": "The firm held a monopoly on rail transport.",
+    "exampleTranslation": "Công ty đó nắm độc quyền vận tải đường sắt.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14110,
+    "headword": "stagnation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/stæɡˈneɪʃn/",
+    "phoneticUs": "/stæɡˈneɪʃn/",
+    "meaningVi": "sự đình trệ",
+    "definitionEn": "a time when there is no growth or change",
+    "example": "Years of stagnation left many workers jobless.",
+    "exampleTranslation": "Nhiều năm đình trệ khiến nhiều lao động mất việc.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14112,
+    "headword": "downturn",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdaʊntɜːn/",
+    "phoneticUs": "/ˈdaʊntɜːrn/",
+    "meaningVi": "sự suy thoái, giai đoạn đi xuống",
+    "definitionEn": "a period when economic activity falls",
+    "example": "A global downturn hit the tourism industry hard.",
+    "exampleTranslation": "Suy thoái toàn cầu đã giáng một đòn nặng vào ngành du lịch.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14113,
+    "headword": "volatility",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌvɒləˈtɪləti/",
+    "phoneticUs": "/ˌvɑːləˈtɪləti/",
+    "meaningVi": "sự biến động mạnh",
+    "definitionEn": "sudden and frequent changes in value",
+    "example": "Oil prices showed extreme volatility last year.",
+    "exampleTranslation": "Giá dầu biến động cực mạnh trong năm ngoái.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14115,
+    "headword": "taxation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/tækˈseɪʃn/",
+    "phoneticUs": "/tækˈseɪʃn/",
+    "meaningVi": "việc đánh thuế, hệ thống thuế",
+    "definitionEn": "the system of collecting money for the state",
+    "example": "High taxation can discourage new businesses.",
+    "exampleTranslation": "Mức thuế cao có thể làm nản lòng các doanh nghiệp mới.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14116,
+    "headword": "levy",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlevi/",
+    "phoneticUs": "/ˈlevi/",
+    "meaningVi": "khoản thuế, phí áp đặt",
+    "definitionEn": "an extra tax or charge set by the government",
+    "example": "A new levy on sugary drinks was introduced.",
+    "exampleTranslation": "Một khoản thuế mới đánh vào đồ uống có đường đã được áp dụng.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14117,
+    "headword": "barter",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈbɑːtə/",
+    "phoneticUs": "/ˈbɑːrtər/",
+    "meaningVi": "trao đổi hàng hóa",
+    "definitionEn": "to exchange goods without using money",
+    "example": "Villagers still barter fish for rice.",
+    "exampleTranslation": "Dân làng vẫn đổi cá lấy gạo.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14119,
+    "headword": "macroeconomic",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌmækrəʊˌiːkəˈnɒmɪk/",
+    "phoneticUs": "/ˌmækroʊˌiːkəˈnɑːmɪk/",
+    "meaningVi": "thuộc kinh tế vĩ mô",
+    "definitionEn": "relating to the whole economy of a country",
+    "example": "Macroeconomic stability attracts foreign investors.",
+    "exampleTranslation": "Sự ổn định kinh tế vĩ mô thu hút các nhà đầu tư nước ngoài.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14120,
+    "headword": "multinational",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌmʌltiˈnæʃnəl/",
+    "phoneticUs": "/ˌmʌltiˈnæʃnəl/",
+    "meaningVi": "công ty đa quốc gia",
+    "definitionEn": "a large company that works in many countries",
+    "example": "The multinational employs workers in forty countries.",
+    "exampleTranslation": "Công ty đa quốc gia này thuê nhân công ở bốn mươi quốc gia.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14121,
+    "headword": "trade bloc",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈtreɪd blɒk/",
+    "phoneticUs": "/ˈtreɪd blɑːk/",
+    "meaningVi": "khối thương mại",
+    "definitionEn": "a group of countries with shared trade rules",
+    "example": "The trade bloc removed tariffs between its members.",
+    "exampleTranslation": "Khối thương mại đã dỡ bỏ thuế quan giữa các thành viên.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14123,
+    "headword": "liberalization",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌlɪbrəlaɪˈzeɪʃn/",
+    "phoneticUs": "/ˌlɪbrələˈzeɪʃn/",
+    "meaningVi": "sự tự do hóa",
+    "definitionEn": "the removal of rules that limit trade or business",
+    "example": "Trade liberalization boosted exports in the 1990s.",
+    "exampleTranslation": "Tự do hóa thương mại đã thúc đẩy xuất khẩu vào thập niên 1990.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14124,
+    "headword": "deregulation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/diːˌreɡjuˈleɪʃn/",
+    "phoneticUs": "/diːˌreɡjuˈleɪʃn/",
+    "meaningVi": "việc bãi bỏ quy định",
+    "definitionEn": "the removal of government rules from an industry",
+    "example": "Deregulation increased competition among airlines.",
+    "exampleTranslation": "Bãi bỏ quy định đã làm tăng cạnh tranh giữa các hãng hàng không.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14125,
+    "headword": "appreciation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/əˌpriːʃiˈeɪʃn/",
+    "phoneticUs": "/əˌpriːʃiˈeɪʃn/",
+    "meaningVi": "sự tăng giá trị",
+    "definitionEn": "an increase in the value of something",
+    "example": "The appreciation of the yen hurt Japanese exporters.",
+    "exampleTranslation": "Việc đồng yên tăng giá đã gây thiệt hại cho các nhà xuất khẩu Nhật.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14126,
+    "headword": "gross domestic product",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌɡrəʊs dəˌmestɪk ˈprɒdʌkt/",
+    "phoneticUs": "/ˌɡroʊs dəˌmestɪk ˈprɑːdʌkt/",
+    "meaningVi": "tổng sản phẩm quốc nội",
+    "definitionEn": "the total value of goods and services in a country",
+    "example": "Gross domestic product grew by two percent last year.",
+    "exampleTranslation": "Tổng sản phẩm quốc nội tăng hai phần trăm năm ngoái.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14129,
+    "headword": "speculation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌspekjuˈleɪʃn/",
+    "phoneticUs": "/ˌspekjuˈleɪʃn/",
+    "meaningVi": "sự đầu cơ; sự suy đoán",
+    "definitionEn": "buying assets in the hope of fast profit",
+    "example": "Speculation drove land prices out of control.",
+    "exampleTranslation": "Đầu cơ đã đẩy giá đất vượt tầm kiểm soát.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14130,
+    "headword": "bubble",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbʌbl/",
+    "phoneticUs": "/ˈbʌbl/",
+    "meaningVi": "bong bóng (kinh tế)",
+    "definitionEn": "a time when prices rise too high and then crash",
+    "example": "Experts warned of a bubble in the property market.",
+    "exampleTranslation": "Các chuyên gia cảnh báo về bong bóng trên thị trường bất động sản.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14131,
+    "headword": "default",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/dɪˈfɔːlt/",
+    "phoneticUs": "/dɪˈfɔːlt/",
+    "meaningVi": "vỡ nợ, không trả được nợ",
+    "definitionEn": "to fail to repay a loan on time",
+    "example": "The country may default on its foreign debt.",
+    "exampleTranslation": "Quốc gia này có thể vỡ nợ đối với khoản nợ nước ngoài.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14132,
+    "headword": "bilateral",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/baɪˈlætərəl/",
+    "phoneticUs": "/baɪˈlætərəl/",
+    "meaningVi": "song phương",
+    "definitionEn": "involving two countries or groups",
+    "example": "The two nations signed a bilateral trade agreement.",
+    "exampleTranslation": "Hai quốc gia đã ký thỏa thuận thương mại song phương.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14133,
+    "headword": "dumping",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdʌmpɪŋ/",
+    "phoneticUs": "/ˈdʌmpɪŋ/",
+    "meaningVi": "bán phá giá",
+    "definitionEn": "selling goods abroad at very low prices",
+    "example": "The country accused its rival of illegal dumping.",
+    "exampleTranslation": "Quốc gia này cáo buộc đối thủ bán phá giá bất hợp pháp.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14134,
+    "headword": "liquidity",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/lɪˈkwɪdəti/",
+    "phoneticUs": "/lɪˈkwɪdəti/",
+    "meaningVi": "tính thanh khoản",
+    "definitionEn": "how easily assets can be changed into cash",
+    "example": "Banks faced a shortage of liquidity during the crisis.",
+    "exampleTranslation": "Các ngân hàng thiếu thanh khoản trong thời kỳ khủng hoảng.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14135,
+    "headword": "overheating",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌəʊvəˈhiːtɪŋ/",
+    "phoneticUs": "/ˌoʊvərˈhiːtɪŋ/",
+    "meaningVi": "sự quá nóng (của nền kinh tế)",
+    "definitionEn": "growth so fast that it causes rising prices",
+    "example": "Officials fear overheating in the housing market.",
+    "exampleTranslation": "Các quan chức lo ngại thị trường nhà đất đang quá nóng.",
+    "levelId": 4,
+    "topics": [
+      "macroeconomics-global-trade"
+    ]
+  },
+  {
+    "id": 14136,
+    "headword": "epidemic",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌepɪˈdemɪk/",
+    "phoneticUs": "/ˌepɪˈdemɪk/",
+    "meaningVi": "dịch bệnh (lan trong một vùng)",
+    "definitionEn": "a sudden spread of a disease among many people",
+    "example": "The epidemic spread quickly across the province.",
+    "exampleTranslation": "Dịch bệnh lan nhanh khắp tỉnh.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14137,
+    "headword": "pandemic",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pænˈdemɪk/",
+    "phoneticUs": "/pænˈdemɪk/",
+    "meaningVi": "đại dịch",
+    "definitionEn": "a disease that spreads across many countries",
+    "example": "The pandemic changed how people work and study.",
+    "exampleTranslation": "Đại dịch đã thay đổi cách mọi người làm việc và học tập.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14138,
+    "headword": "outbreak",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈaʊtbreɪk/",
+    "phoneticUs": "/ˈaʊtbreɪk/",
+    "meaningVi": "đợt bùng phát",
+    "definitionEn": "a sudden start of a disease in one place",
+    "example": "An outbreak of measles was reported in the school.",
+    "exampleTranslation": "Một đợt bùng phát bệnh sởi đã được báo cáo ở trường học.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14140,
+    "headword": "immunity",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪˈmjuːnəti/",
+    "phoneticUs": "/ɪˈmjuːnəti/",
+    "meaningVi": "miễn dịch, khả năng miễn nhiễm",
+    "definitionEn": "the body's ability to resist a disease",
+    "example": "Natural immunity may fade after several months.",
+    "exampleTranslation": "Miễn dịch tự nhiên có thể giảm sau vài tháng.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14141,
+    "headword": "pathogen",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpæθədʒən/",
+    "phoneticUs": "/ˈpæθədʒən/",
+    "meaningVi": "mầm bệnh",
+    "definitionEn": "a tiny organism that causes disease",
+    "example": "Boiling water kills most harmful pathogens.",
+    "exampleTranslation": "Đun sôi nước giết chết hầu hết mầm bệnh có hại.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14142,
+    "headword": "transmission",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/trænzˈmɪʃn/",
+    "phoneticUs": "/trænzˈmɪʃn/",
+    "meaningVi": "sự lây truyền",
+    "definitionEn": "the passing of a disease from one person to another",
+    "example": "Masks can reduce the transmission of the virus.",
+    "exampleTranslation": "Khẩu trang có thể làm giảm sự lây truyền của virus.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14144,
+    "headword": "quarantine",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkwɒrəntiːn/",
+    "phoneticUs": "/ˈkwɔːrəntiːn/",
+    "meaningVi": "sự cách ly, kiểm dịch",
+    "definitionEn": "a period of isolation to stop disease from spreading",
+    "example": "Travelers had to spend ten days in quarantine.",
+    "exampleTranslation": "Du khách phải cách ly mười ngày.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14145,
+    "headword": "epidemiology",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌepɪˌdiːmiˈɒlədʒi/",
+    "phoneticUs": "/ˌepɪˌdiːmiˈɑːlədʒi/",
+    "meaningVi": "dịch tễ học",
+    "definitionEn": "the study of how diseases spread in populations",
+    "example": "Epidemiology helps officials plan responses to disease.",
+    "exampleTranslation": "Dịch tễ học giúp các cơ quan chức năng lên kế hoạch ứng phó với bệnh.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14146,
+    "headword": "prevalence",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈprevələns/",
+    "phoneticUs": "/ˈprevələns/",
+    "meaningVi": "tỷ lệ phổ biến, mức độ lưu hành",
+    "definitionEn": "how common something is at a given time",
+    "example": "The prevalence of diabetes is rising in cities.",
+    "exampleTranslation": "Tỷ lệ mắc tiểu đường đang tăng ở các thành phố.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14147,
+    "headword": "incidence",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɪnsɪdəns/",
+    "phoneticUs": "/ˈɪnsɪdəns/",
+    "meaningVi": "tỷ lệ mắc mới, tần suất xảy ra",
+    "definitionEn": "the number of new cases of a disease",
+    "example": "The incidence of cancer rises with age.",
+    "exampleTranslation": "Tỷ lệ mắc ung thư mới tăng theo tuổi.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14148,
+    "headword": "mortality",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/mɔːˈtæləti/",
+    "phoneticUs": "/mɔːrˈtæləti/",
+    "meaningVi": "tỷ lệ tử vong, sự chết",
+    "definitionEn": "the number of deaths in a group of people",
+    "example": "Infant mortality has dropped sharply since 1990.",
+    "exampleTranslation": "Tỷ lệ tử vong ở trẻ sơ sinh đã giảm mạnh từ năm 1990.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14149,
+    "headword": "morbidity",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/mɔːˈbɪdəti/",
+    "phoneticUs": "/mɔːrˈbɪdəti/",
+    "meaningVi": "tỷ lệ mắc bệnh",
+    "definitionEn": "the rate of illness in a population",
+    "example": "The study measured morbidity among older adults.",
+    "exampleTranslation": "Nghiên cứu đo tỷ lệ mắc bệnh ở người cao tuổi.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14150,
+    "headword": "sanitation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌsænɪˈteɪʃn/",
+    "phoneticUs": "/ˌsænɪˈteɪʃn/",
+    "meaningVi": "hệ thống vệ sinh",
+    "definitionEn": "systems that keep water and waste clean and safe",
+    "example": "Poor sanitation leads to many serious diseases.",
+    "exampleTranslation": "Vệ sinh kém dẫn đến nhiều bệnh nghiêm trọng.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14152,
+    "headword": "acute",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/əˈkjuːt/",
+    "phoneticUs": "/əˈkjuːt/",
+    "meaningVi": "cấp tính; gay gắt",
+    "definitionEn": "starting suddenly and often severe",
+    "example": "He was admitted with acute chest pain.",
+    "exampleTranslation": "Anh ấy nhập viện vì đau ngực cấp tính.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14153,
+    "headword": "screening",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈskriːnɪŋ/",
+    "phoneticUs": "/ˈskriːnɪŋ/",
+    "meaningVi": "sàng lọc",
+    "definitionEn": "testing people to find a disease early",
+    "example": "Regular screening can detect cancer early.",
+    "exampleTranslation": "Sàng lọc định kỳ có thể phát hiện ung thư sớm.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14154,
+    "headword": "preventive",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/prɪˈventɪv/",
+    "phoneticUs": "/prɪˈventɪv/",
+    "meaningVi": "mang tính phòng ngừa",
+    "definitionEn": "done to stop something bad from happening",
+    "example": "Preventive care costs less than treatment.",
+    "exampleTranslation": "Chăm sóc phòng ngừa tốn kém ít hơn điều trị.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14155,
+    "headword": "malnutrition",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌmælnjuˈtrɪʃn/",
+    "phoneticUs": "/ˌmælnjuˈtrɪʃn/",
+    "meaningVi": "suy dinh dưỡng",
+    "definitionEn": "poor health caused by not eating enough good food",
+    "example": "Malnutrition affects millions of children worldwide.",
+    "exampleTranslation": "Suy dinh dưỡng ảnh hưởng đến hàng triệu trẻ em trên thế giới.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14156,
+    "headword": "epidemiologist",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌepɪˌdiːmiˈɒlədʒɪst/",
+    "phoneticUs": "/ˌepɪˌdiːmiˈɑːlədʒɪst/",
+    "meaningVi": "nhà dịch tễ học",
+    "definitionEn": "a scientist who studies how diseases spread",
+    "example": "The epidemiologist tracked the source of the outbreak.",
+    "exampleTranslation": "Nhà dịch tễ học đã truy tìm nguồn gốc của ổ dịch.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14160,
+    "headword": "herd immunity",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈhɜːd ɪˈmjuːnəti/",
+    "phoneticUs": "/ˈhɜːrd ɪˈmjuːnəti/",
+    "meaningVi": "miễn dịch cộng đồng",
+    "definitionEn": "protection of a group when most people are immune",
+    "example": "Herd immunity requires a high rate of vaccination.",
+    "exampleTranslation": "Miễn dịch cộng đồng đòi hỏi tỷ lệ tiêm chủng cao.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14161,
+    "headword": "risk factor",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈrɪsk ˌfæktə/",
+    "phoneticUs": "/ˈrɪsk ˌfæktər/",
+    "meaningVi": "yếu tố nguy cơ",
+    "definitionEn": "something that makes a disease more likely",
+    "example": "Smoking is a major risk factor for lung disease.",
+    "exampleTranslation": "Hút thuốc là yếu tố nguy cơ chính gây bệnh phổi.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14162,
+    "headword": "healthcare",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhelθkeə/",
+    "phoneticUs": "/ˈhelθker/",
+    "meaningVi": "chăm sóc sức khỏe, y tế",
+    "definitionEn": "the services that look after people's health",
+    "example": "Access to healthcare is limited in remote areas.",
+    "exampleTranslation": "Việc tiếp cận y tế còn hạn chế ở vùng sâu vùng xa.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14164,
+    "headword": "lifestyle",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlaɪfstaɪl/",
+    "phoneticUs": "/ˈlaɪfstaɪl/",
+    "meaningVi": "lối sống",
+    "definitionEn": "the way a person lives their daily life",
+    "example": "An unhealthy lifestyle increases the risk of heart disease.",
+    "exampleTranslation": "Lối sống thiếu lành mạnh làm tăng nguy cơ bệnh tim.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14165,
+    "headword": "intervention",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌɪntəˈvenʃn/",
+    "phoneticUs": "/ˌɪntərˈvenʃn/",
+    "meaningVi": "sự can thiệp",
+    "definitionEn": "action taken to improve a situation",
+    "example": "Early intervention can save many lives.",
+    "exampleTranslation": "Can thiệp sớm có thể cứu sống nhiều người.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14166,
+    "headword": "outpatient",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈaʊtpeɪʃnt/",
+    "phoneticUs": "/ˈaʊtpeɪʃnt/",
+    "meaningVi": "bệnh nhân ngoại trú",
+    "definitionEn": "a patient who visits a hospital but does not stay",
+    "example": "Outpatient clinics treat most minor injuries.",
+    "exampleTranslation": "Các phòng khám ngoại trú điều trị hầu hết chấn thương nhẹ.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14167,
+    "headword": "hospitalization",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌhɒspɪtəlaɪˈzeɪʃn/",
+    "phoneticUs": "/ˌhɑːspɪtələˈzeɪʃn/",
+    "meaningVi": "việc nhập viện",
+    "definitionEn": "being kept in hospital for treatment",
+    "example": "Severe cases often require hospitalization.",
+    "exampleTranslation": "Các ca nặng thường phải nhập viện.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14168,
+    "headword": "cardiovascular",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌkɑːdiəʊˈvæskjələ/",
+    "phoneticUs": "/ˌkɑːrdioʊˈvæskjələr/",
+    "meaningVi": "thuộc tim mạch",
+    "definitionEn": "relating to the heart and blood vessels",
+    "example": "Exercise improves cardiovascular health.",
+    "exampleTranslation": "Tập thể dục cải thiện sức khỏe tim mạch.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14170,
+    "headword": "asymptomatic",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌeɪsɪmptəˈmætɪk/",
+    "phoneticUs": "/ˌeɪsɪmptəˈmætɪk/",
+    "meaningVi": "không có triệu chứng",
+    "definitionEn": "having a disease without showing any signs",
+    "example": "Many carriers of the virus are asymptomatic.",
+    "exampleTranslation": "Nhiều người mang virus không có triệu chứng.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14171,
+    "headword": "fatality",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/fəˈtæləti/",
+    "phoneticUs": "/fəˈtæləti/",
+    "meaningVi": "ca tử vong",
+    "definitionEn": "a death caused by an accident or disease",
+    "example": "The disease has a low fatality rate.",
+    "exampleTranslation": "Căn bệnh này có tỷ lệ tử vong thấp.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14172,
+    "headword": "eradicate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪˈrædɪkeɪt/",
+    "phoneticUs": "/ɪˈrædɪkeɪt/",
+    "meaningVi": "xóa sổ, diệt trừ",
+    "definitionEn": "to completely remove something harmful",
+    "example": "Smallpox was eradicated in 1980.",
+    "exampleTranslation": "Bệnh đậu mùa đã bị xóa sổ vào năm 1980.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14173,
+    "headword": "endemic",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/enˈdemɪk/",
+    "phoneticUs": "/enˈdemɪk/",
+    "meaningVi": "đặc hữu, lưu hành tại địa phương",
+    "definitionEn": "regularly found in a particular area",
+    "example": "Malaria is endemic in parts of Africa.",
+    "exampleTranslation": "Sốt rét lưu hành ở một số vùng của châu Phi.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14174,
+    "headword": "infectious",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ɪnˈfekʃəs/",
+    "phoneticUs": "/ɪnˈfekʃəs/",
+    "meaningVi": "có tính lây nhiễm",
+    "definitionEn": "able to spread from one person to another",
+    "example": "Infectious diseases spread fast in crowded camps.",
+    "exampleTranslation": "Các bệnh truyền nhiễm lan nhanh trong những khu trại đông đúc.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14175,
+    "headword": "communicable",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/kəˈmjuːnɪkəbl/",
+    "phoneticUs": "/kəˈmjuːnɪkəbl/",
+    "meaningVi": "có thể lây truyền",
+    "definitionEn": "that can be passed from one person to another",
+    "example": "Communicable diseases are monitored by health agencies.",
+    "exampleTranslation": "Các bệnh truyền nhiễm được các cơ quan y tế theo dõi.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14176,
+    "headword": "immunize",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈɪmjunaɪz/",
+    "phoneticUs": "/ˈɪmjunaɪz/",
+    "meaningVi": "tiêm chủng, gây miễn dịch",
+    "definitionEn": "to protect someone from a disease with a vaccine",
+    "example": "Most children are immunized before the age of two.",
+    "exampleTranslation": "Hầu hết trẻ em được tiêm chủng trước hai tuổi.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14177,
+    "headword": "booster",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbuːstə/",
+    "phoneticUs": "/ˈbuːstər/",
+    "meaningVi": "mũi tiêm nhắc lại",
+    "definitionEn": "an extra dose of a vaccine",
+    "example": "Adults may need a booster every ten years.",
+    "exampleTranslation": "Người lớn có thể cần một mũi nhắc lại mỗi mười năm.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14179,
+    "headword": "lockdown",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlɒkdaʊn/",
+    "phoneticUs": "/ˈlɑːkdaʊn/",
+    "meaningVi": "lệnh phong tỏa",
+    "definitionEn": "a rule that keeps people at home to stop a disease",
+    "example": "The city went into lockdown for two weeks.",
+    "exampleTranslation": "Thành phố bị phong tỏa trong hai tuần.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14180,
+    "headword": "contact tracing",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈkɒntækt ˈtreɪsɪŋ/",
+    "phoneticUs": "/ˈkɑːntækt ˈtreɪsɪŋ/",
+    "meaningVi": "truy vết tiếp xúc",
+    "definitionEn": "finding people who were near someone with a disease",
+    "example": "Contact tracing helped limit the spread of the virus.",
+    "exampleTranslation": "Truy vết tiếp xúc giúp hạn chế sự lây lan của virus.",
+    "levelId": 4,
+    "topics": [
+      "public-health-epidemiology"
+    ]
+  },
+  {
+    "id": 14182,
+    "headword": "neural network",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈnjʊərəl ˈnetwɜːk/",
+    "phoneticUs": "/ˈnʊrəl ˈnetwɜːrk/",
+    "meaningVi": "mạng nơ-ron",
+    "definitionEn": "a computer system modeled on the human brain",
+    "example": "A neural network can recognize faces in photos.",
+    "exampleTranslation": "Mạng nơ-ron có thể nhận diện khuôn mặt trong ảnh.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14183,
+    "headword": "deep learning",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌdiːp ˈlɜːnɪŋ/",
+    "phoneticUs": "/ˌdiːp ˈlɜːrnɪŋ/",
+    "meaningVi": "học sâu",
+    "definitionEn": "machine learning that uses many layers of processing",
+    "example": "Deep learning improved translation quality greatly.",
+    "exampleTranslation": "Học sâu đã cải thiện rất nhiều chất lượng dịch thuật.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14184,
+    "headword": "dataset",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdeɪtəset/",
+    "phoneticUs": "/ˈdeɪtəset/",
+    "meaningVi": "bộ dữ liệu",
+    "definitionEn": "a collection of data used for analysis",
+    "example": "The dataset contains one million customer records.",
+    "exampleTranslation": "Bộ dữ liệu chứa một triệu hồ sơ khách hàng.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14185,
+    "headword": "training data",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈtreɪnɪŋ ˈdeɪtə/",
+    "phoneticUs": "/ˈtreɪnɪŋ ˈdeɪtə/",
+    "meaningVi": "dữ liệu huấn luyện",
+    "definitionEn": "information used to teach a computer model",
+    "example": "Poor training data produces unreliable results.",
+    "exampleTranslation": "Dữ liệu huấn luyện kém cho ra kết quả không đáng tin.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14187,
+    "headword": "automation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌɔːtəˈmeɪʃn/",
+    "phoneticUs": "/ˌɔːtəˈmeɪʃn/",
+    "meaningVi": "tự động hóa",
+    "definitionEn": "using machines to do work without people",
+    "example": "Automation may replace many factory jobs.",
+    "exampleTranslation": "Tự động hóa có thể thay thế nhiều công việc trong nhà máy.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14188,
+    "headword": "natural language processing",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌnætʃrəl ˈlæŋɡwɪdʒ ˈprəʊsesɪŋ/",
+    "phoneticUs": "/ˌnætʃrəl ˈlæŋɡwɪdʒ ˈprɑːsesɪŋ/",
+    "meaningVi": "xử lý ngôn ngữ tự nhiên",
+    "definitionEn": "teaching computers to understand human language",
+    "example": "Natural language processing allows chatbots to answer questions.",
+    "exampleTranslation": "Xử lý ngôn ngữ tự nhiên giúp chatbot trả lời câu hỏi.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14189,
+    "headword": "computer vision",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kəmˈpjuːtə ˈvɪʒn/",
+    "phoneticUs": "/kəmˈpjuːtər ˈvɪʒn/",
+    "meaningVi": "thị giác máy tính",
+    "definitionEn": "technology that lets computers understand images",
+    "example": "Computer vision helps cars detect pedestrians.",
+    "exampleTranslation": "Thị giác máy tính giúp xe ô tô phát hiện người đi bộ.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14191,
+    "headword": "data mining",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈdeɪtə ˌmaɪnɪŋ/",
+    "phoneticUs": "/ˈdeɪtə ˌmaɪnɪŋ/",
+    "meaningVi": "khai phá dữ liệu",
+    "definitionEn": "searching large data to find useful patterns",
+    "example": "Data mining revealed hidden buying habits.",
+    "exampleTranslation": "Khai phá dữ liệu đã làm lộ ra thói quen mua sắm ẩn giấu.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14192,
+    "headword": "prediction",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/prɪˈdɪkʃn/",
+    "phoneticUs": "/prɪˈdɪkʃn/",
+    "meaningVi": "sự dự đoán",
+    "definitionEn": "a statement about what will happen",
+    "example": "The model's prediction was accurate in most cases.",
+    "exampleTranslation": "Dự đoán của mô hình chính xác trong hầu hết trường hợp.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14193,
+    "headword": "model",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmɒdl/",
+    "phoneticUs": "/ˈmɑːdl/",
+    "meaningVi": "mô hình",
+    "definitionEn": "a system built to describe or predict something",
+    "example": "The team trained a model to detect fraud.",
+    "exampleTranslation": "Nhóm đã huấn luyện một mô hình để phát hiện gian lận.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14194,
+    "headword": "overfitting",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌəʊvəˈfɪtɪŋ/",
+    "phoneticUs": "/ˌoʊvərˈfɪtɪŋ/",
+    "meaningVi": "hiện tượng quá khớp",
+    "definitionEn": "when a model works well on old data but poorly on new",
+    "example": "Overfitting makes the model fail on new examples.",
+    "exampleTranslation": "Hiện tượng quá khớp khiến mô hình thất bại với ví dụ mới.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14195,
+    "headword": "classification",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌklæsɪfɪˈkeɪʃn/",
+    "phoneticUs": "/ˌklæsɪfɪˈkeɪʃn/",
+    "meaningVi": "sự phân loại",
+    "definitionEn": "the act of sorting things into groups",
+    "example": "Image classification is a common machine learning task.",
+    "exampleTranslation": "Phân loại hình ảnh là một tác vụ phổ biến của học máy.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14196,
+    "headword": "regression",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/rɪˈɡreʃn/",
+    "phoneticUs": "/rɪˈɡreʃn/",
+    "meaningVi": "hồi quy",
+    "definitionEn": "a method for finding the link between variables",
+    "example": "Linear regression predicts prices from several factors.",
+    "exampleTranslation": "Hồi quy tuyến tính dự đoán giá từ nhiều yếu tố.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14197,
+    "headword": "cluster",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈklʌstə/",
+    "phoneticUs": "/ˈklʌstər/",
+    "meaningVi": "cụm, nhóm",
+    "definitionEn": "a group of similar things close together",
+    "example": "The software found three clusters of customers.",
+    "exampleTranslation": "Phần mềm tìm ra ba cụm khách hàng.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14198,
+    "headword": "feature",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfiːtʃə/",
+    "phoneticUs": "/ˈfiːtʃər/",
+    "meaningVi": "đặc trưng, thuộc tính (dữ liệu)",
+    "definitionEn": "a measurable property of the data being studied",
+    "example": "Age is an important feature in this model.",
+    "exampleTranslation": "Tuổi là một đặc trưng quan trọng trong mô hình này.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14199,
+    "headword": "correlation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌkɒrəˈleɪʃn/",
+    "phoneticUs": "/ˌkɔːrəˈleɪʃn/",
+    "meaningVi": "sự tương quan",
+    "definitionEn": "a link between two things that change together",
+    "example": "There is a strong correlation between sleep and memory.",
+    "exampleTranslation": "Có mối tương quan chặt chẽ giữa giấc ngủ và trí nhớ.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14201,
+    "headword": "inference",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɪnfərəns/",
+    "phoneticUs": "/ˈɪnfərəns/",
+    "meaningVi": "sự suy luận, suy diễn",
+    "definitionEn": "a conclusion based on evidence",
+    "example": "The study drew an inference from limited data.",
+    "exampleTranslation": "Nghiên cứu rút ra suy luận từ dữ liệu hạn chế.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14202,
+    "headword": "pattern",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpætn/",
+    "phoneticUs": "/ˈpætərn/",
+    "meaningVi": "mẫu, quy luật",
+    "definitionEn": "a regular way in which something happens",
+    "example": "The algorithm detects patterns in spending.",
+    "exampleTranslation": "Thuật toán phát hiện các quy luật trong chi tiêu.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14203,
+    "headword": "anomaly",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/əˈnɒməli/",
+    "phoneticUs": "/əˈnɑːməli/",
+    "meaningVi": "điểm bất thường",
+    "definitionEn": "something that is different from what is normal",
+    "example": "The system flagged an anomaly in the bank records.",
+    "exampleTranslation": "Hệ thống đánh dấu một điểm bất thường trong hồ sơ ngân hàng.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14204,
+    "headword": "sensor",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsensə/",
+    "phoneticUs": "/ˈsensər/",
+    "meaningVi": "cảm biến",
+    "definitionEn": "a device that detects light, heat or movement",
+    "example": "Sensors collect data about traffic every second.",
+    "exampleTranslation": "Các cảm biến thu thập dữ liệu giao thông từng giây.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14206,
+    "headword": "autonomous",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ɔːˈtɒnəməs/",
+    "phoneticUs": "/ɔːˈtɑːnəməs/",
+    "meaningVi": "tự hành, tự chủ",
+    "definitionEn": "able to work without human control",
+    "example": "Autonomous vehicles use cameras and sensors to drive.",
+    "exampleTranslation": "Xe tự hành dùng camera và cảm biến để lái.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14207,
+    "headword": "cognitive",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈkɒɡnətɪv/",
+    "phoneticUs": "/ˈkɑːɡnətɪv/",
+    "meaningVi": "thuộc nhận thức",
+    "definitionEn": "relating to thinking and understanding",
+    "example": "Cognitive skills include memory and reasoning.",
+    "exampleTranslation": "Kỹ năng nhận thức gồm trí nhớ và suy luận.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14208,
+    "headword": "optimization",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌɒptɪmaɪˈzeɪʃn/",
+    "phoneticUs": "/ˌɑːptɪməˈzeɪʃn/",
+    "meaningVi": "sự tối ưu hóa",
+    "definitionEn": "making something as good or efficient as possible",
+    "example": "Route optimization saves delivery companies fuel.",
+    "exampleTranslation": "Tối ưu hóa lộ trình giúp công ty giao hàng tiết kiệm nhiên liệu.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14209,
+    "headword": "parameter",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pəˈræmɪtə/",
+    "phoneticUs": "/pəˈræmɪtər/",
+    "meaningVi": "tham số",
+    "definitionEn": "a number that controls how a system works",
+    "example": "Engineers adjust each parameter to improve accuracy.",
+    "exampleTranslation": "Các kỹ sư điều chỉnh từng tham số để tăng độ chính xác.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14210,
+    "headword": "visualization",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌvɪʒuəlaɪˈzeɪʃn/",
+    "phoneticUs": "/ˌvɪʒuələˈzeɪʃn/",
+    "meaningVi": "sự trực quan hóa",
+    "definitionEn": "showing data as pictures or charts",
+    "example": "Data visualization makes results easier to understand.",
+    "exampleTranslation": "Trực quan hóa dữ liệu giúp kết quả dễ hiểu hơn.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14211,
+    "headword": "analytics",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌænəˈlɪtɪks/",
+    "phoneticUs": "/ˌænəˈlɪtɪks/",
+    "meaningVi": "phân tích dữ liệu",
+    "definitionEn": "the use of data to find useful information",
+    "example": "Web analytics show which pages users visit most.",
+    "exampleTranslation": "Phân tích web cho thấy người dùng truy cập trang nào nhiều nhất.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14212,
+    "headword": "metadata",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmetədeɪtə/",
+    "phoneticUs": "/ˈmetədeɪtə/",
+    "meaningVi": "siêu dữ liệu",
+    "definitionEn": "data that describes other data",
+    "example": "Photo metadata includes the date and location.",
+    "exampleTranslation": "Siêu dữ liệu của ảnh gồm ngày và vị trí chụp.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14213,
+    "headword": "query",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkwɪəri/",
+    "phoneticUs": "/ˈkwɪri/",
+    "meaningVi": "truy vấn",
+    "definitionEn": "a request for information from a database",
+    "example": "The query returned results in under a second.",
+    "exampleTranslation": "Truy vấn trả về kết quả trong chưa đầy một giây.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14214,
+    "headword": "scalable",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈskeɪləbl/",
+    "phoneticUs": "/ˈskeɪləbl/",
+    "meaningVi": "có thể mở rộng quy mô",
+    "definitionEn": "able to grow to handle more work",
+    "example": "The platform must be scalable for millions of users.",
+    "exampleTranslation": "Nền tảng phải có khả năng mở rộng cho hàng triệu người dùng.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14215,
+    "headword": "supervised",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈsuːpəvaɪzd/",
+    "phoneticUs": "/ˈsuːpərvaɪzd/",
+    "meaningVi": "có giám sát (học máy)",
+    "definitionEn": "learning from data that already has correct answers",
+    "example": "Supervised learning needs labeled examples.",
+    "exampleTranslation": "Học có giám sát cần các ví dụ đã được gắn nhãn.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14216,
+    "headword": "reinforcement",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌriːɪnˈfɔːsmənt/",
+    "phoneticUs": "/ˌriːɪnˈfɔːrsmənt/",
+    "meaningVi": "sự củng cố, học tăng cường",
+    "definitionEn": "learning by receiving rewards for good actions",
+    "example": "Reinforcement learning taught the program to win games.",
+    "exampleTranslation": "Học tăng cường đã dạy chương trình cách thắng trò chơi.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14217,
+    "headword": "recognition",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌrekəɡˈnɪʃn/",
+    "phoneticUs": "/ˌrekəɡˈnɪʃn/",
+    "meaningVi": "sự nhận dạng",
+    "definitionEn": "the ability to identify something",
+    "example": "Speech recognition has become much more accurate.",
+    "exampleTranslation": "Nhận dạng giọng nói đã chính xác hơn nhiều.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14218,
+    "headword": "generative",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈdʒenərətɪv/",
+    "phoneticUs": "/ˈdʒenərətɪv/",
+    "meaningVi": "có khả năng tạo sinh",
+    "definitionEn": "able to create new content such as text or images",
+    "example": "Generative models can write essays and draw pictures.",
+    "exampleTranslation": "Các mô hình tạo sinh có thể viết bài luận và vẽ tranh.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14219,
+    "headword": "transparency",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/trænsˈpærənsi/",
+    "phoneticUs": "/trænsˈpærənsi/",
+    "meaningVi": "tính minh bạch",
+    "definitionEn": "being open so that people can see how decisions are made",
+    "example": "Users demand more transparency from AI companies.",
+    "exampleTranslation": "Người dùng đòi hỏi các công ty AI minh bạch hơn.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14220,
+    "headword": "accountability",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/əˌkaʊntəˈbɪləti/",
+    "phoneticUs": "/əˌkaʊntəˈbɪləti/",
+    "meaningVi": "trách nhiệm giải trình",
+    "definitionEn": "being responsible for your actions and decisions",
+    "example": "Accountability is vital when machines make decisions.",
+    "exampleTranslation": "Trách nhiệm giải trình rất quan trọng khi máy móc đưa ra quyết định.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14221,
+    "headword": "deepfake",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdiːpfeɪk/",
+    "phoneticUs": "/ˈdiːpfeɪk/",
+    "meaningVi": "video/hình ảnh giả mạo bằng AI",
+    "definitionEn": "a fake video made by AI that looks real",
+    "example": "A deepfake of the mayor spread across social media.",
+    "exampleTranslation": "Một video giả mạo bằng AI về thị trưởng lan truyền khắp mạng xã hội.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14222,
+    "headword": "quantum",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈkwɒntəm/",
+    "phoneticUs": "/ˈkwɑːntəm/",
+    "meaningVi": "thuộc lượng tử",
+    "definitionEn": "relating to the tiny particles that make up matter",
+    "example": "Quantum computers may solve problems too hard for today's machines.",
+    "exampleTranslation": "Máy tính lượng tử có thể giải những bài toán quá khó với máy hiện nay.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14224,
+    "headword": "probability",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌprɒbəˈbɪləti/",
+    "phoneticUs": "/ˌprɑːbəˈbɪləti/",
+    "meaningVi": "xác suất",
+    "definitionEn": "how likely it is that something will happen",
+    "example": "The probability of rain tomorrow is high.",
+    "exampleTranslation": "Xác suất ngày mai có mưa là cao.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14225,
+    "headword": "outlier",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈaʊtlaɪə/",
+    "phoneticUs": "/ˈaʊtlaɪər/",
+    "meaningVi": "giá trị ngoại lai",
+    "definitionEn": "a value very different from the others in a set",
+    "example": "One outlier can distort the average.",
+    "exampleTranslation": "Một giá trị ngoại lai có thể làm sai lệch giá trị trung bình.",
+    "levelId": 4,
+    "topics": [
+      "ai-data-science"
+    ]
+  },
+  {
+    "id": 14226,
+    "headword": "linguistics",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/lɪŋˈɡwɪstɪks/",
+    "phoneticUs": "/lɪŋˈɡwɪstɪks/",
+    "meaningVi": "ngôn ngữ học",
+    "definitionEn": "the scientific study of language",
+    "example": "She is studying linguistics at university.",
+    "exampleTranslation": "Cô ấy đang học ngôn ngữ học ở đại học.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14227,
+    "headword": "syntax",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɪntæks/",
+    "phoneticUs": "/ˈsɪntæks/",
+    "meaningVi": "cú pháp",
+    "definitionEn": "the rules for how words form sentences",
+    "example": "English syntax places the verb after the subject.",
+    "exampleTranslation": "Cú pháp tiếng Anh đặt động từ sau chủ ngữ.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14228,
+    "headword": "grammar",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɡræmə/",
+    "phoneticUs": "/ˈɡræmər/",
+    "meaningVi": "ngữ pháp",
+    "definitionEn": "the rules for using words correctly in a language",
+    "example": "Learning grammar helps you write clear sentences.",
+    "exampleTranslation": "Học ngữ pháp giúp bạn viết câu rõ ràng.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14229,
+    "headword": "dialect",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdaɪəlekt/",
+    "phoneticUs": "/ˈdaɪəlekt/",
+    "meaningVi": "phương ngữ, tiếng địa phương",
+    "definitionEn": "a form of a language used in one region",
+    "example": "Each region of the country has its own dialect.",
+    "exampleTranslation": "Mỗi vùng của đất nước có phương ngữ riêng.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14230,
+    "headword": "accent",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈæksent/",
+    "phoneticUs": "/ˈæksent/",
+    "meaningVi": "giọng, trọng âm",
+    "definitionEn": "a way of speaking that shows where you are from",
+    "example": "He speaks English with a strong Scottish accent.",
+    "exampleTranslation": "Anh ấy nói tiếng Anh với giọng Scotland rất nặng.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14231,
+    "headword": "bilingual",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/baɪˈlɪŋɡwəl/",
+    "phoneticUs": "/baɪˈlɪŋɡwəl/",
+    "meaningVi": "song ngữ, nói được hai thứ tiếng",
+    "definitionEn": "able to speak two languages well",
+    "example": "Bilingual children often switch between languages easily.",
+    "exampleTranslation": "Trẻ song ngữ thường chuyển đổi giữa hai ngôn ngữ dễ dàng.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14232,
+    "headword": "fluency",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfluːənsi/",
+    "phoneticUs": "/ˈfluːənsi/",
+    "meaningVi": "sự trôi chảy, lưu loát",
+    "definitionEn": "the ability to speak a language easily and well",
+    "example": "Fluency comes with years of regular practice.",
+    "exampleTranslation": "Sự lưu loát đến từ nhiều năm luyện tập đều đặn.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14233,
+    "headword": "rhetoric",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈretərɪk/",
+    "phoneticUs": "/ˈretərɪk/",
+    "meaningVi": "thuật hùng biện, lối diễn đạt",
+    "definitionEn": "the art of using words to persuade people",
+    "example": "The politician's rhetoric inspired the crowd.",
+    "exampleTranslation": "Lối hùng biện của chính trị gia đã truyền cảm hứng cho đám đông.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14234,
+    "headword": "discourse",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdɪskɔːs/",
+    "phoneticUs": "/ˈdɪskɔːrs/",
+    "meaningVi": "diễn ngôn, cuộc thảo luận",
+    "definitionEn": "written or spoken communication on a topic",
+    "example": "Public discourse on climate change has grown.",
+    "exampleTranslation": "Thảo luận công khai về biến đổi khí hậu đã tăng lên.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14235,
+    "headword": "semantics",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/sɪˈmæntɪks/",
+    "phoneticUs": "/sɪˈmæntɪks/",
+    "meaningVi": "ngữ nghĩa học",
+    "definitionEn": "the study of meaning in language",
+    "example": "Semantics explains why two words can mean the same.",
+    "exampleTranslation": "Ngữ nghĩa học giải thích vì sao hai từ có thể mang cùng nghĩa.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14236,
+    "headword": "phonetics",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/fəˈnetɪks/",
+    "phoneticUs": "/fəˈnetɪks/",
+    "meaningVi": "ngữ âm học",
+    "definitionEn": "the study of the sounds of speech",
+    "example": "Phonetics helps learners pronounce words correctly.",
+    "exampleTranslation": "Ngữ âm học giúp người học phát âm từ chính xác.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14237,
+    "headword": "idiom",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɪdiəm/",
+    "phoneticUs": "/ˈɪdiəm/",
+    "meaningVi": "thành ngữ",
+    "definitionEn": "a fixed phrase with a meaning different from its words",
+    "example": "\"Break the ice\" is a common English idiom.",
+    "exampleTranslation": "\"Break the ice\" là một thành ngữ tiếng Anh phổ biến.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14238,
+    "headword": "metaphor",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmetəfɔː/",
+    "phoneticUs": "/ˈmetəfɔːr/",
+    "meaningVi": "ẩn dụ",
+    "definitionEn": "a way of describing something by comparing it to another thing",
+    "example": "The writer used a metaphor to describe time as a river.",
+    "exampleTranslation": "Nhà văn dùng ẩn dụ để mô tả thời gian như dòng sông.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14239,
+    "headword": "connotation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌkɒnəˈteɪʃn/",
+    "phoneticUs": "/ˌkɑːnəˈteɪʃn/",
+    "meaningVi": "nghĩa hàm ý",
+    "definitionEn": "a feeling or idea that a word suggests",
+    "example": "The word \"cheap\" has a negative connotation.",
+    "exampleTranslation": "Từ \"cheap\" mang hàm ý tiêu cực.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14240,
+    "headword": "nuance",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈnjuːɑːns/",
+    "phoneticUs": "/ˈnuːɑːns/",
+    "meaningVi": "sắc thái tinh tế",
+    "definitionEn": "a small difference in meaning or tone",
+    "example": "Translators must capture every nuance of the text.",
+    "exampleTranslation": "Dịch giả phải nắm bắt mọi sắc thái của văn bản.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14241,
+    "headword": "jargon",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdʒɑːɡən/",
+    "phoneticUs": "/ˈdʒɑːrɡən/",
+    "meaningVi": "biệt ngữ chuyên ngành",
+    "definitionEn": "special words used by a particular profession",
+    "example": "The report was full of technical jargon.",
+    "exampleTranslation": "Bản báo cáo đầy biệt ngữ chuyên ngành.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14242,
+    "headword": "tone",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/təʊn/",
+    "phoneticUs": "/toʊn/",
+    "meaningVi": "giọng điệu",
+    "definitionEn": "the attitude that a writer or speaker shows",
+    "example": "The tone of the letter was polite but firm.",
+    "exampleTranslation": "Giọng điệu của lá thư lịch sự nhưng kiên quyết.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14243,
+    "headword": "persuasion",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pəˈsweɪʒn/",
+    "phoneticUs": "/pəˈsweɪʒn/",
+    "meaningVi": "sự thuyết phục",
+    "definitionEn": "the act of making people accept an idea",
+    "example": "Advertising relies heavily on persuasion.",
+    "exampleTranslation": "Quảng cáo dựa rất nhiều vào sự thuyết phục.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14244,
+    "headword": "journalism",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdʒɜːnəlɪzəm/",
+    "phoneticUs": "/ˈdʒɜːrnəlɪzəm/",
+    "meaningVi": "báo chí, nghề báo",
+    "definitionEn": "the work of collecting and writing news",
+    "example": "She studied journalism and became a reporter.",
+    "exampleTranslation": "Cô ấy học báo chí và trở thành phóng viên.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14245,
+    "headword": "credibility",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌkredəˈbɪləti/",
+    "phoneticUs": "/ˌkredəˈbɪləti/",
+    "meaningVi": "độ tin cậy",
+    "definitionEn": "how much people trust something or someone",
+    "example": "The newspaper lost credibility after the false story.",
+    "exampleTranslation": "Tờ báo mất uy tín sau bài viết sai sự thật.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14246,
+    "headword": "interpret",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪnˈtɜːprɪt/",
+    "phoneticUs": "/ɪnˈtɜːrprɪt/",
+    "meaningVi": "giải thích, diễn giải; phiên dịch",
+    "definitionEn": "to explain the meaning of something",
+    "example": "Different readers may interpret the poem differently.",
+    "exampleTranslation": "Những độc giả khác nhau có thể diễn giải bài thơ khác nhau.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14247,
+    "headword": "articulate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɑːˈtɪkjuleɪt/",
+    "phoneticUs": "/ɑːrˈtɪkjuleɪt/",
+    "meaningVi": "diễn đạt rõ ràng",
+    "definitionEn": "to express ideas clearly in words",
+    "example": "He struggled to articulate his concerns.",
+    "exampleTranslation": "Anh ấy khó khăn trong việc diễn đạt rõ những lo ngại của mình.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14248,
+    "headword": "convey",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kənˈveɪ/",
+    "phoneticUs": "/kənˈveɪ/",
+    "meaningVi": "truyền đạt",
+    "definitionEn": "to communicate an idea or feeling",
+    "example": "The photo conveys the sadness of the moment.",
+    "exampleTranslation": "Bức ảnh truyền tải nỗi buồn của khoảnh khắc đó.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14249,
+    "headword": "eloquent",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈeləkwənt/",
+    "phoneticUs": "/ˈeləkwənt/",
+    "meaningVi": "hùng hồn, diễn đạt hay",
+    "definitionEn": "able to speak or write in a clear and powerful way",
+    "example": "She gave an eloquent speech about equality.",
+    "exampleTranslation": "Cô ấy có bài phát biểu hùng hồn về sự bình đẳng.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14250,
+    "headword": "coherent",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/kəʊˈhɪərənt/",
+    "phoneticUs": "/koʊˈhɪrənt/",
+    "meaningVi": "mạch lạc",
+    "definitionEn": "clear, logical and easy to follow",
+    "example": "A good essay presents a coherent argument.",
+    "exampleTranslation": "Một bài luận hay trình bày lập luận mạch lạc.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14251,
+    "headword": "ambiguous",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/æmˈbɪɡjuəs/",
+    "phoneticUs": "/æmˈbɪɡjuəs/",
+    "meaningVi": "mơ hồ, nhập nhằng",
+    "definitionEn": "having more than one possible meaning",
+    "example": "The instructions were ambiguous and confusing.",
+    "exampleTranslation": "Hướng dẫn mơ hồ và gây khó hiểu.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14252,
+    "headword": "implicit",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ɪmˈplɪsɪt/",
+    "phoneticUs": "/ɪmˈplɪsɪt/",
+    "meaningVi": "ngầm hiểu",
+    "definitionEn": "suggested but not stated directly",
+    "example": "There was an implicit criticism in his comment.",
+    "exampleTranslation": "Có một lời chê ngầm trong nhận xét của anh ấy.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14253,
+    "headword": "explicit",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ɪkˈsplɪsɪt/",
+    "phoneticUs": "/ɪkˈsplɪsɪt/",
+    "meaningVi": "rõ ràng, minh bạch",
+    "definitionEn": "stated clearly and directly",
+    "example": "The contract gives explicit instructions for payment.",
+    "exampleTranslation": "Hợp đồng đưa ra hướng dẫn thanh toán rõ ràng.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14254,
+    "headword": "paraphrase",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈpærəfreɪz/",
+    "phoneticUs": "/ˈpærəfreɪz/",
+    "meaningVi": "diễn giải lại bằng lời khác",
+    "definitionEn": "to say something again using different words",
+    "example": "Students should paraphrase the source, not copy it.",
+    "exampleTranslation": "Sinh viên nên diễn giải lại nguồn tài liệu chứ không sao chép.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14255,
+    "headword": "summarize",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈsʌməraɪz/",
+    "phoneticUs": "/ˈsʌməraɪz/",
+    "meaningVi": "tóm tắt",
+    "definitionEn": "to give the main points of something briefly",
+    "example": "Please summarize the article in three sentences.",
+    "exampleTranslation": "Hãy tóm tắt bài báo trong ba câu.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14256,
+    "headword": "cite",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/saɪt/",
+    "phoneticUs": "/saɪt/",
+    "meaningVi": "trích dẫn",
+    "definitionEn": "to mention a source as evidence",
+    "example": "You must cite every source in your essay.",
+    "exampleTranslation": "Bạn phải trích dẫn mọi nguồn trong bài luận.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14257,
+    "headword": "citation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/saɪˈteɪʃn/",
+    "phoneticUs": "/saɪˈteɪʃn/",
+    "meaningVi": "sự trích dẫn, chú dẫn",
+    "definitionEn": "a reference to a book or article you used",
+    "example": "Each citation should include the author and year.",
+    "exampleTranslation": "Mỗi chú dẫn nên ghi tác giả và năm xuất bản.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14258,
+    "headword": "argument",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɑːɡjumənt/",
+    "phoneticUs": "/ˈɑːrɡjumənt/",
+    "meaningVi": "lập luận",
+    "definitionEn": "a set of reasons used to support an idea",
+    "example": "The author's argument is supported by strong evidence.",
+    "exampleTranslation": "Lập luận của tác giả được hỗ trợ bằng bằng chứng mạnh.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14259,
+    "headword": "abstract",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈæbstrækt/",
+    "phoneticUs": "/ˈæbstrækt/",
+    "meaningVi": "bản tóm tắt (bài nghiên cứu)",
+    "definitionEn": "a short summary of a research paper",
+    "example": "Read the abstract before the full paper.",
+    "exampleTranslation": "Hãy đọc bản tóm tắt trước khi đọc toàn bài.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14260,
+    "headword": "footnote",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfʊtnəʊt/",
+    "phoneticUs": "/ˈfʊtnoʊt/",
+    "meaningVi": "chú thích cuối trang",
+    "definitionEn": "a note at the bottom of a page",
+    "example": "The footnote explains where the data came from.",
+    "exampleTranslation": "Chú thích cuối trang giải thích dữ liệu lấy từ đâu.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14261,
+    "headword": "bibliography",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌbɪbliˈɒɡrəfi/",
+    "phoneticUs": "/ˌbɪbliˈɑːɡrəfi/",
+    "meaningVi": "danh mục tài liệu tham khảo",
+    "definitionEn": "a list of books and articles used in a work",
+    "example": "The bibliography lists over fifty sources.",
+    "exampleTranslation": "Danh mục tham khảo liệt kê hơn năm mươi nguồn.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14262,
+    "headword": "literature review",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈlɪtrətʃə rɪˈvjuː/",
+    "phoneticUs": "/ˈlɪtərətʃər rɪˈvjuː/",
+    "meaningVi": "tổng quan tài liệu",
+    "definitionEn": "a summary of earlier research on a topic",
+    "example": "Her literature review covers thirty years of studies.",
+    "exampleTranslation": "Phần tổng quan tài liệu của cô ấy bao quát ba mươi năm nghiên cứu.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14263,
+    "headword": "verbal",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈvɜːbl/",
+    "phoneticUs": "/ˈvɜːrbl/",
+    "meaningVi": "bằng lời nói",
+    "definitionEn": "spoken, not written",
+    "example": "The two sides reached a verbal agreement.",
+    "exampleTranslation": "Hai bên đã đạt được thỏa thuận bằng lời.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14264,
+    "headword": "nonverbal",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌnɒnˈvɜːbl/",
+    "phoneticUs": "/ˌnɑːnˈvɜːrbl/",
+    "meaningVi": "phi ngôn ngữ",
+    "definitionEn": "communicating without using words",
+    "example": "Eye contact is an important nonverbal signal.",
+    "exampleTranslation": "Giao tiếp bằng mắt là tín hiệu phi ngôn ngữ quan trọng.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14267,
+    "headword": "immersion",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪˈmɜːʃn/",
+    "phoneticUs": "/ɪˈmɜːrʒn/",
+    "meaningVi": "sự đắm mình (trong môi trường ngôn ngữ)",
+    "definitionEn": "learning a language by living fully in it",
+    "example": "Language immersion speeds up your progress.",
+    "exampleTranslation": "Đắm mình trong môi trường ngôn ngữ giúp bạn tiến bộ nhanh hơn.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14268,
+    "headword": "lexicon",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈleksɪkən/",
+    "phoneticUs": "/ˈleksɪkən/",
+    "meaningVi": "vốn từ vựng, từ điển",
+    "definitionEn": "all the words used in a language or by a person",
+    "example": "The internet has added new words to the English lexicon.",
+    "exampleTranslation": "Internet đã thêm nhiều từ mới vào vốn từ tiếng Anh.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14269,
+    "headword": "etymology",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌetɪˈmɒlədʒi/",
+    "phoneticUs": "/ˌetɪˈmɑːlədʒi/",
+    "meaningVi": "từ nguyên học",
+    "definitionEn": "the study of where words come from",
+    "example": "The etymology of this word goes back to Latin.",
+    "exampleTranslation": "Từ nguyên của từ này bắt nguồn từ tiếng Latin.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14270,
+    "headword": "slang",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/slæŋ/",
+    "phoneticUs": "/slæŋ/",
+    "meaningVi": "tiếng lóng",
+    "definitionEn": "very informal words used by a particular group",
+    "example": "Teenagers often use slang that adults don't know.",
+    "exampleTranslation": "Thanh thiếu niên thường dùng tiếng lóng mà người lớn không biết.",
+    "levelId": 5,
+    "topics": [
+      "language-communication-media"
+    ]
+  },
+  {
+    "id": 14272,
+    "headword": "medieval",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌmediˈiːvl/",
+    "phoneticUs": "/ˌmiːdiˈiːvl/",
+    "meaningVi": "thuộc thời Trung cổ",
+    "definitionEn": "relating to the Middle Ages",
+    "example": "The town still has a medieval castle.",
+    "exampleTranslation": "Thị trấn vẫn còn một lâu đài thời Trung cổ.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14273,
+    "headword": "empire",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈempaɪə/",
+    "phoneticUs": "/ˈempaɪər/",
+    "meaningVi": "đế chế",
+    "definitionEn": "a group of lands ruled by one powerful ruler",
+    "example": "The Roman Empire controlled much of Europe.",
+    "exampleTranslation": "Đế chế La Mã kiểm soát phần lớn châu Âu.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14275,
+    "headword": "colony",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkɒləni/",
+    "phoneticUs": "/ˈkɑːləni/",
+    "meaningVi": "thuộc địa",
+    "definitionEn": "a country controlled by another country",
+    "example": "India was once a British colony.",
+    "exampleTranslation": "Ấn Độ từng là thuộc địa của Anh.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14276,
+    "headword": "colonial",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/kəˈləʊniəl/",
+    "phoneticUs": "/kəˈloʊniəl/",
+    "meaningVi": "thuộc thời thuộc địa",
+    "definitionEn": "relating to rule by another country",
+    "example": "Colonial buildings line the main street.",
+    "exampleTranslation": "Những tòa nhà thời thuộc địa nằm dọc con phố chính.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14277,
+    "headword": "independence",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌɪndɪˈpendəns/",
+    "phoneticUs": "/ˌɪndɪˈpendəns/",
+    "meaningVi": "nền độc lập",
+    "definitionEn": "freedom from the control of another country",
+    "example": "Vietnam declared independence in 1945.",
+    "exampleTranslation": "Việt Nam tuyên bố độc lập năm 1945.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14278,
+    "headword": "revolution",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌrevəˈluːʃn/",
+    "phoneticUs": "/ˌrevəˈluːʃn/",
+    "meaningVi": "cuộc cách mạng",
+    "definitionEn": "a big change in how a country is ruled",
+    "example": "The revolution ended centuries of royal rule.",
+    "exampleTranslation": "Cuộc cách mạng chấm dứt nhiều thế kỷ cai trị của hoàng gia.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14279,
+    "headword": "invasion",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪnˈveɪʒn/",
+    "phoneticUs": "/ɪnˈveɪʒn/",
+    "meaningVi": "cuộc xâm lược",
+    "definitionEn": "the act of entering a country with an army",
+    "example": "The invasion forced thousands to flee their homes.",
+    "exampleTranslation": "Cuộc xâm lược buộc hàng nghìn người phải bỏ nhà chạy trốn.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14280,
+    "headword": "conquest",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkɒŋkwest/",
+    "phoneticUs": "/ˈkɑːŋkwest/",
+    "meaningVi": "cuộc chinh phục",
+    "definitionEn": "the act of taking control of a place by force",
+    "example": "The conquest of the region took ten years.",
+    "exampleTranslation": "Cuộc chinh phục khu vực này kéo dài mười năm.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14281,
+    "headword": "monarchy",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmɒnəki/",
+    "phoneticUs": "/ˈmɑːnərki/",
+    "meaningVi": "chế độ quân chủ",
+    "definitionEn": "a system where a king or queen rules",
+    "example": "The country abolished its monarchy in 1910.",
+    "exampleTranslation": "Đất nước đã bãi bỏ chế độ quân chủ vào năm 1910.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14282,
+    "headword": "reign",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/reɪn/",
+    "phoneticUs": "/reɪn/",
+    "meaningVi": "triều đại, thời gian trị vì",
+    "definitionEn": "the time when a king or queen rules",
+    "example": "The temple was built during his reign.",
+    "exampleTranslation": "Ngôi đền được xây dưới thời trị vì của ông.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14283,
+    "headword": "throne",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/θrəʊn/",
+    "phoneticUs": "/θroʊn/",
+    "meaningVi": "ngai vàng",
+    "definitionEn": "the special chair of a king or queen",
+    "example": "The prince took the throne at the age of twenty.",
+    "exampleTranslation": "Hoàng tử lên ngôi vua khi hai mươi tuổi.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14284,
+    "headword": "artifact",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɑːtɪfækt/",
+    "phoneticUs": "/ˈɑːrtɪfækt/",
+    "meaningVi": "cổ vật, hiện vật",
+    "definitionEn": "an old object made by people in the past",
+    "example": "Archaeologists found a bronze artifact in the tomb.",
+    "exampleTranslation": "Các nhà khảo cổ tìm thấy một cổ vật bằng đồng trong ngôi mộ.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14285,
+    "headword": "archaeology",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌɑːkiˈɒlədʒi/",
+    "phoneticUs": "/ˌɑːrkiˈɑːlədʒi/",
+    "meaningVi": "khảo cổ học",
+    "definitionEn": "the study of the past through objects and remains",
+    "example": "Archaeology reveals how ancient people lived.",
+    "exampleTranslation": "Khảo cổ học tiết lộ cách người xưa sinh sống.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14290,
+    "headword": "civilization",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌsɪvəlaɪˈzeɪʃn/",
+    "phoneticUs": "/ˌsɪvələˈzeɪʃn/",
+    "meaningVi": "nền văn minh",
+    "definitionEn": "an advanced society with its own culture",
+    "example": "The Maya civilization built great stone cities.",
+    "exampleTranslation": "Nền văn minh Maya đã xây dựng những thành phố đá vĩ đại.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14291,
+    "headword": "tribe",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/traɪb/",
+    "phoneticUs": "/traɪb/",
+    "meaningVi": "bộ lạc",
+    "definitionEn": "a group of people who share language and customs",
+    "example": "The tribe moved with the seasons to find food.",
+    "exampleTranslation": "Bộ lạc di chuyển theo mùa để tìm thức ăn.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14293,
+    "headword": "alliance",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/əˈlaɪəns/",
+    "phoneticUs": "/əˈlaɪəns/",
+    "meaningVi": "liên minh",
+    "definitionEn": "an agreement between countries to help each other",
+    "example": "The alliance protected its members from attack.",
+    "exampleTranslation": "Liên minh bảo vệ các thành viên khỏi bị tấn công.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14294,
+    "headword": "uprising",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈʌpraɪzɪŋ/",
+    "phoneticUs": "/ˈʌpraɪzɪŋ/",
+    "meaningVi": "cuộc nổi dậy",
+    "definitionEn": "a protest by people against their rulers",
+    "example": "The peasants' uprising was crushed within a month.",
+    "exampleTranslation": "Cuộc nổi dậy của nông dân bị dập tắt trong vòng một tháng.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14295,
+    "headword": "rebellion",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/rɪˈbeljən/",
+    "phoneticUs": "/rɪˈbeljən/",
+    "meaningVi": "cuộc nổi loạn",
+    "definitionEn": "a violent fight against a government or ruler",
+    "example": "The rebellion began in the northern provinces.",
+    "exampleTranslation": "Cuộc nổi loạn bắt đầu ở các tỉnh phía bắc.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14296,
+    "headword": "abolish",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/əˈbɒlɪʃ/",
+    "phoneticUs": "/əˈbɑːlɪʃ/",
+    "meaningVi": "bãi bỏ",
+    "definitionEn": "to officially end a law or system",
+    "example": "Britain abolished slavery in 1833.",
+    "exampleTranslation": "Nước Anh bãi bỏ chế độ nô lệ vào năm 1833.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14297,
+    "headword": "slavery",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsleɪvəri/",
+    "phoneticUs": "/ˈsleɪvəri/",
+    "meaningVi": "chế độ nô lệ",
+    "definitionEn": "the system of owning people and forcing them to work",
+    "example": "Slavery caused enormous suffering for centuries.",
+    "exampleTranslation": "Chế độ nô lệ gây ra đau khổ to lớn suốt nhiều thế kỷ.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14298,
+    "headword": "renaissance",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/rɪˈneɪsns/",
+    "phoneticUs": "/ˈrenəsɑːns/",
+    "meaningVi": "thời Phục hưng, sự phục hưng",
+    "definitionEn": "a period of new interest in art and learning",
+    "example": "The Renaissance began in Italy in the fourteenth century.",
+    "exampleTranslation": "Thời Phục hưng bắt đầu ở Ý vào thế kỷ mười bốn.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14299,
+    "headword": "feudal",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈfjuːdl/",
+    "phoneticUs": "/ˈfjuːdl/",
+    "meaningVi": "thuộc chế độ phong kiến",
+    "definitionEn": "relating to a system where lords owned the land",
+    "example": "Feudal lords controlled the lives of the peasants.",
+    "exampleTranslation": "Các lãnh chúa phong kiến kiểm soát cuộc sống của nông dân.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14300,
+    "headword": "peasant",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpeznt/",
+    "phoneticUs": "/ˈpeznt/",
+    "meaningVi": "nông dân (thời xưa)",
+    "definitionEn": "a poor farmer in the past",
+    "example": "Most peasants lived in small villages.",
+    "exampleTranslation": "Phần lớn nông dân sống trong những ngôi làng nhỏ.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14301,
+    "headword": "aristocracy",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌærɪˈstɒkrəsi/",
+    "phoneticUs": "/ˌærɪˈstɑːkrəsi/",
+    "meaningVi": "tầng lớp quý tộc",
+    "definitionEn": "the highest social class of rich families",
+    "example": "The aristocracy owned most of the country's land.",
+    "exampleTranslation": "Tầng lớp quý tộc sở hữu phần lớn đất đai của đất nước.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14302,
+    "headword": "chronicle",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkrɒnɪkl/",
+    "phoneticUs": "/ˈkrɑːnɪkl/",
+    "meaningVi": "biên niên sử",
+    "definitionEn": "a written record of events in order",
+    "example": "The chronicle describes the siege in great detail.",
+    "exampleTranslation": "Biên niên sử mô tả cuộc vây hãm rất chi tiết.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14303,
+    "headword": "archive",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɑːkaɪv/",
+    "phoneticUs": "/ˈɑːrkaɪv/",
+    "meaningVi": "kho lưu trữ",
+    "definitionEn": "a place where old documents are kept",
+    "example": "Historians searched the national archive for letters.",
+    "exampleTranslation": "Các sử gia lục tìm thư từ trong kho lưu trữ quốc gia.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14304,
+    "headword": "manuscript",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmænjuskrɪpt/",
+    "phoneticUs": "/ˈmænjuskrɪpt/",
+    "meaningVi": "bản thảo viết tay",
+    "definitionEn": "an old book or document written by hand",
+    "example": "The monk copied the manuscript carefully.",
+    "exampleTranslation": "Vị sư chép lại bản thảo cẩn thận.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14305,
+    "headword": "legacy",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈleɡəsi/",
+    "phoneticUs": "/ˈleɡəsi/",
+    "meaningVi": "di sản, sự kế thừa",
+    "definitionEn": "something left behind by people of the past",
+    "example": "The empire left a lasting legacy in law and art.",
+    "exampleTranslation": "Đế chế để lại di sản lâu dài về luật pháp và nghệ thuật.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14307,
+    "headword": "era",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɪərə/",
+    "phoneticUs": "/ˈerə/",
+    "meaningVi": "kỷ nguyên, thời đại",
+    "definitionEn": "a long period of time in history",
+    "example": "The invention of printing began a new era.",
+    "exampleTranslation": "Phát minh ra in ấn mở ra một kỷ nguyên mới.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14308,
+    "headword": "millennium",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/mɪˈleniəm/",
+    "phoneticUs": "/mɪˈleniəm/",
+    "meaningVi": "thiên niên kỷ",
+    "definitionEn": "a period of one thousand years",
+    "example": "The city has stood for more than a millennium.",
+    "exampleTranslation": "Thành phố đã tồn tại hơn một thiên niên kỷ.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14309,
+    "headword": "prehistoric",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌpriːhɪˈstɒrɪk/",
+    "phoneticUs": "/ˌpriːhɪˈstɔːrɪk/",
+    "meaningVi": "thuộc thời tiền sử",
+    "definitionEn": "from before written records existed",
+    "example": "Prehistoric paintings were found inside the cave.",
+    "exampleTranslation": "Những bức tranh tiền sử được tìm thấy trong hang động.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14310,
+    "headword": "collapse",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kəˈlæps/",
+    "phoneticUs": "/kəˈlæps/",
+    "meaningVi": "sự sụp đổ",
+    "definitionEn": "the sudden failure of a system or empire",
+    "example": "The collapse of the empire led to years of chaos.",
+    "exampleTranslation": "Sự sụp đổ của đế chế dẫn đến nhiều năm hỗn loạn.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14311,
+    "headword": "dominate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈdɒmɪneɪt/",
+    "phoneticUs": "/ˈdɑːmɪneɪt/",
+    "meaningVi": "thống trị, chi phối",
+    "definitionEn": "to have the most power or control over others",
+    "example": "Spain dominated the seas in the sixteenth century.",
+    "exampleTranslation": "Tây Ban Nha thống trị các đại dương vào thế kỷ mười sáu.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14312,
+    "headword": "exile",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈeksaɪl/",
+    "phoneticUs": "/ˈeksaɪl/",
+    "meaningVi": "sự lưu đày, cảnh sống lưu vong",
+    "definitionEn": "being forced to live outside your own country",
+    "example": "The king spent many years in exile.",
+    "exampleTranslation": "Nhà vua đã sống nhiều năm trong cảnh lưu vong.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14314,
+    "headword": "plague",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pleɪɡ/",
+    "phoneticUs": "/pleɪɡ/",
+    "meaningVi": "bệnh dịch hạch, đại dịch",
+    "definitionEn": "a deadly disease that spreads quickly",
+    "example": "The plague killed a third of the population.",
+    "exampleTranslation": "Bệnh dịch hạch giết chết một phần ba dân số.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14315,
+    "headword": "siege",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/siːdʒ/",
+    "phoneticUs": "/siːdʒ/",
+    "meaningVi": "cuộc vây hãm",
+    "definitionEn": "an attack in which an army surrounds a place",
+    "example": "The siege of the castle lasted six months.",
+    "exampleTranslation": "Cuộc vây hãm lâu đài kéo dài sáu tháng.",
+    "levelId": 4,
+    "topics": [
+      "history-heritage"
+    ]
+  },
+  {
+    "id": 14316,
+    "headword": "census",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsensəs/",
+    "phoneticUs": "/ˈsensəs/",
+    "meaningVi": "cuộc điều tra dân số",
+    "definitionEn": "an official count of the people in a country",
+    "example": "The census is held every ten years.",
+    "exampleTranslation": "Cuộc điều tra dân số được tiến hành mười năm một lần.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14317,
+    "headword": "urbanization",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌɜːbənaɪˈzeɪʃn/",
+    "phoneticUs": "/ˌɜːrbənəˈzeɪʃn/",
+    "meaningVi": "đô thị hóa",
+    "definitionEn": "the growth of towns and cities",
+    "example": "Rapid urbanization has put pressure on housing.",
+    "exampleTranslation": "Đô thị hóa nhanh đã gây áp lực lên nhà ở.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14320,
+    "headword": "emigration",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌemɪˈɡreɪʃn/",
+    "phoneticUs": "/ˌemɪˈɡreɪʃn/",
+    "meaningVi": "sự di cư ra nước ngoài",
+    "definitionEn": "the act of leaving your country to live elsewhere",
+    "example": "Emigration left many villages almost empty.",
+    "exampleTranslation": "Di cư ra nước ngoài khiến nhiều ngôi làng gần như trống vắng.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14321,
+    "headword": "migrant",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmaɪɡrənt/",
+    "phoneticUs": "/ˈmaɪɡrənt/",
+    "meaningVi": "người di cư",
+    "definitionEn": "a person who moves to another place for work",
+    "example": "Many migrants send money home to their families.",
+    "exampleTranslation": "Nhiều người di cư gửi tiền về cho gia đình.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14323,
+    "headword": "birth rate",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈbɜːθ reɪt/",
+    "phoneticUs": "/ˈbɜːrθ reɪt/",
+    "meaningVi": "tỷ lệ sinh",
+    "definitionEn": "the number of babies born in a year per 1,000 people",
+    "example": "The birth rate has fallen in most rich countries.",
+    "exampleTranslation": "Tỷ lệ sinh đã giảm ở hầu hết các nước giàu.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14324,
+    "headword": "fertility rate",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/fəˈtɪləti reɪt/",
+    "phoneticUs": "/fərˈtɪləti reɪt/",
+    "meaningVi": "tỷ suất sinh",
+    "definitionEn": "the average number of children per woman",
+    "example": "South Korea has one of the lowest fertility rates.",
+    "exampleTranslation": "Hàn Quốc có một trong những tỷ suất sinh thấp nhất.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14325,
+    "headword": "death rate",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈdeθ reɪt/",
+    "phoneticUs": "/ˈdeθ reɪt/",
+    "meaningVi": "tỷ lệ tử vong",
+    "definitionEn": "the number of deaths in a year per 1,000 people",
+    "example": "The death rate dropped thanks to better medicine.",
+    "exampleTranslation": "Tỷ lệ tử vong giảm nhờ y học tốt hơn.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14326,
+    "headword": "ageing population",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈeɪdʒɪŋ ˌpɒpjuˈleɪʃn/",
+    "phoneticUs": "/ˈeɪdʒɪŋ ˌpɑːpjuˈleɪʃn/",
+    "meaningVi": "dân số già hóa",
+    "definitionEn": "a society where the average age keeps rising",
+    "example": "An ageing population puts pressure on pensions.",
+    "exampleTranslation": "Dân số già hóa gây áp lực lên hệ thống lương hưu.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14327,
+    "headword": "household",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhaʊshəʊld/",
+    "phoneticUs": "/ˈhaʊshoʊld/",
+    "meaningVi": "hộ gia đình",
+    "definitionEn": "all the people who live together in one home",
+    "example": "The average household has three members.",
+    "exampleTranslation": "Một hộ gia đình trung bình có ba thành viên.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14328,
+    "headword": "nuclear family",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌnjuːkliə ˈfæməli/",
+    "phoneticUs": "/ˌnuːkliər ˈfæməli/",
+    "meaningVi": "gia đình hạt nhân",
+    "definitionEn": "a family of parents and their children only",
+    "example": "The nuclear family is common in big cities.",
+    "exampleTranslation": "Gia đình hạt nhân phổ biến ở các thành phố lớn.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14329,
+    "headword": "extended family",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪkˌstendɪd ˈfæməli/",
+    "phoneticUs": "/ɪkˌstendɪd ˈfæməli/",
+    "meaningVi": "đại gia đình",
+    "definitionEn": "a family that includes grandparents, aunts and cousins",
+    "example": "In rural areas, the extended family often lives together.",
+    "exampleTranslation": "Ở nông thôn, đại gia đình thường sống chung.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14330,
+    "headword": "social class",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌsəʊʃl ˈklɑːs/",
+    "phoneticUs": "/ˌsoʊʃl ˈklæs/",
+    "meaningVi": "giai cấp xã hội",
+    "definitionEn": "a group of people with a similar social position",
+    "example": "Social class can affect a child's education.",
+    "exampleTranslation": "Giai cấp xã hội có thể ảnh hưởng đến việc học của trẻ.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14331,
+    "headword": "social mobility",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌsəʊʃl məʊˈbɪləti/",
+    "phoneticUs": "/ˌsoʊʃl moʊˈbɪləti/",
+    "meaningVi": "sự dịch chuyển xã hội",
+    "definitionEn": "the chance to move to a higher social position",
+    "example": "Education is a key route to social mobility.",
+    "exampleTranslation": "Giáo dục là con đường chính để dịch chuyển xã hội.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14332,
+    "headword": "stratification",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌstrætɪfɪˈkeɪʃn/",
+    "phoneticUs": "/ˌstrætɪfɪˈkeɪʃn/",
+    "meaningVi": "sự phân tầng xã hội",
+    "definitionEn": "the division of society into layers of rank",
+    "example": "Social stratification divides wealth unevenly.",
+    "exampleTranslation": "Sự phân tầng xã hội phân chia của cải không đồng đều.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14333,
+    "headword": "gender",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdʒendə/",
+    "phoneticUs": "/ˈdʒendər/",
+    "meaningVi": "giới, giới tính xã hội",
+    "definitionEn": "the state of being male or female in society",
+    "example": "Gender equality remains a goal in many countries.",
+    "exampleTranslation": "Bình đẳng giới vẫn là mục tiêu ở nhiều quốc gia.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14335,
+    "headword": "ethnicity",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/eθˈnɪsəti/",
+    "phoneticUs": "/eθˈnɪsəti/",
+    "meaningVi": "sắc tộc, dân tộc",
+    "definitionEn": "belonging to a particular cultural or racial group",
+    "example": "The survey asked about age, gender and ethnicity.",
+    "exampleTranslation": "Cuộc khảo sát hỏi về tuổi, giới tính và dân tộc.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14336,
+    "headword": "integration",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌɪntɪˈɡreɪʃn/",
+    "phoneticUs": "/ˌɪntɪˈɡreɪʃn/",
+    "meaningVi": "sự hòa nhập",
+    "definitionEn": "the process of joining a new group or society",
+    "example": "Language classes help the integration of newcomers.",
+    "exampleTranslation": "Các lớp học ngôn ngữ giúp người mới đến hòa nhập.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14337,
+    "headword": "assimilation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/əˌsɪməˈleɪʃn/",
+    "phoneticUs": "/əˌsɪməˈleɪʃn/",
+    "meaningVi": "sự đồng hóa",
+    "definitionEn": "taking on the culture of a new society",
+    "example": "Assimilation can cause the loss of the original language.",
+    "exampleTranslation": "Sự đồng hóa có thể làm mất ngôn ngữ gốc.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14338,
+    "headword": "cohesion",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kəʊˈhiːʒn/",
+    "phoneticUs": "/koʊˈhiːʒn/",
+    "meaningVi": "sự gắn kết (cộng đồng)",
+    "definitionEn": "the state of people being united and working together",
+    "example": "Shared festivals strengthen social cohesion.",
+    "exampleTranslation": "Các lễ hội chung củng cố sự gắn kết xã hội.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14340,
+    "headword": "norm",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/nɔːm/",
+    "phoneticUs": "/nɔːrm/",
+    "meaningVi": "chuẩn mực",
+    "definitionEn": "a usual way of behaving in a society",
+    "example": "Shaking hands is a social norm in many places.",
+    "exampleTranslation": "Bắt tay là chuẩn mực xã hội ở nhiều nơi.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14342,
+    "headword": "workforce",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈwɜːkfɔːs/",
+    "phoneticUs": "/ˈwɜːrkfɔːrs/",
+    "meaningVi": "lực lượng lao động",
+    "definitionEn": "all the people who work in a country or company",
+    "example": "Women now make up half of the workforce.",
+    "exampleTranslation": "Phụ nữ hiện chiếm một nửa lực lượng lao động.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14343,
+    "headword": "dependency ratio",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/dɪˈpendənsi ˈreɪʃiəʊ/",
+    "phoneticUs": "/dɪˈpendənsi ˈreɪʃioʊ/",
+    "meaningVi": "tỷ lệ phụ thuộc",
+    "definitionEn": "the number of dependents compared with workers",
+    "example": "A high dependency ratio can slow economic growth.",
+    "exampleTranslation": "Tỷ lệ phụ thuộc cao có thể làm chậm tăng trưởng kinh tế.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14344,
+    "headword": "youth",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/juːθ/",
+    "phoneticUs": "/juːθ/",
+    "meaningVi": "giới trẻ, thanh niên",
+    "definitionEn": "young people as a group",
+    "example": "Youth unemployment is a growing concern.",
+    "exampleTranslation": "Tình trạng thất nghiệp của giới trẻ là mối lo ngày càng lớn.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14345,
+    "headword": "widow",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈwɪdəʊ/",
+    "phoneticUs": "/ˈwɪdoʊ/",
+    "meaningVi": "góa phụ",
+    "definitionEn": "a woman whose husband has died",
+    "example": "The widow lived alone after her husband died.",
+    "exampleTranslation": "Người góa phụ sống một mình sau khi chồng mất.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14346,
+    "headword": "single parent",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌsɪŋɡl ˈpeərənt/",
+    "phoneticUs": "/ˌsɪŋɡl ˈperənt/",
+    "meaningVi": "cha/mẹ đơn thân",
+    "definitionEn": "a parent who raises children alone",
+    "example": "Single parents often struggle to afford childcare.",
+    "exampleTranslation": "Các bậc cha mẹ đơn thân thường khó chi trả cho việc trông trẻ.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14348,
+    "headword": "cohabitation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌkəʊhæbɪˈteɪʃn/",
+    "phoneticUs": "/ˌkoʊhæbɪˈteɪʃn/",
+    "meaningVi": "sống chung không kết hôn",
+    "definitionEn": "living together without being married",
+    "example": "Cohabitation before marriage is now common.",
+    "exampleTranslation": "Sống chung trước khi kết hôn hiện nay khá phổ biến.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14350,
+    "headword": "deviance",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdiːviəns/",
+    "phoneticUs": "/ˈdiːviəns/",
+    "meaningVi": "hành vi lệch chuẩn",
+    "definitionEn": "behavior that breaks the accepted rules of society",
+    "example": "Sociologists study how societies define deviance.",
+    "exampleTranslation": "Các nhà xã hội học nghiên cứu cách xã hội định nghĩa hành vi lệch chuẩn.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14351,
+    "headword": "sociology",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌsəʊsiˈɒlədʒi/",
+    "phoneticUs": "/ˌsoʊsiˈɑːlədʒi/",
+    "meaningVi": "xã hội học",
+    "definitionEn": "the study of how people live in groups",
+    "example": "Sociology looks at how society shapes behavior.",
+    "exampleTranslation": "Xã hội học xem xét xã hội định hình hành vi như thế nào.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14352,
+    "headword": "anthropology",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌænθrəˈpɒlədʒi/",
+    "phoneticUs": "/ˌænθrəˈpɑːlədʒi/",
+    "meaningVi": "nhân học",
+    "definitionEn": "the study of human cultures and origins",
+    "example": "Anthropology compares customs across different peoples.",
+    "exampleTranslation": "Nhân học so sánh phong tục giữa các dân tộc khác nhau.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14353,
+    "headword": "subculture",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsʌbkʌltʃə/",
+    "phoneticUs": "/ˈsʌbkʌltʃər/",
+    "meaningVi": "tiểu văn hóa",
+    "definitionEn": "a small group with its own style and beliefs",
+    "example": "Skateboarding grew into a global youth subculture.",
+    "exampleTranslation": "Trượt ván đã phát triển thành một tiểu văn hóa thanh niên toàn cầu.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14354,
+    "headword": "socialization",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌsəʊʃəlaɪˈzeɪʃn/",
+    "phoneticUs": "/ˌsoʊʃələˈzeɪʃn/",
+    "meaningVi": "quá trình xã hội hóa",
+    "definitionEn": "learning the rules and values of your society",
+    "example": "Schools play a key role in the socialization of children.",
+    "exampleTranslation": "Trường học đóng vai trò then chốt trong xã hội hóa trẻ em.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14355,
+    "headword": "collective",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/kəˈlektɪv/",
+    "phoneticUs": "/kəˈlektɪv/",
+    "meaningVi": "tập thể, chung",
+    "definitionEn": "shared by a whole group",
+    "example": "The decision was a collective effort by the villagers.",
+    "exampleTranslation": "Quyết định là nỗ lực chung của dân làng.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14356,
+    "headword": "individualism",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌɪndɪˈvɪdʒuəlɪzəm/",
+    "phoneticUs": "/ˌɪndɪˈvɪdʒuəlɪzəm/",
+    "meaningVi": "chủ nghĩa cá nhân",
+    "definitionEn": "the belief that personal freedom matters most",
+    "example": "Individualism is stronger in some cultures than others.",
+    "exampleTranslation": "Chủ nghĩa cá nhân mạnh hơn ở một số nền văn hóa so với các nền khác.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14357,
+    "headword": "affluent",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈæfluənt/",
+    "phoneticUs": "/ˈæfluənt/",
+    "meaningVi": "giàu có, sung túc",
+    "definitionEn": "having a lot of money and a comfortable life",
+    "example": "Affluent families can afford private schools.",
+    "exampleTranslation": "Các gia đình giàu có có thể chi trả cho trường tư.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14358,
+    "headword": "disadvantaged",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌdɪsədˈvɑːntɪdʒd/",
+    "phoneticUs": "/ˌdɪsədˈvæntɪdʒd/",
+    "meaningVi": "thiệt thòi, có hoàn cảnh khó khăn",
+    "definitionEn": "having fewer chances than most other people",
+    "example": "Programs support disadvantaged students in rural areas.",
+    "exampleTranslation": "Các chương trình hỗ trợ học sinh có hoàn cảnh khó khăn ở nông thôn.",
+    "levelId": 4,
+    "topics": [
+      "sociology-demography"
+    ]
+  },
+  {
+    "id": 14361,
+    "headword": "assume",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/əˈsjuːm/",
+    "phoneticUs": "/əˈsuːm/",
+    "meaningVi": "cho rằng, giả định",
+    "definitionEn": "to accept something as true without proof",
+    "example": "Many people assume that technology always saves time.",
+    "exampleTranslation": "Nhiều người cho rằng công nghệ luôn tiết kiệm thời gian.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14362,
+    "headword": "derive",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/dɪˈraɪv/",
+    "phoneticUs": "/dɪˈraɪv/",
+    "meaningVi": "bắt nguồn, rút ra",
+    "definitionEn": "to get something from a source",
+    "example": "The word derives from an old Latin term.",
+    "exampleTranslation": "Từ này bắt nguồn từ một thuật ngữ Latin cổ.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14363,
+    "headword": "assess",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/əˈses/",
+    "phoneticUs": "/əˈses/",
+    "meaningVi": "đánh giá, ước lượng",
+    "definitionEn": "to judge the quality or value of something",
+    "example": "Teachers assess students' progress every term.",
+    "exampleTranslation": "Giáo viên đánh giá sự tiến bộ của học sinh mỗi học kỳ.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14364,
+    "headword": "constitute",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈkɒnstɪtjuːt/",
+    "phoneticUs": "/ˈkɑːnstɪtuːt/",
+    "meaningVi": "cấu thành, chiếm",
+    "definitionEn": "to form or make up a whole",
+    "example": "Women constitute half of the university's staff.",
+    "exampleTranslation": "Phụ nữ chiếm một nửa số nhân viên của trường đại học.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14365,
+    "headword": "criteria",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kraɪˈtɪəriə/",
+    "phoneticUs": "/kraɪˈtɪriə/",
+    "meaningVi": "tiêu chí",
+    "definitionEn": "standards used to judge or decide something",
+    "example": "Applicants must meet all of the following criteria.",
+    "exampleTranslation": "Ứng viên phải đáp ứng tất cả các tiêu chí sau.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14366,
+    "headword": "distinct",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/dɪˈstɪŋkt/",
+    "phoneticUs": "/dɪˈstɪŋkt/",
+    "meaningVi": "khác biệt, rõ rệt",
+    "definitionEn": "clearly different or separate from others",
+    "example": "The two languages have distinct writing systems.",
+    "exampleTranslation": "Hai ngôn ngữ này có hệ chữ viết khác biệt rõ rệt.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14367,
+    "headword": "evident",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈevɪdənt/",
+    "phoneticUs": "/ˈevɪdənt/",
+    "meaningVi": "hiển nhiên, rõ ràng",
+    "definitionEn": "easy to see or understand",
+    "example": "It was evident that the plan had failed.",
+    "exampleTranslation": "Rõ ràng là kế hoạch đã thất bại.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14368,
+    "headword": "imply",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪmˈplaɪ/",
+    "phoneticUs": "/ɪmˈplaɪ/",
+    "meaningVi": "ngụ ý, hàm ý",
+    "definitionEn": "to suggest something without saying it directly",
+    "example": "His silence seemed to imply agreement.",
+    "exampleTranslation": "Sự im lặng của anh ấy dường như ngụ ý đồng ý.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14369,
+    "headword": "obtain",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/əbˈteɪn/",
+    "phoneticUs": "/əbˈteɪn/",
+    "meaningVi": "đạt được, có được",
+    "definitionEn": "to get something, often with effort",
+    "example": "Students can obtain a visa from the embassy.",
+    "exampleTranslation": "Sinh viên có thể xin visa tại đại sứ quán.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14370,
+    "headword": "comprise",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kəmˈpraɪz/",
+    "phoneticUs": "/kəmˈpraɪz/",
+    "meaningVi": "bao gồm, gồm có",
+    "definitionEn": "to be made up of different parts",
+    "example": "The committee comprises ten elected members.",
+    "exampleTranslation": "Ủy ban gồm mười thành viên được bầu.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14371,
+    "headword": "coincide",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˌkəʊɪnˈsaɪd/",
+    "phoneticUs": "/ˌkoʊɪnˈsaɪd/",
+    "meaningVi": "trùng khớp, xảy ra cùng lúc",
+    "definitionEn": "to happen at the same time as something else",
+    "example": "The festival coincides with the harvest season.",
+    "exampleTranslation": "Lễ hội trùng với mùa thu hoạch.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14372,
+    "headword": "clarify",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈklærəfaɪ/",
+    "phoneticUs": "/ˈklærəfaɪ/",
+    "meaningVi": "làm rõ",
+    "definitionEn": "to make something easier to understand",
+    "example": "Could you clarify what you mean by that term?",
+    "exampleTranslation": "Bạn có thể làm rõ ý bạn về thuật ngữ đó không?",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14373,
+    "headword": "controversy",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkɒntrəvɜːsi/",
+    "phoneticUs": "/ˈkɑːntrəvɜːrsi/",
+    "meaningVi": "cuộc tranh cãi",
+    "definitionEn": "public disagreement about something",
+    "example": "The new law caused great controversy.",
+    "exampleTranslation": "Luật mới gây ra nhiều tranh cãi.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14374,
+    "headword": "convert",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kənˈvɜːt/",
+    "phoneticUs": "/kənˈvɜːrt/",
+    "meaningVi": "chuyển đổi",
+    "definitionEn": "to change something into a different form",
+    "example": "The factory converts waste into energy.",
+    "exampleTranslation": "Nhà máy chuyển rác thải thành năng lượng.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14375,
+    "headword": "crucial",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈkruːʃl/",
+    "phoneticUs": "/ˈkruːʃl/",
+    "meaningVi": "then chốt, cực kỳ quan trọng",
+    "definitionEn": "extremely important for success",
+    "example": "Sleep is crucial for a student's memory.",
+    "exampleTranslation": "Giấc ngủ cực kỳ quan trọng đối với trí nhớ của học sinh.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14376,
+    "headword": "dimension",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/daɪˈmenʃn/",
+    "phoneticUs": "/daɪˈmenʃn/",
+    "meaningVi": "khía cạnh, kích thước",
+    "definitionEn": "a part or side of a situation",
+    "example": "The war added a new dimension to the conflict.",
+    "exampleTranslation": "Cuộc chiến đã thêm một khía cạnh mới cho cuộc xung đột.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14377,
+    "headword": "discrete",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/dɪˈskriːt/",
+    "phoneticUs": "/dɪˈskriːt/",
+    "meaningVi": "riêng biệt, rời rạc",
+    "definitionEn": "separate and clearly different from others",
+    "example": "The data was divided into discrete categories.",
+    "exampleTranslation": "Dữ liệu được chia thành các nhóm riêng biệt.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14378,
+    "headword": "dominant",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈdɒmɪnənt/",
+    "phoneticUs": "/ˈdɑːmɪnənt/",
+    "meaningVi": "chiếm ưu thế, nổi trội",
+    "definitionEn": "more powerful or noticeable than others",
+    "example": "English is the dominant language in science.",
+    "exampleTranslation": "Tiếng Anh là ngôn ngữ chiếm ưu thế trong khoa học.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14379,
+    "headword": "ensure",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪnˈʃʊə/",
+    "phoneticUs": "/ɪnˈʃʊr/",
+    "meaningVi": "đảm bảo",
+    "definitionEn": "to make certain that something happens",
+    "example": "Please ensure that all the doors are locked.",
+    "exampleTranslation": "Vui lòng đảm bảo tất cả cửa đều đã khóa.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14380,
+    "headword": "equate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪˈkweɪt/",
+    "phoneticUs": "/ɪˈkweɪt/",
+    "meaningVi": "đánh đồng",
+    "definitionEn": "to consider two things to be the same",
+    "example": "Some people equate wealth with happiness.",
+    "exampleTranslation": "Một số người đánh đồng giàu có với hạnh phúc.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14382,
+    "headword": "exploit",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪkˈsplɔɪt/",
+    "phoneticUs": "/ɪkˈsplɔɪt/",
+    "meaningVi": "khai thác; lợi dụng",
+    "definitionEn": "to use something fully, or use someone unfairly",
+    "example": "The company exploits natural resources in the region.",
+    "exampleTranslation": "Công ty khai thác tài nguyên thiên nhiên trong khu vực.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14383,
+    "headword": "fundamental",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌfʌndəˈmentl/",
+    "phoneticUs": "/ˌfʌndəˈmentl/",
+    "meaningVi": "cơ bản, nền tảng",
+    "definitionEn": "forming the most important basis of something",
+    "example": "Education is a fundamental human right.",
+    "exampleTranslation": "Giáo dục là quyền cơ bản của con người.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14384,
+    "headword": "hence",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/hens/",
+    "phoneticUs": "/hens/",
+    "meaningVi": "do đó, vì vậy",
+    "definitionEn": "for this reason",
+    "example": "The roads were flooded, hence the delay.",
+    "exampleTranslation": "Đường bị ngập, vì vậy mới có sự chậm trễ.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14385,
+    "headword": "incorporate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪnˈkɔːpəreɪt/",
+    "phoneticUs": "/ɪnˈkɔːrpəreɪt/",
+    "meaningVi": "kết hợp, đưa vào",
+    "definitionEn": "to include something as part of a whole",
+    "example": "The design incorporates ideas from several cultures.",
+    "exampleTranslation": "Thiết kế kết hợp ý tưởng từ nhiều nền văn hóa.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14386,
+    "headword": "inevitable",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ɪnˈevɪtəbl/",
+    "phoneticUs": "/ɪnˈevɪtəbl/",
+    "meaningVi": "không thể tránh khỏi",
+    "definitionEn": "certain to happen and impossible to stop",
+    "example": "Change is inevitable in every industry.",
+    "exampleTranslation": "Sự thay đổi là không thể tránh khỏi ở mọi ngành.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14387,
+    "headword": "infer",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪnˈfɜː/",
+    "phoneticUs": "/ɪnˈfɜːr/",
+    "meaningVi": "suy ra",
+    "definitionEn": "to reach a conclusion from evidence",
+    "example": "We can infer from the data that sales are rising.",
+    "exampleTranslation": "Chúng ta có thể suy ra từ dữ liệu rằng doanh số đang tăng.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14388,
+    "headword": "inherent",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ɪnˈhɪərənt/",
+    "phoneticUs": "/ɪnˈhɪrənt/",
+    "meaningVi": "vốn có, cố hữu",
+    "definitionEn": "existing as a natural part of something",
+    "example": "There are inherent risks in any investment.",
+    "exampleTranslation": "Mọi khoản đầu tư đều có rủi ro vốn có.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14389,
+    "headword": "innovate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈɪnəveɪt/",
+    "phoneticUs": "/ˈɪnəveɪt/",
+    "meaningVi": "đổi mới, sáng tạo",
+    "definitionEn": "to introduce new ideas or methods",
+    "example": "Companies must innovate to stay competitive.",
+    "exampleTranslation": "Các công ty phải đổi mới để duy trì sức cạnh tranh.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14390,
+    "headword": "justify",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈdʒʌstɪfaɪ/",
+    "phoneticUs": "/ˈdʒʌstɪfaɪ/",
+    "meaningVi": "biện minh, chứng minh là đúng",
+    "definitionEn": "to show that a decision is reasonable",
+    "example": "The results justify the high cost of the project.",
+    "exampleTranslation": "Kết quả chứng minh chi phí cao của dự án là hợp lý.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14391,
+    "headword": "notion",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈnəʊʃn/",
+    "phoneticUs": "/ˈnoʊʃn/",
+    "meaningVi": "quan niệm, ý niệm",
+    "definitionEn": "an idea or belief about something",
+    "example": "The notion that money brings happiness is debated.",
+    "exampleTranslation": "Quan niệm rằng tiền mang lại hạnh phúc còn nhiều tranh luận.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14392,
+    "headword": "overall",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌəʊvərˈɔːl/",
+    "phoneticUs": "/ˌoʊvərˈɔːl/",
+    "meaningVi": "tổng thể, nói chung",
+    "definitionEn": "including everything or everyone",
+    "example": "The overall result of the survey was positive.",
+    "exampleTranslation": "Kết quả tổng thể của cuộc khảo sát là tích cực.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14393,
+    "headword": "perspective",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pəˈspektɪv/",
+    "phoneticUs": "/pərˈspektɪv/",
+    "meaningVi": "góc nhìn, quan điểm",
+    "definitionEn": "a particular way of thinking about something",
+    "example": "Travel gave her a new perspective on life.",
+    "exampleTranslation": "Du lịch mang lại cho cô ấy một góc nhìn mới về cuộc sống.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14394,
+    "headword": "prior",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈpraɪə/",
+    "phoneticUs": "/ˈpraɪər/",
+    "meaningVi": "trước đó",
+    "definitionEn": "happening before a certain time",
+    "example": "No prior experience is required for this course.",
+    "exampleTranslation": "Khóa học này không yêu cầu kinh nghiệm trước đó.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14396,
+    "headword": "reinforce",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˌriːɪnˈfɔːs/",
+    "phoneticUs": "/ˌriːɪnˈfɔːrs/",
+    "meaningVi": "củng cố, tăng cường",
+    "definitionEn": "to make something stronger",
+    "example": "The new evidence reinforced her argument.",
+    "exampleTranslation": "Bằng chứng mới đã củng cố lập luận của cô ấy.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14397,
+    "headword": "relevant",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈreləvənt/",
+    "phoneticUs": "/ˈreləvənt/",
+    "meaningVi": "có liên quan, thích hợp",
+    "definitionEn": "connected to the subject being discussed",
+    "example": "Please include only relevant information in your essay.",
+    "exampleTranslation": "Vui lòng chỉ đưa thông tin liên quan vào bài luận.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14399,
+    "headword": "restrict",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/rɪˈstrɪkt/",
+    "phoneticUs": "/rɪˈstrɪkt/",
+    "meaningVi": "hạn chế, giới hạn",
+    "definitionEn": "to limit the size, amount or range of something",
+    "example": "The law restricts the use of plastic bags.",
+    "exampleTranslation": "Luật hạn chế việc sử dụng túi nhựa.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14400,
+    "headword": "retain",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/rɪˈteɪn/",
+    "phoneticUs": "/rɪˈteɪn/",
+    "meaningVi": "giữ lại, duy trì",
+    "definitionEn": "to keep something instead of losing it",
+    "example": "Good teachers help students retain what they learn.",
+    "exampleTranslation": "Giáo viên giỏi giúp học sinh ghi nhớ điều đã học.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14401,
+    "headword": "scope",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/skəʊp/",
+    "phoneticUs": "/skoʊp/",
+    "meaningVi": "phạm vi",
+    "definitionEn": "the range of things that something deals with",
+    "example": "The scope of the research was too narrow.",
+    "exampleTranslation": "Phạm vi của nghiên cứu quá hẹp.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14402,
+    "headword": "sufficient",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/səˈfɪʃnt/",
+    "phoneticUs": "/səˈfɪʃnt/",
+    "meaningVi": "đủ, đầy đủ",
+    "definitionEn": "as much as is needed",
+    "example": "There was not sufficient evidence to prove the claim.",
+    "exampleTranslation": "Không có đủ bằng chứng để chứng minh tuyên bố đó.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14403,
+    "headword": "sustain",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/səˈsteɪn/",
+    "phoneticUs": "/səˈsteɪn/",
+    "meaningVi": "duy trì, chống đỡ",
+    "definitionEn": "to keep something going over time",
+    "example": "The farm cannot sustain such a large population.",
+    "exampleTranslation": "Nông trại không thể nuôi sống một số dân lớn như vậy.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14404,
+    "headword": "tendency",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtendənsi/",
+    "phoneticUs": "/ˈtendənsi/",
+    "meaningVi": "xu hướng, khuynh hướng",
+    "definitionEn": "a habit of behaving in a certain way",
+    "example": "Children have a tendency to copy adults.",
+    "exampleTranslation": "Trẻ em có xu hướng bắt chước người lớn.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14405,
+    "headword": "thereby",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˌðeəˈbaɪ/",
+    "phoneticUs": "/ˌðerˈbaɪ/",
+    "meaningVi": "nhờ đó, qua đó",
+    "definitionEn": "as a result of this action",
+    "example": "The firm cut costs, thereby increasing profits.",
+    "exampleTranslation": "Công ty cắt giảm chi phí, nhờ đó tăng lợi nhuận.",
+    "levelId": 5,
+    "topics": [
+      "academic-word-list"
+    ]
+  },
+  {
+    "id": 14406,
+    "headword": "plummet",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈplʌmɪt/",
+    "phoneticUs": "/ˈplʌmɪt/",
+    "meaningVi": "giảm mạnh, lao dốc",
+    "definitionEn": "to fall very quickly and by a large amount",
+    "example": "Sales plummeted after the price rise.",
+    "exampleTranslation": "Doanh số lao dốc sau khi tăng giá.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14407,
+    "headword": "steady",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈstedi/",
+    "phoneticUs": "/ˈstedi/",
+    "meaningVi": "ổn định, đều đặn",
+    "definitionEn": "not changing much over time",
+    "example": "The number of visitors stayed steady throughout the year.",
+    "exampleTranslation": "Số lượng khách tham quan duy trì ổn định suốt cả năm.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14408,
+    "headword": "proportion",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/prəˈpɔːʃn/",
+    "phoneticUs": "/prəˈpɔːrʃn/",
+    "meaningVi": "tỷ lệ, phần",
+    "definitionEn": "a part of a whole, compared with the rest",
+    "example": "A large proportion of income goes on housing.",
+    "exampleTranslation": "Một tỷ lệ lớn thu nhập dành cho nhà ở.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14409,
+    "headword": "surge",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/sɜːdʒ/",
+    "phoneticUs": "/sɜːrdʒ/",
+    "meaningVi": "tăng vọt",
+    "definitionEn": "to rise suddenly and strongly",
+    "example": "Online shopping surged during the holiday season.",
+    "exampleTranslation": "Mua sắm trực tuyến tăng vọt trong mùa lễ.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14410,
+    "headword": "soar",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/sɔː/",
+    "phoneticUs": "/sɔːr/",
+    "meaningVi": "tăng vọt, bay vút",
+    "definitionEn": "to rise quickly to a very high level",
+    "example": "House prices soared between 2000 and 2007.",
+    "exampleTranslation": "Giá nhà tăng vọt từ năm 2000 đến 2007.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14411,
+    "headword": "rocket",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈrɒkɪt/",
+    "phoneticUs": "/ˈrɑːkɪt/",
+    "meaningVi": "tăng nhanh như tên lửa",
+    "definitionEn": "to increase very fast and suddenly",
+    "example": "Oil prices rocketed in the early 1970s.",
+    "exampleTranslation": "Giá dầu tăng chóng mặt vào đầu thập niên 1970.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14412,
+    "headword": "plunge",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/plʌndʒ/",
+    "phoneticUs": "/plʌndʒ/",
+    "meaningVi": "lao dốc, giảm đột ngột",
+    "definitionEn": "to fall suddenly and sharply",
+    "example": "Profits plunged by forty percent in one year.",
+    "exampleTranslation": "Lợi nhuận lao dốc bốn mươi phần trăm chỉ trong một năm.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14413,
+    "headword": "dip",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/dɪp/",
+    "phoneticUs": "/dɪp/",
+    "meaningVi": "giảm nhẹ",
+    "definitionEn": "to go down slightly for a short time",
+    "example": "Temperatures dipped slightly in the evening.",
+    "exampleTranslation": "Nhiệt độ giảm nhẹ vào buổi tối.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14414,
+    "headword": "peak",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/piːk/",
+    "phoneticUs": "/piːk/",
+    "meaningVi": "đạt đỉnh",
+    "definitionEn": "to reach the highest point",
+    "example": "Unemployment peaked at ten percent in 2010.",
+    "exampleTranslation": "Tỷ lệ thất nghiệp đạt đỉnh ở mức mười phần trăm vào năm 2010.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14415,
+    "headword": "trough",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/trɒf/",
+    "phoneticUs": "/trɔːf/",
+    "meaningVi": "đáy, điểm thấp nhất",
+    "definitionEn": "the lowest point in a series of values",
+    "example": "The trough in sales came in February.",
+    "exampleTranslation": "Điểm thấp nhất của doanh số rơi vào tháng Hai.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14416,
+    "headword": "level off",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌlevl ˈɒf/",
+    "phoneticUs": "/ˌlevl ˈɔːf/",
+    "meaningVi": "đi ngang, ổn định lại",
+    "definitionEn": "to stop rising or falling and stay steady",
+    "example": "The number of users leveled off after 2015.",
+    "exampleTranslation": "Số lượng người dùng đi ngang sau năm 2015.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14417,
+    "headword": "plateau",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/plæˈtəʊ/",
+    "phoneticUs": "/plæˈtoʊ/",
+    "meaningVi": "giai đoạn đi ngang",
+    "definitionEn": "a period when a value stays the same",
+    "example": "Production reached a plateau in the 1990s.",
+    "exampleTranslation": "Sản lượng đi vào giai đoạn đi ngang trong thập niên 1990.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14418,
+    "headword": "gradual",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈɡrædʒuəl/",
+    "phoneticUs": "/ˈɡrædʒuəl/",
+    "meaningVi": "dần dần, từ từ",
+    "definitionEn": "happening slowly over a long time",
+    "example": "There was a gradual decline in newspaper sales.",
+    "exampleTranslation": "Doanh số báo giấy giảm dần dần.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14419,
+    "headword": "marginal",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈmɑːdʒɪnl/",
+    "phoneticUs": "/ˈmɑːrdʒɪnl/",
+    "meaningVi": "nhỏ, không đáng kể",
+    "definitionEn": "very small and not important",
+    "example": "The company recorded a marginal increase in profit.",
+    "exampleTranslation": "Công ty ghi nhận mức tăng lợi nhuận không đáng kể.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14420,
+    "headword": "substantial",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/səbˈstænʃl/",
+    "phoneticUs": "/səbˈstænʃl/",
+    "meaningVi": "đáng kể, lớn",
+    "definitionEn": "large in amount or importance",
+    "example": "The city saw a substantial rise in population.",
+    "exampleTranslation": "Thành phố chứng kiến mức tăng dân số đáng kể.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14421,
+    "headword": "approximately",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/əˈprɒksɪmətli/",
+    "phoneticUs": "/əˈprɑːksɪmətli/",
+    "meaningVi": "khoảng, xấp xỉ",
+    "definitionEn": "close to a number but not exact",
+    "example": "Approximately 30 percent of students chose science.",
+    "exampleTranslation": "Khoảng 30 phần trăm sinh viên chọn khoa học.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14422,
+    "headword": "account for",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/əˈkaʊnt fɔː/",
+    "phoneticUs": "/əˈkaʊnt fɔːr/",
+    "meaningVi": "chiếm (một tỷ lệ)",
+    "definitionEn": "to make up a certain part of a total",
+    "example": "Tourism accounts for ten percent of the country's income.",
+    "exampleTranslation": "Du lịch chiếm mười phần trăm thu nhập của đất nước.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14423,
+    "headword": "make up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈmeɪk ʌp/",
+    "phoneticUs": "/ˈmeɪk ʌp/",
+    "meaningVi": "chiếm, tạo thành",
+    "definitionEn": "to form a part of a whole",
+    "example": "Women make up sixty percent of the workforce.",
+    "exampleTranslation": "Phụ nữ chiếm sáu mươi phần trăm lực lượng lao động.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14424,
+    "headword": "stand at",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈstænd æt/",
+    "phoneticUs": "/ˈstænd æt/",
+    "meaningVi": "ở mức (số liệu)",
+    "definitionEn": "to be at a particular level or number",
+    "example": "The unemployment rate stood at five percent.",
+    "exampleTranslation": "Tỷ lệ thất nghiệp ở mức năm phần trăm.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14425,
+    "headword": "climb",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/klaɪm/",
+    "phoneticUs": "/klaɪm/",
+    "meaningVi": "tăng dần",
+    "definitionEn": "to increase steadily",
+    "example": "Exports climbed from 20 to 35 million tonnes.",
+    "exampleTranslation": "Xuất khẩu tăng dần từ 20 lên 35 triệu tấn.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14426,
+    "headword": "slump",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/slʌmp/",
+    "phoneticUs": "/slʌmp/",
+    "meaningVi": "sụt giảm mạnh",
+    "definitionEn": "to fall suddenly and by a lot",
+    "example": "Car sales slumped during the economic crisis.",
+    "exampleTranslation": "Doanh số ô tô sụt giảm mạnh trong thời kỳ khủng hoảng.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14427,
+    "headword": "rebound",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/rɪˈbaʊnd/",
+    "phoneticUs": "/rɪˈbaʊnd/",
+    "meaningVi": "bật lại, phục hồi",
+    "definitionEn": "to rise again after a fall",
+    "example": "Prices rebounded quickly in the following year.",
+    "exampleTranslation": "Giá cả bật lại nhanh chóng vào năm sau.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14428,
+    "headword": "overtake",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˌəʊvəˈteɪk/",
+    "phoneticUs": "/ˌoʊvərˈteɪk/",
+    "meaningVi": "vượt qua",
+    "definitionEn": "to become greater than something else",
+    "example": "Bus users overtook train users in 2012.",
+    "exampleTranslation": "Số người đi xe buýt đã vượt số người đi tàu vào năm 2012.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14430,
+    "headword": "respectively",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/rɪˈspektɪvli/",
+    "phoneticUs": "/rɪˈspektɪvli/",
+    "meaningVi": "lần lượt",
+    "definitionEn": "in the same order as the things just mentioned",
+    "example": "Sales were 20 and 35 million in 2000 and 2010 respectively.",
+    "exampleTranslation": "Doanh số lần lượt là 20 và 35 triệu vào năm 2000 và 2010.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14431,
+    "headword": "the former",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ðə ˈfɔːmə/",
+    "phoneticUs": "/ðə ˈfɔːrmər/",
+    "meaningVi": "cái đầu tiên (trong hai cái)",
+    "definitionEn": "the first of two things just mentioned",
+    "example": "Coffee and tea were popular, but the former was more so.",
+    "exampleTranslation": "Cà phê và trà đều phổ biến, nhưng cái trước phổ biến hơn.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14432,
+    "headword": "the latter",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ðə ˈlætə/",
+    "phoneticUs": "/ðə ˈlætər/",
+    "meaningVi": "cái thứ hai (trong hai cái)",
+    "definitionEn": "the second of two things just mentioned",
+    "example": "Cars and trains rose, with the latter growing faster.",
+    "exampleTranslation": "Ô tô và tàu hỏa đều tăng, trong đó cái sau tăng nhanh hơn.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14433,
+    "headword": "upward trend",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌʌpwəd ˈtrend/",
+    "phoneticUs": "/ˌʌpwərd ˈtrend/",
+    "meaningVi": "xu hướng tăng",
+    "definitionEn": "a general pattern of rising values",
+    "example": "The graph shows an upward trend in internet use.",
+    "exampleTranslation": "Biểu đồ cho thấy xu hướng tăng của việc sử dụng internet.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14434,
+    "headword": "downward trend",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌdaʊnwəd ˈtrend/",
+    "phoneticUs": "/ˌdaʊnwərd ˈtrend/",
+    "meaningVi": "xu hướng giảm",
+    "definitionEn": "a general pattern of falling values",
+    "example": "There was a downward trend in smoking rates.",
+    "exampleTranslation": "Có xu hướng giảm trong tỷ lệ hút thuốc.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14435,
+    "headword": "vertical axis",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌvɜːtɪkl ˈæksɪs/",
+    "phoneticUs": "/ˌvɜːrtɪkl ˈæksɪs/",
+    "meaningVi": "trục tung",
+    "definitionEn": "the line going up the side of a graph",
+    "example": "The vertical axis shows the number of sales.",
+    "exampleTranslation": "Trục tung thể hiện số lượng doanh số.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14436,
+    "headword": "horizontal axis",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌhɒrɪzɒntl ˈæksɪs/",
+    "phoneticUs": "/ˌhɔːrɪzɑːntl ˈæksɪs/",
+    "meaningVi": "trục hoành",
+    "definitionEn": "the line going along the bottom of a graph",
+    "example": "The horizontal axis shows the years.",
+    "exampleTranslation": "Trục hoành thể hiện các năm.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14437,
+    "headword": "ratio",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈreɪʃiəʊ/",
+    "phoneticUs": "/ˈreɪʃioʊ/",
+    "meaningVi": "tỷ số",
+    "definitionEn": "the relationship between two numbers",
+    "example": "The ratio of men to women was two to one.",
+    "exampleTranslation": "Tỷ số nam so với nữ là hai trên một.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14438,
+    "headword": "fraction",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfrækʃn/",
+    "phoneticUs": "/ˈfrækʃn/",
+    "meaningVi": "phân số, một phần nhỏ",
+    "definitionEn": "a small part of a whole",
+    "example": "Only a fraction of the budget was spent on research.",
+    "exampleTranslation": "Chỉ một phần nhỏ ngân sách được chi cho nghiên cứu.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14439,
+    "headword": "twofold",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˈtuːfəʊld/",
+    "phoneticUs": "/ˈtuːfoʊld/",
+    "meaningVi": "gấp đôi",
+    "definitionEn": "two times as much",
+    "example": "Production increased twofold in a decade.",
+    "exampleTranslation": "Sản lượng tăng gấp đôi trong một thập kỷ.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14440,
+    "headword": "spike",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/spaɪk/",
+    "phoneticUs": "/spaɪk/",
+    "meaningVi": "sự tăng vọt đột ngột",
+    "definitionEn": "a sudden short rise in a value",
+    "example": "There was a spike in sales just before Christmas.",
+    "exampleTranslation": "Có một đợt tăng vọt doanh số ngay trước Giáng sinh.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14441,
+    "headword": "tail off",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈteɪl ɒf/",
+    "phoneticUs": "/ˈteɪl ɔːf/",
+    "meaningVi": "giảm dần, yếu dần",
+    "definitionEn": "to become gradually smaller or weaker",
+    "example": "Demand tailed off towards the end of the year.",
+    "exampleTranslation": "Nhu cầu giảm dần vào cuối năm.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14442,
+    "headword": "level out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌlevl ˈaʊt/",
+    "phoneticUs": "/ˌlevl ˈaʊt/",
+    "meaningVi": "đi ngang, ổn định",
+    "definitionEn": "to stop changing and become stable",
+    "example": "The line levels out at around 50 percent.",
+    "exampleTranslation": "Đường biểu diễn đi ngang ở khoảng 50 phần trăm.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14443,
+    "headword": "bottom out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˌbɒtəm ˈaʊt/",
+    "phoneticUs": "/ˌbɑːtəm ˈaʊt/",
+    "meaningVi": "chạm đáy",
+    "definitionEn": "to reach the lowest point before rising again",
+    "example": "Prices bottomed out in 2009 and then recovered.",
+    "exampleTranslation": "Giá chạm đáy vào năm 2009 rồi phục hồi.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14444,
+    "headword": "hover",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈhɒvə/",
+    "phoneticUs": "/ˈhʌvər/",
+    "meaningVi": "dao động quanh (một mức)",
+    "definitionEn": "to stay close to a particular level",
+    "example": "The rate hovered around three percent for years.",
+    "exampleTranslation": "Tỷ lệ dao động quanh mức ba phần trăm trong nhiều năm.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14445,
+    "headword": "stabilize",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈsteɪbəlaɪz/",
+    "phoneticUs": "/ˈsteɪbəlaɪz/",
+    "meaningVi": "ổn định lại",
+    "definitionEn": "to become steady and stop changing",
+    "example": "The market stabilized after the sharp fall.",
+    "exampleTranslation": "Thị trường ổn định lại sau đợt giảm mạnh.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14446,
+    "headword": "leap",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/liːp/",
+    "phoneticUs": "/liːp/",
+    "meaningVi": "bước nhảy vọt",
+    "definitionEn": "a big and sudden increase",
+    "example": "The figure made a leap from 10 to 40 percent.",
+    "exampleTranslation": "Con số có bước nhảy vọt từ 10 lên 40 phần trăm.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14447,
+    "headword": "shrink",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ʃrɪŋk/",
+    "phoneticUs": "/ʃrɪŋk/",
+    "meaningVi": "co lại, thu hẹp",
+    "definitionEn": "to become smaller in size or amount",
+    "example": "The manufacturing sector shrank by ten percent.",
+    "exampleTranslation": "Ngành sản xuất thu hẹp mười phần trăm.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14448,
+    "headword": "multiply",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈmʌltɪplaɪ/",
+    "phoneticUs": "/ˈmʌltɪplaɪ/",
+    "meaningVi": "nhân lên, tăng gấp nhiều lần",
+    "definitionEn": "to increase many times in number",
+    "example": "The number of users multiplied within five years.",
+    "exampleTranslation": "Số lượng người dùng tăng gấp nhiều lần trong năm năm.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14449,
+    "headword": "fourfold",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˈfɔːfəʊld/",
+    "phoneticUs": "/ˈfɔːrfoʊld/",
+    "meaningVi": "gấp bốn lần",
+    "definitionEn": "four times as much",
+    "example": "Exports grew fourfold over the period.",
+    "exampleTranslation": "Xuất khẩu tăng gấp bốn lần trong giai đoạn này.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 14450,
+    "headword": "noticeable",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈnəʊtɪsəbl/",
+    "phoneticUs": "/ˈnoʊtɪsəbl/",
+    "meaningVi": "đáng chú ý",
+    "definitionEn": "easy to see or pay attention to",
+    "example": "There was a noticeable rise in prices last spring.",
+    "exampleTranslation": "Có sự tăng giá đáng chú ý vào mùa xuân năm ngoái.",
+    "levelId": 5,
+    "topics": [
+      "ielts-task1-charts-trends"
+    ]
+  }
+]

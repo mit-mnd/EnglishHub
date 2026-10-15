@@ -2,7 +2,7 @@
 import { computed, onMounted, ref } from 'vue'
 import { useRouter } from 'vue-router'
 import { ElMessage } from 'element-plus'
-import { Collection, Notebook, Plus, Right, VideoPlay } from '@element-plus/icons-vue'
+import { Collection, Notebook, Plus, Right, Search, VideoPlay } from '@element-plus/icons-vue'
 import { flashcardApi, vocabularyApi } from '@/api'
 import { formatDateTime } from '@/utils/format'
 
@@ -12,6 +12,34 @@ const summary = ref(null)
 const sets = ref([])
 const loading = ref(true)
 const adding = ref(null)
+
+// Lọc danh sách bộ từ (có gần 100 bộ): theo nhóm + tìm theo tên / mô tả / từ mẫu
+const GROUPS = [
+  { key: 'all', label: 'Tất cả' },
+  { key: 'basic', label: 'Cơ bản' },
+  { key: 'intermediate', label: 'Trung cấp' },
+  { key: 'toeic', label: 'TOEIC' },
+  { key: 'phrases', label: 'Cụm từ' },
+  { key: 'advanced', label: 'Nâng cao' },
+]
+function groupOf(set) {
+  if (/^TOEIC/i.test(set.name)) return 'toeic'
+  if (set.id >= 400 && set.id < 500) return 'phrases'
+  if (set.id >= 500) return 'advanced'
+  return (set.levelId ?? 1) >= 3 ? 'intermediate' : 'basic'
+}
+const group = ref('all')
+const keyword = ref('')
+const groupCounts = computed(() => {
+  const counts = { all: sets.value.length }
+  for (const set of sets.value) counts[groupOf(set)] = (counts[groupOf(set)] ?? 0) + 1
+  return counts
+})
+const visibleSets = computed(() => {
+  const q = keyword.value.trim().toLowerCase()
+  return sets.value.filter((set) => (group.value === 'all' || groupOf(set) === group.value)
+    && (!q || `${set.name} ${set.description ?? ''} ${set.previewWords.join(' ')}`.toLowerCase().includes(q)))
+})
 
 const toReview = computed(() => (summary.value ? summary.value.dueNow + summary.value.newAvailableToday : 0))
 const breakdown = computed(() => {
@@ -77,7 +105,7 @@ onMounted(load)
             <template v-else-if="summary.nextDueAt">Thẻ tiếp theo đến hạn lúc {{ formatDateTime(summary.nextDueAt) }}</template>
             <template v-else>Thêm một bộ từ bên dưới hoặc lưu từ khi đọc bài.</template>
           </p>
-          <p class="hero__sub">Đã ôn {{ summary.reviewedToday }} lượt hôm nay · tối đa {{ summary.newCardsPerDay }} thẻ mới/ngày</p>
+          <p class="hero__sub">Đã ôn {{ summary.reviewedToday }} lượt hôm nay</p>
         </div>
         <el-button size="large" class="hero__btn" :icon="VideoPlay" :disabled="!toReview"
                    @click="router.push({ name: 'flashcard-review' })">
@@ -119,9 +147,20 @@ onMounted(load)
       </div>
 
       <section class="sets">
-        <h3 class="sets__title"><el-icon><Collection /></el-icon> Bộ từ vựng theo chủ đề</h3>
+        <h3 class="sets__title"><el-icon><Collection /></el-icon> Bộ từ vựng theo chủ đề
+          <span class="eh-subtle">{{ visibleSets.length }}/{{ sets.length }} bộ</span></h3>
+        <div class="sets__filters">
+          <div class="sets__groups" role="tablist" aria-label="Nhóm bộ từ">
+            <button v-for="g in GROUPS" :key="g.key" type="button" role="tab" class="sets__group"
+                    :class="{ 'sets__group--active': group === g.key }" :aria-selected="group === g.key" @click="group = g.key">
+              {{ g.label }} <small>{{ groupCounts[g.key] ?? 0 }}</small>
+            </button>
+          </div>
+          <el-input v-model="keyword" :prefix-icon="Search" placeholder="Tìm chủ đề hoặc từ..." clearable class="sets__search" />
+        </div>
+        <el-empty v-if="!visibleSets.length" description="Không có bộ từ nào khớp" />
         <div class="sets__grid">
-          <article v-for="set in sets" :key="set.id" class="eh-card set">
+          <article v-for="set in visibleSets" :key="set.id" class="eh-card set">
             <RouterLink :to="{ name: 'vocabulary-set', params: { setId: set.id } }" class="set__name">{{ set.name }}</RouterLink>
             <p class="eh-muted set__desc">{{ set.description }}</p>
             <div class="set__words">
@@ -173,6 +212,19 @@ onMounted(load)
 .forecast__day { font-size: 12px; color: var(--eh-text-3); white-space: nowrap; }
 
 .sets__title { display: flex; align-items: center; gap: 8px; font-size: 18px; margin-bottom: 12px; }
+.sets__title .eh-subtle { margin-left: auto; font-weight: 400; }
+.sets__filters { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 16px; margin-bottom: 16px; }
+.sets__groups { display: flex; flex-wrap: wrap; gap: 6px; }
+.sets__group {
+  display: inline-flex; align-items: center; gap: 6px; min-height: 36px; padding: 0 14px; border-radius: 999px; cursor: pointer;
+  border: 1px solid var(--eh-border); background: var(--eh-surface); color: var(--eh-text-2); font: inherit; font-size: 14px; font-weight: 600;
+  transition: background-color 0.15s, color 0.15s, border-color 0.15s;
+}
+.sets__group:hover { border-color: var(--eh-primary); color: var(--eh-primary); }
+.sets__group small { font-weight: 500; opacity: 0.75; }
+.sets__group--active, .sets__group--active:hover { background: var(--eh-primary); border-color: var(--eh-primary); color: var(--eh-on-primary); }
+.sets__search { width: 260px; max-width: 100%; }
+@media (max-width: 599.98px) { .sets__search { width: 100%; } }
 .sets__grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
 .set { display: flex; flex-direction: column; gap: 8px; }
 .set__name { font-size: 17px; font-weight: 700; color: var(--eh-text); }

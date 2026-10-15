@@ -4,7 +4,7 @@
  */
 import { describe, expect, it } from 'vitest'
 import {
-  courses, exercises, levels, lessons, loadSentenceTopics, loadToeicPart, placementTest, toeicParts, vocabularySets, words,
+  courses, exercises, levels, lessons, loadSentenceTopics, loadToeicPart, placementTest, rawVocabularySets, toeicParts, vocabularySets, words,
 } from '../index'
 import { validateQuestion } from '../../domain/questionValidator'
 
@@ -61,6 +61,16 @@ describe('dữ liệu: từ vựng', () => {
     expect(dupes(vocabularySets.map((s) => s.id))).toEqual([])
     expect(dupes(vocabularySets.map((s) => s.slug))).toEqual([])
     for (const s of vocabularySets) expect(s.wordIds.filter((id) => !ids.has(id)), s.slug).toEqual([])
+  })
+
+  it('bộ từ gốc có id duy nhất; phần mở rộng ({id, wordIds}) trỏ đúng bộ gốc và không chứa từ trùng', () => {
+    const bases = rawVocabularySets.filter((s) => s.name)
+    const exts = rawVocabularySets.filter((s) => !s.name)
+    expect(dupes(bases.map((s) => s.id))).toEqual([])
+    const baseIds = new Set(bases.map((s) => s.id))
+    for (const e of exts) expect(baseIds.has(e.id), `phần mở rộng của bộ ${e.id} không có bộ gốc`).toBe(true)
+    for (const s of vocabularySets) expect(dupes(s.wordIds), `${s.slug} có từ lặp`).toEqual([])
+    for (const s of vocabularySets) expect(s.wordIds.length, `${s.slug} quá ít từ`).toBeGreaterThanOrEqual(6)
   })
 })
 

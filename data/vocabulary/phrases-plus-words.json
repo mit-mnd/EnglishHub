@@ -1,0 +1,4778 @@
+[
+  {
+    "id": 13001,
+    "headword": "hand out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/hænd aʊt/",
+    "phoneticUs": "/hænd aʊt/",
+    "meaningVi": "phát, phân phát",
+    "definitionEn": "to give something to each person in a group",
+    "example": "She handed out the agenda before the meeting started.",
+    "exampleTranslation": "Cô ấy phát chương trình họp trước khi buổi họp bắt đầu.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work",
+      "toeic-office-2"
+    ]
+  },
+  {
+    "id": 13002,
+    "headword": "send out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/send aʊt/",
+    "phoneticUs": "/send aʊt/",
+    "meaningVi": "gửi đi (hàng loạt)",
+    "definitionEn": "to send something to many people at the same time",
+    "example": "We sent out the invitations two weeks ago.",
+    "exampleTranslation": "Chúng tôi đã gửi thiệp mời đi từ hai tuần trước.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13004,
+    "headword": "put back",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/pʊt bæk/",
+    "phoneticUs": "/pʊt bæk/",
+    "meaningVi": "hoãn lại, dời muộn hơn",
+    "definitionEn": "to move an event to a later time",
+    "example": "The launch has been put back until next month.",
+    "exampleTranslation": "Việc ra mắt đã bị hoãn đến tháng sau.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13005,
+    "headword": "carry on",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈkæri ɒn/",
+    "phoneticUs": "/ˈkæri ɒn/",
+    "meaningVi": "tiếp tục (làm gì)",
+    "definitionEn": "to continue doing something",
+    "example": "Please carry on with your work while I make a call.",
+    "exampleTranslation": "Xin cứ tiếp tục công việc trong lúc tôi gọi điện.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13006,
+    "headword": "team up with",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/tiːm ʌp wɪð/",
+    "phoneticUs": "/tiːm ʌp wɪð/",
+    "meaningVi": "hợp tác với, bắt tay với",
+    "definitionEn": "to join another person or group to work together",
+    "example": "Our department teamed up with marketing on the project.",
+    "exampleTranslation": "Phòng chúng tôi đã hợp tác với bộ phận marketing trong dự án.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13007,
+    "headword": "pass on",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/pɑːs ɒn/",
+    "phoneticUs": "/pɑːs ɒn/",
+    "meaningVi": "chuyển tiếp, truyền lại",
+    "definitionEn": "to give information or something to another person",
+    "example": "Could you pass on this message to Mr. Lee?",
+    "exampleTranslation": "Anh có thể chuyển lời nhắn này đến ông Lee được không?",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13008,
+    "headword": "sit in on",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/sɪt ɪn ɒn/",
+    "phoneticUs": "/sɪt ɪn ɒn/",
+    "meaningVi": "dự thính, ngồi nghe (họp, lớp)",
+    "definitionEn": "to attend a meeting or class without taking part",
+    "example": "I asked if I could sit in on the training session.",
+    "exampleTranslation": "Tôi hỏi xem mình có thể dự thính buổi đào tạo không.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13009,
+    "headword": "run through",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/rʌn θruː/",
+    "phoneticUs": "/rʌn θruː/",
+    "meaningVi": "xem lướt qua, điểm qua",
+    "definitionEn": "to read or practise something quickly from start to end",
+    "example": "Let's run through the presentation once before the client arrives.",
+    "exampleTranslation": "Hãy chạy thử bài thuyết trình một lần trước khi khách đến.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13010,
+    "headword": "step up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/step ʌp/",
+    "phoneticUs": "/step ʌp/",
+    "meaningVi": "tăng cường, đẩy mạnh",
+    "definitionEn": "to increase the amount or speed of something",
+    "example": "The company stepped up production to meet demand.",
+    "exampleTranslation": "Công ty đã đẩy mạnh sản xuất để đáp ứng nhu cầu.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13011,
+    "headword": "scale back",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/skeɪl bæk/",
+    "phoneticUs": "/skeɪl bæk/",
+    "meaningVi": "cắt giảm quy mô",
+    "definitionEn": "to make something smaller or less ambitious",
+    "example": "Because of costs, they scaled back their expansion plans.",
+    "exampleTranslation": "Vì chi phí, họ đã thu hẹp kế hoạch mở rộng.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13012,
+    "headword": "build up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/bɪld ʌp/",
+    "phoneticUs": "/bɪld ʌp/",
+    "meaningVi": "xây dựng dần, tích lũy",
+    "definitionEn": "to make something grow bigger or stronger over time",
+    "example": "She built up a loyal customer base over ten years.",
+    "exampleTranslation": "Cô ấy đã xây dựng được tập khách hàng trung thành trong mười năm.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13013,
+    "headword": "cover for",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈkʌvə fɔː/",
+    "phoneticUs": "/ˈkʌvə fɔː/",
+    "meaningVi": "làm thay, trực thay",
+    "definitionEn": "to do someone's job while they are away",
+    "example": "Can you cover for me on Friday afternoon?",
+    "exampleTranslation": "Chiều thứ Sáu bạn làm thay tôi được không?",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13014,
+    "headword": "stand in for",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/stænd ɪn fɔː/",
+    "phoneticUs": "/stænd ɪn fɔː/",
+    "meaningVi": "làm thay, đại diện thay",
+    "definitionEn": "to do someone's job or role for a short time",
+    "example": "Tom will stand in for the manager at the conference.",
+    "exampleTranslation": "Tom sẽ thay quản lý dự hội nghị.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13015,
+    "headword": "report to",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/rɪˈpɔːt tuː/",
+    "phoneticUs": "/rɪˈpɔːt tuː/",
+    "meaningVi": "báo cáo cho, trực thuộc",
+    "definitionEn": "to have someone as your direct manager",
+    "example": "All sales staff report to the regional director.",
+    "exampleTranslation": "Toàn bộ nhân viên bán hàng báo cáo cho giám đốc khu vực.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13016,
+    "headword": "look over",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/lʊk ˈəʊvə/",
+    "phoneticUs": "/lʊk ˈəʊvə/",
+    "meaningVi": "xem qua, kiểm tra sơ bộ",
+    "definitionEn": "to check something quickly",
+    "example": "Please look over the contract before you sign it.",
+    "exampleTranslation": "Vui lòng xem qua hợp đồng trước khi ký.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13017,
+    "headword": "write up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/raɪt ʌp/",
+    "phoneticUs": "/raɪt ʌp/",
+    "meaningVi": "viết thành báo cáo, soạn thảo",
+    "definitionEn": "to write a full report from notes",
+    "example": "He wrote up the results of the survey last night.",
+    "exampleTranslation": "Anh ấy đã viết báo cáo kết quả khảo sát tối qua.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13018,
+    "headword": "rule out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ruːl aʊt/",
+    "phoneticUs": "/ruːl aʊt/",
+    "meaningVi": "loại trừ, bác bỏ khả năng",
+    "definitionEn": "to decide that something is not possible",
+    "example": "We can't rule out the need for extra staff.",
+    "exampleTranslation": "Chúng tôi không thể loại trừ nhu cầu thêm nhân sự.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13019,
+    "headword": "fall behind",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/fɔːl bɪˈhaɪnd/",
+    "phoneticUs": "/fɔːl bɪˈhaɪnd/",
+    "meaningVi": "chậm tiến độ, tụt lại",
+    "definitionEn": "to fail to keep up with others or a plan",
+    "example": "The project fell behind because of supply problems.",
+    "exampleTranslation": "Dự án bị chậm tiến độ vì vấn đề cung ứng.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work",
+      "toeic-manufacturing-logistics"
+    ]
+  },
+  {
+    "id": 13020,
+    "headword": "bring in",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/brɪŋ ɪn/",
+    "phoneticUs": "/brɪŋ ɪn/",
+    "meaningVi": "mang về (doanh thu), thuê, đưa vào",
+    "definitionEn": "to earn money, or to ask someone to help",
+    "example": "The new store brings in about ten thousand dollars a week.",
+    "exampleTranslation": "Cửa hàng mới mang về khoảng mười nghìn đô la mỗi tuần.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13021,
+    "headword": "pay off",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/peɪ ɒf/",
+    "phoneticUs": "/peɪ ɒf/",
+    "meaningVi": "đem lại kết quả, trả hết nợ",
+    "definitionEn": "to give good results after hard work, or to finish paying a debt",
+    "example": "Her hard work finally paid off with a promotion.",
+    "exampleTranslation": "Sự chăm chỉ của cô ấy cuối cùng cũng được đền đáp bằng một đợt thăng chức.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work",
+      "money-economy",
+      "toeic-finance-banking"
+    ]
+  },
+  {
+    "id": 13022,
+    "headword": "settle in",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈsetl ɪn/",
+    "phoneticUs": "/ˈsetl ɪn/",
+    "meaningVi": "làm quen, ổn định chỗ mới",
+    "definitionEn": "to become comfortable in a new job or place",
+    "example": "The new employees are settling in well.",
+    "exampleTranslation": "Các nhân viên mới đang làm quen khá tốt.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-work"
+    ]
+  },
+  {
+    "id": 13023,
+    "headword": "tidy up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈtaɪdi ʌp/",
+    "phoneticUs": "/ˈtaɪdi ʌp/",
+    "meaningVi": "dọn dẹp gọn gàng",
+    "definitionEn": "to make a place neat",
+    "example": "Please tidy up your room before dinner.",
+    "exampleTranslation": "Hãy dọn phòng gọn gàng trước bữa tối.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily",
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 13024,
+    "headword": "wash up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/wɒʃ ʌp/",
+    "phoneticUs": "/wɒʃ ʌp/",
+    "meaningVi": "rửa chén bát; rửa tay mặt",
+    "definitionEn": "to clean the dishes after a meal",
+    "example": "I'll wash up while you make some coffee.",
+    "exampleTranslation": "Mình sẽ rửa chén trong lúc bạn pha cà phê.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily"
+    ]
+  },
+  {
+    "id": 13027,
+    "headword": "lie down",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/laɪ daʊn/",
+    "phoneticUs": "/laɪ daʊn/",
+    "meaningVi": "nằm xuống",
+    "definitionEn": "to put your body flat on a bed or floor",
+    "example": "I have a headache, so I'm going to lie down.",
+    "exampleTranslation": "Tôi bị đau đầu nên sẽ đi nằm một lát.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily"
+    ]
+  },
+  {
+    "id": 13028,
+    "headword": "sleep in",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/sliːp ɪn/",
+    "phoneticUs": "/sliːp ɪn/",
+    "meaningVi": "ngủ nướng",
+    "definitionEn": "to sleep later than usual in the morning",
+    "example": "On Sundays we like to sleep in until nine.",
+    "exampleTranslation": "Chủ nhật chúng tôi thích ngủ nướng đến chín giờ.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily",
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 13029,
+    "headword": "stay up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/steɪ ʌp/",
+    "phoneticUs": "/steɪ ʌp/",
+    "meaningVi": "thức khuya",
+    "definitionEn": "to not go to bed until late",
+    "example": "I stayed up late to finish the movie.",
+    "exampleTranslation": "Tôi thức khuya để xem hết bộ phim.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily"
+    ]
+  },
+  {
+    "id": 13030,
+    "headword": "go out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/gəʊ aʊt/",
+    "phoneticUs": "/gəʊ aʊt/",
+    "meaningVi": "đi chơi, ra ngoài",
+    "definitionEn": "to leave home to do something outside",
+    "example": "Do you want to go out for dinner tonight?",
+    "exampleTranslation": "Tối nay bạn có muốn đi ăn ngoài không?",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily"
+    ]
+  },
+  {
+    "id": 13031,
+    "headword": "wear out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/weə aʊt/",
+    "phoneticUs": "/weə aʊt/",
+    "meaningVi": "mòn rách; làm kiệt sức",
+    "definitionEn": "to become too old to use, or to make someone very tired",
+    "example": "These shoes are worn out, so I need new ones.",
+    "exampleTranslation": "Đôi giày này mòn hết rồi nên tôi cần mua đôi mới.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily"
+    ]
+  },
+  {
+    "id": 13032,
+    "headword": "move in",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/muːv ɪn/",
+    "phoneticUs": "/muːv ɪn/",
+    "meaningVi": "dọn vào ở",
+    "definitionEn": "to begin living in a new home",
+    "example": "We moved in last weekend and still have boxes everywhere.",
+    "exampleTranslation": "Cuối tuần trước chúng tôi dọn vào nhà mới và hộp vẫn còn khắp nơi.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily",
+      "home-furniture",
+      "toeic-real-estate-facilities"
+    ]
+  },
+  {
+    "id": 13033,
+    "headword": "move out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/muːv aʊt/",
+    "phoneticUs": "/muːv aʊt/",
+    "meaningVi": "dọn ra khỏi, chuyển đi",
+    "definitionEn": "to leave your home to live somewhere else",
+    "example": "She moved out of her parents' house at twenty.",
+    "exampleTranslation": "Cô ấy dọn ra khỏi nhà bố mẹ năm hai mươi tuổi.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily",
+      "toeic-real-estate-facilities"
+    ]
+  },
+  {
+    "id": 13034,
+    "headword": "plug in",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/plʌɡ ɪn/",
+    "phoneticUs": "/plʌɡ ɪn/",
+    "meaningVi": "cắm điện",
+    "definitionEn": "to connect a machine to the power supply",
+    "example": "Don't forget to plug in the phone charger.",
+    "exampleTranslation": "Đừng quên cắm sạc điện thoại.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily",
+      "toeic-technology-it"
+    ]
+  },
+  {
+    "id": 13035,
+    "headword": "wipe up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/waɪp ʌp/",
+    "phoneticUs": "/waɪp ʌp/",
+    "meaningVi": "lau sạch (chất lỏng)",
+    "definitionEn": "to clean spilled liquid with a cloth",
+    "example": "He wiped up the milk from the floor.",
+    "exampleTranslation": "Anh ấy lau sạch chỗ sữa đổ trên sàn.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily"
+    ]
+  },
+  {
+    "id": 13038,
+    "headword": "make up your mind",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/meɪk ʌp jɔː maɪnd/",
+    "phoneticUs": "/meɪk ʌp jɔː maɪnd/",
+    "meaningVi": "quyết định, đưa ra lựa chọn",
+    "definitionEn": "to decide something after thinking",
+    "example": "I can't make up my mind what to wear tonight.",
+    "exampleTranslation": "Tôi không thể quyết định tối nay mặc gì.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily"
+    ]
+  },
+  {
+    "id": 13039,
+    "headword": "take out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/teɪk aʊt/",
+    "phoneticUs": "/teɪk aʊt/",
+    "meaningVi": "lấy ra; mang đi (đổ)",
+    "definitionEn": "to remove something from a place",
+    "example": "Can you take out the trash before you leave?",
+    "exampleTranslation": "Bạn đổ rác giúp trước khi đi nhé?",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily"
+    ]
+  },
+  {
+    "id": 13040,
+    "headword": "give back",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡɪv bæk/",
+    "phoneticUs": "/ɡɪv bæk/",
+    "meaningVi": "trả lại",
+    "definitionEn": "to return something to its owner",
+    "example": "Please give back my book when you finish it.",
+    "exampleTranslation": "Đọc xong nhớ trả lại sách cho mình nhé.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily",
+      "society-community"
+    ]
+  },
+  {
+    "id": 13041,
+    "headword": "mix up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/mɪks ʌp/",
+    "phoneticUs": "/mɪks ʌp/",
+    "meaningVi": "nhầm lẫn, lẫn lộn",
+    "definitionEn": "to confuse one thing with another",
+    "example": "I always mix up their names because they look alike.",
+    "exampleTranslation": "Tôi hay nhầm tên họ vì họ trông giống nhau.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily"
+    ]
+  },
+  {
+    "id": 13042,
+    "headword": "bring back",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/brɪŋ bæk/",
+    "phoneticUs": "/brɪŋ bæk/",
+    "meaningVi": "mang trả lại; gợi lại",
+    "definitionEn": "to return with something, or to remind you of something",
+    "example": "This song brings back happy memories.",
+    "exampleTranslation": "Bài hát này gợi lại những kỷ niệm vui.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily"
+    ]
+  },
+  {
+    "id": 13043,
+    "headword": "dry off",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/draɪ ɒf/",
+    "phoneticUs": "/draɪ ɒf/",
+    "meaningVi": "lau khô, làm khô người",
+    "definitionEn": "to make your body dry with a towel",
+    "example": "He dried off after swimming in the pool.",
+    "exampleTranslation": "Cậu ấy lau khô người sau khi bơi ở hồ.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily"
+    ]
+  },
+  {
+    "id": 13044,
+    "headword": "pick out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/pɪk aʊt/",
+    "phoneticUs": "/pɪk aʊt/",
+    "meaningVi": "chọn ra, lựa ra",
+    "definitionEn": "to choose one from several",
+    "example": "She picked out a blue dress for the party.",
+    "exampleTranslation": "Cô ấy chọn một chiếc váy xanh để đi dự tiệc.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-daily"
+    ]
+  },
+  {
+    "id": 13045,
+    "headword": "ask around",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɑːsk əˈraʊnd/",
+    "phoneticUs": "/ɑːsk əˈraʊnd/",
+    "meaningVi": "hỏi thăm quanh, hỏi nhiều người",
+    "definitionEn": "to ask several people for information",
+    "example": "I'll ask around to see who knows a good dentist.",
+    "exampleTranslation": "Tôi sẽ hỏi quanh xem ai biết nha sĩ nào giỏi.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13046,
+    "headword": "break off",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/breɪk ɒf/",
+    "phoneticUs": "/breɪk ɒf/",
+    "meaningVi": "ngắt lời; chấm dứt (đàm phán)",
+    "definitionEn": "to stop talking, or to end a relationship or talks",
+    "example": "The two sides broke off negotiations last week.",
+    "exampleTranslation": "Hai bên đã chấm dứt đàm phán tuần trước.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13047,
+    "headword": "clear up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/klɪər ʌp/",
+    "phoneticUs": "/klɪər ʌp/",
+    "meaningVi": "làm rõ, giải tỏa (hiểu lầm)",
+    "definitionEn": "to explain something so it is no longer confusing",
+    "example": "Let me clear up a few points before we continue.",
+    "exampleTranslation": "Để tôi làm rõ vài điểm trước khi ta tiếp tục.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13048,
+    "headword": "come out with",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kʌm aʊt wɪð/",
+    "phoneticUs": "/kʌm aʊt wɪð/",
+    "meaningVi": "bật ra, nói ra (câu nói bất ngờ)",
+    "definitionEn": "to say something suddenly or unexpectedly",
+    "example": "She came out with a very clever suggestion.",
+    "exampleTranslation": "Cô ấy bất ngờ đưa ra một đề xuất rất thông minh.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13049,
+    "headword": "go into",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡəʊ ˈɪntuː/",
+    "phoneticUs": "/ɡəʊ ˈɪntuː/",
+    "meaningVi": "đi vào chi tiết, bàn sâu",
+    "definitionEn": "to talk about something in detail",
+    "example": "I don't want to go into details right now.",
+    "exampleTranslation": "Lúc này tôi không muốn đi vào chi tiết.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13050,
+    "headword": "go on about",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡəʊ ɒn əˈbaʊt/",
+    "phoneticUs": "/ɡəʊ ɒn əˈbaʊt/",
+    "meaningVi": "nói mãi về, lải nhải về",
+    "definitionEn": "to talk about something for too long",
+    "example": "He kept going on about his new car.",
+    "exampleTranslation": "Anh ta cứ nói mãi về chiếc xe mới.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13051,
+    "headword": "hear out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/hɪər aʊt/",
+    "phoneticUs": "/hɪər aʊt/",
+    "meaningVi": "nghe đến hết, lắng nghe trọn vẹn",
+    "definitionEn": "to listen to someone until they finish",
+    "example": "Please hear me out before you decide.",
+    "exampleTranslation": "Xin hãy nghe tôi nói hết rồi hãy quyết định.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13052,
+    "headword": "make out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/meɪk aʊt/",
+    "phoneticUs": "/meɪk aʊt/",
+    "meaningVi": "nghe/nhìn ra, hiểu ra",
+    "definitionEn": "to see, hear or understand something with difficulty",
+    "example": "I couldn't make out what he was saying on the phone.",
+    "exampleTranslation": "Tôi không nghe ra anh ấy nói gì trên điện thoại.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13053,
+    "headword": "play down",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/pleɪ daʊn/",
+    "phoneticUs": "/pleɪ daʊn/",
+    "meaningVi": "hạ thấp, giảm nhẹ tầm quan trọng",
+    "definitionEn": "to make something seem less important",
+    "example": "The manager played down the problems with the software.",
+    "exampleTranslation": "Quản lý đã nói giảm nhẹ các vấn đề của phần mềm.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13054,
+    "headword": "read out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/riːd aʊt/",
+    "phoneticUs": "/riːd aʊt/",
+    "meaningVi": "đọc to lên",
+    "definitionEn": "to read something aloud to other people",
+    "example": "The teacher read out the names of the winners.",
+    "exampleTranslation": "Cô giáo đọc to tên những người thắng cuộc.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13055,
+    "headword": "ring up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/rɪŋ ʌp/",
+    "phoneticUs": "/rɪŋ ʌp/",
+    "meaningVi": "gọi điện thoại cho",
+    "definitionEn": "to telephone someone",
+    "example": "I'll ring you up when I get to the station.",
+    "exampleTranslation": "Tôi sẽ gọi cho bạn khi đến nhà ga.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13056,
+    "headword": "talk back",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/tɔːk bæk/",
+    "phoneticUs": "/tɔːk bæk/",
+    "meaningVi": "cãi lại, đáp trả hỗn",
+    "definitionEn": "to answer rudely to someone in authority",
+    "example": "Children should not talk back to their parents.",
+    "exampleTranslation": "Trẻ con không nên cãi lại bố mẹ.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13057,
+    "headword": "tell off",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/tel ɒf/",
+    "phoneticUs": "/tel ɒf/",
+    "meaningVi": "mắng, quở trách",
+    "definitionEn": "to speak angrily to someone who did something wrong",
+    "example": "The boss told him off for being late again.",
+    "exampleTranslation": "Sếp mắng anh ấy vì lại đi muộn.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13058,
+    "headword": "think over",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/θɪŋk ˈəʊvə/",
+    "phoneticUs": "/θɪŋk ˈəʊvə/",
+    "meaningVi": "suy nghĩ kỹ, cân nhắc",
+    "definitionEn": "to think carefully about something before deciding",
+    "example": "I need some time to think over your offer.",
+    "exampleTranslation": "Tôi cần thêm thời gian để cân nhắc đề nghị của bạn.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13059,
+    "headword": "write back",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/raɪt bæk/",
+    "phoneticUs": "/raɪt bæk/",
+    "meaningVi": "viết thư trả lời",
+    "definitionEn": "to reply to a letter or email",
+    "example": "She promised to write back as soon as possible.",
+    "exampleTranslation": "Cô ấy hứa sẽ viết thư trả lời sớm nhất có thể.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13060,
+    "headword": "pick up on",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/pɪk ʌp ɒn/",
+    "phoneticUs": "/pɪk ʌp ɒn/",
+    "meaningVi": "nhận ra, để ý thấy",
+    "definitionEn": "to notice something that is not said directly",
+    "example": "He picked up on her nervous tone immediately.",
+    "exampleTranslation": "Anh ấy nhận ra giọng lo lắng của cô ngay lập tức.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13061,
+    "headword": "butt in",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/bʌt ɪn/",
+    "phoneticUs": "/bʌt ɪn/",
+    "meaningVi": "ngắt lời, xen vào",
+    "definitionEn": "to interrupt a conversation rudely",
+    "example": "Sorry to butt in, but I have a quick question.",
+    "exampleTranslation": "Xin lỗi vì xen ngang, nhưng tôi có một câu hỏi nhanh.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13062,
+    "headword": "check in with",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/tʃek ɪn wɪð/",
+    "phoneticUs": "/tʃek ɪn wɪð/",
+    "meaningVi": "hỏi thăm, báo cáo tình hình với",
+    "definitionEn": "to contact someone to see how things are going",
+    "example": "I'll check in with the team after lunch.",
+    "exampleTranslation": "Tôi sẽ hỏi thăm tình hình nhóm sau bữa trưa.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13063,
+    "headword": "hold back",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/həʊld bæk/",
+    "phoneticUs": "/həʊld bæk/",
+    "meaningVi": "kìm lại, giấu bớt",
+    "definitionEn": "to avoid saying or showing something",
+    "example": "She held back her opinion until everyone had spoken.",
+    "exampleTranslation": "Cô ấy giữ ý kiến lại cho đến khi mọi người nói xong.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13064,
+    "headword": "stand up for",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/stænd ʌp fɔː/",
+    "phoneticUs": "/stænd ʌp fɔː/",
+    "meaningVi": "bênh vực, bảo vệ",
+    "definitionEn": "to defend a person or an idea",
+    "example": "You should stand up for what you believe in.",
+    "exampleTranslation": "Bạn nên bảo vệ điều mình tin tưởng.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13065,
+    "headword": "talk down to",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/tɔːk daʊn tuː/",
+    "phoneticUs": "/tɔːk daʊn tuː/",
+    "meaningVi": "nói giọng kẻ cả với",
+    "definitionEn": "to speak as if someone is less intelligent",
+    "example": "Please don't talk down to our customers.",
+    "exampleTranslation": "Xin đừng nói giọng kẻ cả với khách hàng của chúng ta.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13066,
+    "headword": "let on",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/let ɒn/",
+    "phoneticUs": "/let ɒn/",
+    "meaningVi": "tiết lộ, để lộ ra",
+    "definitionEn": "to tell a secret or show that you know something",
+    "example": "She never let on that she was unhappy.",
+    "exampleTranslation": "Cô ấy chưa bao giờ để lộ rằng mình không vui.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-communication"
+    ]
+  },
+  {
+    "id": 13067,
+    "headword": "drive off",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/draɪv ɒf/",
+    "phoneticUs": "/draɪv ɒf/",
+    "meaningVi": "lái xe đi",
+    "definitionEn": "to leave in a car",
+    "example": "He got in the car and drove off quickly.",
+    "exampleTranslation": "Anh ấy lên xe và lái đi thật nhanh.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13068,
+    "headword": "go away",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡəʊ əˈweɪ/",
+    "phoneticUs": "/ɡəʊ əˈweɪ/",
+    "meaningVi": "đi xa, đi nghỉ",
+    "definitionEn": "to leave a place, or to travel for a holiday",
+    "example": "We are going away for the weekend.",
+    "exampleTranslation": "Chúng tôi sẽ đi nghỉ vào cuối tuần.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13069,
+    "headword": "go back",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡəʊ bæk/",
+    "phoneticUs": "/ɡəʊ bæk/",
+    "meaningVi": "quay lại, trở về",
+    "definitionEn": "to return to a place",
+    "example": "I want to go back to Da Nang next summer.",
+    "exampleTranslation": "Tôi muốn quay lại Đà Nẵng vào mùa hè tới.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13070,
+    "headword": "pull up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/pʊl ʌp/",
+    "phoneticUs": "/pʊl ʌp/",
+    "meaningVi": "dừng xe lại",
+    "definitionEn": "to stop a vehicle at a place",
+    "example": "The taxi pulled up outside the hotel.",
+    "exampleTranslation": "Chiếc taxi dừng lại trước khách sạn.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13071,
+    "headword": "pull out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/pʊl aʊt/",
+    "phoneticUs": "/pʊl aʊt/",
+    "meaningVi": "rời đi (xe, tàu)",
+    "definitionEn": "to leave a station or move out into the road",
+    "example": "The train pulled out of the station on time.",
+    "exampleTranslation": "Tàu rời ga đúng giờ.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13072,
+    "headword": "head back",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/hed bæk/",
+    "phoneticUs": "/hed bæk/",
+    "meaningVi": "quay về",
+    "definitionEn": "to start returning to where you came from",
+    "example": "We should head back before it gets dark.",
+    "exampleTranslation": "Chúng ta nên quay về trước khi trời tối.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13073,
+    "headword": "stop by",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/stɒp baɪ/",
+    "phoneticUs": "/stɒp baɪ/",
+    "meaningVi": "ghé qua, tạt qua",
+    "definitionEn": "to visit a place for a short time",
+    "example": "I'll stop by the pharmacy on my way home.",
+    "exampleTranslation": "Tôi sẽ ghé hiệu thuốc trên đường về nhà.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13074,
+    "headword": "look out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/lʊk aʊt/",
+    "phoneticUs": "/lʊk aʊt/",
+    "meaningVi": "coi chừng, cẩn thận",
+    "definitionEn": "to be careful because of danger",
+    "example": "Look out! There's a bike coming.",
+    "exampleTranslation": "Coi chừng! Có xe đạp đang tới.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13075,
+    "headword": "watch out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/wɒtʃ aʊt/",
+    "phoneticUs": "/wɒtʃ aʊt/",
+    "meaningVi": "cẩn thận, đề phòng",
+    "definitionEn": "to be careful about possible danger",
+    "example": "Watch out for the wet floor.",
+    "exampleTranslation": "Cẩn thận sàn ướt.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13076,
+    "headword": "cut through",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kʌt θruː/",
+    "phoneticUs": "/kʌt θruː/",
+    "meaningVi": "đi tắt qua",
+    "definitionEn": "to take a shorter way through a place",
+    "example": "We cut through the park to save time.",
+    "exampleTranslation": "Chúng tôi đi tắt qua công viên để tiết kiệm thời gian.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13077,
+    "headword": "cross over",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/krɒs ˈəʊvə/",
+    "phoneticUs": "/krɒs ˈəʊvə/",
+    "meaningVi": "băng qua, sang bên kia",
+    "definitionEn": "to go from one side to the other",
+    "example": "Cross over at the traffic lights, not here.",
+    "exampleTranslation": "Hãy băng qua ở chỗ đèn giao thông chứ đừng ở đây.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13078,
+    "headword": "check into",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/tʃek ˈɪntuː/",
+    "phoneticUs": "/tʃek ˈɪntuː/",
+    "meaningVi": "nhận phòng (khách sạn)",
+    "definitionEn": "to register at a hotel when you arrive",
+    "example": "We checked into the hotel at about noon.",
+    "exampleTranslation": "Chúng tôi nhận phòng khách sạn vào khoảng trưa.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13079,
+    "headword": "hang around",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/hæŋ əˈraʊnd/",
+    "phoneticUs": "/hæŋ əˈraʊnd/",
+    "meaningVi": "lảng vảng, ở lại chờ",
+    "definitionEn": "to stay in a place with nothing special to do",
+    "example": "We hung around the airport for three hours.",
+    "exampleTranslation": "Chúng tôi loanh quanh ở sân bay suốt ba tiếng.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13080,
+    "headword": "stay over",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/steɪ ˈəʊvə/",
+    "phoneticUs": "/steɪ ˈəʊvə/",
+    "meaningVi": "ở lại qua đêm",
+    "definitionEn": "to sleep at someone else's place for a night",
+    "example": "You can stay over if the last bus has gone.",
+    "exampleTranslation": "Bạn có thể ở lại qua đêm nếu hết xe buýt cuối.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13081,
+    "headword": "show around",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ʃəʊ əˈraʊnd/",
+    "phoneticUs": "/ʃəʊ əˈraʊnd/",
+    "meaningVi": "dẫn đi tham quan",
+    "definitionEn": "to take a visitor around a place",
+    "example": "My cousin showed us around the old town.",
+    "exampleTranslation": "Anh họ tôi dẫn chúng tôi đi tham quan phố cổ.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13082,
+    "headword": "look out for",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/lʊk aʊt fɔː/",
+    "phoneticUs": "/lʊk aʊt fɔː/",
+    "meaningVi": "để ý tìm, đề phòng",
+    "definitionEn": "to try to see or notice something",
+    "example": "Look out for a blue sign on the left.",
+    "exampleTranslation": "Hãy để ý tìm biển xanh bên trái.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13083,
+    "headword": "make for",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/meɪk fɔː/",
+    "phoneticUs": "/meɪk fɔː/",
+    "meaningVi": "đi về hướng",
+    "definitionEn": "to move towards a place",
+    "example": "After the rain started, we made for the nearest cafe.",
+    "exampleTranslation": "Khi mưa bắt đầu, chúng tôi đi về hướng quán cà phê gần nhất.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13084,
+    "headword": "pass through",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/pɑːs θruː/",
+    "phoneticUs": "/pɑːs θruː/",
+    "meaningVi": "đi ngang qua, quá cảnh",
+    "definitionEn": "to travel through a place without staying",
+    "example": "The bus passes through three small villages.",
+    "exampleTranslation": "Xe buýt đi ngang qua ba ngôi làng nhỏ.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13085,
+    "headword": "get back",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡet bæk/",
+    "phoneticUs": "/ɡet bæk/",
+    "meaningVi": "trở về, quay lại",
+    "definitionEn": "to return to a place after being away",
+    "example": "What time do you get back from work?",
+    "exampleTranslation": "Mấy giờ bạn đi làm về?",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13086,
+    "headword": "fly out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/flaɪ aʊt/",
+    "phoneticUs": "/flaɪ aʊt/",
+    "meaningVi": "bay đi (đến nơi khác)",
+    "definitionEn": "to leave by plane for another place",
+    "example": "We fly out to Seoul on Monday morning.",
+    "exampleTranslation": "Sáng thứ Hai chúng tôi bay đi Seoul.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13087,
+    "headword": "stop off",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/stɒp ɒf/",
+    "phoneticUs": "/stɒp ɒf/",
+    "meaningVi": "dừng chân giữa đường",
+    "definitionEn": "to make a short stop during a journey",
+    "example": "We stopped off in Hue for a night.",
+    "exampleTranslation": "Chúng tôi dừng chân một đêm ở Huế.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13088,
+    "headword": "end up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/end ʌp/",
+    "phoneticUs": "/end ʌp/",
+    "meaningVi": "rốt cuộc ở/đến, kết thúc ở",
+    "definitionEn": "to arrive somewhere or be in a situation without planning",
+    "example": "We got lost and ended up in a small village.",
+    "exampleTranslation": "Chúng tôi bị lạc và rốt cuộc đến một ngôi làng nhỏ.",
+    "levelId": 2,
+    "topics": [
+      "phrasal-travel"
+    ]
+  },
+  {
+    "id": 13089,
+    "headword": "make an offer",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/meɪk ən ˈɒfə/",
+    "phoneticUs": "/meɪk ən ˈɒfə/",
+    "meaningVi": "đưa ra đề nghị, chào giá",
+    "definitionEn": "to say what you will pay or give",
+    "example": "They made an offer for the company last week.",
+    "exampleTranslation": "Họ đã đưa ra đề nghị mua công ty vào tuần trước.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13090,
+    "headword": "strike a deal",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/straɪk ə diːl/",
+    "phoneticUs": "/straɪk ə diːl/",
+    "meaningVi": "chốt thỏa thuận",
+    "definitionEn": "to reach an agreement in business",
+    "example": "After long talks, the two firms struck a deal.",
+    "exampleTranslation": "Sau những cuộc đàm phán dài, hai công ty đã chốt được thỏa thuận.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13091,
+    "headword": "win a contract",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/wɪn ə ˈkɒntrækt/",
+    "phoneticUs": "/wɪn ə ˈkɒntrækt/",
+    "meaningVi": "giành được hợp đồng",
+    "definitionEn": "to get an official work agreement against competitors",
+    "example": "Our firm won a contract to build the new school.",
+    "exampleTranslation": "Công ty chúng tôi giành được hợp đồng xây trường học mới.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13092,
+    "headword": "renew a contract",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/rɪˈnjuː ə ˈkɒntrækt/",
+    "phoneticUs": "/rɪˈnjuː ə ˈkɒntrækt/",
+    "meaningVi": "gia hạn hợp đồng",
+    "definitionEn": "to extend an agreement for more time",
+    "example": "She renewed her contract for another two years.",
+    "exampleTranslation": "Cô ấy gia hạn hợp đồng thêm hai năm nữa.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13093,
+    "headword": "terminate a contract",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈtɜːmɪneɪt ə ˈkɒntrækt/",
+    "phoneticUs": "/ˈtɜːmɪneɪt ə ˈkɒntrækt/",
+    "meaningVi": "chấm dứt hợp đồng",
+    "definitionEn": "to end an official agreement",
+    "example": "The company terminated the contract after repeated delays.",
+    "exampleTranslation": "Công ty chấm dứt hợp đồng sau nhiều lần chậm trễ.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13094,
+    "headword": "set a budget",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/set ə ˈbʌdʒɪt/",
+    "phoneticUs": "/set ə ˈbʌdʒɪt/",
+    "meaningVi": "đặt ngân sách",
+    "definitionEn": "to decide how much money can be spent",
+    "example": "We need to set a budget before we start the project.",
+    "exampleTranslation": "Chúng ta cần đặt ngân sách trước khi bắt đầu dự án.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13095,
+    "headword": "meet expectations",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/miːt ˌekspekˈteɪʃnz/",
+    "phoneticUs": "/miːt ˌekspekˈteɪʃnz/",
+    "meaningVi": "đáp ứng kỳ vọng",
+    "definitionEn": "to be as good as people hoped",
+    "example": "The new phone did not meet our expectations.",
+    "exampleTranslation": "Chiếc điện thoại mới không đáp ứng được kỳ vọng của chúng tôi.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13096,
+    "headword": "exceed expectations",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪkˈsiːd ˌekspekˈteɪʃnz/",
+    "phoneticUs": "/ɪkˈsiːd ˌekspekˈteɪʃnz/",
+    "meaningVi": "vượt kỳ vọng",
+    "definitionEn": "to be better than people hoped",
+    "example": "Sales this quarter exceeded all expectations.",
+    "exampleTranslation": "Doanh số quý này vượt mọi kỳ vọng.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13097,
+    "headword": "boost sales",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/buːst seɪlz/",
+    "phoneticUs": "/buːst seɪlz/",
+    "meaningVi": "thúc đẩy doanh số",
+    "definitionEn": "to make sales increase",
+    "example": "A big discount helped boost sales in December.",
+    "exampleTranslation": "Đợt giảm giá lớn đã giúp thúc đẩy doanh số tháng Mười Hai.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13098,
+    "headword": "generate revenue",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈdʒenəreɪt ˈrevənjuː/",
+    "phoneticUs": "/ˈdʒenəreɪt ˈrevənjuː/",
+    "meaningVi": "tạo ra doanh thu",
+    "definitionEn": "to produce income for a business",
+    "example": "The new app began to generate revenue within a month.",
+    "exampleTranslation": "Ứng dụng mới bắt đầu tạo doanh thu chỉ sau một tháng.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13099,
+    "headword": "attract investors",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/əˈtrækt ɪnˈvestəz/",
+    "phoneticUs": "/əˈtrækt ɪnˈvestəz/",
+    "meaningVi": "thu hút nhà đầu tư",
+    "definitionEn": "to make people want to put money into a company",
+    "example": "A clear plan will help us attract investors.",
+    "exampleTranslation": "Một kế hoạch rõ ràng sẽ giúp ta thu hút nhà đầu tư.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13100,
+    "headword": "secure funding",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/sɪˈkjʊə ˈfʌndɪŋ/",
+    "phoneticUs": "/sɪˈkjʊə ˈfʌndɪŋ/",
+    "meaningVi": "đảm bảo được nguồn vốn",
+    "definitionEn": "to successfully get money for a project",
+    "example": "The team secured funding for their research.",
+    "exampleTranslation": "Nhóm đã có được nguồn vốn cho nghiên cứu của họ.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13101,
+    "headword": "take out a loan",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/teɪk aʊt ə ləʊn/",
+    "phoneticUs": "/teɪk aʊt ə ləʊn/",
+    "meaningVi": "vay một khoản tiền",
+    "definitionEn": "to borrow money from a bank",
+    "example": "They took out a loan to open a restaurant.",
+    "exampleTranslation": "Họ vay ngân hàng để mở một nhà hàng.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13102,
+    "headword": "offer a discount",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈɒfər ə ˈdɪskaʊnt/",
+    "phoneticUs": "/ˈɒfər ə ˈdɪskaʊnt/",
+    "meaningVi": "đưa ra giảm giá",
+    "definitionEn": "to sell something at a lower price",
+    "example": "The shop offers a discount to regular customers.",
+    "exampleTranslation": "Cửa hàng giảm giá cho khách hàng thân thiết.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13103,
+    "headword": "handle a complaint",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈhændl ə kəmˈpleɪnt/",
+    "phoneticUs": "/ˈhændl ə kəmˈpleɪnt/",
+    "meaningVi": "giải quyết khiếu nại",
+    "definitionEn": "to deal with a customer who is unhappy",
+    "example": "She knows how to handle a complaint calmly.",
+    "exampleTranslation": "Cô ấy biết cách giải quyết khiếu nại một cách bình tĩnh.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13104,
+    "headword": "provide feedback",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/prəˈvaɪd ˈfiːdbæk/",
+    "phoneticUs": "/prəˈvaɪd ˈfiːdbæk/",
+    "meaningVi": "đưa ra phản hồi",
+    "definitionEn": "to give opinions about how something can improve",
+    "example": "Customers are asked to provide feedback after each visit.",
+    "exampleTranslation": "Khách hàng được đề nghị đưa ra phản hồi sau mỗi lần ghé thăm.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13105,
+    "headword": "give notice",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡɪv ˈnəʊtɪs/",
+    "phoneticUs": "/ɡɪv ˈnəʊtɪs/",
+    "meaningVi": "thông báo nghỉ việc/chấm dứt trước",
+    "definitionEn": "to tell your employer that you will leave your job",
+    "example": "He gave notice and will leave at the end of May.",
+    "exampleTranslation": "Anh ấy đã báo nghỉ việc và sẽ rời đi cuối tháng Năm.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13106,
+    "headword": "launch a campaign",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/lɔːntʃ ə kæmˈpeɪn/",
+    "phoneticUs": "/lɔːntʃ ə kæmˈpeɪn/",
+    "meaningVi": "khởi động chiến dịch",
+    "definitionEn": "to start a planned set of actions to promote something",
+    "example": "The company launched a campaign to attract young customers.",
+    "exampleTranslation": "Công ty khởi động chiến dịch để thu hút khách hàng trẻ.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13107,
+    "headword": "increase productivity",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪnˈkriːs ˌprɒdʌkˈtɪvəti/",
+    "phoneticUs": "/ɪnˈkriːs ˌprɒdʌkˈtɪvəti/",
+    "meaningVi": "tăng năng suất",
+    "definitionEn": "to make workers produce more in the same time",
+    "example": "New software helped increase productivity by twenty percent.",
+    "exampleTranslation": "Phần mềm mới giúp tăng năng suất lên hai mươi phần trăm.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13108,
+    "headword": "reduce expenses",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/rɪˈdjuːs ɪkˈspensɪz/",
+    "phoneticUs": "/rɪˈdjuːs ɪkˈspensɪz/",
+    "meaningVi": "giảm chi phí",
+    "definitionEn": "to spend less money on business costs",
+    "example": "We must reduce expenses to stay profitable.",
+    "exampleTranslation": "Chúng ta phải giảm chi phí để còn có lãi.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13109,
+    "headword": "file a report",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/faɪl ə rɪˈpɔːt/",
+    "phoneticUs": "/faɪl ə rɪˈpɔːt/",
+    "meaningVi": "nộp báo cáo",
+    "definitionEn": "to officially send in a written report",
+    "example": "Please file a report after every site visit.",
+    "exampleTranslation": "Vui lòng nộp báo cáo sau mỗi lần đến công trường.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13110,
+    "headword": "reach a consensus",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/riːtʃ ə kənˈsensəs/",
+    "phoneticUs": "/riːtʃ ə kənˈsensəs/",
+    "meaningVi": "đạt được sự đồng thuận",
+    "definitionEn": "to agree as a group after discussion",
+    "example": "The board reached a consensus on the new policy.",
+    "exampleTranslation": "Hội đồng quản trị đã đạt được đồng thuận về chính sách mới.",
+    "levelId": 3,
+    "topics": [
+      "collocations-business"
+    ]
+  },
+  {
+    "id": 13111,
+    "headword": "take a bath",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/teɪk ə bɑːθ/",
+    "phoneticUs": "/teɪk ə bɑːθ/",
+    "meaningVi": "tắm bồn",
+    "definitionEn": "to wash yourself in a bath",
+    "example": "I like to take a bath after a long day.",
+    "exampleTranslation": "Tôi thích tắm bồn sau một ngày dài.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily",
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 13112,
+    "headword": "have lunch",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/hæv lʌntʃ/",
+    "phoneticUs": "/hæv lʌntʃ/",
+    "meaningVi": "ăn trưa",
+    "definitionEn": "to eat the midday meal",
+    "example": "We usually have lunch at twelve o'clock.",
+    "exampleTranslation": "Chúng tôi thường ăn trưa lúc mười hai giờ.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily",
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 13113,
+    "headword": "have dinner",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/hæv ˈdɪnə/",
+    "phoneticUs": "/hæv ˈdɪnə/",
+    "meaningVi": "ăn tối",
+    "definitionEn": "to eat the evening meal",
+    "example": "Would you like to have dinner with us tonight?",
+    "exampleTranslation": "Tối nay bạn có muốn ăn tối cùng chúng tôi không?",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily"
+    ]
+  },
+  {
+    "id": 13114,
+    "headword": "do the dishes",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/duː ðə ˈdɪʃɪz/",
+    "phoneticUs": "/duː ðə ˈdɪʃɪz/",
+    "meaningVi": "rửa bát đĩa",
+    "definitionEn": "to wash plates and cups after eating",
+    "example": "It's my turn to do the dishes tonight.",
+    "exampleTranslation": "Tối nay đến lượt tôi rửa bát.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily"
+    ]
+  },
+  {
+    "id": 13115,
+    "headword": "make a phone call",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/meɪk ə fəʊn kɔːl/",
+    "phoneticUs": "/meɪk ə fəʊn kɔːl/",
+    "meaningVi": "gọi điện thoại",
+    "definitionEn": "to telephone someone",
+    "example": "I need to make a phone call before the meeting.",
+    "exampleTranslation": "Tôi cần gọi một cuộc điện thoại trước buổi họp.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily"
+    ]
+  },
+  {
+    "id": 13116,
+    "headword": "make a wish",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/meɪk ə wɪʃ/",
+    "phoneticUs": "/meɪk ə wɪʃ/",
+    "meaningVi": "ước một điều ước",
+    "definitionEn": "to silently hope for something special",
+    "example": "Blow out the candles and make a wish.",
+    "exampleTranslation": "Thổi nến và ước một điều ước đi.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily"
+    ]
+  },
+  {
+    "id": 13117,
+    "headword": "make noise",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/meɪk nɔɪz/",
+    "phoneticUs": "/meɪk nɔɪz/",
+    "meaningVi": "làm ồn",
+    "definitionEn": "to produce loud sounds",
+    "example": "Please don't make noise while the baby is sleeping.",
+    "exampleTranslation": "Làm ơn đừng làm ồn khi em bé đang ngủ.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily"
+    ]
+  },
+  {
+    "id": 13118,
+    "headword": "make a plan",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/meɪk ə plæn/",
+    "phoneticUs": "/meɪk ə plæn/",
+    "meaningVi": "lập kế hoạch",
+    "definitionEn": "to decide what you will do and how",
+    "example": "Let's make a plan for the holiday this weekend.",
+    "exampleTranslation": "Hãy lập kế hoạch cho kỳ nghỉ cuối tuần này.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily"
+    ]
+  },
+  {
+    "id": 13119,
+    "headword": "take a seat",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/teɪk ə siːt/",
+    "phoneticUs": "/teɪk ə siːt/",
+    "meaningVi": "ngồi xuống, mời ngồi",
+    "definitionEn": "to sit down",
+    "example": "Please take a seat and wait for the doctor.",
+    "exampleTranslation": "Xin mời ngồi và chờ bác sĩ.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily"
+    ]
+  },
+  {
+    "id": 13120,
+    "headword": "take a day off",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/teɪk ə deɪ ɒf/",
+    "phoneticUs": "/teɪk ə deɪ ɒf/",
+    "meaningVi": "xin nghỉ một ngày",
+    "definitionEn": "to not work for one day",
+    "example": "I'm taking a day off to see my parents.",
+    "exampleTranslation": "Tôi xin nghỉ một ngày để thăm bố mẹ.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily"
+    ]
+  },
+  {
+    "id": 13121,
+    "headword": "take a look",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/teɪk ə lʊk/",
+    "phoneticUs": "/teɪk ə lʊk/",
+    "meaningVi": "xem qua, nhìn thử",
+    "definitionEn": "to look at something for a moment",
+    "example": "Can you take a look at my homework?",
+    "exampleTranslation": "Bạn xem qua bài tập của mình giúp được không?",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily"
+    ]
+  },
+  {
+    "id": 13122,
+    "headword": "take care of",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/teɪk keər ɒv/",
+    "phoneticUs": "/teɪk keər ɒv/",
+    "meaningVi": "chăm sóc, lo liệu",
+    "definitionEn": "to look after a person or thing",
+    "example": "She takes care of her grandmother every weekend.",
+    "exampleTranslation": "Cuối tuần nào cô ấy cũng chăm sóc bà.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily"
+    ]
+  },
+  {
+    "id": 13123,
+    "headword": "catch a train",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kætʃ ə treɪn/",
+    "phoneticUs": "/kætʃ ə treɪn/",
+    "meaningVi": "bắt tàu",
+    "definitionEn": "to get on a train in time",
+    "example": "I have to catch a train at seven tomorrow.",
+    "exampleTranslation": "Sáng mai tôi phải bắt chuyến tàu bảy giờ.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily"
+    ]
+  },
+  {
+    "id": 13124,
+    "headword": "get a haircut",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡet ə ˈheəkʌt/",
+    "phoneticUs": "/ɡet ə ˈheəkʌt/",
+    "meaningVi": "cắt tóc",
+    "definitionEn": "to have your hair cut",
+    "example": "I need to get a haircut before the wedding.",
+    "exampleTranslation": "Tôi cần đi cắt tóc trước đám cưới.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily"
+    ]
+  },
+  {
+    "id": 13125,
+    "headword": "pay a visit",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/peɪ ə ˈvɪzɪt/",
+    "phoneticUs": "/peɪ ə ˈvɪzɪt/",
+    "meaningVi": "ghé thăm",
+    "definitionEn": "to go and see someone or a place",
+    "example": "We paid a visit to our old teacher.",
+    "exampleTranslation": "Chúng tôi đến thăm thầy giáo cũ.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily"
+    ]
+  },
+  {
+    "id": 13126,
+    "headword": "have a rest",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/hæv ə rest/",
+    "phoneticUs": "/hæv ə rest/",
+    "meaningVi": "nghỉ ngơi",
+    "definitionEn": "to relax after doing something tiring",
+    "example": "Let's have a rest before we go on.",
+    "exampleTranslation": "Nghỉ một lát rồi hãy đi tiếp.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily"
+    ]
+  },
+  {
+    "id": 13127,
+    "headword": "tell a joke",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/tel ə dʒəʊk/",
+    "phoneticUs": "/tel ə dʒəʊk/",
+    "meaningVi": "kể chuyện cười",
+    "definitionEn": "to say something funny to make people laugh",
+    "example": "My uncle loves to tell a joke at parties.",
+    "exampleTranslation": "Chú tôi thích kể chuyện cười ở các buổi tiệc.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily"
+    ]
+  },
+  {
+    "id": 13128,
+    "headword": "go shopping",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡəʊ ˈʃɒpɪŋ/",
+    "phoneticUs": "/ɡəʊ ˈʃɒpɪŋ/",
+    "meaningVi": "đi mua sắm",
+    "definitionEn": "to visit shops to buy things",
+    "example": "She goes shopping with her friends on Saturdays.",
+    "exampleTranslation": "Cô ấy đi mua sắm với bạn vào các ngày thứ Bảy.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily",
+      "hobbies-sports"
+    ]
+  },
+  {
+    "id": 13129,
+    "headword": "ride a bike",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/raɪd ə baɪk/",
+    "phoneticUs": "/raɪd ə baɪk/",
+    "meaningVi": "đi xe đạp",
+    "definitionEn": "to travel on a bicycle",
+    "example": "Children learn to ride a bike at around six.",
+    "exampleTranslation": "Trẻ em tập đi xe đạp vào khoảng sáu tuổi.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily"
+    ]
+  },
+  {
+    "id": 13130,
+    "headword": "spend time",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/spend taɪm/",
+    "phoneticUs": "/spend taɪm/",
+    "meaningVi": "dành thời gian",
+    "definitionEn": "to use time doing something",
+    "example": "I like to spend time with my family at weekends.",
+    "exampleTranslation": "Tôi thích dành thời gian cho gia đình vào cuối tuần.",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily"
+    ]
+  },
+  {
+    "id": 13131,
+    "headword": "get ready",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡet ˈredi/",
+    "phoneticUs": "/ɡet ˈredi/",
+    "meaningVi": "chuẩn bị sẵn sàng",
+    "definitionEn": "to prepare yourself for something",
+    "example": "Hurry up and get ready for school!",
+    "exampleTranslation": "Nhanh lên và chuẩn bị đi học nào!",
+    "levelId": 2,
+    "topics": [
+      "collocations-daily",
+      "daily-routine"
+    ]
+  },
+  {
+    "id": 13133,
+    "headword": "in case of",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪn keɪs ɒv/",
+    "phoneticUs": "/ɪn keɪs ɒv/",
+    "meaningVi": "trong trường hợp (xảy ra)",
+    "definitionEn": "if something happens",
+    "example": "In case of fire, use the stairs.",
+    "exampleTranslation": "Trong trường hợp có cháy, hãy dùng cầu thang bộ.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13134,
+    "headword": "in spite of",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪn spaɪt ɒv/",
+    "phoneticUs": "/ɪn spaɪt ɒv/",
+    "meaningVi": "mặc dù, bất chấp",
+    "definitionEn": "even though something is true",
+    "example": "We went out in spite of the rain.",
+    "exampleTranslation": "Chúng tôi vẫn ra ngoài dù trời mưa.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13135,
+    "headword": "instead of",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪnˈsted ɒv/",
+    "phoneticUs": "/ɪnˈsted ɒv/",
+    "meaningVi": "thay vì",
+    "definitionEn": "in place of something else",
+    "example": "I drank tea instead of coffee.",
+    "exampleTranslation": "Tôi uống trà thay vì cà phê.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13136,
+    "headword": "because of",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/bɪˈkɒz ɒv/",
+    "phoneticUs": "/bɪˈkɒz ɒv/",
+    "meaningVi": "bởi vì, do",
+    "definitionEn": "for the reason of something",
+    "example": "The flight was late because of the storm.",
+    "exampleTranslation": "Chuyến bay bị trễ vì cơn bão.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13137,
+    "headword": "regardless of",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/rɪˈɡɑːdləs ɒv/",
+    "phoneticUs": "/rɪˈɡɑːdləs ɒv/",
+    "meaningVi": "bất kể, không phụ thuộc vào",
+    "definitionEn": "without being affected by something",
+    "example": "Everyone is welcome, regardless of age.",
+    "exampleTranslation": "Mọi người đều được chào đón, bất kể tuổi tác.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13138,
+    "headword": "on account of",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɒn əˈkaʊnt ɒv/",
+    "phoneticUs": "/ɒn əˈkaʊnt ɒv/",
+    "meaningVi": "vì lý do, do",
+    "definitionEn": "because of something",
+    "example": "The match was cancelled on account of bad weather.",
+    "exampleTranslation": "Trận đấu bị hủy vì thời tiết xấu.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13139,
+    "headword": "owing to",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈəʊɪŋ tuː/",
+    "phoneticUs": "/ˈəʊɪŋ tuː/",
+    "meaningVi": "do, bởi vì (trang trọng)",
+    "definitionEn": "because of something",
+    "example": "Owing to illness, the manager will not attend.",
+    "exampleTranslation": "Do bị ốm, quản lý sẽ không tham dự.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13140,
+    "headword": "thanks to",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/θæŋks tuː/",
+    "phoneticUs": "/θæŋks tuː/",
+    "meaningVi": "nhờ có",
+    "definitionEn": "because of someone or something good",
+    "example": "Thanks to your help, we finished early.",
+    "exampleTranslation": "Nhờ có sự giúp đỡ của bạn, chúng tôi xong sớm.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13141,
+    "headword": "as a result of",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/æz ə rɪˈzʌlt ɒv/",
+    "phoneticUs": "/æz ə rɪˈzʌlt ɒv/",
+    "meaningVi": "do kết quả của",
+    "definitionEn": "happening because of something",
+    "example": "As a result of the merger, many jobs were lost.",
+    "exampleTranslation": "Do vụ sáp nhập, nhiều việc làm đã mất.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13142,
+    "headword": "in the event of",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪn ði ɪˈvent ɒv/",
+    "phoneticUs": "/ɪn ði ɪˈvent ɒv/",
+    "meaningVi": "trong trường hợp xảy ra",
+    "definitionEn": "if a certain thing happens",
+    "example": "In the event of a delay, we will call you.",
+    "exampleTranslation": "Nếu có chậm trễ, chúng tôi sẽ gọi cho bạn.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13143,
+    "headword": "in line with",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪn laɪn wɪð/",
+    "phoneticUs": "/ɪn laɪn wɪð/",
+    "meaningVi": "phù hợp với, theo đúng",
+    "definitionEn": "following or matching something",
+    "example": "The results are in line with our forecast.",
+    "exampleTranslation": "Kết quả phù hợp với dự báo của chúng tôi.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13144,
+    "headword": "in need of",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪn niːd ɒv/",
+    "phoneticUs": "/ɪn niːd ɒv/",
+    "meaningVi": "cần, đang thiếu",
+    "definitionEn": "needing something",
+    "example": "The old building is in need of repair.",
+    "exampleTranslation": "Tòa nhà cũ đang cần được sửa chữa.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13145,
+    "headword": "in demand",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪn dɪˈmɑːnd/",
+    "phoneticUs": "/ɪn dɪˈmɑːnd/",
+    "meaningVi": "được săn đón, có nhu cầu cao",
+    "definitionEn": "wanted by many people",
+    "example": "Nurses are in demand all over the world.",
+    "exampleTranslation": "Y tá đang có nhu cầu cao trên khắp thế giới.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13146,
+    "headword": "on request",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɒn rɪˈkwest/",
+    "phoneticUs": "/ɒn rɪˈkwest/",
+    "meaningVi": "theo yêu cầu",
+    "definitionEn": "when someone asks for it",
+    "example": "Further information is available on request.",
+    "exampleTranslation": "Thông tin thêm có sẵn khi có yêu cầu.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13147,
+    "headword": "on display",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɒn dɪˈspleɪ/",
+    "phoneticUs": "/ɒn dɪˈspleɪ/",
+    "meaningVi": "được trưng bày",
+    "definitionEn": "shown for people to see",
+    "example": "The new models are on display in the lobby.",
+    "exampleTranslation": "Các mẫu mới đang được trưng bày ở sảnh.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13148,
+    "headword": "on hold",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɒn həʊld/",
+    "phoneticUs": "/ɒn həʊld/",
+    "meaningVi": "tạm hoãn, đang chờ",
+    "definitionEn": "waiting or stopped for now",
+    "example": "The project is on hold until we get more money.",
+    "exampleTranslation": "Dự án tạm hoãn cho đến khi có thêm vốn.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases",
+      "toeic-customer-service-shopping"
+    ]
+  },
+  {
+    "id": 13149,
+    "headword": "by law",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/baɪ lɔː/",
+    "phoneticUs": "/baɪ lɔː/",
+    "meaningVi": "theo luật",
+    "definitionEn": "as the law requires",
+    "example": "Drivers must wear seat belts by law.",
+    "exampleTranslation": "Theo luật, tài xế phải thắt dây an toàn.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13150,
+    "headword": "by default",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/baɪ dɪˈfɔːlt/",
+    "phoneticUs": "/baɪ dɪˈfɔːlt/",
+    "meaningVi": "theo mặc định",
+    "definitionEn": "automatically, if nothing else is chosen",
+    "example": "The software saves files by default every ten minutes.",
+    "exampleTranslation": "Phần mềm mặc định lưu tệp mỗi mười phút.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13151,
+    "headword": "at risk",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/æt rɪsk/",
+    "phoneticUs": "/æt rɪsk/",
+    "meaningVi": "có nguy cơ, gặp rủi ro",
+    "definitionEn": "in danger of harm or loss",
+    "example": "Many jobs are at risk because of the new machines.",
+    "exampleTranslation": "Nhiều việc làm có nguy cơ mất do máy móc mới.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13152,
+    "headword": "at all times",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/æt ɔːl taɪmz/",
+    "phoneticUs": "/æt ɔːl taɪmz/",
+    "meaningVi": "mọi lúc, luôn luôn",
+    "definitionEn": "always",
+    "example": "Visitors must wear badges at all times.",
+    "exampleTranslation": "Khách tham quan phải đeo thẻ mọi lúc.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13153,
+    "headword": "under pressure",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈʌndə ˈpreʃə/",
+    "phoneticUs": "/ˈʌndə ˈpreʃə/",
+    "meaningVi": "chịu áp lực",
+    "definitionEn": "feeling stress because of too much to do",
+    "example": "She works well under pressure.",
+    "exampleTranslation": "Cô ấy làm việc tốt dưới áp lực.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13154,
+    "headword": "under review",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈʌndə rɪˈvjuː/",
+    "phoneticUs": "/ˈʌndə rɪˈvjuː/",
+    "meaningVi": "đang được xem xét",
+    "definitionEn": "being checked or studied",
+    "example": "Your application is currently under review.",
+    "exampleTranslation": "Hồ sơ của bạn hiện đang được xem xét.",
+    "levelId": 3,
+    "topics": [
+      "prepositional-phrases"
+    ]
+  },
+  {
+    "id": 13155,
+    "headword": "bite the bullet",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/baɪt ðə ˈbʊlɪt/",
+    "phoneticUs": "/baɪt ðə ˈbʊlɪt/",
+    "meaningVi": "cắn răng chịu đựng, chấp nhận làm điều khó",
+    "definitionEn": "to accept something difficult and do it",
+    "example": "I had to bite the bullet and ask for a loan.",
+    "exampleTranslation": "Tôi phải cắn răng mở lời vay tiền.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13156,
+    "headword": "spill the beans",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/spɪl ðə biːnz/",
+    "phoneticUs": "/spɪl ðə biːnz/",
+    "meaningVi": "tiết lộ bí mật",
+    "definitionEn": "to tell a secret by mistake",
+    "example": "Who spilled the beans about the surprise party?",
+    "exampleTranslation": "Ai đã lỡ miệng tiết lộ bữa tiệc bất ngờ vậy?",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13157,
+    "headword": "hit the sack",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/hɪt ðə sæk/",
+    "phoneticUs": "/hɪt ðə sæk/",
+    "meaningVi": "đi ngủ",
+    "definitionEn": "to go to bed",
+    "example": "I'm tired, so I'm going to hit the sack.",
+    "exampleTranslation": "Tôi mệt nên đi ngủ đây.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13158,
+    "headword": "let sleeping dogs lie",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/let ˈsliːpɪŋ dɒɡz laɪ/",
+    "phoneticUs": "/let ˈsliːpɪŋ dɒɡz laɪ/",
+    "meaningVi": "đừng khơi lại chuyện cũ",
+    "definitionEn": "to not disturb a problem that is quiet now",
+    "example": "Just let sleeping dogs lie and forget the argument.",
+    "exampleTranslation": "Đừng khơi lại chuyện cũ, quên cuộc cãi vã đi.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13159,
+    "headword": "kill two birds with one stone",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kɪl tuː bɜːdz wɪð wʌn stəʊn/",
+    "phoneticUs": "/kɪl tuː bɜːdz wɪð wʌn stəʊn/",
+    "meaningVi": "một mũi tên trúng hai đích",
+    "definitionEn": "to solve two problems with one action",
+    "example": "I'll post the letter on my way to work and kill two birds with one stone.",
+    "exampleTranslation": "Tôi sẽ gửi thư trên đường đi làm, vừa tiện cả hai việc.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13160,
+    "headword": "the last straw",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ðə lɑːst strɔː/",
+    "phoneticUs": "/ðə lɑːst strɔː/",
+    "meaningVi": "giọt nước tràn ly",
+    "definitionEn": "the final problem that makes you lose patience",
+    "example": "When he forgot my birthday again, it was the last straw.",
+    "exampleTranslation": "Khi anh ấy lại quên sinh nhật tôi, đó là giọt nước tràn ly.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13161,
+    "headword": "a dime a dozen",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ə daɪm ə ˈdʌzn/",
+    "phoneticUs": "/ə daɪm ə ˈdʌzn/",
+    "meaningVi": "đầy rẫy, rất phổ biến",
+    "definitionEn": "very common and not special",
+    "example": "Cheap phone cases are a dime a dozen here.",
+    "exampleTranslation": "Ốp điện thoại giá rẻ ở đây đầy rẫy.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13162,
+    "headword": "bite off more than you can chew",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/baɪt ɒf mɔː ðən juː kæn tʃuː/",
+    "phoneticUs": "/baɪt ɒf mɔː ðən juː kæn tʃuː/",
+    "meaningVi": "ôm đồm quá sức",
+    "definitionEn": "to try to do too much",
+    "example": "I think I bit off more than I could chew with three jobs.",
+    "exampleTranslation": "Tôi nghĩ mình đã ôm đồm quá sức với ba công việc.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13163,
+    "headword": "cut to the chase",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kʌt tə ðə tʃeɪs/",
+    "phoneticUs": "/kʌt tə ðə tʃeɪs/",
+    "meaningVi": "đi thẳng vào vấn đề",
+    "definitionEn": "to talk about the main point without delay",
+    "example": "Let's cut to the chase and discuss the price.",
+    "exampleTranslation": "Hãy đi thẳng vào vấn đề và bàn về giá.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13164,
+    "headword": "go the extra mile",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡəʊ ði ˈekstrə maɪl/",
+    "phoneticUs": "/ɡəʊ ði ˈekstrə maɪl/",
+    "meaningVi": "nỗ lực hơn mức yêu cầu",
+    "definitionEn": "to try harder than expected",
+    "example": "Our staff always go the extra mile for customers.",
+    "exampleTranslation": "Nhân viên của chúng tôi luôn nỗ lực hơn mức cần thiết vì khách hàng.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13165,
+    "headword": "jump on the bandwagon",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/dʒʌmp ɒn ðə ˈbændwæɡɒn/",
+    "phoneticUs": "/dʒʌmp ɒn ðə ˈbændwæɡɒn/",
+    "meaningVi": "chạy theo trào lưu",
+    "definitionEn": "to join something because it is popular",
+    "example": "Many shops jumped on the bandwagon and started selling online.",
+    "exampleTranslation": "Nhiều cửa hàng chạy theo trào lưu và bắt đầu bán trực tuyến.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13166,
+    "headword": "on thin ice",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɒn θɪn aɪs/",
+    "phoneticUs": "/ɒn θɪn aɪs/",
+    "meaningVi": "ở thế nguy hiểm, mong manh",
+    "definitionEn": "in a risky situation",
+    "example": "You're on thin ice after missing so many meetings.",
+    "exampleTranslation": "Bạn đang ở thế nguy hiểm sau khi vắng quá nhiều cuộc họp.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13167,
+    "headword": "in the same boat",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪn ðə seɪm bəʊt/",
+    "phoneticUs": "/ɪn ðə seɪm bəʊt/",
+    "meaningVi": "cùng cảnh ngộ",
+    "definitionEn": "in the same difficult situation",
+    "example": "Don't worry, we're all in the same boat.",
+    "exampleTranslation": "Đừng lo, tất cả chúng ta đều cùng cảnh ngộ.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13168,
+    "headword": "learn the ropes",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/lɜːn ðə rəʊps/",
+    "phoneticUs": "/lɜːn ðə rəʊps/",
+    "meaningVi": "học việc, làm quen cách làm",
+    "definitionEn": "to learn how to do a job",
+    "example": "It takes a few weeks to learn the ropes here.",
+    "exampleTranslation": "Phải mất vài tuần để làm quen công việc ở đây.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13169,
+    "headword": "back to the drawing board",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/bæk tə ðə ˈdrɔːɪŋ bɔːd/",
+    "phoneticUs": "/bæk tə ðə ˈdrɔːɪŋ bɔːd/",
+    "meaningVi": "làm lại từ đầu",
+    "definitionEn": "time to start planning again after failure",
+    "example": "The test failed, so it's back to the drawing board.",
+    "exampleTranslation": "Thử nghiệm thất bại, nên phải làm lại từ đầu.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13170,
+    "headword": "face the music",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/feɪs ðə ˈmjuːzɪk/",
+    "phoneticUs": "/feɪs ðə ˈmjuːzɪk/",
+    "meaningVi": "chấp nhận hậu quả",
+    "definitionEn": "to accept punishment for what you did",
+    "example": "He had to face the music after breaking the window.",
+    "exampleTranslation": "Cậu ấy phải chịu hậu quả sau khi làm vỡ cửa sổ.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13171,
+    "headword": "hang in there",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/hæŋ ɪn ðeə/",
+    "phoneticUs": "/hæŋ ɪn ðeə/",
+    "meaningVi": "cố lên, đừng bỏ cuộc",
+    "definitionEn": "to continue even when things are hard",
+    "example": "Hang in there, the exams will be over soon.",
+    "exampleTranslation": "Cố lên, kỳ thi sắp kết thúc rồi.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13172,
+    "headword": "on cloud nine",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɒn klaʊd naɪn/",
+    "phoneticUs": "/ɒn klaʊd naɪn/",
+    "meaningVi": "vui sướng tột độ",
+    "definitionEn": "extremely happy",
+    "example": "She was on cloud nine after passing the test.",
+    "exampleTranslation": "Cô ấy vui sướng tột độ sau khi đỗ kỳ thi.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13173,
+    "headword": "over the moon",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈəʊvə ðə muːn/",
+    "phoneticUs": "/ˈəʊvə ðə muːn/",
+    "meaningVi": "vô cùng vui mừng",
+    "definitionEn": "very pleased about something",
+    "example": "They were over the moon about the baby.",
+    "exampleTranslation": "Họ vô cùng vui mừng về em bé.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13174,
+    "headword": "sit on the fence",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/sɪt ɒn ðə fens/",
+    "phoneticUs": "/sɪt ɒn ðə fens/",
+    "meaningVi": "đứng trung lập, chưa chọn bên",
+    "definitionEn": "to refuse to choose between two sides",
+    "example": "You can't sit on the fence; you must decide.",
+    "exampleTranslation": "Bạn không thể đứng trung lập mãi; phải quyết định.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13175,
+    "headword": "steal the show",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/stiːl ðə ʃəʊ/",
+    "phoneticUs": "/stiːl ðə ʃəʊ/",
+    "meaningVi": "làm lu mờ người khác, chiếm spotlight",
+    "definitionEn": "to get the most attention at an event",
+    "example": "The little girl stole the show at the concert.",
+    "exampleTranslation": "Cô bé đã chiếm trọn sự chú ý tại buổi hòa nhạc.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13176,
+    "headword": "give someone the benefit of the doubt",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡɪv ˈsʌmwʌn ðə ˈbenɪfɪt ɒv ðə daʊt/",
+    "phoneticUs": "/ɡɪv ˈsʌmwʌn ðə ˈbenɪfɪt ɒv ðə daʊt/",
+    "meaningVi": "tin tưởng, cho ai cơ hội",
+    "definitionEn": "to believe someone when you are not sure",
+    "example": "I'll give her the benefit of the doubt this time.",
+    "exampleTranslation": "Lần này tôi sẽ tin cô ấy vậy.",
+    "levelId": 4,
+    "topics": [
+      "idioms-common"
+    ]
+  },
+  {
+    "id": 13177,
+    "headword": "shut down",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ʃʌt daʊn/",
+    "phoneticUs": "/ʃʌt daʊn/",
+    "meaningVi": "tắt máy, ngừng hoạt động",
+    "definitionEn": "to stop a computer or system working",
+    "example": "Remember to shut down your computer before you leave.",
+    "exampleTranslation": "Nhớ tắt máy tính trước khi ra về.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech",
+      "toeic-technology-it"
+    ]
+  },
+  {
+    "id": 13178,
+    "headword": "boot up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/buːt ʌp/",
+    "phoneticUs": "/buːt ʌp/",
+    "meaningVi": "khởi động máy tính",
+    "definitionEn": "to start a computer",
+    "example": "My laptop takes five minutes to boot up.",
+    "exampleTranslation": "Laptop của tôi mất năm phút để khởi động.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13179,
+    "headword": "power off",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈpaʊər ɒf/",
+    "phoneticUs": "/ˈpaʊər ɒf/",
+    "meaningVi": "tắt nguồn",
+    "definitionEn": "to switch a device off completely",
+    "example": "Power off the router and wait ten seconds.",
+    "exampleTranslation": "Hãy tắt nguồn bộ định tuyến và chờ mười giây.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13180,
+    "headword": "power up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈpaʊər ʌp/",
+    "phoneticUs": "/ˈpaʊər ʌp/",
+    "meaningVi": "bật nguồn, khởi động",
+    "definitionEn": "to switch on a device",
+    "example": "Press this button to power up the machine.",
+    "exampleTranslation": "Nhấn nút này để bật nguồn máy.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13181,
+    "headword": "switch on",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/swɪtʃ ɒn/",
+    "phoneticUs": "/swɪtʃ ɒn/",
+    "meaningVi": "bật (thiết bị)",
+    "definitionEn": "to make a device start working",
+    "example": "Could you switch on the projector, please?",
+    "exampleTranslation": "Bạn bật máy chiếu giúp được không?",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13182,
+    "headword": "switch off",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/swɪtʃ ɒf/",
+    "phoneticUs": "/swɪtʃ ɒf/",
+    "meaningVi": "tắt (thiết bị)",
+    "definitionEn": "to make a device stop working",
+    "example": "Switch off your phones during the film.",
+    "exampleTranslation": "Hãy tắt điện thoại trong lúc xem phim.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13183,
+    "headword": "log on",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/lɒɡ ɒn/",
+    "phoneticUs": "/lɒɡ ɒn/",
+    "meaningVi": "đăng nhập vào hệ thống",
+    "definitionEn": "to connect to a computer system",
+    "example": "You need a password to log on to the network.",
+    "exampleTranslation": "Bạn cần mật khẩu để đăng nhập vào mạng.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13184,
+    "headword": "sign in",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/saɪn ɪn/",
+    "phoneticUs": "/saɪn ɪn/",
+    "meaningVi": "đăng nhập",
+    "definitionEn": "to enter your name and password to use a service",
+    "example": "Please sign in to your account to continue.",
+    "exampleTranslation": "Vui lòng đăng nhập tài khoản để tiếp tục.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13185,
+    "headword": "sign out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/saɪn aʊt/",
+    "phoneticUs": "/saɪn aʊt/",
+    "meaningVi": "đăng xuất",
+    "definitionEn": "to leave an account or service you were using",
+    "example": "Always sign out when you use a public computer.",
+    "exampleTranslation": "Luôn đăng xuất khi dùng máy tính công cộng.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13186,
+    "headword": "log into",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/lɒɡ ˈɪntuː/",
+    "phoneticUs": "/lɒɡ ˈɪntuː/",
+    "meaningVi": "đăng nhập vào",
+    "definitionEn": "to enter a computer system with your details",
+    "example": "I can't log into my email this morning.",
+    "exampleTranslation": "Sáng nay tôi không đăng nhập được vào email.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13187,
+    "headword": "scroll down",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/skrəʊl daʊn/",
+    "phoneticUs": "/skrəʊl daʊn/",
+    "meaningVi": "cuộn xuống",
+    "definitionEn": "to move down a page on a screen",
+    "example": "Scroll down to see the full list of prices.",
+    "exampleTranslation": "Cuộn xuống để xem toàn bộ bảng giá.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13188,
+    "headword": "scroll up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/skrəʊl ʌp/",
+    "phoneticUs": "/skrəʊl ʌp/",
+    "meaningVi": "cuộn lên",
+    "definitionEn": "to move up a page on a screen",
+    "example": "Scroll up to read the first message again.",
+    "exampleTranslation": "Cuộn lên để đọc lại tin nhắn đầu tiên.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13189,
+    "headword": "click on",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/klɪk ɒn/",
+    "phoneticUs": "/klɪk ɒn/",
+    "meaningVi": "nhấp vào",
+    "definitionEn": "to press a mouse button on something on screen",
+    "example": "Click on the link to open the website.",
+    "exampleTranslation": "Nhấp vào liên kết để mở trang web.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13190,
+    "headword": "tap on",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/tæp ɒn/",
+    "phoneticUs": "/tæp ɒn/",
+    "meaningVi": "chạm vào (màn hình)",
+    "definitionEn": "to touch a screen lightly with a finger",
+    "example": "Tap on the icon to start the app.",
+    "exampleTranslation": "Chạm vào biểu tượng để mở ứng dụng.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13191,
+    "headword": "swipe up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/swaɪp ʌp/",
+    "phoneticUs": "/swaɪp ʌp/",
+    "meaningVi": "vuốt lên",
+    "definitionEn": "to slide your finger up on a touch screen",
+    "example": "Swipe up to see more photos.",
+    "exampleTranslation": "Vuốt lên để xem thêm ảnh.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13192,
+    "headword": "zoom in",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/zuːm ɪn/",
+    "phoneticUs": "/zuːm ɪn/",
+    "meaningVi": "phóng to",
+    "definitionEn": "to make something look bigger on a screen",
+    "example": "Zoom in to see the small text on the map.",
+    "exampleTranslation": "Phóng to để xem chữ nhỏ trên bản đồ.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13193,
+    "headword": "zoom out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/zuːm aʊt/",
+    "phoneticUs": "/zuːm aʊt/",
+    "meaningVi": "thu nhỏ",
+    "definitionEn": "to make something look smaller on a screen",
+    "example": "Zoom out to see the whole picture.",
+    "exampleTranslation": "Thu nhỏ để xem toàn bộ bức ảnh.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13194,
+    "headword": "pop up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/pɒp ʌp/",
+    "phoneticUs": "/pɒp ʌp/",
+    "meaningVi": "hiện ra bất ngờ (cửa sổ)",
+    "definitionEn": "to appear suddenly on a screen",
+    "example": "A strange message popped up on my screen.",
+    "exampleTranslation": "Một thông báo lạ bỗng hiện ra trên màn hình tôi.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13195,
+    "headword": "hook up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/hʊk ʌp/",
+    "phoneticUs": "/hʊk ʌp/",
+    "meaningVi": "kết nối (thiết bị)",
+    "definitionEn": "to connect a device to another or to a network",
+    "example": "I'll hook up the printer to your laptop.",
+    "exampleTranslation": "Tôi sẽ kết nối máy in với laptop của bạn.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13196,
+    "headword": "link up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/lɪŋk ʌp/",
+    "phoneticUs": "/lɪŋk ʌp/",
+    "meaningVi": "liên kết, kết nối",
+    "definitionEn": "to connect computers or systems together",
+    "example": "The two offices are linked up by a secure network.",
+    "exampleTranslation": "Hai văn phòng được kết nối bằng một mạng bảo mật.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13197,
+    "headword": "hack into",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/hæk ˈɪntuː/",
+    "phoneticUs": "/hæk ˈɪntuː/",
+    "meaningVi": "xâm nhập trái phép",
+    "definitionEn": "to enter a computer system without permission",
+    "example": "Someone tried to hack into the company's server.",
+    "exampleTranslation": "Có người cố xâm nhập trái phép vào máy chủ của công ty.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13198,
+    "headword": "freeze up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/friːz ʌp/",
+    "phoneticUs": "/friːz ʌp/",
+    "meaningVi": "bị đơ, treo máy",
+    "definitionEn": "to stop responding, as a computer does",
+    "example": "My laptop froze up while I was typing.",
+    "exampleTranslation": "Laptop của tôi bị đơ khi tôi đang gõ.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13199,
+    "headword": "type in",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/taɪp ɪn/",
+    "phoneticUs": "/taɪp ɪn/",
+    "meaningVi": "gõ vào, nhập vào",
+    "definitionEn": "to enter information using a keyboard",
+    "example": "Type in your email address and press Enter.",
+    "exampleTranslation": "Gõ địa chỉ email rồi nhấn Enter.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13200,
+    "headword": "key in",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kiː ɪn/",
+    "phoneticUs": "/kiː ɪn/",
+    "meaningVi": "nhập (dữ liệu)",
+    "definitionEn": "to enter data into a computer",
+    "example": "She keyed in the numbers from the invoice.",
+    "exampleTranslation": "Cô ấy nhập các số từ hóa đơn vào máy.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13201,
+    "headword": "print out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/prɪnt aʊt/",
+    "phoneticUs": "/prɪnt aʊt/",
+    "meaningVi": "in ra giấy",
+    "definitionEn": "to produce a paper copy of a file",
+    "example": "Please print out the schedule for everyone.",
+    "exampleTranslation": "Vui lòng in lịch trình ra cho mọi người.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13202,
+    "headword": "drag and drop",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/dræɡ ənd drɒp/",
+    "phoneticUs": "/dræɡ ənd drɒp/",
+    "meaningVi": "kéo và thả",
+    "definitionEn": "to move an item on screen with the mouse",
+    "example": "Just drag and drop the file into this folder.",
+    "exampleTranslation": "Chỉ cần kéo và thả tệp vào thư mục này.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13203,
+    "headword": "copy and paste",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈkɒpi ənd peɪst/",
+    "phoneticUs": "/ˈkɒpi ənd peɪst/",
+    "meaningVi": "sao chép và dán",
+    "definitionEn": "to copy text and put it somewhere else",
+    "example": "Don't copy and paste from the internet without saying where it's from.",
+    "exampleTranslation": "Đừng sao chép từ internet mà không ghi nguồn.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13204,
+    "headword": "cut and paste",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kʌt ənd peɪst/",
+    "phoneticUs": "/kʌt ənd peɪst/",
+    "meaningVi": "cắt và dán",
+    "definitionEn": "to move text from one place to another",
+    "example": "You can cut and paste this paragraph to the end.",
+    "exampleTranslation": "Bạn có thể cắt và dán đoạn này xuống cuối.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13205,
+    "headword": "wipe out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/waɪp aʊt/",
+    "phoneticUs": "/waɪp aʊt/",
+    "meaningVi": "xóa sạch, làm mất hết",
+    "definitionEn": "to destroy or delete everything",
+    "example": "A virus wiped out all the files on my disk.",
+    "exampleTranslation": "Một con virus đã xóa sạch mọi tệp trong ổ đĩa của tôi.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13206,
+    "headword": "sync up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/sɪŋk ʌp/",
+    "phoneticUs": "/sɪŋk ʌp/",
+    "meaningVi": "đồng bộ hóa",
+    "definitionEn": "to make devices share the same data",
+    "example": "Your phone will sync up with your computer automatically.",
+    "exampleTranslation": "Điện thoại của bạn sẽ tự động đồng bộ với máy tính.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13207,
+    "headword": "roll back",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/rəʊl bæk/",
+    "phoneticUs": "/rəʊl bæk/",
+    "meaningVi": "quay lại phiên bản cũ",
+    "definitionEn": "to return software to an earlier version",
+    "example": "We had to roll back the update because of errors.",
+    "exampleTranslation": "Chúng tôi phải quay lại bản cũ vì cập nhật bị lỗi.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13208,
+    "headword": "opt in",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɒpt ɪn/",
+    "phoneticUs": "/ɒpt ɪn/",
+    "meaningVi": "đăng ký tham gia, đồng ý nhận",
+    "definitionEn": "to choose to take part in something",
+    "example": "You must opt in if you want to receive our newsletter.",
+    "exampleTranslation": "Bạn phải đồng ý nếu muốn nhận bản tin của chúng tôi.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13209,
+    "headword": "opt out",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɒpt aʊt/",
+    "phoneticUs": "/ɒpt aʊt/",
+    "meaningVi": "từ chối tham gia, hủy nhận",
+    "definitionEn": "to choose not to take part in something",
+    "example": "Click here to opt out of marketing emails.",
+    "exampleTranslation": "Nhấp vào đây để hủy nhận email quảng cáo.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13210,
+    "headword": "fire up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈfaɪər ʌp/",
+    "phoneticUs": "/ˈfaɪər ʌp/",
+    "meaningVi": "khởi động, bật lên",
+    "definitionEn": "to start a machine or program",
+    "example": "He fired up his computer and checked the news.",
+    "exampleTranslation": "Anh ấy bật máy tính lên và xem tin tức.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13211,
+    "headword": "dial in",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈdaɪəl ɪn/",
+    "phoneticUs": "/ˈdaɪəl ɪn/",
+    "meaningVi": "tham gia họp từ xa bằng điện thoại",
+    "definitionEn": "to join a call or meeting by phone or online",
+    "example": "You can dial in if you can't come to the office.",
+    "exampleTranslation": "Bạn có thể tham gia từ xa nếu không đến văn phòng được.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13212,
+    "headword": "tune in",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/tjuːn ɪn/",
+    "phoneticUs": "/tjuːn ɪn/",
+    "meaningVi": "xem/nghe (chương trình trực tiếp)",
+    "definitionEn": "to watch or listen to a broadcast",
+    "example": "Millions of people tuned in to the live stream.",
+    "exampleTranslation": "Hàng triệu người đã xem buổi phát trực tiếp.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13213,
+    "headword": "click through",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/klɪk θruː/",
+    "phoneticUs": "/klɪk θruː/",
+    "meaningVi": "nhấp để chuyển tiếp",
+    "definitionEn": "to open another page by clicking a link",
+    "example": "Many users click through from the email to our website.",
+    "exampleTranslation": "Nhiều người dùng nhấp từ email sang trang web của chúng tôi.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-tech"
+    ]
+  },
+  {
+    "id": 13214,
+    "headword": "get on with",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡet ɒn wɪð/",
+    "phoneticUs": "/ɡet ɒn wɪð/",
+    "meaningVi": "hòa thuận với",
+    "definitionEn": "to have a good relationship with someone",
+    "example": "I get on well with my new classmates.",
+    "exampleTranslation": "Tôi hòa thuận với các bạn học mới.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13215,
+    "headword": "fall for",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/fɔːl fɔː/",
+    "phoneticUs": "/fɔːl fɔː/",
+    "meaningVi": "phải lòng, say mê",
+    "definitionEn": "to start to love someone",
+    "example": "He fell for her the moment they met.",
+    "exampleTranslation": "Anh ấy phải lòng cô ngay lần đầu gặp.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13216,
+    "headword": "make up with",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/meɪk ʌp wɪð/",
+    "phoneticUs": "/meɪk ʌp wɪð/",
+    "meaningVi": "làm lành với",
+    "definitionEn": "to become friends again after an argument",
+    "example": "She made up with her sister after the fight.",
+    "exampleTranslation": "Cô ấy làm lành với chị sau trận cãi nhau.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13217,
+    "headword": "split up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/splɪt ʌp/",
+    "phoneticUs": "/splɪt ʌp/",
+    "meaningVi": "chia tay, tách ra",
+    "definitionEn": "to end a relationship",
+    "example": "They split up last year but remain friends.",
+    "exampleTranslation": "Họ chia tay năm ngoái nhưng vẫn là bạn.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13218,
+    "headword": "go out with",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡəʊ aʊt wɪð/",
+    "phoneticUs": "/ɡəʊ aʊt wɪð/",
+    "meaningVi": "hẹn hò với",
+    "definitionEn": "to have a romantic relationship with someone",
+    "example": "She has been going out with Jack for six months.",
+    "exampleTranslation": "Cô ấy đã hẹn hò với Jack được sáu tháng.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13219,
+    "headword": "get back together",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡet bæk təˈɡeðə/",
+    "phoneticUs": "/ɡet bæk təˈɡeðə/",
+    "meaningVi": "quay lại với nhau",
+    "definitionEn": "to start a relationship again after ending it",
+    "example": "They broke up but got back together last spring.",
+    "exampleTranslation": "Họ đã chia tay nhưng quay lại với nhau hồi mùa xuân.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13220,
+    "headword": "settle down",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈsetl daʊn/",
+    "phoneticUs": "/ˈsetl daʊn/",
+    "meaningVi": "ổn định cuộc sống, lập gia đình",
+    "definitionEn": "to start a calm life in one place with a partner",
+    "example": "He wants to settle down and have children.",
+    "exampleTranslation": "Anh ấy muốn ổn định cuộc sống và có con.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13221,
+    "headword": "grow apart",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡrəʊ əˈpɑːt/",
+    "phoneticUs": "/ɡrəʊ əˈpɑːt/",
+    "meaningVi": "xa cách dần",
+    "definitionEn": "to slowly become less close to someone",
+    "example": "The friends grew apart after they moved to different cities.",
+    "exampleTranslation": "Những người bạn xa cách dần sau khi chuyển đến các thành phố khác nhau.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13222,
+    "headword": "drift apart",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/drɪft əˈpɑːt/",
+    "phoneticUs": "/drɪft əˈpɑːt/",
+    "meaningVi": "dần xa nhau",
+    "definitionEn": "to slowly stop being close",
+    "example": "We drifted apart after high school.",
+    "exampleTranslation": "Chúng tôi dần xa nhau sau khi học xong cấp ba.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13223,
+    "headword": "look down on",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/lʊk daʊn ɒn/",
+    "phoneticUs": "/lʊk daʊn ɒn/",
+    "meaningVi": "coi thường, xem thường",
+    "definitionEn": "to think you are better than someone",
+    "example": "You shouldn't look down on people who earn less.",
+    "exampleTranslation": "Bạn không nên coi thường người có thu nhập thấp hơn.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13224,
+    "headword": "count on",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kaʊnt ɒn/",
+    "phoneticUs": "/kaʊnt ɒn/",
+    "meaningVi": "trông cậy vào, tin cậy",
+    "definitionEn": "to trust someone to help you",
+    "example": "You can count on me whenever you need help.",
+    "exampleTranslation": "Bạn có thể trông cậy vào tôi mỗi khi cần giúp.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13225,
+    "headword": "rely on",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/rɪˈlaɪ ɒn/",
+    "phoneticUs": "/rɪˈlaɪ ɒn/",
+    "meaningVi": "dựa vào, tin cậy",
+    "definitionEn": "to depend on someone or something",
+    "example": "I rely on my friends when I feel sad.",
+    "exampleTranslation": "Tôi dựa vào bạn bè khi cảm thấy buồn.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships",
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 13226,
+    "headword": "lean on",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/liːn ɒn/",
+    "phoneticUs": "/liːn ɒn/",
+    "meaningVi": "nương tựa vào",
+    "definitionEn": "to ask someone for emotional support",
+    "example": "It helps to have a family you can lean on.",
+    "exampleTranslation": "Có một gia đình để nương tựa thật sự rất tốt.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13228,
+    "headword": "cool off",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kuːl ɒf/",
+    "phoneticUs": "/kuːl ɒf/",
+    "meaningVi": "nguôi giận, bình tĩnh lại",
+    "definitionEn": "to become calmer after being angry",
+    "example": "Give him some time to cool off.",
+    "exampleTranslation": "Hãy cho anh ấy chút thời gian để nguôi giận.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13229,
+    "headword": "lighten up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈlaɪtn ʌp/",
+    "phoneticUs": "/ˈlaɪtn ʌp/",
+    "meaningVi": "thư giãn, bớt căng thẳng",
+    "definitionEn": "to become less serious or less worried",
+    "example": "Come on, lighten up and enjoy the party!",
+    "exampleTranslation": "Thôi nào, thư giãn và tận hưởng bữa tiệc đi!",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13230,
+    "headword": "perk up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/pɜːk ʌp/",
+    "phoneticUs": "/pɜːk ʌp/",
+    "meaningVi": "vui vẻ lên, tỉnh táo lên",
+    "definitionEn": "to become happier or more lively",
+    "example": "She perked up when she heard the good news.",
+    "exampleTranslation": "Cô ấy vui hẳn lên khi nghe tin tốt.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13231,
+    "headword": "snap at",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/snæp æt/",
+    "phoneticUs": "/snæp æt/",
+    "meaningVi": "gắt gỏng với",
+    "definitionEn": "to speak to someone in an angry way",
+    "example": "I'm sorry I snapped at you; I was tired.",
+    "exampleTranslation": "Xin lỗi vì đã gắt với bạn; tôi mệt quá.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13232,
+    "headword": "lash out at",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/læʃ aʊt æt/",
+    "phoneticUs": "/læʃ aʊt æt/",
+    "meaningVi": "nổi giận, công kích",
+    "definitionEn": "to suddenly attack someone with angry words",
+    "example": "He lashed out at his colleagues during the meeting.",
+    "exampleTranslation": "Anh ta nổi giận với đồng nghiệp trong cuộc họp.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13233,
+    "headword": "burst into tears",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/bɜːst ˈɪntuː tɪəz/",
+    "phoneticUs": "/bɜːst ˈɪntuː tɪəz/",
+    "meaningVi": "bật khóc",
+    "definitionEn": "to suddenly start crying",
+    "example": "She burst into tears when she saw the surprise.",
+    "exampleTranslation": "Cô ấy bật khóc khi thấy điều bất ngờ.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13234,
+    "headword": "fall in love with",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/fɔːl ɪn lʌv wɪð/",
+    "phoneticUs": "/fɔːl ɪn lʌv wɪð/",
+    "meaningVi": "phải lòng, yêu",
+    "definitionEn": "to begin to love someone",
+    "example": "He fell in love with her smile.",
+    "exampleTranslation": "Anh ấy phải lòng nụ cười của cô ấy.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13235,
+    "headword": "have a crush on",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/hæv ə krʌʃ ɒn/",
+    "phoneticUs": "/hæv ə krʌʃ ɒn/",
+    "meaningVi": "phải lòng, thầm thích",
+    "definitionEn": "to feel a strong liking for someone you don't know well",
+    "example": "I had a crush on my classmate in grade nine.",
+    "exampleTranslation": "Hồi lớp chín tôi thầm thích bạn cùng lớp.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13236,
+    "headword": "hit it off",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/hɪt ɪt ɒf/",
+    "phoneticUs": "/hɪt ɪt ɒf/",
+    "meaningVi": "hợp nhau ngay từ đầu",
+    "definitionEn": "to like each other immediately",
+    "example": "We hit it off the moment we met.",
+    "exampleTranslation": "Chúng tôi hợp nhau ngay từ lúc gặp.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13237,
+    "headword": "stand by",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/stænd baɪ/",
+    "phoneticUs": "/stænd baɪ/",
+    "meaningVi": "ở bên ủng hộ, không bỏ rơi",
+    "definitionEn": "to support someone in a difficult time",
+    "example": "Good friends stand by you when times are hard.",
+    "exampleTranslation": "Bạn tốt luôn ở bên bạn lúc khó khăn.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13238,
+    "headword": "let down",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/let daʊn/",
+    "phoneticUs": "/let daʊn/",
+    "meaningVi": "làm thất vọng",
+    "definitionEn": "to disappoint someone who trusted you",
+    "example": "I don't want to let my parents down.",
+    "exampleTranslation": "Tôi không muốn làm bố mẹ thất vọng.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships",
+      "relationships-emotions"
+    ]
+  },
+  {
+    "id": 13239,
+    "headword": "fall apart",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/fɔːl əˈpɑːt/",
+    "phoneticUs": "/fɔːl əˈpɑːt/",
+    "meaningVi": "suy sụp, tan vỡ",
+    "definitionEn": "to be so upset that you cannot cope",
+    "example": "He fell apart after losing his job.",
+    "exampleTranslation": "Anh ấy suy sụp sau khi mất việc.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13240,
+    "headword": "pull through",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/pʊl θruː/",
+    "phoneticUs": "/pʊl θruː/",
+    "meaningVi": "vượt qua (khó khăn, bệnh)",
+    "definitionEn": "to survive a difficult time",
+    "example": "She was very ill but she pulled through.",
+    "exampleTranslation": "Cô ấy ốm nặng nhưng đã vượt qua được.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13242,
+    "headword": "come to terms with",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kʌm tə tɜːmz wɪð/",
+    "phoneticUs": "/kʌm tə tɜːmz wɪð/",
+    "meaningVi": "chấp nhận (sự thật khó khăn)",
+    "definitionEn": "to accept something that is sad or hard",
+    "example": "It took him a year to come to terms with the loss.",
+    "exampleTranslation": "Anh ấy mất một năm để chấp nhận sự mất mát.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13243,
+    "headword": "shake off",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ʃeɪk ɒf/",
+    "phoneticUs": "/ʃeɪk ɒf/",
+    "meaningVi": "rũ bỏ, thoát khỏi",
+    "definitionEn": "to get rid of a bad feeling or illness",
+    "example": "I can't shake off this feeling of worry.",
+    "exampleTranslation": "Tôi không thể rũ bỏ cảm giác lo lắng này.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13244,
+    "headword": "brush off",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/brʌʃ ɒf/",
+    "phoneticUs": "/brʌʃ ɒf/",
+    "meaningVi": "gạt đi, phớt lờ",
+    "definitionEn": "to ignore something as unimportant",
+    "example": "She brushed off his criticism with a smile.",
+    "exampleTranslation": "Cô ấy gạt lời chê của anh ta đi bằng một nụ cười.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13245,
+    "headword": "grow on",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡrəʊ ɒn/",
+    "phoneticUs": "/ɡrəʊ ɒn/",
+    "meaningVi": "dần trở nên thích",
+    "definitionEn": "to slowly become more liked by someone",
+    "example": "At first I hated the song, but it grew on me.",
+    "exampleTranslation": "Lúc đầu tôi ghét bài hát này nhưng dần dần lại thích.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13246,
+    "headword": "walk out on",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/wɔːk aʊt ɒn/",
+    "phoneticUs": "/wɔːk aʊt ɒn/",
+    "meaningVi": "bỏ rơi, bỏ đi",
+    "definitionEn": "to leave someone who needs you",
+    "example": "He walked out on his family years ago.",
+    "exampleTranslation": "Ông ấy bỏ rơi gia đình từ nhiều năm trước.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13247,
+    "headword": "fed up with",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/fed ʌp wɪð/",
+    "phoneticUs": "/fed ʌp wɪð/",
+    "meaningVi": "chán ngấy, phát ngán với",
+    "definitionEn": "annoyed and tired of something",
+    "example": "I'm fed up with waiting for the bus every day.",
+    "exampleTranslation": "Tôi phát ngán vì ngày nào cũng chờ xe buýt.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13248,
+    "headword": "fall out with",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/fɔːl aʊt wɪð/",
+    "phoneticUs": "/fɔːl aʊt wɪð/",
+    "meaningVi": "cãi nhau, bất hòa với",
+    "definitionEn": "to have an argument and stop being friendly",
+    "example": "He fell out with his neighbour over the fence.",
+    "exampleTranslation": "Anh ấy bất hòa với hàng xóm vì cái hàng rào.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13249,
+    "headword": "make it up to",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/meɪk ɪt ʌp tuː/",
+    "phoneticUs": "/meɪk ɪt ʌp tuː/",
+    "meaningVi": "đền bù cho ai",
+    "definitionEn": "to do something nice to say sorry",
+    "example": "I'm sorry I missed your party; I'll make it up to you.",
+    "exampleTranslation": "Xin lỗi vì không đến dự tiệc; tôi sẽ đền bù cho bạn.",
+    "levelId": 3,
+    "topics": [
+      "phrasal-emotions-relationships"
+    ]
+  },
+  {
+    "id": 13250,
+    "headword": "ballpark figure",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈbɔːlpɑːk ˈfɪɡə/",
+    "phoneticUs": "/ˈbɔːlpɑːk ˈfɪɡə/",
+    "meaningVi": "con số ước chừng",
+    "definitionEn": "a rough estimate of an amount",
+    "example": "Can you give me a ballpark figure for the cost?",
+    "exampleTranslation": "Bạn cho tôi con số ước chừng về chi phí được không?",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13251,
+    "headword": "bottom line",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈbɒtəm laɪn/",
+    "phoneticUs": "/ˈbɒtəm laɪn/",
+    "meaningVi": "điểm mấu chốt; lợi nhuận ròng",
+    "definitionEn": "the most important point or final result",
+    "example": "The bottom line is that we need more customers.",
+    "exampleTranslation": "Điểm mấu chốt là chúng ta cần thêm khách hàng.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms",
+      "toeic-accounting-budgeting"
+    ]
+  },
+  {
+    "id": 13252,
+    "headword": "in the red",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪn ðə red/",
+    "phoneticUs": "/ɪn ðə red/",
+    "meaningVi": "thua lỗ, âm tài khoản",
+    "definitionEn": "losing money or owing money",
+    "example": "The company has been in the red for two years.",
+    "exampleTranslation": "Công ty đã thua lỗ suốt hai năm.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13253,
+    "headword": "in the black",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪn ðə blæk/",
+    "phoneticUs": "/ɪn ðə blæk/",
+    "meaningVi": "có lãi, dương tài khoản",
+    "definitionEn": "making a profit",
+    "example": "After a hard year, we are finally in the black.",
+    "exampleTranslation": "Sau một năm vất vả, cuối cùng chúng tôi cũng có lãi.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13254,
+    "headword": "red tape",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/red teɪp/",
+    "phoneticUs": "/red teɪp/",
+    "meaningVi": "thủ tục hành chính rườm rà",
+    "definitionEn": "too many official rules that slow things down",
+    "example": "Opening a business here involves a lot of red tape.",
+    "exampleTranslation": "Mở doanh nghiệp ở đây phải qua rất nhiều thủ tục rườm rà.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13255,
+    "headword": "level playing field",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈlevl ˈpleɪɪŋ fiːld/",
+    "phoneticUs": "/ˈlevl ˈpleɪɪŋ fiːld/",
+    "meaningVi": "sân chơi công bằng",
+    "definitionEn": "a situation where everyone has the same chances",
+    "example": "Small firms want a level playing field with big companies.",
+    "exampleTranslation": "Các công ty nhỏ muốn có sân chơi công bằng với công ty lớn.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13256,
+    "headword": "raise the bar",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/reɪz ðə bɑː/",
+    "phoneticUs": "/reɪz ðə bɑː/",
+    "meaningVi": "nâng tiêu chuẩn lên",
+    "definitionEn": "to set a higher standard",
+    "example": "Their new product raised the bar for the whole industry.",
+    "exampleTranslation": "Sản phẩm mới của họ nâng tiêu chuẩn của cả ngành.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13257,
+    "headword": "pass the buck",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/pɑːs ðə bʌk/",
+    "phoneticUs": "/pɑːs ðə bʌk/",
+    "meaningVi": "đùn đẩy trách nhiệm",
+    "definitionEn": "to give your responsibility to someone else",
+    "example": "Managers should not pass the buck when problems appear.",
+    "exampleTranslation": "Quản lý không nên đùn đẩy trách nhiệm khi có vấn đề.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13258,
+    "headword": "call the shots",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kɔːl ðə ʃɒts/",
+    "phoneticUs": "/kɔːl ðə ʃɒts/",
+    "meaningVi": "nắm quyền quyết định",
+    "definitionEn": "to be the person who makes the decisions",
+    "example": "In this company, the founder still calls the shots.",
+    "exampleTranslation": "Ở công ty này, người sáng lập vẫn nắm quyền quyết định.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13259,
+    "headword": "in the pipeline",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪn ðə ˈpaɪplaɪn/",
+    "phoneticUs": "/ɪn ðə ˈpaɪplaɪn/",
+    "meaningVi": "đang được chuẩn bị, sắp tới",
+    "definitionEn": "being planned or prepared",
+    "example": "We have several new products in the pipeline.",
+    "exampleTranslation": "Chúng tôi có vài sản phẩm mới đang được chuẩn bị.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13260,
+    "headword": "a win-win situation",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ə wɪn wɪn ˌsɪtʃuˈeɪʃn/",
+    "phoneticUs": "/ə wɪn wɪn ˌsɪtʃuˈeɪʃn/",
+    "meaningVi": "tình huống đôi bên cùng có lợi",
+    "definitionEn": "a result that is good for everyone involved",
+    "example": "A partnership would be a win-win situation for both firms.",
+    "exampleTranslation": "Hợp tác sẽ là tình huống đôi bên cùng có lợi cho cả hai công ty.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13261,
+    "headword": "a game changer",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ə ɡeɪm ˈtʃeɪndʒə/",
+    "phoneticUs": "/ə ɡeɪm ˈtʃeɪndʒə/",
+    "meaningVi": "yếu tố thay đổi cuộc chơi",
+    "definitionEn": "something that changes a situation completely",
+    "example": "Online payment was a game changer for small shops.",
+    "exampleTranslation": "Thanh toán trực tuyến đã thay đổi cuộc chơi với các cửa hàng nhỏ.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13262,
+    "headword": "think on your feet",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/θɪŋk ɒn jɔː fiːt/",
+    "phoneticUs": "/θɪŋk ɒn jɔː fiːt/",
+    "meaningVi": "ứng biến nhanh",
+    "definitionEn": "to decide quickly in a difficult situation",
+    "example": "Good salespeople know how to think on their feet.",
+    "exampleTranslation": "Nhân viên bán hàng giỏi biết cách ứng biến nhanh.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13263,
+    "headword": "up and running",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ʌp ənd ˈrʌnɪŋ/",
+    "phoneticUs": "/ʌp ənd ˈrʌnɪŋ/",
+    "meaningVi": "đã vận hành, hoạt động bình thường",
+    "definitionEn": "working normally",
+    "example": "The new system will be up and running by Monday.",
+    "exampleTranslation": "Hệ thống mới sẽ đi vào hoạt động trước thứ Hai.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13264,
+    "headword": "on the back burner",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɒn ðə bæk ˈbɜːnə/",
+    "phoneticUs": "/ɒn ðə bæk ˈbɜːnə/",
+    "meaningVi": "tạm gác lại",
+    "definitionEn": "delayed because it is not urgent",
+    "example": "We put the new website on the back burner.",
+    "exampleTranslation": "Chúng tôi tạm gác dự án website mới lại.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13265,
+    "headword": "off the record",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɒf ðə ˈrekɔːd/",
+    "phoneticUs": "/ɒf ðə ˈrekɔːd/",
+    "meaningVi": "không chính thức, không ghi lại",
+    "definitionEn": "said privately and not for publication",
+    "example": "Off the record, the merger is almost certain.",
+    "exampleTranslation": "Nói riêng thôi, vụ sáp nhập gần như chắc chắn.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13266,
+    "headword": "ahead of the curve",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/əˈhed ɒv ðə kɜːv/",
+    "phoneticUs": "/əˈhed ɒv ðə kɜːv/",
+    "meaningVi": "đi trước thời đại, dẫn đầu xu hướng",
+    "definitionEn": "more advanced than others",
+    "example": "We must stay ahead of the curve to beat our rivals.",
+    "exampleTranslation": "Chúng ta phải đi trước xu hướng để thắng đối thủ.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13267,
+    "headword": "run it by",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/rʌn ɪt baɪ/",
+    "phoneticUs": "/rʌn ɪt baɪ/",
+    "meaningVi": "trình qua, hỏi ý kiến",
+    "definitionEn": "to tell someone your idea to get their opinion",
+    "example": "Let me run it by my boss before I answer.",
+    "exampleTranslation": "Để tôi hỏi ý kiến sếp trước khi trả lời.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13268,
+    "headword": "get down to business",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡet daʊn tə ˈbɪznəs/",
+    "phoneticUs": "/ɡet daʊn tə ˈbɪznəs/",
+    "meaningVi": "bắt tay vào việc chính",
+    "definitionEn": "to start the main work or discussion",
+    "example": "Let's get down to business and review the figures.",
+    "exampleTranslation": "Hãy bắt tay vào việc chính và xem lại các số liệu.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13269,
+    "headword": "get the green light",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɡet ðə ɡriːn laɪt/",
+    "phoneticUs": "/ɡet ðə ɡriːn laɪt/",
+    "meaningVi": "được phê duyệt, bật đèn xanh",
+    "definitionEn": "to receive official permission to start",
+    "example": "The project finally got the green light yesterday.",
+    "exampleTranslation": "Dự án cuối cùng đã được bật đèn xanh hôm qua.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13270,
+    "headword": "the big picture",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ðə bɪɡ ˈpɪktʃə/",
+    "phoneticUs": "/ðə bɪɡ ˈpɪktʃə/",
+    "meaningVi": "bức tranh tổng thể",
+    "definitionEn": "the whole situation rather than small details",
+    "example": "Try to see the big picture before you decide.",
+    "exampleTranslation": "Hãy cố nhìn bức tranh tổng thể trước khi quyết định.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13271,
+    "headword": "drop the ball",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/drɒp ðə bɔːl/",
+    "phoneticUs": "/drɒp ðə bɔːl/",
+    "meaningVi": "làm hỏng việc, sơ suất",
+    "definitionEn": "to make a mistake and fail to do your job",
+    "example": "We dropped the ball and missed the deadline.",
+    "exampleTranslation": "Chúng tôi sơ suất và lỡ mất hạn chót.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13272,
+    "headword": "hit the ground running",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/hɪt ðə ɡraʊnd ˈrʌnɪŋ/",
+    "phoneticUs": "/hɪt ðə ɡraʊnd ˈrʌnɪŋ/",
+    "meaningVi": "bắt tay làm ngay hiệu quả",
+    "definitionEn": "to start a new job or project with great energy",
+    "example": "The new manager hit the ground running on her first day.",
+    "exampleTranslation": "Quản lý mới bắt tay làm việc hiệu quả ngay ngày đầu tiên.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13273,
+    "headword": "keep your head above water",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kiːp jɔː hed əˈbʌv ˈwɔːtə/",
+    "phoneticUs": "/kiːp jɔː hed əˈbʌv ˈwɔːtə/",
+    "meaningVi": "trụ vững qua khó khăn tài chính",
+    "definitionEn": "to just manage to survive financially",
+    "example": "Many small shops are barely keeping their heads above water.",
+    "exampleTranslation": "Nhiều cửa hàng nhỏ chỉ vừa đủ trụ vững.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13274,
+    "headword": "make or break",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/meɪk ɔː breɪk/",
+    "phoneticUs": "/meɪk ɔː breɪk/",
+    "meaningVi": "quyết định thành bại",
+    "definitionEn": "having a result of either great success or failure",
+    "example": "This contract could make or break the company.",
+    "exampleTranslation": "Hợp đồng này có thể quyết định thành bại của công ty.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13275,
+    "headword": "on board",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɒn bɔːd/",
+    "phoneticUs": "/ɒn bɔːd/",
+    "meaningVi": "đồng ý tham gia, ủng hộ",
+    "definitionEn": "agreeing to take part in a plan",
+    "example": "We need everyone on board before we change the plan.",
+    "exampleTranslation": "Ta cần mọi người đồng thuận trước khi đổi kế hoạch.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13276,
+    "headword": "put your cards on the table",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/pʊt jɔː kɑːdz ɒn ðə ˈteɪbl/",
+    "phoneticUs": "/pʊt jɔː kɑːdz ɒn ðə ˈteɪbl/",
+    "meaningVi": "nói thẳng, công khai ý định",
+    "definitionEn": "to be honest about your plans",
+    "example": "Let's put our cards on the table and discuss the price.",
+    "exampleTranslation": "Hãy nói thẳng với nhau và bàn về giá.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13277,
+    "headword": "the tip of the iceberg",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ðə tɪp ɒv ði ˈaɪsbɜːɡ/",
+    "phoneticUs": "/ðə tɪp ɒv ði ˈaɪsbɜːɡ/",
+    "meaningVi": "phần nổi của tảng băng chìm",
+    "definitionEn": "a small part of a much bigger problem",
+    "example": "These complaints are only the tip of the iceberg.",
+    "exampleTranslation": "Những lời phàn nàn này chỉ là phần nổi của tảng băng chìm.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13278,
+    "headword": "a foot in the door",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ə fʊt ɪn ðə dɔː/",
+    "phoneticUs": "/ə fʊt ɪn ðə dɔː/",
+    "meaningVi": "bước chân đầu tiên vào ngành/công ty",
+    "definitionEn": "a first chance to enter a company or field",
+    "example": "An internship is a good way to get a foot in the door.",
+    "exampleTranslation": "Thực tập là cách tốt để có bước chân đầu tiên vào ngành.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13279,
+    "headword": "play hardball",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/pleɪ ˈhɑːdbɔːl/",
+    "phoneticUs": "/pleɪ ˈhɑːdbɔːl/",
+    "meaningVi": "cứng rắn, chơi cứng",
+    "definitionEn": "to act in a tough way to get what you want",
+    "example": "The buyers played hardball during the negotiation.",
+    "exampleTranslation": "Bên mua tỏ ra cứng rắn trong cuộc đàm phán.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13280,
+    "headword": "sell like hot cakes",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/sel laɪk hɒt keɪks/",
+    "phoneticUs": "/sel laɪk hɒt keɪks/",
+    "meaningVi": "bán đắt như tôm tươi",
+    "definitionEn": "to be sold very quickly",
+    "example": "The new game is selling like hot cakes.",
+    "exampleTranslation": "Trò chơi mới đang bán đắt như tôm tươi.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13281,
+    "headword": "rock the boat",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/rɒk ðə bəʊt/",
+    "phoneticUs": "/rɒk ðə bəʊt/",
+    "meaningVi": "gây xáo trộn",
+    "definitionEn": "to cause trouble in a stable situation",
+    "example": "I don't want to rock the boat before the audit.",
+    "exampleTranslation": "Tôi không muốn gây xáo trộn trước đợt kiểm toán.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13282,
+    "headword": "smooth sailing",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/smuːð ˈseɪlɪŋ/",
+    "phoneticUs": "/smuːð ˈseɪlɪŋ/",
+    "meaningVi": "thuận buồm xuôi gió",
+    "definitionEn": "easy progress without problems",
+    "example": "After the first month, it was smooth sailing.",
+    "exampleTranslation": "Sau tháng đầu tiên, mọi việc thuận buồm xuôi gió.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13283,
+    "headword": "bear fruit",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/beə fruːt/",
+    "phoneticUs": "/beə fruːt/",
+    "meaningVi": "đơm hoa kết trái, đạt kết quả",
+    "definitionEn": "to produce good results",
+    "example": "Our efforts finally began to bear fruit.",
+    "exampleTranslation": "Nỗ lực của chúng tôi cuối cùng đã bắt đầu có kết quả.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13284,
+    "headword": "corner the market",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈkɔːnə ðə ˈmɑːkɪt/",
+    "phoneticUs": "/ˈkɔːnə ðə ˈmɑːkɪt/",
+    "meaningVi": "độc chiếm thị trường",
+    "definitionEn": "to get control of a whole market",
+    "example": "The firm tried to corner the market in solar panels.",
+    "exampleTranslation": "Công ty cố độc chiếm thị trường tấm pin mặt trời.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13285,
+    "headword": "cash cow",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/kæʃ kaʊ/",
+    "phoneticUs": "/kæʃ kaʊ/",
+    "meaningVi": "nguồn thu ổn định, \"gà đẻ trứng vàng\"",
+    "definitionEn": "a product that makes steady profit",
+    "example": "The old model is still the company's cash cow.",
+    "exampleTranslation": "Mẫu cũ vẫn là nguồn thu ổn định của công ty.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13286,
+    "headword": "the lion's share",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ðə ˈlaɪənz ʃeə/",
+    "phoneticUs": "/ðə ˈlaɪənz ʃeə/",
+    "meaningVi": "phần lớn nhất",
+    "definitionEn": "the largest part of something",
+    "example": "Rent takes the lion's share of our budget.",
+    "exampleTranslation": "Tiền thuê nhà chiếm phần lớn nhất trong ngân sách của chúng tôi.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13287,
+    "headword": "hold your ground",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/həʊld jɔː ɡraʊnd/",
+    "phoneticUs": "/həʊld jɔː ɡraʊnd/",
+    "meaningVi": "giữ vững lập trường",
+    "definitionEn": "to refuse to change your position",
+    "example": "She held her ground and refused to lower the price.",
+    "exampleTranslation": "Cô ấy giữ vững lập trường và không chịu hạ giá.",
+    "levelId": 4,
+    "topics": [
+      "business-idioms"
+    ]
+  },
+  {
+    "id": 13288,
+    "headword": "however",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/haʊˈevə/",
+    "phoneticUs": "/haʊˈevə/",
+    "meaningVi": "tuy nhiên",
+    "definitionEn": "used to add a contrasting idea",
+    "example": "The plan is good; however, it is expensive.",
+    "exampleTranslation": "Kế hoạch này tốt; tuy nhiên, nó khá đắt.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13289,
+    "headword": "therefore",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˈðeəfɔː/",
+    "phoneticUs": "/ˈðeəfɔː/",
+    "meaningVi": "vì vậy, do đó",
+    "definitionEn": "used to show a result",
+    "example": "It rained all day; therefore, the match was cancelled.",
+    "exampleTranslation": "Trời mưa cả ngày; do đó trận đấu bị hủy.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13290,
+    "headword": "moreover",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/mɔːrˈəʊvə/",
+    "phoneticUs": "/mɔːrˈəʊvə/",
+    "meaningVi": "hơn nữa",
+    "definitionEn": "used to add a stronger point",
+    "example": "The hotel is cheap; moreover, it is close to the beach.",
+    "exampleTranslation": "Khách sạn này rẻ; hơn nữa, nó gần bãi biển.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13291,
+    "headword": "furthermore",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˌfɜːðəˈmɔː/",
+    "phoneticUs": "/ˌfɜːðəˈmɔː/",
+    "meaningVi": "ngoài ra, hơn nữa",
+    "definitionEn": "used to add another point",
+    "example": "Furthermore, the course includes free materials.",
+    "exampleTranslation": "Ngoài ra, khóa học còn kèm tài liệu miễn phí.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13292,
+    "headword": "nevertheless",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˌnevəðəˈles/",
+    "phoneticUs": "/ˌnevəðəˈles/",
+    "meaningVi": "tuy vậy, dù thế nào",
+    "definitionEn": "in spite of what was just said",
+    "example": "It was late; nevertheless, we kept working.",
+    "exampleTranslation": "Đã muộn; tuy vậy, chúng tôi vẫn tiếp tục làm.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13293,
+    "headword": "nonetheless",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˌnʌnðəˈles/",
+    "phoneticUs": "/ˌnʌnðəˈles/",
+    "meaningVi": "tuy nhiên, dù vậy",
+    "definitionEn": "in spite of that",
+    "example": "The test was hard; she passed it nonetheless.",
+    "exampleTranslation": "Bài thi khó; dù vậy cô ấy vẫn đỗ.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13294,
+    "headword": "consequently",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˈkɒnsɪkwəntli/",
+    "phoneticUs": "/ˈkɒnsɪkwəntli/",
+    "meaningVi": "do đó, kết quả là",
+    "definitionEn": "as a result",
+    "example": "He missed the bus and consequently arrived late.",
+    "exampleTranslation": "Anh ấy lỡ xe buýt nên kết quả là đến muộn.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13295,
+    "headword": "meanwhile",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˈmiːnwaɪl/",
+    "phoneticUs": "/ˈmiːnwaɪl/",
+    "meaningVi": "trong khi đó",
+    "definitionEn": "at the same time as something else",
+    "example": "Cook the pasta; meanwhile, prepare the sauce.",
+    "exampleTranslation": "Luộc mì; trong khi đó, chuẩn bị nước sốt.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13296,
+    "headword": "otherwise",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˈʌðəwaɪz/",
+    "phoneticUs": "/ˈʌðəwaɪz/",
+    "meaningVi": "nếu không thì",
+    "definitionEn": "if not, or in a different way",
+    "example": "Hurry up, otherwise we'll miss the train.",
+    "exampleTranslation": "Nhanh lên, nếu không chúng ta sẽ lỡ tàu.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13297,
+    "headword": "besides",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/bɪˈsaɪdz/",
+    "phoneticUs": "/bɪˈsaɪdz/",
+    "meaningVi": "ngoài ra, hơn nữa",
+    "definitionEn": "also, and in addition",
+    "example": "I don't want to go; besides, I'm too tired.",
+    "exampleTranslation": "Tôi không muốn đi; ngoài ra, tôi cũng quá mệt.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13298,
+    "headword": "similarly",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˈsɪmələli/",
+    "phoneticUs": "/ˈsɪmələli/",
+    "meaningVi": "tương tự, theo cách giống vậy",
+    "definitionEn": "in a like way",
+    "example": "Similarly, the second plan has some risks.",
+    "exampleTranslation": "Tương tự, phương án thứ hai cũng có vài rủi ro.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13299,
+    "headword": "likewise",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˈlaɪkwaɪz/",
+    "phoneticUs": "/ˈlaɪkwaɪz/",
+    "meaningVi": "cũng vậy, tương tự",
+    "definitionEn": "in the same way",
+    "example": "Tom helped her, and Anna likewise helped him.",
+    "exampleTranslation": "Tom giúp cô ấy, và Anna cũng giúp lại anh ấy.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13300,
+    "headword": "afterwards",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ˈɑːftəwədz/",
+    "phoneticUs": "/ˈɑːftəwədz/",
+    "meaningVi": "sau đó, về sau",
+    "definitionEn": "at a later time",
+    "example": "We had dinner and went for a walk afterwards.",
+    "exampleTranslation": "Chúng tôi ăn tối rồi sau đó đi dạo.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13301,
+    "headword": "as a result",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/æz ə rɪˈzʌlt/",
+    "phoneticUs": "/æz ə rɪˈzʌlt/",
+    "meaningVi": "kết quả là",
+    "definitionEn": "because of something that happened",
+    "example": "Prices rose; as a result, fewer people bought it.",
+    "exampleTranslation": "Giá tăng; kết quả là ít người mua hơn.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13302,
+    "headword": "on the other hand",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɒn ði ˈʌðə hænd/",
+    "phoneticUs": "/ɒn ði ˈʌðə hænd/",
+    "meaningVi": "mặt khác",
+    "definitionEn": "used to give a different point of view",
+    "example": "Cars are fast; on the other hand, they cause pollution.",
+    "exampleTranslation": "Ô tô nhanh; mặt khác, chúng gây ô nhiễm.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13303,
+    "headword": "on the contrary",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɒn ðə ˈkɒntrəri/",
+    "phoneticUs": "/ɒn ðə ˈkɒntrəri/",
+    "meaningVi": "trái lại",
+    "definitionEn": "used to say the opposite is true",
+    "example": "I'm not angry; on the contrary, I'm very pleased.",
+    "exampleTranslation": "Tôi không giận; trái lại, tôi rất hài lòng.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13304,
+    "headword": "in contrast",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪn ˈkɒntrɑːst/",
+    "phoneticUs": "/ɪn ˈkɒntrɑːst/",
+    "meaningVi": "ngược lại, trái ngược",
+    "definitionEn": "used to show a clear difference",
+    "example": "In contrast, the south has hot and dry weather.",
+    "exampleTranslation": "Ngược lại, miền nam có thời tiết nóng và khô.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13305,
+    "headword": "by contrast",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/baɪ ˈkɒntrɑːst/",
+    "phoneticUs": "/baɪ ˈkɒntrɑːst/",
+    "meaningVi": "ngược lại, đối lập",
+    "definitionEn": "used when comparing two different things",
+    "example": "By contrast, our old office was small and dark.",
+    "exampleTranslation": "Ngược lại, văn phòng cũ của chúng tôi nhỏ và tối.",
+    "levelId": 3,
+    "topics": [
+      "linking-words",
+      "ielts-task1-charts-trends"
+    ]
+  },
+  {
+    "id": 13306,
+    "headword": "for example",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/fɔːr ɪɡˈzɑːmpl/",
+    "phoneticUs": "/fɔːr ɪɡˈzɑːmpl/",
+    "meaningVi": "ví dụ",
+    "definitionEn": "used to introduce an example",
+    "example": "Many fruits, for example mangoes, grow here.",
+    "exampleTranslation": "Nhiều loại trái cây, ví dụ xoài, được trồng ở đây.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13307,
+    "headword": "for instance",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/fɔːr ˈɪnstəns/",
+    "phoneticUs": "/fɔːr ˈɪnstəns/",
+    "meaningVi": "chẳng hạn, ví dụ",
+    "definitionEn": "used to give an example",
+    "example": "Some jobs, for instance nursing, need patience.",
+    "exampleTranslation": "Một số nghề, chẳng hạn điều dưỡng, cần sự kiên nhẫn.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13308,
+    "headword": "in other words",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪn ˈʌðə wɜːdz/",
+    "phoneticUs": "/ɪn ˈʌðə wɜːdz/",
+    "meaningVi": "nói cách khác",
+    "definitionEn": "used to say something again more simply",
+    "example": "In other words, we need more time.",
+    "exampleTranslation": "Nói cách khác, chúng ta cần thêm thời gian.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13309,
+    "headword": "in conclusion",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪn kənˈkluːʒn/",
+    "phoneticUs": "/ɪn kənˈkluːʒn/",
+    "meaningVi": "kết luận lại",
+    "definitionEn": "used to start the last part of a talk",
+    "example": "In conclusion, the plan is safe and affordable.",
+    "exampleTranslation": "Kết luận lại, kế hoạch này an toàn và hợp túi tiền.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13310,
+    "headword": "to sum up",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/tə sʌm ʌp/",
+    "phoneticUs": "/tə sʌm ʌp/",
+    "meaningVi": "tóm lại",
+    "definitionEn": "used before a short summary",
+    "example": "To sum up, we need more staff and money.",
+    "exampleTranslation": "Tóm lại, ta cần thêm nhân sự và tiền.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13311,
+    "headword": "first of all",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/fɜːst ɒv ɔːl/",
+    "phoneticUs": "/fɜːst ɒv ɔːl/",
+    "meaningVi": "trước hết",
+    "definitionEn": "used to begin a list of points",
+    "example": "First of all, let me thank you for coming.",
+    "exampleTranslation": "Trước hết, xin cảm ơn mọi người đã đến.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13312,
+    "headword": "to begin with",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/tə bɪˈɡɪn wɪð/",
+    "phoneticUs": "/tə bɪˈɡɪn wɪð/",
+    "meaningVi": "trước tiên, ban đầu",
+    "definitionEn": "used to introduce the first point",
+    "example": "To begin with, the price is too high.",
+    "exampleTranslation": "Trước tiên, giá quá cao.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13313,
+    "headword": "above all",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/əˈbʌv ɔːl/",
+    "phoneticUs": "/əˈbʌv ɔːl/",
+    "meaningVi": "trên hết, quan trọng nhất",
+    "definitionEn": "used for the most important point",
+    "example": "Above all, stay calm and don't panic.",
+    "exampleTranslation": "Trên hết, hãy bình tĩnh và đừng hoảng.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13314,
+    "headword": "after all",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ˈɑːftər ɔːl/",
+    "phoneticUs": "/ˈɑːftər ɔːl/",
+    "meaningVi": "rốt cuộc, dù sao thì",
+    "definitionEn": "used to remind someone of something important",
+    "example": "Be kind to her; she is only a child, after all.",
+    "exampleTranslation": "Hãy tử tế với cô bé; dù sao cũng chỉ là một đứa trẻ.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13315,
+    "headword": "in fact",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪn fækt/",
+    "phoneticUs": "/ɪn fækt/",
+    "meaningVi": "thực tế là, thật ra",
+    "definitionEn": "used to give extra or surprising information",
+    "example": "He likes cooking; in fact, he is a chef.",
+    "exampleTranslation": "Anh ấy thích nấu ăn; thật ra anh ấy là đầu bếp.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13316,
+    "headword": "in my opinion",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪn maɪ əˈpɪnjən/",
+    "phoneticUs": "/ɪn maɪ əˈpɪnjən/",
+    "meaningVi": "theo ý kiến của tôi",
+    "definitionEn": "used to give your own view",
+    "example": "In my opinion, the film was too long.",
+    "exampleTranslation": "Theo tôi, bộ phim quá dài.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13317,
+    "headword": "to be honest",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/tə biː ˈɒnɪst/",
+    "phoneticUs": "/tə biː ˈɒnɪst/",
+    "meaningVi": "thành thật mà nói",
+    "definitionEn": "used to say what you really think",
+    "example": "To be honest, I didn't enjoy the food.",
+    "exampleTranslation": "Thành thật mà nói, tôi không thích món ăn.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13318,
+    "headword": "by the way",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/baɪ ðə weɪ/",
+    "phoneticUs": "/baɪ ðə weɪ/",
+    "meaningVi": "nhân tiện",
+    "definitionEn": "used to add a new topic",
+    "example": "By the way, have you seen my keys?",
+    "exampleTranslation": "Nhân tiện, bạn có thấy chìa khóa của tôi không?",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13319,
+    "headword": "on the whole",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɒn ðə həʊl/",
+    "phoneticUs": "/ɒn ðə həʊl/",
+    "meaningVi": "nhìn chung, về cơ bản",
+    "definitionEn": "in general, considering everything",
+    "example": "On the whole, the event was a success.",
+    "exampleTranslation": "Nhìn chung, sự kiện đã thành công.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13320,
+    "headword": "to some extent",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/tə sʌm ɪkˈstent/",
+    "phoneticUs": "/tə sʌm ɪkˈstent/",
+    "meaningVi": "ở một mức độ nào đó",
+    "definitionEn": "partly, but not completely",
+    "example": "To some extent, I agree with your idea.",
+    "exampleTranslation": "Ở một mức độ nào đó, tôi đồng ý với ý kiến của bạn.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13321,
+    "headword": "apart from",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/əˈpɑːt frɒm/",
+    "phoneticUs": "/əˈpɑːt frɒm/",
+    "meaningVi": "ngoài ra, trừ",
+    "definitionEn": "except for, or in addition to",
+    "example": "Apart from the price, I like the apartment.",
+    "exampleTranslation": "Ngoài giá cả ra, tôi thích căn hộ này.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13322,
+    "headword": "even though",
+    "partOfSpeech": "conjunction",
+    "phoneticUk": "/ˈiːvn ðəʊ/",
+    "phoneticUs": "/ˈiːvn ðəʊ/",
+    "meaningVi": "mặc dù",
+    "definitionEn": "although something is true",
+    "example": "She went to work even though she was sick.",
+    "exampleTranslation": "Cô ấy vẫn đi làm mặc dù đang ốm.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13323,
+    "headword": "as long as",
+    "partOfSpeech": "conjunction",
+    "phoneticUk": "/æz lɒŋ æz/",
+    "phoneticUs": "/æz lɒŋ æz/",
+    "meaningVi": "miễn là",
+    "definitionEn": "only if something happens",
+    "example": "You can borrow it as long as you return it.",
+    "exampleTranslation": "Bạn có thể mượn miễn là trả lại.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13324,
+    "headword": "in order to",
+    "partOfSpeech": "phrase",
+    "phoneticUk": "/ɪn ˈɔːdə tuː/",
+    "phoneticUs": "/ɪn ˈɔːdə tuː/",
+    "meaningVi": "để mà, nhằm",
+    "definitionEn": "for the purpose of doing something",
+    "example": "He saves money in order to travel abroad.",
+    "exampleTranslation": "Anh ấy tiết kiệm tiền để đi du lịch nước ngoài.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  },
+  {
+    "id": 13325,
+    "headword": "so that",
+    "partOfSpeech": "conjunction",
+    "phoneticUk": "/səʊ ðæt/",
+    "phoneticUs": "/səʊ ðæt/",
+    "meaningVi": "để mà, sao cho",
+    "definitionEn": "with the purpose that something happens",
+    "example": "Speak slowly so that everyone can understand.",
+    "exampleTranslation": "Hãy nói chậm để mọi người đều hiểu.",
+    "levelId": 3,
+    "topics": [
+      "linking-words"
+    ]
+  }
+]
