@@ -276,8 +276,8 @@ onBeforeUnmount(() => {
             <span v-if="!isMobile">Câu trước</span>
           </el-button>
           <el-button :type="flagged.has(current.id) ? 'warning' : 'default'" :plain="flagged.has(current.id)" :icon="Flag"
-                     @click="toggleFlag">
-            {{ flagged.has(current.id) ? 'Bỏ đánh dấu' : 'Xem lại sau' }}
+                     :aria-label="flagged.has(current.id) ? 'Bỏ đánh dấu' : 'Xem lại sau'" @click="toggleFlag">
+            <span v-if="!isMobile">{{ flagged.has(current.id) ? 'Bỏ đánh dấu' : 'Xem lại sau' }}</span>
           </el-button>
           <el-button v-if="isMobile" :icon="Grid" aria-label="Danh sách câu hỏi" @click="navigatorOpen = true" />
           <span class="spacer" />

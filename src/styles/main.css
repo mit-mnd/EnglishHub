@@ -340,9 +340,9 @@ html.dark .el-button.is-disabled { --el-button-disabled-text-color: var(--eh-tex
 
 /* ===================== Chuyển trang ===================== */
 .page-enter-active { transition: opacity 0.28s ease, transform 0.32s var(--eh-ease); }
-.page-leave-active { transition: opacity 0.12s ease; }
+/* Trang cũ gỡ ngay (không chờ hiệu ứng) để chuyển trang không bao giờ bị kẹt, kể cả khi tab chạy nền */
+.page-leave-active { transition: none; }
 .page-enter-from { opacity: 0; transform: translateY(10px); }
-.page-leave-to { opacity: 0; }
 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }

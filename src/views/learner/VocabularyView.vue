@@ -143,15 +143,20 @@ onMounted(load)
         <p v-else-if="item.note" class="word__note">📝 {{ item.note }}</p>
 
         <footer class="word__foot">
-          <el-tag :type="STATUS[item.status].type" size="small">{{ STATUS[item.status].label }}</el-tag>
-          <span class="eh-subtle">{{ formatDate(item.createdAt) }}</span>
-          <span class="spacer" />
-          <el-button text size="small" :icon="EditPen" @click="startEdit(item)">Ghi chú</el-button>
+          <div class="word__meta">
+            <el-tag :type="STATUS[item.status].type" size="small">{{ STATUS[item.status].label }}</el-tag>
+            <span class="eh-subtle">{{ formatDate(item.createdAt) }}</span>
+          </div>
+          <div class="word__actions">
+          <el-tooltip content="Ghi chú">
+            <el-button text size="small" :icon="EditPen" aria-label="Ghi chú" @click="startEdit(item)" />
+          </el-tooltip>
           <el-tooltip :content="item.status === 'SUSPENDED' ? 'Đưa lại vào lịch ôn' : 'Tạm ẩn khỏi lịch ôn (đã biết rõ)'">
             <el-button text size="small" :icon="item.status === 'SUSPENDED' ? View : Hide"
                        :aria-label="item.status === 'SUSPENDED' ? 'Bỏ tạm ẩn' : 'Tạm ẩn'" @click="toggleSuspend(item)" />
           </el-tooltip>
           <el-button text size="small" type="danger" :icon="Delete" aria-label="Xóa" @click="remove(item)" />
+          </div>
         </footer>
       </article>
     </div>
@@ -179,9 +184,11 @@ onMounted(load)
 .word__note { font-size: 14px; padding: 6px 10px; border-radius: 8px; background: var(--eh-accent-soft); }
 .word__edit { display: grid; gap: 6px; }
 .word__edit-actions { display: flex; justify-content: flex-end; }
-.word__foot { display: flex; align-items: center; gap: 8px; margin-top: auto; padding-top: 6px; border-top: 1px solid var(--eh-border); }
-.word__foot .el-button + .el-button { margin-left: 0; }
-.spacer { flex: 1; }
+/* Chân thẻ: thông tin bên trái, thao tác bên phải; hẹp quá thì thao tác xuống dòng thay vì tràn ra ngoài thẻ */
+.word__foot { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 4px 8px; margin-top: auto; padding-top: 6px; border-top: 1px solid var(--eh-border); }
+.word__meta { display: flex; align-items: center; gap: 8px; min-width: 0; }
+.word__actions { display: flex; align-items: center; margin-left: auto; }
+.word__actions .el-button { margin: 0; padding: 5px 8px; }
 .pagination { margin-top: 20px; justify-content: center; }
 @media (max-width: 599.98px) {
   .toolbar { flex-direction: column; }
