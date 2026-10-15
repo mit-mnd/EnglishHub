@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": { "@/*": ["src/*"], "@data/*": ["data/*"] }
+  },
+  "include": ["src/**/*", "data/**/*.json", "scripts/**/*"]
+}

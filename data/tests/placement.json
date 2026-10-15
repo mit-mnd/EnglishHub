@@ -1,0 +1,593 @@
+{
+  "id": 1,
+  "title": "Bài kiểm tra xếp lớp",
+  "description": "20 câu hỏi từ dễ đến khó, khoảng 20 phút, giúp xác định trình độ hiện tại của bạn.",
+  "testType": "PLACEMENT",
+  "durationMinutes": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "SINGLE_CHOICE",
+      "skill": "GRAMMAR",
+      "levelId": 1,
+      "content": "She ___ a student.",
+      "explanation": "Chủ ngữ số ít \"She\" đi với \"is\".",
+      "difficulty": 1,
+      "points": 1,
+      "options": [
+        {
+          "id": 1,
+          "content": "am"
+        },
+        {
+          "id": 2,
+          "content": "is",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "are"
+        },
+        {
+          "id": 4,
+          "content": "be"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "SINGLE_CHOICE",
+      "skill": "VOCABULARY",
+      "levelId": 1,
+      "content": "Which word is a colour?",
+      "explanation": "\"Green\" là màu xanh lá.",
+      "difficulty": 1,
+      "points": 1,
+      "options": [
+        {
+          "id": 5,
+          "content": "Table"
+        },
+        {
+          "id": 6,
+          "content": "Green",
+          "correct": true
+        },
+        {
+          "id": 7,
+          "content": "Run"
+        },
+        {
+          "id": 8,
+          "content": "Happy"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "SINGLE_CHOICE",
+      "skill": "GRAMMAR",
+      "levelId": 1,
+      "content": "I ___ from Vietnam.",
+      "explanation": "\"I\" đi với \"am\".",
+      "difficulty": 1,
+      "points": 1,
+      "options": [
+        {
+          "id": 9,
+          "content": "is"
+        },
+        {
+          "id": 10,
+          "content": "are"
+        },
+        {
+          "id": 11,
+          "content": "am",
+          "correct": true
+        },
+        {
+          "id": 12,
+          "content": "be"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "SINGLE_CHOICE",
+      "skill": "VOCABULARY",
+      "levelId": 1,
+      "content": "The opposite of \"big\" is ___.",
+      "explanation": "big (to) >< small (nhỏ).",
+      "difficulty": 1,
+      "points": 1,
+      "options": [
+        {
+          "id": 13,
+          "content": "small",
+          "correct": true
+        },
+        {
+          "id": 14,
+          "content": "tall"
+        },
+        {
+          "id": 15,
+          "content": "long"
+        },
+        {
+          "id": 16,
+          "content": "old"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "SINGLE_CHOICE",
+      "skill": "GRAMMAR",
+      "levelId": 2,
+      "content": "They ___ football every Sunday.",
+      "explanation": "Thói quen -> hiện tại đơn; \"They\" dùng động từ nguyên mẫu.",
+      "difficulty": 2,
+      "points": 1,
+      "options": [
+        {
+          "id": 17,
+          "content": "plays"
+        },
+        {
+          "id": 18,
+          "content": "play",
+          "correct": true
+        },
+        {
+          "id": 19,
+          "content": "playing"
+        },
+        {
+          "id": 20,
+          "content": "is play"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "SINGLE_CHOICE",
+      "skill": "GRAMMAR",
+      "levelId": 2,
+      "content": "Yesterday I ___ to the cinema.",
+      "explanation": "\"Yesterday\" -> quá khứ đơn: go -> went.",
+      "difficulty": 2,
+      "points": 1,
+      "options": [
+        {
+          "id": 21,
+          "content": "go"
+        },
+        {
+          "id": 22,
+          "content": "goes"
+        },
+        {
+          "id": 23,
+          "content": "went",
+          "correct": true
+        },
+        {
+          "id": 24,
+          "content": "gone"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "SINGLE_CHOICE",
+      "skill": "GRAMMAR",
+      "levelId": 2,
+      "content": "I usually have breakfast ___ 7 a.m.",
+      "explanation": "Giới từ \"at\" dùng với giờ cụ thể.",
+      "difficulty": 2,
+      "points": 1,
+      "options": [
+        {
+          "id": 25,
+          "content": "in"
+        },
+        {
+          "id": 26,
+          "content": "on"
+        },
+        {
+          "id": 27,
+          "content": "at",
+          "correct": true
+        },
+        {
+          "id": 28,
+          "content": "by"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "SINGLE_CHOICE",
+      "skill": "READING",
+      "levelId": 2,
+      "content": "What is Tom's job most likely?",
+      "passage": "Tom works in a hospital. He helps sick people every day and sometimes works at night.",
+      "explanation": "Làm ở bệnh viện, chăm sóc người bệnh -> y tá.",
+      "difficulty": 2,
+      "points": 1,
+      "options": [
+        {
+          "id": 29,
+          "content": "A teacher"
+        },
+        {
+          "id": 30,
+          "content": "A nurse",
+          "correct": true
+        },
+        {
+          "id": 31,
+          "content": "A chef"
+        },
+        {
+          "id": 32,
+          "content": "A pilot"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "SINGLE_CHOICE",
+      "skill": "GRAMMAR",
+      "levelId": 3,
+      "content": "If it rains tomorrow, we ___ at home.",
+      "explanation": "Câu điều kiện loại 1: If + hiện tại đơn, will + V.",
+      "difficulty": 3,
+      "points": 1.5,
+      "options": [
+        {
+          "id": 33,
+          "content": "stay"
+        },
+        {
+          "id": 34,
+          "content": "will stay",
+          "correct": true
+        },
+        {
+          "id": 35,
+          "content": "would stay"
+        },
+        {
+          "id": 36,
+          "content": "stayed"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "SINGLE_CHOICE",
+      "skill": "GRAMMAR",
+      "levelId": 3,
+      "content": "I have lived here ___ 2015.",
+      "explanation": "\"since\" + mốc thời gian.",
+      "difficulty": 3,
+      "points": 1.5,
+      "options": [
+        {
+          "id": 37,
+          "content": "for"
+        },
+        {
+          "id": 38,
+          "content": "since",
+          "correct": true
+        },
+        {
+          "id": 39,
+          "content": "from"
+        },
+        {
+          "id": 40,
+          "content": "during"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "SINGLE_CHOICE",
+      "skill": "VOCABULARY",
+      "levelId": 3,
+      "content": "Could you ___ me a favour?",
+      "explanation": "Cụm cố định: do someone a favour.",
+      "difficulty": 3,
+      "points": 1.5,
+      "options": [
+        {
+          "id": 41,
+          "content": "make"
+        },
+        {
+          "id": 42,
+          "content": "do",
+          "correct": true
+        },
+        {
+          "id": 43,
+          "content": "give"
+        },
+        {
+          "id": 44,
+          "content": "take"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "SINGLE_CHOICE",
+      "skill": "READING",
+      "levelId": 3,
+      "content": "What concern do critics have?",
+      "passage": "Many companies now allow employees to work from home two or three days a week. Supporters say this saves commuting time, while critics worry about weaker teamwork.",
+      "explanation": "Câu cuối: critics worry about weaker teamwork.",
+      "difficulty": 3,
+      "points": 1.5,
+      "options": [
+        {
+          "id": 45,
+          "content": "Longer commutes"
+        },
+        {
+          "id": 46,
+          "content": "Weaker teamwork",
+          "correct": true
+        },
+        {
+          "id": 47,
+          "content": "Higher salaries"
+        },
+        {
+          "id": 48,
+          "content": "Fewer holidays"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "SINGLE_CHOICE",
+      "skill": "GRAMMAR",
+      "levelId": 4,
+      "content": "The report ___ by the time the manager arrived.",
+      "explanation": "Hành động hoàn tất trước một mốc quá khứ, dạng bị động -> quá khứ hoàn thành bị động.",
+      "difficulty": 4,
+      "points": 2,
+      "options": [
+        {
+          "id": 49,
+          "content": "had been finished",
+          "correct": true
+        },
+        {
+          "id": 50,
+          "content": "has finished"
+        },
+        {
+          "id": 51,
+          "content": "was finishing"
+        },
+        {
+          "id": 52,
+          "content": "finishes"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": "SINGLE_CHOICE",
+      "skill": "VOCABULARY",
+      "levelId": 4,
+      "content": "The new policy had a significant ___ on sales.",
+      "explanation": "\"effect\" (danh từ): have an effect on.",
+      "difficulty": 4,
+      "points": 2,
+      "options": [
+        {
+          "id": 53,
+          "content": "affect"
+        },
+        {
+          "id": 54,
+          "content": "effect",
+          "correct": true
+        },
+        {
+          "id": 55,
+          "content": "effort"
+        },
+        {
+          "id": 56,
+          "content": "afford"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "SINGLE_CHOICE",
+      "skill": "GRAMMAR",
+      "levelId": 4,
+      "content": "Not only ___ late, but he also forgot the documents.",
+      "explanation": "Đảo ngữ sau \"Not only\": trợ động từ + S + V.",
+      "difficulty": 4,
+      "points": 2,
+      "options": [
+        {
+          "id": 57,
+          "content": "he arrived"
+        },
+        {
+          "id": 58,
+          "content": "did he arrive",
+          "correct": true
+        },
+        {
+          "id": 59,
+          "content": "he did arrive"
+        },
+        {
+          "id": 60,
+          "content": "arrived he"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "type": "SINGLE_CHOICE",
+      "skill": "READING",
+      "levelId": 4,
+      "content": "What happened after the pilot programme?",
+      "passage": "Despite initial scepticism, the pilot programme exceeded expectations, prompting the board to approve a nationwide rollout.",
+      "explanation": "\"approve a nationwide rollout\" = mở rộng toàn quốc.",
+      "difficulty": 4,
+      "points": 2,
+      "options": [
+        {
+          "id": 61,
+          "content": "It was cancelled."
+        },
+        {
+          "id": 62,
+          "content": "It was expanded nationwide.",
+          "correct": true
+        },
+        {
+          "id": 63,
+          "content": "It was postponed."
+        },
+        {
+          "id": 64,
+          "content": "It was criticised by the board."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "type": "SINGLE_CHOICE",
+      "skill": "GRAMMAR",
+      "levelId": 5,
+      "content": "All employees are required to submit their expense reports ___ Friday.",
+      "explanation": "\"by\" = trước hoặc đúng hạn chót (TOEIC Part 5).",
+      "difficulty": 5,
+      "points": 2,
+      "options": [
+        {
+          "id": 65,
+          "content": "until"
+        },
+        {
+          "id": 66,
+          "content": "by",
+          "correct": true
+        },
+        {
+          "id": 67,
+          "content": "on"
+        },
+        {
+          "id": 68,
+          "content": "within"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "type": "SINGLE_CHOICE",
+      "skill": "GRAMMAR",
+      "levelId": 5,
+      "content": "Had I known about the traffic, I ___ earlier.",
+      "explanation": "Đảo ngữ câu điều kiện loại 3: Had + S + V3, S + would have + V3.",
+      "difficulty": 5,
+      "points": 2,
+      "options": [
+        {
+          "id": 69,
+          "content": "would leave"
+        },
+        {
+          "id": 70,
+          "content": "would have left",
+          "correct": true
+        },
+        {
+          "id": 71,
+          "content": "had left"
+        },
+        {
+          "id": 72,
+          "content": "will leave"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "type": "SINGLE_CHOICE",
+      "skill": "VOCABULARY",
+      "levelId": 5,
+      "content": "The data strongly ___ the theory; no contradictory evidence was found.",
+      "explanation": "\"corroborate\" = củng cố, xác nhận.",
+      "difficulty": 5,
+      "points": 2,
+      "options": [
+        {
+          "id": 73,
+          "content": "corroborates",
+          "correct": true
+        },
+        {
+          "id": 74,
+          "content": "contradicts"
+        },
+        {
+          "id": 75,
+          "content": "neglects"
+        },
+        {
+          "id": 76,
+          "content": "diminishes"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "type": "SINGLE_CHOICE",
+      "skill": "READING",
+      "levelId": 5,
+      "content": "The writer's view of urbanisation is best described as ___.",
+      "passage": "While urbanisation has lifted millions out of poverty, it has also placed unprecedented strain on infrastructure, particularly in rapidly expanding megacities.",
+      "explanation": "Nêu cả mặt tích cực và tiêu cực -> quan điểm cân bằng.",
+      "difficulty": 5,
+      "points": 2,
+      "options": [
+        {
+          "id": 77,
+          "content": "entirely positive"
+        },
+        {
+          "id": 78,
+          "content": "entirely negative"
+        },
+        {
+          "id": 79,
+          "content": "balanced",
+          "correct": true
+        },
+        {
+          "id": 80,
+          "content": "indifferent"
+        }
+      ]
+    }
+  ]
+}

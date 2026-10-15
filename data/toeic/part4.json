@@ -1,0 +1,361 @@
+{
+  "part": 4,
+  "title": "Part 4 - Bài nói ngắn",
+  "description": "Nghe các bài nói ngắn của một người (thông báo, tin nhắn thoại, quảng cáo, bản tin, hướng dẫn...) và trả lời ba câu hỏi cho mỗi bài. Hãy đọc trước câu hỏi để biết cần tập trung nghe thông tin gì.",
+  "items": [
+    {
+      "id": "p4-01",
+      "title": "Store closing announcement",
+      "type": "announcement",
+      "speakers": [{ "name": "Speaker", "voice": "female" }],
+      "script": [
+        { "speaker": "Speaker", "text": "Attention, shoppers. Thank you for visiting Greenfield Home Center. Please note that the store will be closing in thirty minutes, at nine o'clock tonight. We ask that you bring your final selections to the checkout counters at the front of the store." },
+        { "speaker": "Speaker", "text": "If you're shopping for paint, please be aware that our paint mixing station has already closed for the evening. It will reopen tomorrow morning at eight." },
+        { "speaker": "Speaker", "text": "Also, don't forget that our spring garden sale continues through Sunday. All outdoor furniture and plants are thirty percent off. And members of our rewards program receive an additional five percent discount at the register. Thank you for shopping with us, and have a good night." }
+      ],
+      "questions": [
+        {
+          "id": "p4-01-1",
+          "question": "Where is the announcement being made?",
+          "options": ["At a supermarket", "At a home improvement store", "At a public garden", "At a furniture factory"],
+          "answer": 1,
+          "explanation": "'Thank you for visiting Greenfield Home Center' và cửa hàng bán sơn, đồ nội thất ngoài trời, cây cảnh — đây là cửa hàng đồ gia dụng và sửa chữa nhà cửa."
+        },
+        {
+          "id": "p4-01-2",
+          "question": "What does the speaker say about the paint mixing station?",
+          "options": ["It is closed for the night.", "It has moved to another area.", "It has new equipment.", "It offers a discount."],
+          "answer": 0,
+          "explanation": "'our paint mixing station has already closed for the evening' — quầy pha sơn đã đóng cửa tối nay, sáng mai 8 giờ mở lại."
+        },
+        {
+          "id": "p4-01-3",
+          "question": "Who can receive an extra discount?",
+          "options": ["First-time customers", "Store employees", "Rewards program members", "Customers who spend over one hundred dollars"],
+          "answer": 2,
+          "explanation": "'members of our rewards program receive an additional five percent discount' — thành viên chương trình khách hàng thân thiết được giảm thêm 5%."
+        }
+      ],
+      "translation": "Speaker: Xin quý khách chú ý. Cảm ơn quý khách đã đến Greenfield Home Center. Xin lưu ý cửa hàng sẽ đóng cửa sau 30 phút nữa, lúc 9 giờ tối nay. Đề nghị quý khách mang những món hàng đã chọn đến quầy thanh toán ở phía trước cửa hàng.\nSpeaker: Nếu quý khách đang mua sơn, xin lưu ý quầy pha sơn của chúng tôi đã đóng cửa tối nay. Quầy sẽ mở lại lúc 8 giờ sáng mai.\nSpeaker: Ngoài ra, đừng quên chương trình giảm giá đồ làm vườn mùa xuân kéo dài đến hết Chủ nhật. Tất cả đồ nội thất ngoài trời và cây cảnh đều giảm 30%. Thành viên chương trình khách hàng thân thiết được giảm thêm 5% khi thanh toán. Cảm ơn quý khách đã mua sắm cùng chúng tôi, chúc quý khách buổi tối vui vẻ."
+    },
+    {
+      "id": "p4-02",
+      "title": "Message from a car repair shop",
+      "type": "voicemail",
+      "speakers": [{ "name": "Speaker", "voice": "male" }],
+      "script": [
+        { "speaker": "Speaker", "text": "Hi, Ms. Patel. This is Gary Owens from Owens Auto Repair. I'm calling about your car, which you dropped off this morning for a brake inspection. We checked the brakes, and they're in good condition, so there's nothing to worry about there." },
+        { "speaker": "Speaker", "text": "However, our mechanic noticed that two of your tires are quite worn. We could order the same brand you have now, but that would cost about three hundred dollars, and the tires wouldn't arrive until Thursday. Now, your car is twelve years old. We do have some more affordable tires here in the shop." },
+        { "speaker": "Speaker", "text": "Please give me a call back at five five five, two zero one eight, to let me know how you'd like to proceed. We're open until six this evening." }
+      ],
+      "questions": [
+        {
+          "id": "p4-02-1",
+          "question": "Why did Ms. Patel bring her car to the shop?",
+          "options": ["For an oil change", "To replace her tires", "For a brake inspection", "To repair a window"],
+          "answer": 2,
+          "explanation": "'your car, which you dropped off this morning for a brake inspection' — mang xe đến để kiểm tra phanh. Lốp xe là vấn đề thợ phát hiện thêm."
+        },
+        {
+          "id": "p4-02-2",
+          "question": "Why does the speaker say, \"your car is twelve years old\"?",
+          "options": ["To explain a delay", "To suggest a less expensive option", "To recommend buying a new car", "To correct a mistake in a record"],
+          "answer": 1,
+          "explanation": "Câu hỏi hàm ý: sau khi nói lốp cùng hãng tốn khoảng 300 đô la và phải chờ, ông nhắc xe đã 12 năm tuổi rồi nói cửa hàng có lốp rẻ hơn — ngụ ý xe cũ không cần lốp đắt, nên chọn loại rẻ hơn."
+        },
+        {
+          "id": "p4-02-3",
+          "question": "What does the speaker ask Ms. Patel to do?",
+          "options": ["Return his call", "Pick up her car tomorrow", "Pay a deposit", "Visit a supplier"],
+          "answer": 0,
+          "explanation": "'Please give me a call back' — gọi lại cho ông để cho biết quyết định."
+        }
+      ],
+      "translation": "Speaker: Chào cô Patel. Tôi là Gary Owens từ Owens Auto Repair. Tôi gọi về chiếc xe cô gửi sáng nay để kiểm tra phanh. Chúng tôi đã kiểm tra phanh, phanh vẫn tốt, nên cô không cần lo về phần đó.\nSpeaker: Tuy nhiên, thợ của chúng tôi thấy hai lốp xe của cô đã khá mòn. Chúng tôi có thể đặt đúng hãng lốp cô đang dùng, nhưng sẽ tốn khoảng 300 đô la và phải đến thứ Năm lốp mới về. Mà xe của cô đã 12 năm tuổi rồi. Chúng tôi có sẵn một số loại lốp giá phải chăng hơn ngay tại cửa hàng.\nSpeaker: Vui lòng gọi lại cho tôi theo số 555-2018 để cho tôi biết cô muốn xử lý thế nào. Chúng tôi mở cửa đến 6 giờ tối nay."
+    },
+    {
+      "id": "p4-03",
+      "title": "Storage company advertisement",
+      "type": "radio advertisement",
+      "speakers": [{ "name": "Speaker", "voice": "female" }],
+      "script": [
+        { "speaker": "Speaker", "text": "Is your office feeling cramped and cluttered? Then it's time to call Clearspace Storage Solutions. For over fifteen years, we've helped businesses in the Riverton area organize their files, furniture, and equipment." },
+        { "speaker": "Speaker", "text": "Our secure storage units are monitored twenty-four hours a day, and they come in a range of sizes to fit any budget. Need help moving your items? Our professional team will pick everything up from your office at no extra charge." },
+        { "speaker": "Speaker", "text": "And this month only, new customers who sign a six-month contract will receive their first month free. Visit our Web site at clearspace storage dot com to see our unit sizes and book a free consultation today." }
+      ],
+      "questions": [
+        {
+          "id": "p4-03-1",
+          "question": "What is being advertised?",
+          "options": ["An office furniture store", "A cleaning service", "A moving truck rental", "A storage company"],
+          "answer": 3,
+          "explanation": "Quảng cáo cho 'Clearspace Storage Solutions' với 'secure storage units' — công ty cho thuê kho lưu trữ."
+        },
+        {
+          "id": "p4-03-2",
+          "question": "What service is offered at no extra charge?",
+          "options": ["Item pickup", "Interior design", "Insurance", "Office cleaning"],
+          "answer": 0,
+          "explanation": "'Our professional team will pick everything up from your office at no extra charge' — dịch vụ đến lấy đồ miễn phí."
+        },
+        {
+          "id": "p4-03-3",
+          "question": "How can new customers get a free month?",
+          "options": ["By referring a friend", "By signing a six-month contract", "By booking online", "By paying in advance"],
+          "answer": 1,
+          "explanation": "'new customers who sign a six-month contract will receive their first month free'. Đặt lịch trực tuyến là để được tư vấn miễn phí, không phải được miễn phí một tháng."
+        }
+      ],
+      "translation": "Speaker: Văn phòng của bạn đang chật chội và bừa bộn? Vậy đã đến lúc gọi cho Clearspace Storage Solutions. Hơn 15 năm qua, chúng tôi đã giúp các doanh nghiệp ở khu vực Riverton sắp xếp hồ sơ, đồ nội thất và thiết bị.\nSpeaker: Các kho lưu trữ an toàn của chúng tôi được giám sát 24 giờ mỗi ngày, với nhiều kích cỡ phù hợp mọi ngân sách. Cần giúp chuyển đồ? Đội ngũ chuyên nghiệp của chúng tôi sẽ đến văn phòng lấy mọi thứ mà không tính thêm phí.\nSpeaker: Và chỉ trong tháng này, khách hàng mới ký hợp đồng sáu tháng sẽ được miễn phí tháng đầu tiên. Hãy truy cập trang web clearspacestorage.com để xem các kích cỡ kho và đặt lịch tư vấn miễn phí ngay hôm nay."
+    },
+    {
+      "id": "p4-04",
+      "title": "New public library approved",
+      "type": "news report",
+      "speakers": [{ "name": "Speaker", "voice": "male" }],
+      "script": [
+        { "speaker": "Speaker", "text": "In local news, the city council voted last night to approve the construction of a new public library in the Eastgate neighborhood. The three-story building will include a children's reading room, a computer lab, and a community meeting hall." },
+        { "speaker": "Speaker", "text": "Council member Diane Brooks said the project was a response to the rapid population growth in the area over the past ten years. Construction is expected to begin in March and take about eighteen months to complete." },
+        { "speaker": "Speaker", "text": "During construction, Lake Avenue will be reduced to one lane between Fifth and Seventh Streets. Drivers are advised to use Pine Road as an alternative route. Stay tuned for the weather forecast after this short break." }
+      ],
+      "questions": [
+        {
+          "id": "p4-04-1",
+          "question": "What is the report mainly about?",
+          "options": ["A new library", "A road repair project", "A city election", "A population survey"],
+          "answer": 0,
+          "explanation": "Bản tin nói về việc hội đồng thành phố 'approve the construction of a new public library' — xây thư viện mới. Việc thu hẹp đường chỉ là thông tin phụ."
+        },
+        {
+          "id": "p4-04-2",
+          "question": "According to Diane Brooks, why is the project needed?",
+          "options": ["Old buildings are unsafe.", "The local population has grown.", "Residents signed a petition.", "A school has closed."],
+          "answer": 1,
+          "explanation": "Bà Brooks nói dự án là 'a response to the rapid population growth in the area' — dân số khu vực tăng nhanh."
+        },
+        {
+          "id": "p4-04-3",
+          "question": "What are drivers advised to do?",
+          "options": ["Avoid driving in the morning", "Take public transportation", "Park on Fifth Street", "Use Pine Road"],
+          "answer": 3,
+          "explanation": "'Drivers are advised to use Pine Road as an alternative route' — đi đường Pine Road thay thế."
+        }
+      ],
+      "translation": "Speaker: Tin địa phương: tối qua hội đồng thành phố đã bỏ phiếu thông qua việc xây dựng một thư viện công cộng mới ở khu Eastgate. Tòa nhà ba tầng sẽ có phòng đọc cho trẻ em, phòng máy tính và hội trường sinh hoạt cộng đồng.\nSpeaker: Thành viên hội đồng Diane Brooks cho biết dự án này nhằm đáp ứng sự gia tăng dân số nhanh chóng trong khu vực suốt mười năm qua. Việc xây dựng dự kiến bắt đầu vào tháng Ba và mất khoảng 18 tháng để hoàn thành.\nSpeaker: Trong thời gian thi công, đại lộ Lake sẽ bị thu hẹp còn một làn xe giữa đường số Năm và đường số Bảy. Tài xế được khuyên đi đường Pine Road thay thế. Hãy tiếp tục theo dõi dự báo thời tiết sau đoạn nghỉ ngắn."
+    },
+    {
+      "id": "p4-05",
+      "title": "Juice factory tour",
+      "type": "tour guide talk",
+      "speakers": [{ "name": "Speaker", "voice": "female" }],
+      "graphic": {
+        "title": "Factory Tour Route",
+        "text": "Stop 1   Visitor Center\nStop 2   Bottling Line\nStop 3   Quality Testing Lab\nStop 4   Gift Shop"
+      },
+      "script": [
+        { "speaker": "Speaker", "text": "Welcome to the Sunvale Juice Company factory tour. My name is Erin, and I'll be your guide this morning. The tour will take about an hour, and we'll normally make four stops along the way." },
+        { "speaker": "Speaker", "text": "Before we begin, please put on the safety glasses you were given at the entrance. You'll need to wear them throughout the tour, except at our final stop, where you'll be able to buy our products and souvenirs." },
+        { "speaker": "Speaker", "text": "Unfortunately, the machines that fill our bottles are being serviced today, so we'll skip that stop and go directly to the lab where we test our juice. There, you'll get to taste some of our new flavors before they reach stores. Now, please follow me, and stay together as a group." }
+      ],
+      "questions": [
+        {
+          "id": "p4-05-1",
+          "question": "Who most likely are the listeners?",
+          "options": ["Visitors on a tour", "Factory workers", "Store managers", "Safety inspectors"],
+          "answer": 0,
+          "explanation": "Người nói chào mừng mọi người đến 'factory tour' và tự giới thiệu là hướng dẫn viên — người nghe là khách tham quan."
+        },
+        {
+          "id": "p4-05-2",
+          "question": "What are the listeners asked to do?",
+          "options": ["Turn off their phones", "Sign a form", "Wear safety glasses", "Leave their bags at the entrance"],
+          "answer": 2,
+          "explanation": "'please put on the safety glasses you were given at the entrance' — đeo kính bảo hộ."
+        },
+        {
+          "id": "p4-05-3",
+          "question": "Look at the graphic. Which stop will be skipped today?",
+          "options": ["Stop 1", "Stop 2", "Stop 3", "Stop 4"],
+          "answer": 1,
+          "explanation": "Người nói cho biết máy đóng chai (machines that fill our bottles) đang bảo trì nên sẽ bỏ qua điểm đó. Theo lộ trình, Bottling Line là Stop 2."
+        }
+      ],
+      "translation": "Speaker: Chào mừng các bạn đến với chuyến tham quan nhà máy của Công ty Nước ép Sunvale. Tôi tên là Erin, tôi sẽ là hướng dẫn viên của các bạn sáng nay. Chuyến tham quan kéo dài khoảng một giờ và thường có bốn điểm dừng.\nSpeaker: Trước khi bắt đầu, vui lòng đeo kính bảo hộ đã được phát ở lối vào. Các bạn cần đeo kính suốt chuyến tham quan, trừ điểm dừng cuối cùng, nơi các bạn có thể mua sản phẩm và quà lưu niệm.\nSpeaker: Thật không may, hôm nay máy chiết rót chai đang được bảo trì, nên chúng ta sẽ bỏ qua điểm đó và đi thẳng đến phòng thí nghiệm kiểm tra nước ép. Ở đó, các bạn sẽ được nếm thử một số hương vị mới trước khi chúng được bán ở cửa hàng. Giờ thì mời các bạn đi theo tôi và đi cùng nhau thành một nhóm."
+    },
+    {
+      "id": "p4-06",
+      "title": "Customer survey results",
+      "type": "meeting excerpt",
+      "speakers": [{ "name": "Speaker", "voice": "male" }],
+      "script": [
+        { "speaker": "Speaker", "text": "Good morning, everyone. Before we start, I'd like to share some results from last month's customer survey. Overall, customers are happy with our products, but many of them said that our delivery times are too long. On average, orders take seven days to arrive, while most of our competitors deliver within four." },
+        { "speaker": "Speaker", "text": "To address this, we've signed a contract with a second shipping company, Rapid Lane Logistics, which will handle all orders from the northern region starting next month." },
+        { "speaker": "Speaker", "text": "I'd also like each team leader to look at how orders are processed in your department and suggest ways to speed things up. Please send your ideas to me by Friday, and we'll discuss them at next week's meeting." }
+      ],
+      "questions": [
+        {
+          "id": "p4-06-1",
+          "question": "What did customers complain about?",
+          "options": ["Product quality", "High prices", "Rude staff", "Delivery times"],
+          "answer": 3,
+          "explanation": "'many of them said that our delivery times are too long' — thời gian giao hàng quá lâu. Khách hàng hài lòng với sản phẩm nên (A) sai."
+        },
+        {
+          "id": "p4-06-2",
+          "question": "What will happen next month?",
+          "options": ["A new shipping company will start handling some orders.", "Another survey will be conducted.", "Prices will be reduced.", "A new warehouse will open."],
+          "answer": 0,
+          "explanation": "Công ty vận chuyển thứ hai, Rapid Lane Logistics, 'will handle all orders from the northern region starting next month'."
+        },
+        {
+          "id": "p4-06-3",
+          "question": "What are team leaders asked to do?",
+          "options": ["Hire more staff", "Contact customers", "Suggest improvements", "Prepare a budget"],
+          "answer": 2,
+          "explanation": "Trưởng nhóm được yêu cầu 'suggest ways to speed things up' — đề xuất cách cải thiện, gửi trước thứ Sáu."
+        }
+      ],
+      "translation": "Speaker: Chào buổi sáng mọi người. Trước khi bắt đầu, tôi muốn chia sẻ một số kết quả từ cuộc khảo sát khách hàng tháng trước. Nhìn chung, khách hàng hài lòng với sản phẩm của chúng ta, nhưng nhiều người cho rằng thời gian giao hàng quá lâu. Trung bình đơn hàng mất bảy ngày mới đến, trong khi hầu hết đối thủ giao trong vòng bốn ngày.\nSpeaker: Để giải quyết vấn đề này, chúng ta đã ký hợp đồng với công ty vận chuyển thứ hai, Rapid Lane Logistics, sẽ đảm nhận tất cả đơn hàng từ khu vực phía bắc bắt đầu từ tháng sau.\nSpeaker: Tôi cũng muốn mỗi trưởng nhóm xem lại cách xử lý đơn hàng trong bộ phận của mình và đề xuất cách đẩy nhanh tiến độ. Vui lòng gửi ý tưởng cho tôi trước thứ Sáu, chúng ta sẽ thảo luận trong cuộc họp tuần sau."
+    },
+    {
+      "id": "p4-07",
+      "title": "Training new front desk staff",
+      "type": "instructions",
+      "speakers": [{ "name": "Speaker", "voice": "female" }],
+      "script": [
+        { "speaker": "Speaker", "text": "Welcome to your first day at the Harborview Hotel. This morning, I'll explain how to check guests in using our new reservation system. First, ask the guest for their confirmation number or last name, and type it into the search box at the top of the screen." },
+        { "speaker": "Speaker", "text": "Once you find the reservation, check the guest's photo ID and confirm the dates of their stay. Then, select a room from the list of available rooms and click Assign. The system will automatically program the room key." },
+        { "speaker": "Speaker", "text": "If you have any problems, don't try to fix them yourself. Call the front office manager, Mr. Alvarez, at extension two zero four. After lunch, you'll practice using the system with some sample reservations." }
+      ],
+      "questions": [
+        {
+          "id": "p4-07-1",
+          "question": "Who most likely are the listeners?",
+          "options": ["Hotel guests", "Computer technicians", "Travel agents", "New hotel employees"],
+          "answer": 3,
+          "explanation": "'Welcome to your first day at the Harborview Hotel' và hướng dẫn làm thủ tục nhận phòng — người nghe là nhân viên mới của khách sạn."
+        },
+        {
+          "id": "p4-07-2",
+          "question": "What does the system do automatically?",
+          "options": ["It programs a room key.", "It prints a receipt.", "It sends a confirmation e-mail.", "It charges a credit card."],
+          "answer": 0,
+          "explanation": "'The system will automatically program the room key' — hệ thống tự động cài đặt thẻ khóa phòng."
+        },
+        {
+          "id": "p4-07-3",
+          "question": "What will the listeners do after lunch?",
+          "options": ["Meet Mr. Alvarez", "Tour the hotel", "Practice with sample reservations", "Take a written test"],
+          "answer": 2,
+          "explanation": "'After lunch, you'll practice using the system with some sample reservations'. Ông Alvarez chỉ được nhắc đến như người cần gọi khi có sự cố."
+        }
+      ],
+      "translation": "Speaker: Chào mừng các bạn đến với ngày làm việc đầu tiên tại khách sạn Harborview. Sáng nay, tôi sẽ hướng dẫn cách làm thủ tục nhận phòng cho khách bằng hệ thống đặt phòng mới. Đầu tiên, hãy hỏi khách số xác nhận hoặc họ của họ, rồi gõ vào ô tìm kiếm ở đầu màn hình.\nSpeaker: Khi tìm thấy đặt phòng, hãy kiểm tra giấy tờ tùy thân có ảnh của khách và xác nhận ngày lưu trú. Sau đó, chọn một phòng trong danh sách phòng trống và bấm Assign. Hệ thống sẽ tự động cài đặt thẻ khóa phòng.\nSpeaker: Nếu gặp sự cố, đừng tự sửa. Hãy gọi cho quản lý tiền sảnh, ông Alvarez, theo số máy lẻ 204. Sau bữa trưa, các bạn sẽ thực hành sử dụng hệ thống với một số đặt phòng mẫu."
+    },
+    {
+      "id": "p4-08",
+      "title": "Flight delay announcement",
+      "type": "announcement",
+      "speakers": [{ "name": "Speaker", "voice": "male" }],
+      "script": [
+        { "speaker": "Speaker", "text": "Good afternoon, passengers on Skyline Airways flight two seventy-one to Vancouver. We regret to inform you that this flight has been delayed due to a mechanical issue. Our maintenance crew is inspecting the aircraft now, and we expect to begin boarding at approximately four forty-five, about ninety minutes later than scheduled." },
+        { "speaker": "Speaker", "text": "We apologize for the inconvenience. To thank you for your patience, each passenger will receive a meal voucher worth fifteen dollars, which can be used at any restaurant in this terminal. Please come to the counter at Gate twenty-three to pick one up." },
+        { "speaker": "Speaker", "text": "Passengers with connecting flights in Vancouver should speak with one of our agents, who can help you rebook if necessary." }
+      ],
+      "questions": [
+        {
+          "id": "p4-08-1",
+          "question": "Why has the flight been delayed?",
+          "options": ["Bad weather", "A crew shortage", "A mechanical problem", "Heavy air traffic"],
+          "answer": 2,
+          "explanation": "'this flight has been delayed due to a mechanical issue' — do sự cố kỹ thuật."
+        },
+        {
+          "id": "p4-08-2",
+          "question": "What will passengers receive?",
+          "options": ["A seat upgrade", "A travel bag", "Extra reward miles", "A meal voucher"],
+          "answer": 3,
+          "explanation": "'each passenger will receive a meal voucher worth fifteen dollars' — phiếu ăn trị giá 15 đô la."
+        },
+        {
+          "id": "p4-08-3",
+          "question": "Who should speak with an agent?",
+          "options": ["Passengers with connecting flights", "Passengers with large bags", "Passengers who need wheelchairs", "Passengers traveling with children"],
+          "answer": 0,
+          "explanation": "'Passengers with connecting flights in Vancouver should speak with one of our agents' — hành khách có chuyến bay nối chuyến."
+        }
+      ],
+      "translation": "Speaker: Xin chào quý hành khách chuyến bay 271 của Skyline Airways đi Vancouver. Chúng tôi rất tiếc phải thông báo chuyến bay này bị hoãn do sự cố kỹ thuật. Đội bảo trì đang kiểm tra máy bay, và chúng tôi dự kiến bắt đầu lên máy bay vào khoảng 4 giờ 45, muộn hơn khoảng 90 phút so với lịch.\nSpeaker: Chúng tôi xin lỗi vì sự bất tiện này. Để cảm ơn sự kiên nhẫn của quý khách, mỗi hành khách sẽ nhận được một phiếu ăn trị giá 15 đô la, có thể dùng tại bất kỳ nhà hàng nào trong nhà ga này. Vui lòng đến quầy tại Cổng 23 để nhận phiếu.\nSpeaker: Hành khách có chuyến bay nối chuyến tại Vancouver vui lòng gặp một trong các nhân viên của chúng tôi, họ có thể giúp quý khách đổi chuyến nếu cần."
+    },
+    {
+      "id": "p4-09",
+      "title": "Event rental voicemail",
+      "type": "voicemail",
+      "speakers": [{ "name": "Speaker", "voice": "female" }],
+      "script": [
+        { "speaker": "Speaker", "text": "Hello, Mr. Novak. This is Joanna from Bluebird Event Rentals, returning your call about renting tables and chairs for your company picnic on Saturday the eighteenth. Good news: we have enough tables and chairs available for that date." },
+        { "speaker": "Speaker", "text": "You also asked about tents in case of rain. Our large tents are all reserved that weekend, but we do have several medium-sized ones, which each hold about forty people. Two of those should be enough for your group." },
+        { "speaker": "Speaker", "text": "To confirm the order, we'll need a deposit of one hundred dollars. You can pay online or stop by our office on Elm Street. Also, please let me know the address of the park so our crew can deliver everything on Saturday morning." }
+      ],
+      "questions": [
+        {
+          "id": "p4-09-1",
+          "question": "What event is Mr. Novak planning?",
+          "options": ["A wedding", "A company picnic", "A concert", "A sports tournament"],
+          "answer": 1,
+          "explanation": "'for your company picnic on Saturday the eighteenth' — buổi dã ngoại của công ty."
+        },
+        {
+          "id": "p4-09-2",
+          "question": "What does the speaker say about the large tents?",
+          "options": ["They are expensive.", "They take two days to set up.", "They are unavailable.", "They hold forty people."],
+          "answer": 2,
+          "explanation": "'Our large tents are all reserved that weekend' — lều lớn đã được đặt hết. Bẫy: 'hold about forty people' là thông tin về lều cỡ vừa."
+        },
+        {
+          "id": "p4-09-3",
+          "question": "What information does the speaker request?",
+          "options": ["A credit card number", "The number of guests", "A delivery time", "The location of the event"],
+          "answer": 3,
+          "explanation": "'please let me know the address of the park' — cần địa chỉ công viên nơi tổ chức sự kiện."
+        }
+      ],
+      "translation": "Speaker: Xin chào anh Novak. Tôi là Joanna từ Bluebird Event Rentals, gọi lại cho anh về việc thuê bàn ghế cho buổi dã ngoại của công ty anh vào thứ Bảy ngày 18. Tin tốt là chúng tôi có đủ bàn ghế cho ngày đó.\nSpeaker: Anh cũng hỏi về lều phòng khi trời mưa. Lều lớn của chúng tôi đã được đặt hết vào cuối tuần đó, nhưng chúng tôi còn vài lều cỡ vừa, mỗi lều chứa khoảng 40 người. Hai lều như vậy chắc là đủ cho nhóm của anh.\nSpeaker: Để xác nhận đơn hàng, chúng tôi cần khoản đặt cọc 100 đô la. Anh có thể thanh toán trực tuyến hoặc ghé văn phòng của chúng tôi trên phố Elm. Ngoài ra, vui lòng cho tôi biết địa chỉ công viên để đội của chúng tôi giao mọi thứ vào sáng thứ Bảy."
+    },
+    {
+      "id": "p4-10",
+      "title": "Business news update",
+      "type": "news report",
+      "speakers": [{ "name": "Speaker", "voice": "male" }],
+      "script": [
+        { "speaker": "Speaker", "text": "This is Sam Ortiz with your business update. Electronics maker Vantro Technologies announced this morning that it will open a new research center in Millbrook next spring. The center is expected to create around three hundred jobs, mostly for engineers and software developers." },
+        { "speaker": "Speaker", "text": "Vantro chose Millbrook because of its close partnership with Millbrook University, which has one of the top engineering programs in the country. The company plans to offer internships to students at the university starting next summer." },
+        { "speaker": "Speaker", "text": "Local business owners have welcomed the news. The owner of a cafe near the planned site told us she expects her sales to increase significantly. We'll have more on this story at six o'clock." }
+      ],
+      "questions": [
+        {
+          "id": "p4-10-1",
+          "question": "What did Vantro Technologies announce?",
+          "options": ["A new research center", "A merger", "A new product", "A change in leadership"],
+          "answer": 0,
+          "explanation": "'it will open a new research center in Millbrook next spring' — mở trung tâm nghiên cứu mới."
+        },
+        {
+          "id": "p4-10-2",
+          "question": "Why did the company choose Millbrook?",
+          "options": ["Its low taxes", "Its partnership with a university", "Its location near an airport", "Its large workforce"],
+          "answer": 1,
+          "explanation": "'Vantro chose Millbrook because of its close partnership with Millbrook University' — mối quan hệ hợp tác với trường đại học."
+        },
+        {
+          "id": "p4-10-3",
+          "question": "What does the cafe owner expect?",
+          "options": ["Her rent will rise.", "She will hire students.", "Her sales will increase.", "She will move her business."],
+          "answer": 2,
+          "explanation": "'she expects her sales to increase significantly' — bà dự đoán doanh số sẽ tăng đáng kể. Thực tập sinh là kế hoạch của Vantro, không phải của quán cà phê."
+        }
+      ],
+      "translation": "Speaker: Tôi là Sam Ortiz với bản tin kinh doanh. Sáng nay, nhà sản xuất điện tử Vantro Technologies thông báo sẽ mở một trung tâm nghiên cứu mới ở Millbrook vào mùa xuân tới. Trung tâm dự kiến tạo ra khoảng 300 việc làm, chủ yếu cho kỹ sư và lập trình viên phần mềm.\nSpeaker: Vantro chọn Millbrook vì mối quan hệ hợp tác chặt chẽ với Đại học Millbrook, nơi có một trong những chương trình kỹ thuật hàng đầu cả nước. Công ty dự định nhận sinh viên của trường vào thực tập bắt đầu từ mùa hè tới.\nSpeaker: Các chủ doanh nghiệp địa phương hoan nghênh tin này. Chủ một quán cà phê gần khu đất dự kiến cho biết bà mong doanh số sẽ tăng đáng kể. Chúng tôi sẽ đưa thêm thông tin về tin này lúc 6 giờ."
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "part": 6,
+  "title": "Part 6 - Hoàn thành đoạn văn",
+  "description": "Đọc các đoạn văn và chọn từ, cụm từ hoặc câu thích hợp nhất để điền vào mỗi chỗ trống.",
+  "items": [
+    {
+      "id": "p6-01",
+      "type": "email",
+      "title": "Email: New parking procedures",
+      "text": "To: All staff\nFrom: Facilities Department\nSubject: New parking procedures\n\nDear staff,\n\nStarting on Monday, June 3, all employees will need a parking permit to use the company garage. Permits {{1}} at the security office on the ground floor from May 20. To receive one, please bring your employee ID card and your vehicle registration.\n\nBecause the number of spaces is limited, permits will be issued on a first-come, first-served basis. {{2}}, employees who are not able to obtain a permit may park at the Greenway public lot, located two blocks away. The company will cover the full cost of parking there.\n\n{{3}} We hope this arrangement will also reduce congestion at the garage entrance during peak hours.\n\nWe appreciate your {{4}} during this transition. If you have any questions, please contact Leo Barnes at extension 214.\n\nFacilities Department",
+      "translation": "Gửi: Toàn thể nhân viên\nTừ: Phòng Cơ sở vật chất\nChủ đề: Quy trình đỗ xe mới\n\nThưa các anh chị,\n\nBắt đầu từ thứ Hai, ngày 3 tháng 6, tất cả nhân viên sẽ cần giấy phép đỗ xe để sử dụng nhà xe của công ty. Giấy phép sẽ được phát tại phòng bảo vệ ở tầng trệt từ ngày 20 tháng 5. Để nhận giấy phép, vui lòng mang theo thẻ nhân viên và giấy đăng ký xe.\n\nVì số chỗ đỗ có hạn, giấy phép sẽ được cấp theo thứ tự ai đến trước được phục vụ trước. Tuy nhiên, những nhân viên không nhận được giấy phép có thể đỗ xe tại bãi công cộng Greenway, cách đây hai dãy nhà. Công ty sẽ chi trả toàn bộ phí đỗ xe ở đó.\n\nXe buýt đưa đón sẽ chạy giữa bãi xe và tòa nhà của chúng ta mỗi 15 phút. Chúng tôi hy vọng sự sắp xếp này cũng sẽ giảm ùn tắc ở lối vào nhà xe vào giờ cao điểm.\n\nChúng tôi cảm ơn sự hợp tác của các anh chị trong giai đoạn chuyển đổi này. Nếu có câu hỏi, vui lòng liên hệ Leo Barnes qua số máy lẻ 214.\n\nPhòng Cơ sở vật chất",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "will be distributed",
+            "will distribute",
+            "distributing",
+            "have distributed"
+          ],
+          "answer": 0,
+          "explanation": "Giấy phép 'được phát' → bị động; mốc 'from May 20' trước ngày áp dụng 3/6 → tương lai: 'will be distributed'. 'will distribute' là chủ động, sai nghĩa; 'distributing' không làm động từ chính."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "Previously",
+            "However",
+            "Similarly",
+            "For example"
+          ],
+          "answer": 1,
+          "explanation": "Câu trước nói chỗ đỗ có hạn (không phải ai cũng có giấy phép), câu sau đưa ra giải pháp thay thế → ý chuyển hướng 'However' (tuy nhiên). 'Previously' (trước đây) mâu thuẫn với quy định mới và thì tương lai 'will cover'; 'Similarly' (tương tự), 'For example' (ví dụ) không hợp logic."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "The garage was built in 1998 and has three levels.",
+            "Employees are encouraged to apply for the open positions.",
+            "Shuttle buses will run between the lot and our building every 15 minutes.",
+            "The cafeteria will serve breakfast starting at 7 A.M."
+          ],
+          "answer": 2,
+          "explanation": "Câu tiếp theo nhắc đến 'this arrangement' và việc giảm ùn tắc → câu cần điền phải bổ sung cho phương án bãi đỗ Greenway: xe buýt đưa đón. Các câu khác (năm xây nhà xe, tuyển dụng, nhà ăn) không liên quan."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "cooperate",
+            "cooperation",
+            "cooperative",
+            "cooperatively"
+          ],
+          "answer": 1,
+          "explanation": "Sau tính từ sở hữu 'your' cần danh từ → 'cooperation' (sự hợp tác). 'cooperate' là động từ, 'cooperative' là tính từ, 'cooperatively' là trạng từ."
+        }
+      ]
+    },
+    {
+      "id": "p6-02",
+      "type": "memo",
+      "title": "Memo: Safety inspection",
+      "text": "To: Warehouse staff\nFrom: Dana Whitfield, Operations Manager\nDate: March 12\nSubject: Safety inspection\n\nPlease be aware that an inspector from the regional safety board will visit our warehouse on Thursday, March 21. The inspection is {{1}} and is carried out at all of our distribution centers twice a year.\n\nBefore the visit, supervisors should make sure that all aisles are clear and that fire exits are not blocked. Forklift operators must also check that {{2}} licenses are up to date.\n\n{{3}} The inspector will examine the loading docks first and then move to the storage areas. Normal operations will continue during the inspection, {{4}} some sections may be closed briefly.\n\nIf you have any questions about the inspection, please speak with your supervisor.\n\nThank you for helping us maintain a safe workplace.",
+      "translation": "Gửi: Nhân viên kho\nTừ: Dana Whitfield, Quản lý Vận hành\nNgày: 12 tháng 3\nChủ đề: Kiểm tra an toàn\n\nXin lưu ý rằng một thanh tra viên của cơ quan an toàn khu vực sẽ đến kho của chúng ta vào thứ Năm, ngày 21 tháng 3. Đợt kiểm tra này là định kỳ và được thực hiện tại tất cả các trung tâm phân phối của chúng ta hai lần mỗi năm.\n\nTrước chuyến thăm, các giám sát viên cần đảm bảo mọi lối đi thông thoáng và lối thoát hiểm không bị chặn. Người vận hành xe nâng cũng phải kiểm tra rằng giấy phép của họ còn hiệu lực.\n\nĐợt kiểm tra dự kiến kéo dài khoảng ba giờ. Thanh tra viên sẽ kiểm tra khu bốc dỡ hàng trước, sau đó chuyển sang khu lưu trữ. Hoạt động bình thường sẽ tiếp tục trong khi kiểm tra, mặc dù một số khu vực có thể bị đóng cửa trong thời gian ngắn.\n\nNếu có câu hỏi về đợt kiểm tra, vui lòng trao đổi với giám sát viên của bạn.\n\nCảm ơn các anh chị đã giúp duy trì nơi làm việc an toàn.",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "routinely",
+            "routines",
+            "routinize",
+            "routine"
+          ],
+          "answer": 3,
+          "explanation": "Sau 'is' cần tính từ làm bổ ngữ, song song với 'is carried out ... twice a year' → 'routine' (định kỳ). 'routinely' là trạng từ; 'routines' (danh từ số nhiều) không hợp với chủ ngữ số ít; 'routinize' là động từ."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "his",
+            "their",
+            "its",
+            "your"
+          ],
+          "answer": 1,
+          "explanation": "Thay cho 'Forklift operators' (số nhiều, chỉ người) → 'their'. 'his' số ít, 'its' chỉ vật, 'your' không khớp vì câu nói về người vận hành ở ngôi thứ ba."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "The inspection is expected to last about three hours.",
+            "Our new forklifts were delivered last month.",
+            "The warehouse will hire ten seasonal workers.",
+            "Please submit your vacation requests by Friday."
+          ],
+          "answer": 0,
+          "explanation": "Đoạn này mô tả diễn biến buổi kiểm tra (thứ tự khu vực, hoạt động trong lúc kiểm tra) → câu về thời lượng kiểm tra là phù hợp. Các câu khác về xe nâng mới, tuyển dụng, nghỉ phép lạc đề."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "because",
+            "so",
+            "although",
+            "unless"
+          ],
+          "answer": 2,
+          "explanation": "Hai ý tương phản: hoạt động vẫn tiếp tục, nhưng một số khu vực có thể đóng → 'although'. 'because' (vì), 'so' (vì vậy), 'unless' (trừ khi) sai logic."
+        }
+      ]
+    },
+    {
+      "id": "p6-03",
+      "type": "advertisement",
+      "title": "Advertisement: Brightway Cleaning Services",
+      "text": "Is your office ready for a fresh start?\n\nBrightway Cleaning Services has been helping businesses in the Hamilton area keep their workspaces spotless for over fifteen years.\n\nOur trained staff can clean your offices {{1}} business hours, so your employees are never disturbed. We use only environmentally friendly products that are safe for people and pets. All of our cleaners are fully insured.\n\n{{2}} Simply tell us how often you need us, and we will design a schedule that fits your budget. Whether you need daily, weekly, or monthly service, we are {{3}} to help.\n\nFor a limited time, new customers will receive 20 percent off their first month of service. To {{4}} a free on-site estimate, call 555-0182 or visit www.brightwayclean.com.",
+      "translation": "Văn phòng của bạn đã sẵn sàng cho một khởi đầu mới chưa?\n\nDịch vụ vệ sinh Brightway đã giúp các doanh nghiệp ở khu vực Hamilton giữ nơi làm việc sạch sẽ trong hơn mười lăm năm.\n\nNhân viên được đào tạo của chúng tôi có thể dọn dẹp văn phòng của bạn ngoài giờ làm việc, vì vậy nhân viên của bạn không bao giờ bị làm phiền. Chúng tôi chỉ dùng các sản phẩm thân thiện với môi trường, an toàn cho người và vật nuôi. Tất cả nhân viên vệ sinh của chúng tôi đều được bảo hiểm đầy đủ.\n\nChúng tôi cũng cung cấp các gói dịch vụ linh hoạt. Chỉ cần cho chúng tôi biết bạn cần dọn dẹp thường xuyên đến mức nào, chúng tôi sẽ thiết kế lịch phù hợp với ngân sách của bạn. Dù bạn cần dịch vụ hằng ngày, hằng tuần hay hằng tháng, chúng tôi luôn sẵn sàng hỗ trợ.\n\nTrong thời gian có hạn, khách hàng mới sẽ được giảm 20% cho tháng dịch vụ đầu tiên. Để đặt lịch khảo sát báo giá miễn phí tại chỗ, hãy gọi 555-0182 hoặc truy cập www.brightwayclean.com.",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "outside",
+            "within",
+            "during",
+            "among"
+          ],
+          "answer": 0,
+          "explanation": "Kết quả 'nhân viên không bao giờ bị làm phiền' → dọn dẹp ngoài giờ làm việc: 'outside business hours'. 'within', 'during' (trong giờ làm việc) mâu thuẫn với vế sau; 'among' sai nghĩa."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "Our headquarters moved to a new location last year.",
+            "Several of our employees have won industry awards.",
+            "Please note that we are closed on national holidays.",
+            "We also offer flexible service plans."
+          ],
+          "answer": 3,
+          "explanation": "Câu sau nói về việc thiết kế lịch theo nhu cầu (daily, weekly, monthly) → câu giới thiệu 'gói dịch vụ linh hoạt' dẫn dắt hợp lý. Các câu về trụ sở, giải thưởng, ngày nghỉ không nối với ý tiếp theo."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "readily",
+            "ready",
+            "readiness",
+            "readied"
+          ],
+          "answer": 1,
+          "explanation": "Sau 'are' cần tính từ; cụm 'be ready to do something' = sẵn sàng làm gì. 'readily' là trạng từ; 'readiness' là danh từ; 'readied' (bị động của 'ready' động từ) không hợp nghĩa."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "scheduled",
+            "scheduling",
+            "schedule",
+            "schedules"
+          ],
+          "answer": 2,
+          "explanation": "Sau 'To' chỉ mục đích cần động từ nguyên mẫu → 'schedule' (đặt lịch). Các dạng còn lại không đứng sau 'to' chỉ mục đích."
+        }
+      ]
+    },
+    {
+      "id": "p6-04",
+      "type": "notice",
+      "title": "Notice: Online banking maintenance",
+      "text": "Notice to All Customers\n\nHarbor Trust Bank will be upgrading its online banking system this weekend. This upgrade is part of our ongoing effort to provide safe and convenient services. As a result, the online banking Web site and mobile application will be {{1}} from 11 P.M. on Saturday, October 5, until 6 A.M. on Sunday, October 6.\n\nDuring this period, customers will not be able to view account balances or transfer funds online. {{2}}, ATMs and telephone banking will continue to operate normally.\n\nThe upgrade will introduce several new features, {{3}} a faster login process and improved security settings. {{4}}\n\nIf you need urgent assistance during this time, please call our customer service center at 1-800-555-0140. We apologize for any inconvenience and thank you for banking with Harbor Trust.",
+      "translation": "Thông báo tới toàn thể khách hàng\n\nNgân hàng Harbor Trust sẽ nâng cấp hệ thống ngân hàng trực tuyến vào cuối tuần này. Đợt nâng cấp này là một phần trong nỗ lực không ngừng của chúng tôi nhằm cung cấp dịch vụ an toàn và tiện lợi. Do đó, trang web ngân hàng trực tuyến và ứng dụng di động sẽ không thể sử dụng từ 11 giờ tối thứ Bảy, ngày 5 tháng 10, đến 6 giờ sáng Chủ nhật, ngày 6 tháng 10.\n\nTrong thời gian này, khách hàng sẽ không thể xem số dư tài khoản hoặc chuyển tiền trực tuyến. Tuy nhiên, máy ATM và ngân hàng qua điện thoại vẫn hoạt động bình thường.\n\nĐợt nâng cấp sẽ bổ sung một số tính năng mới, bao gồm quy trình đăng nhập nhanh hơn và cài đặt bảo mật được cải thiện. Một video ngắn giải thích những thay đổi này sẽ được đăng trên trang web của chúng tôi vào tuần tới.\n\nNếu cần hỗ trợ khẩn cấp trong thời gian này, vui lòng gọi trung tâm dịch vụ khách hàng theo số 1-800-555-0140. Chúng tôi xin lỗi vì mọi bất tiện và cảm ơn quý khách đã sử dụng dịch vụ của Harbor Trust.",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "unavailability",
+            "unavailably",
+            "availing",
+            "unavailable"
+          ],
+          "answer": 3,
+          "explanation": "Sau 'will be' cần tính từ → 'unavailable' (không thể sử dụng), hợp với việc bảo trì. 'unavailability' là danh từ, 'unavailably' là trạng từ, 'availing' sai nghĩa."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "Therefore",
+            "However",
+            "Otherwise",
+            "Likewise"
+          ],
+          "answer": 1,
+          "explanation": "Câu trước: không dùng được dịch vụ trực tuyến; câu sau: ATM vẫn hoạt động → tương phản 'However'. 'Therefore' (vì vậy), 'Otherwise' (nếu không), 'Likewise' (tương tự) sai logic."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "included",
+            "includes",
+            "including",
+            "inclusion"
+          ],
+          "answer": 2,
+          "explanation": "Cần giới từ dẫn ra ví dụ sau dấu phẩy → 'including' (bao gồm). 'included' cần đặt sau danh từ; 'includes' là động từ chia, tạo lỗi hai động từ chính; 'inclusion' là danh từ."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "Our branch on Main Street opened in 1972.",
+            "The interest rate on savings accounts has increased twice this year.",
+            "A short video explaining these changes will be posted on our Web site next week.",
+            "Customers must visit a branch to open a new account."
+          ],
+          "answer": 2,
+          "explanation": "Câu trước nói về các tính năng mới → câu tiếp theo về video giải thích 'these changes' liên kết chặt chẽ. Các câu về chi nhánh, lãi suất, mở tài khoản không liên quan đến đợt nâng cấp."
+        }
+      ]
+    },
+    {
+      "id": "p6-05",
+      "type": "article",
+      "title": "Article: Local bakery expands",
+      "text": "OAKDALE (May 8) — Sunrise Bakery, a family-owned business that opened on Elm Street in 2012, {{1}} its second location next month. The new store will be in the Riverside Shopping Center.\n\nOwner Maria Delgado said that the decision to expand was driven by growing demand. \"Every weekend, we have long lines of customers waiting outside,\" she said. \"{{2}}\"\n\nThe Riverside store will be {{3}} larger than the original shop and will include a seating area for 40 people. It will also offer a lunch menu featuring soups and sandwiches. The bakery's popular cinnamon rolls will be available at both locations.\n\nMs. Delgado plans to hire twelve new employees for the location. Those {{4}} in applying can find more information on the bakery's Web site. Applications will be accepted until May 31.",
+      "translation": "OAKDALE (8 tháng 5) — Tiệm bánh Sunrise, một doanh nghiệp gia đình mở cửa trên phố Elm vào năm 2012, sẽ khai trương cơ sở thứ hai vào tháng tới. Cửa hàng mới sẽ nằm trong Trung tâm Mua sắm Riverside.\n\nChủ tiệm Maria Delgado cho biết quyết định mở rộng xuất phát từ nhu cầu ngày càng tăng. \"Mỗi cuối tuần, chúng tôi có hàng dài khách đứng chờ bên ngoài,\" bà nói. \"Một cửa hàng thứ hai sẽ giúp chúng tôi phục vụ nhiều người hơn mà không phải để khách chờ lâu như vậy.\"\n\nCửa hàng Riverside sẽ lớn hơn đáng kể so với cửa hàng ban đầu và sẽ có khu chỗ ngồi cho 40 người. Cửa hàng cũng sẽ có thực đơn bữa trưa với súp và bánh mì kẹp. Món bánh quế cuộn nổi tiếng của tiệm sẽ có bán ở cả hai cơ sở.\n\nBà Delgado dự định tuyển mười hai nhân viên mới cho cơ sở này. Những ai quan tâm đến việc ứng tuyển có thể tìm thêm thông tin trên trang web của tiệm bánh. Đơn ứng tuyển sẽ được nhận đến hết ngày 31 tháng 5.",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "opened",
+            "will open",
+            "has opened",
+            "was opening"
+          ],
+          "answer": 1,
+          "explanation": "'next month' chỉ tương lai → 'will open'. Các thì quá khứ/hiện tại hoàn thành mâu thuẫn với 'next month'."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "We started baking bread at home as a hobby.",
+            "The bakery is closed on Mondays and Tuesdays.",
+            "Our prices have not changed since last year.",
+            "A second shop will help us serve more people without such long waits."
+          ],
+          "answer": 3,
+          "explanation": "Câu trích dẫn trước nói về hàng dài khách chờ → câu tiếp theo giải thích lý do mở cửa hàng thứ hai là hợp lý nhất. Các câu về sở thích làm bánh, ngày nghỉ, giá cả không nối với ý 'nhu cầu tăng'."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "significant",
+            "significantly",
+            "signify",
+            "significance"
+          ],
+          "answer": 1,
+          "explanation": "Trước tính từ so sánh 'larger' cần trạng từ → 'significantly' (đáng kể). 'significant' là tính từ, 'signify' là động từ, 'significance' là danh từ."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "interesting",
+            "interests",
+            "interested",
+            "interest"
+          ],
+          "answer": 2,
+          "explanation": "'Those (who are) interested in' = những người quan tâm đến; phân từ quá khứ chỉ cảm xúc của người. 'interesting' mô tả vật gây hứng thú; 'interests', 'interest' không phù hợp cấu trúc."
+        }
+      ]
+    },
+    {
+      "id": "p6-06",
+      "type": "letter",
+      "title": "Letter: Invitation to speak",
+      "text": "Dear Dr. Mensah,\n\nOn behalf of the Northern Logistics Association, I am writing to invite you to speak at our annual conference, which will be held in Toronto from September 14 to 16.\n\nThis year's theme is \"Smarter Supply Chains.\" {{1}} Your recent research on warehouse automation would be of great interest to our members, many of {{2}} manage distribution centers across the region.\n\nSpeakers are asked to give a 45-minute presentation followed by a short question-and-answer session. The association will cover your travel and {{3}} expenses for the duration of the event. Presentation slides should be sent to us one week before the conference.\n\nWe would be grateful if you could let us know whether you are able to {{4}} our invitation by June 30.\n\nSincerely,\n\nKaren Liu\nProgram Director",
+      "translation": "Kính gửi Tiến sĩ Mensah,\n\nThay mặt Hiệp hội Logistics Phương Bắc, tôi viết thư này để mời ông phát biểu tại hội nghị thường niên của chúng tôi, sẽ được tổ chức tại Toronto từ ngày 14 đến 16 tháng 9.\n\nChủ đề năm nay là \"Chuỗi cung ứng thông minh hơn.\" Chúng tôi dự kiến hơn 600 chuyên gia trong ngành sẽ tham dự. Nghiên cứu gần đây của ông về tự động hóa kho hàng sẽ rất được các hội viên của chúng tôi quan tâm, nhiều người trong số họ đang quản lý các trung tâm phân phối trong khu vực.\n\nDiễn giả được đề nghị trình bày 45 phút, sau đó là phần hỏi đáp ngắn. Hiệp hội sẽ chi trả chi phí đi lại và lưu trú của ông trong suốt thời gian diễn ra sự kiện. Bài trình chiếu cần được gửi cho chúng tôi một tuần trước hội nghị.\n\nChúng tôi rất biết ơn nếu ông có thể cho chúng tôi biết liệu ông có thể nhận lời mời trước ngày 30 tháng 6 hay không.\n\nTrân trọng,\n\nKaren Liu\nGiám đốc Chương trình",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "Our association was founded in 1985.",
+            "Toronto is known for its many museums.",
+            "Please send your payment by the end of the month.",
+            "We expect more than 600 professionals from the industry to attend."
+          ],
+          "answer": 3,
+          "explanation": "Đoạn văn giới thiệu hội nghị và lý do mời diễn giả (khán giả quan tâm) → thông tin về số người tham dự là phù hợp. Năm thành lập, bảo tàng Toronto lạc đề; yêu cầu thanh toán vô lý với khách mời diễn giả."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "who",
+            "whom",
+            "which",
+            "them"
+          ],
+          "answer": 1,
+          "explanation": "Sau giới từ 'of' trong mệnh đề quan hệ chỉ người → 'many of whom'. 'who' không đứng sau giới từ; 'which' chỉ vật; 'them' tạo ra hai mệnh đề độc lập nối bằng dấu phẩy (sai ngữ pháp)."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "accommodate",
+            "accommodated",
+            "accommodating",
+            "accommodation"
+          ],
+          "answer": 3,
+          "explanation": "Song song với danh từ 'travel' trong cụm 'travel and ___ expenses' → danh từ 'accommodation' (chỗ ở). Các dạng động từ/phân từ không phù hợp."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "agree",
+            "approve",
+            "respond",
+            "accept"
+          ],
+          "answer": 3,
+          "explanation": "'accept an invitation' = nhận lời mời. 'agree' cần 'to', 'respond' cần 'to'; 'approve' (phê duyệt) sai nghĩa khi nói về lời mời."
+        }
+      ]
+    },
+    {
+      "id": "p6-07",
+      "type": "instructions",
+      "title": "Instructions: Kendra C200 coffee maker",
+      "text": "Thank you for purchasing the Kendra C200 coffee maker. Please read these instructions {{1}} before using the machine for the first time.\n\n1. Remove all packaging materials and wash the water tank with warm, soapy water, then dry it completely.\n2. Fill the tank with fresh water up to the MAX line. Do not {{2}} this line, as the machine may overflow.\n3. Place a paper filter in the basket and add ground coffee. Use one tablespoon of coffee for each cup.\n4. Press the power button. {{3}}\n5. When brewing is complete, the machine will switch to warming mode automatically. {{4}} safety reasons, it will turn itself off after two hours.\n\nFor troubleshooting tips, visit www.kendrahome.com/support. Please keep this manual for future reference.",
+      "translation": "Cảm ơn quý khách đã mua máy pha cà phê Kendra C200. Vui lòng đọc kỹ hướng dẫn này trước khi sử dụng máy lần đầu.\n\n1. Tháo bỏ toàn bộ vật liệu đóng gói và rửa bình chứa nước bằng nước ấm pha xà phòng, sau đó lau khô hoàn toàn.\n2. Đổ nước sạch vào bình đến vạch MAX. Không đổ vượt quá vạch này vì máy có thể bị tràn.\n3. Đặt giấy lọc vào rổ lọc và cho cà phê xay vào. Dùng một thìa canh cà phê cho mỗi tách.\n4. Nhấn nút nguồn. Đèn sẽ chuyển sang màu xanh khi cà phê bắt đầu được pha.\n5. Khi pha xong, máy sẽ tự động chuyển sang chế độ giữ ấm. Vì lý do an toàn, máy sẽ tự tắt sau hai giờ.\n\nĐể biết mẹo khắc phục sự cố, hãy truy cập www.kendrahome.com/support. Vui lòng giữ lại sách hướng dẫn này để tham khảo sau.",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "careful",
+            "care",
+            "cared",
+            "carefully"
+          ],
+          "answer": 3,
+          "explanation": "Bổ nghĩa cho động từ 'read' cần trạng từ → 'carefully'. 'careful' là tính từ; 'care', 'cared' là danh từ/động từ."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "exceed",
+            "excess",
+            "excessive",
+            "exceeding"
+          ],
+          "answer": 0,
+          "explanation": "Sau 'Do not' cần động từ nguyên mẫu → 'exceed' (vượt quá). 'excess' là danh từ, 'excessive' là tính từ, 'exceeding' là V-ing."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "The light will turn green when the coffee begins to brew.",
+            "Ground coffee should be stored in a cool, dry place.",
+            "Our company has made kitchen appliances since 1990.",
+            "Replacement parts can be ordered by phone."
+          ],
+          "answer": 0,
+          "explanation": "Bước 4 là nhấn nút nguồn → câu mô tả phản hồi của máy ngay sau đó (đèn xanh khi bắt đầu pha) là hợp lý, và bước 5 tiếp nối 'khi pha xong'. Các câu về bảo quản cà phê, lịch sử công ty, linh kiện không thuộc bước này."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "For",
+            "With",
+            "By",
+            "To"
+          ],
+          "answer": 0,
+          "explanation": "Cụm cố định 'for safety reasons' = vì lý do an toàn. Các giới từ khác không đi với 'reasons' theo nghĩa này."
+        }
+      ]
+    },
+    {
+      "id": "p6-08",
+      "type": "email",
+      "title": "Email: Your order #48217",
+      "text": "To: Thomas Reyes <treyes@mailbox.com>\nFrom: Customer Care <care@novadesk.com>\nDate: April 2\nSubject: Your order #48217\n\nDear Mr. Reyes,\n\nThank you for your recent order of an adjustable standing desk from Novadesk. Unfortunately, the color you selected, walnut, is temporarily out of stock. We {{1}} a new shipment from our supplier by April 15.\n\n{{2}} If you would prefer not to wait, we can send you the same desk in oak or white immediately at no extra charge. {{3}}, you may cancel the order and receive a full refund. Your credit card has not been charged yet.\n\nPlease reply to this e-mail to let us know which option you prefer. We apologize for the delay and appreciate your {{4}}.\n\nSincerely,\n\nJanet Moore\nNovadesk Customer Care",
+      "translation": "Gửi: Thomas Reyes <treyes@mailbox.com>\nTừ: Bộ phận Chăm sóc Khách hàng <care@novadesk.com>\nNgày: 2 tháng 4\nChủ đề: Đơn hàng số 48217 của quý khách\n\nKính gửi ông Reyes,\n\nCảm ơn ông đã đặt mua bàn đứng điều chỉnh độ cao của Novadesk. Rất tiếc, màu ông chọn, màu gỗ óc chó, hiện tạm hết hàng. Chúng tôi dự kiến sẽ nhận lô hàng mới từ nhà cung cấp trước ngày 15 tháng 4.\n\nBàn của ông sẽ được giao ngay khi hàng về. Nếu ông không muốn chờ, chúng tôi có thể gửi ngay cho ông cùng mẫu bàn màu gỗ sồi hoặc màu trắng mà không tính thêm phí. Ngoài ra, ông cũng có thể hủy đơn hàng và được hoàn tiền toàn bộ. Thẻ tín dụng của ông vẫn chưa bị trừ tiền.\n\nVui lòng trả lời e-mail này để cho chúng tôi biết ông chọn phương án nào. Chúng tôi xin lỗi vì sự chậm trễ và cảm ơn sự kiên nhẫn của ông.\n\nTrân trọng,\n\nJanet Moore\nBộ phận Chăm sóc Khách hàng Novadesk",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "expect",
+            "expecting",
+            "expectation",
+            "are expected"
+          ],
+          "answer": 0,
+          "explanation": "Sau chủ ngữ 'We' cần động từ chia, chủ động, có tân ngữ 'a new shipment' → 'expect'. 'expecting' thiếu trợ động từ; 'expectation' là danh từ; 'are expected' là bị động, không thể có tân ngữ."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "Standing desks can improve your posture.",
+            "Our store is open seven days a week.",
+            "Your desk will be shipped as soon as it arrives.",
+            "We have recently hired several new designers."
+          ],
+          "answer": 2,
+          "explanation": "Câu sau bắt đầu bằng 'If you would prefer not to wait' → câu trước phải nói về phương án chờ: bàn sẽ được giao khi hàng về. Các câu còn lại không tạo đối lập với 'không muốn chờ'."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "Consequently",
+            "Similarly",
+            "Accordingly",
+            "Alternatively"
+          ],
+          "answer": 3,
+          "explanation": "Đưa ra một lựa chọn khác (hủy đơn) bên cạnh phương án đổi màu → 'Alternatively' (hoặc là, ngoài ra có thể). 'Consequently', 'Accordingly' chỉ kết quả; 'Similarly' chỉ sự tương đồng."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "patient",
+            "patience",
+            "patiently",
+            "patients"
+          ],
+          "answer": 1,
+          "explanation": "Sau 'your' cần danh từ; 'appreciate your patience' = cảm ơn sự kiên nhẫn. 'patients' là danh từ nhưng nghĩa là 'bệnh nhân', sai nghĩa; 'patient', 'patiently' là tính từ/trạng từ."
+        }
+      ]
+    },
+    {
+      "id": "p6-09",
+      "type": "memo",
+      "title": "Memo: ExpensePro rollout",
+      "text": "To: All employees\nFrom: Finance Department\nDate: January 9\nSubject: ExpensePro rollout\n\nBeginning February 1, all business expenses must be submitted through ExpensePro, our new online reporting system. Paper forms will no longer be {{1}}.\n\nExpensePro allows you to photograph receipts with your phone and upload them directly. Reports are sent automatically to your manager for approval, {{2}} reduces processing time considerably. You can also check the status of your reports at any time.\n\nTo help everyone get started, the Finance Department will hold training sessions on January 22 and 23. {{3}} Each session will last about one hour. Attendance is strongly recommended for all staff who travel for work.\n\nIf you have trouble logging in, please contact the IT help desk {{4}} than the Finance Department.",
+      "translation": "Gửi: Toàn thể nhân viên\nTừ: Phòng Tài chính\nNgày: 9 tháng 1\nChủ đề: Triển khai ExpensePro\n\nBắt đầu từ ngày 1 tháng 2, mọi chi phí công tác phải được nộp qua ExpensePro, hệ thống báo cáo trực tuyến mới của chúng ta. Mẫu giấy sẽ không còn được chấp nhận.\n\nExpensePro cho phép bạn chụp ảnh biên lai bằng điện thoại và tải lên trực tiếp. Báo cáo được tự động gửi đến quản lý của bạn để phê duyệt, điều này giúp giảm đáng kể thời gian xử lý. Bạn cũng có thể kiểm tra trạng thái báo cáo của mình bất cứ lúc nào.\n\nĐể giúp mọi người bắt đầu, Phòng Tài chính sẽ tổ chức các buổi đào tạo vào ngày 22 và 23 tháng 1. Bạn có thể đăng ký một buổi trên mạng nội bộ của công ty. Mỗi buổi kéo dài khoảng một giờ. Tất cả nhân viên thường đi công tác được khuyến khích tham dự.\n\nNếu gặp khó khăn khi đăng nhập, vui lòng liên hệ bộ phận hỗ trợ IT thay vì Phòng Tài chính.",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "accepting",
+            "acceptance",
+            "accepted",
+            "accepts"
+          ],
+          "answer": 2,
+          "explanation": "Mẫu giấy 'được chấp nhận' → bị động 'be accepted'. 'accepting' mang nghĩa chủ động (mẫu giấy chấp nhận cái gì), sai; 'acceptance' là danh từ; 'accepts' không đứng sau 'be'."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "which",
+            "what",
+            "that",
+            "it"
+          ],
+          "answer": 0,
+          "explanation": "Đại từ quan hệ sau dấu phẩy thay cho cả mệnh đề trước → ', which'. 'that' không dùng sau dấu phẩy; 'what' không có tiền ngữ; 'it' tạo lỗi nối hai mệnh đề bằng dấu phẩy."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "Paper receipts are often lost or damaged.",
+            "You can sign up for a session on the company intranet.",
+            "ExpensePro was developed by a company in Seattle.",
+            "Managers will receive a bonus at the end of the year."
+          ],
+          "answer": 1,
+          "explanation": "Câu trước và sau đều nói về các buổi đào tạo → cách đăng ký buổi học là phù hợp. Các câu về biên lai giấy, nơi phát triển phần mềm, tiền thưởng làm đứt mạch ý."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "other",
+            "rather",
+            "better",
+            "sooner"
+          ],
+          "answer": 1,
+          "explanation": "Cụm 'rather than' = thay vì, hợp nghĩa (liên hệ IT thay vì phòng Tài chính). 'other than' nghĩa là 'ngoài ... ra', không hợp; 'better than', 'sooner than' sai nghĩa."
+        }
+      ]
+    },
+    {
+      "id": "p6-10",
+      "type": "notice",
+      "title": "Notice: Market Street resurfacing",
+      "text": "NOTICE TO RESIDENTS AND BUSINESSES\n\nThe City of Westbrook will begin resurfacing Market Street on Monday, August 12. The work is expected to take approximately three weeks to {{1}}.\n\nDuring construction, Market Street will be closed to traffic between First Avenue and Fifth Avenue. Drivers are advised to use Harbor Road {{2}}. Sidewalks will remain open, so pedestrians will still be able to reach shops and restaurants in the area. Parking on the street will not be permitted during this time.\n\n{{3}} Business owners who expect deliveries during this period should inform their suppliers of this restriction.\n\nThe city regrets any inconvenience this project may cause. For {{4}} updates, please visit www.westbrook.gov/roads. Questions may also be directed to the Public Works Department at 555-0137.",
+      "translation": "THÔNG BÁO TỚI CƯ DÂN VÀ DOANH NGHIỆP\n\nThành phố Westbrook sẽ bắt đầu trải lại mặt đường phố Market vào thứ Hai, ngày 12 tháng 8. Công việc dự kiến mất khoảng ba tuần để hoàn thành.\n\nTrong thời gian thi công, phố Market sẽ cấm xe lưu thông đoạn giữa Đại lộ Thứ Nhất và Đại lộ Thứ Năm. Người lái xe được khuyên đi đường Harbor thay thế. Vỉa hè vẫn mở, vì vậy người đi bộ vẫn có thể đến các cửa hàng và nhà hàng trong khu vực. Việc đỗ xe trên phố sẽ không được phép trong thời gian này.\n\nXe tải giao hàng chỉ được phép đi vào phố Market trước 7 giờ sáng. Chủ doanh nghiệp có hàng giao đến trong thời gian này nên thông báo cho nhà cung cấp về quy định hạn chế này.\n\nThành phố rất tiếc về mọi bất tiện mà dự án có thể gây ra. Để nhận cập nhật thường xuyên, vui lòng truy cập www.westbrook.gov/roads. Các câu hỏi cũng có thể gửi đến Sở Công trình Công cộng theo số 555-0137.",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "completeness",
+            "completely",
+            "complete",
+            "completed"
+          ],
+          "answer": 2,
+          "explanation": "Cấu trúc 'take + thời gian + to do something' → cần động từ nguyên mẫu 'complete'. 'completeness' là danh từ, 'completely' là trạng từ, 'completed' là phân từ."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "instead",
+            "rather",
+            "however",
+            "besides"
+          ],
+          "answer": 0,
+          "explanation": "Trạng từ cuối câu 'instead' = thay vào đó (đi đường Harbor thay cho phố Market). 'rather' không đứng một mình cuối câu với nghĩa này; 'however', 'besides' sai nghĩa."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "The city council meets on the first Tuesday of each month.",
+            "Market Street was first paved in 1925.",
+            "Delivery trucks will be permitted on Market Street only before 7 A.M.",
+            "Several new restaurants have opened downtown this year."
+          ],
+          "answer": 2,
+          "explanation": "Câu sau nhắc đến việc giao hàng và 'this restriction' → câu cần điền phải nêu quy định hạn chế đối với xe giao hàng. Các câu khác không có quy định nào để 'this restriction' tham chiếu."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "regularity",
+            "regularly",
+            "regulate",
+            "regular"
+          ],
+          "answer": 3,
+          "explanation": "Trước danh từ 'updates' cần tính từ → 'regular' (thường xuyên). 'regularity' là danh từ, 'regularly' là trạng từ, 'regulate' là động từ."
+        }
+      ]
+    },
+    {
+      "id": "p6-11",
+      "type": "article",
+      "title": "Article: Velora opens training center",
+      "text": "DA NANG (March 3) — Velora Software announced yesterday that it has opened a training center for young programmers in Da Nang. The center will offer free six-month courses in software development to {{1}} who have recently graduated from local universities.\n\nAccording to company spokesperson Linh Tran, Velora has struggled to find enough qualified developers in the region. \"{{2}} By training graduates ourselves, we hope to build a strong pool of talent,\" she explained.\n\nStudents who complete the program {{3}} the opportunity to interview for full-time positions at Velora. The first group of 30 students will begin classes in April.\n\nThe company plans to expand the program to Hue and Quy Nhon {{4}} the next two years. Ms. Tran added that the company would also welcome applications from graduates in other regions.",
+      "translation": "ĐÀ NẴNG (3 tháng 3) — Hôm qua, công ty Velora Software thông báo đã mở một trung tâm đào tạo dành cho lập trình viên trẻ tại Đà Nẵng. Trung tâm sẽ cung cấp các khóa học phát triển phần mềm miễn phí kéo dài sáu tháng cho những người mới tốt nghiệp từ các trường đại học địa phương.\n\nTheo người phát ngôn Linh Trần, Velora đã gặp khó khăn trong việc tìm đủ lập trình viên có trình độ trong khu vực. \"Nhu cầu về lập trình viên có tay nghề đang tăng nhanh hơn nguồn cung. Bằng cách tự đào tạo sinh viên tốt nghiệp, chúng tôi hy vọng xây dựng được nguồn nhân tài vững mạnh,\" bà giải thích.\n\nHọc viên hoàn thành chương trình sẽ có cơ hội phỏng vấn cho các vị trí toàn thời gian tại Velora. Nhóm 30 học viên đầu tiên sẽ bắt đầu học vào tháng Tư.\n\nCông ty dự định mở rộng chương trình đến Huế và Quy Nhơn trong vòng hai năm tới. Bà Trần cho biết thêm công ty cũng hoan nghênh hồ sơ từ sinh viên tốt nghiệp ở các khu vực khác.",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "those",
+            "them",
+            "they",
+            "whose"
+          ],
+          "answer": 0,
+          "explanation": "Cấu trúc 'those who ...' = những người mà. 'them who', 'they who' không dùng; 'whose' cần danh từ theo sau và tiền ngữ."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "Our office is located near the beach.",
+            "The demand for skilled programmers is growing faster than the supply.",
+            "We sell our products in over twenty countries.",
+            "Many of our employees enjoy playing football after work."
+          ],
+          "answer": 1,
+          "explanation": "Câu trước nói công ty khó tìm lập trình viên; câu sau nói tự đào tạo để có nguồn nhân lực → câu về cung không đủ cầu nối hai ý một cách logic. Các câu còn lại lạc đề."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "will have",
+            "had",
+            "have had",
+            "having"
+          ],
+          "answer": 0,
+          "explanation": "Học viên khóa đầu tiên chưa học (bắt đầu tháng Tư) → cơ hội ở tương lai: 'will have'. 'had', 'have had' chỉ quá khứ/đã xảy ra; 'having' không làm động từ chính."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "among",
+            "since",
+            "along",
+            "within"
+          ],
+          "answer": 3,
+          "explanation": "'within + khoảng thời gian' = trong vòng (hai năm tới). 'since' cần mốc quá khứ; 'among', 'along' không dùng với thời gian."
+        }
+      ]
+    },
+    {
+      "id": "p6-12",
+      "type": "email",
+      "title": "Email: Interview invitation",
+      "text": "To: Sophia Grant\nFrom: Daniel Okoye, Human Resources, Pinecrest Hotels\nDate: July 18\nSubject: Interview for Front Desk Supervisor\n\nDear Ms. Grant,\n\nThank you for applying for the position of Front Desk Supervisor at Pinecrest Hotels. We were impressed by your {{1}} in the hospitality industry and would like to invite you for an interview.\n\nThe interview will take place on Wednesday, July 24, at 10 A.M. at our downtown hotel. You will meet with the general manager and me. {{2}}\n\nPlease bring a copy of your résumé and two {{3}} of reference. When you arrive, ask the front desk staff to call me, and I will come down to meet you.\n\nKindly confirm your attendance by replying to this e-mail. {{4}} you be unable to attend at this time, please let me know so that we can arrange another date.\n\nBest regards,\n\nDaniel Okoye",
+      "translation": "Gửi: Sophia Grant\nTừ: Daniel Okoye, Phòng Nhân sự, Khách sạn Pinecrest\nNgày: 18 tháng 7\nChủ đề: Phỏng vấn vị trí Giám sát Lễ tân\n\nKính gửi cô Grant,\n\nCảm ơn cô đã ứng tuyển vị trí Giám sát Lễ tân tại Khách sạn Pinecrest. Chúng tôi rất ấn tượng với kinh nghiệm của cô trong ngành khách sạn và muốn mời cô đến phỏng vấn.\n\nBuổi phỏng vấn sẽ diễn ra vào thứ Tư, ngày 24 tháng 7, lúc 10 giờ sáng tại khách sạn trung tâm của chúng tôi. Cô sẽ gặp tổng quản lý và tôi. Buổi gặp dự kiến kéo dài khoảng 45 phút.\n\nVui lòng mang theo một bản sơ yếu lý lịch và hai thư giới thiệu. Khi đến nơi, cô hãy nhờ nhân viên lễ tân gọi cho tôi, tôi sẽ xuống đón cô.\n\nVui lòng xác nhận việc tham dự bằng cách trả lời e-mail này. Nếu cô không thể tham dự vào thời gian này, xin hãy báo cho tôi để chúng tôi sắp xếp ngày khác.\n\nTrân trọng,\n\nDaniel Okoye",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "experienced",
+            "experiencing",
+            "experiential",
+            "experience"
+          ],
+          "answer": 3,
+          "explanation": "Sau 'your' cần danh từ → 'experience' (kinh nghiệm). 'experienced', 'experiential' là tính từ; 'experiencing' là V-ing, không hợp nghĩa."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "Pinecrest Hotels has locations in five cities.",
+            "Our restaurant serves breakfast until 10 A.M.",
+            "The meeting should last approximately 45 minutes.",
+            "The position was advertised in several newspapers."
+          ],
+          "answer": 2,
+          "explanation": "Đoạn văn cung cấp chi tiết về buổi phỏng vấn (ngày giờ, địa điểm, người gặp) → thời lượng buổi gặp là thông tin tiếp nối tự nhiên. Các câu về chuỗi khách sạn, bữa sáng, quảng cáo tuyển dụng lạc đề."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "letters",
+            "notes",
+            "papers",
+            "cards"
+          ],
+          "answer": 0,
+          "explanation": "Cụm cố định 'letters of reference' = thư giới thiệu. 'notes', 'papers', 'cards' không đi với 'of reference'."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "If",
+            "Unless",
+            "Should",
+            "Had"
+          ],
+          "answer": 2,
+          "explanation": "Đảo ngữ câu điều kiện loại 1: 'Should + S + V nguyên mẫu' (= If you are unable). 'If you be' sai vì 'If' cần động từ chia ('are'); 'Unless' sai nghĩa và sai dạng; 'Had' dùng cho điều kiện loại 3 với V3."
+        }
+      ]
+    }
+  ]
+}

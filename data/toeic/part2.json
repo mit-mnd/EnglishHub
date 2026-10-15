@@ -1,0 +1,457 @@
+{
+  "part": 2,
+  "title": "Part 2 - Hỏi đáp",
+  "description": "Nghe một câu hỏi hoặc câu nói và ba câu trả lời. Chọn câu trả lời phù hợp nhất. Câu hỏi và các lựa chọn không được in sẵn trong đề thi thật — hãy luyện nghe trước, sau đó mới xem lời thoại.",
+  "items": [
+    {
+      "id": "p2-001",
+      "question": "Where are the new printer cartridges kept?",
+      "questionVoice": "female",
+      "responses": ["In the cabinet next to the copier.", "Yes, the printer is new.", "About twenty pages."],
+      "answer": 0,
+      "type": "wh-question",
+      "explanation": "Câu hỏi 'Where' hỏi nơi chốn, nên đáp án là vị trí 'trong tủ cạnh máy photocopy'. (B) sai vì trả lời Yes cho câu hỏi Wh- và lặp lại từ 'printer', 'new'. (C) nói về số lượng, không phải nơi chốn.",
+      "translation": "Hộp mực máy in mới được để ở đâu? — Trong tủ cạnh máy photocopy."
+    },
+    {
+      "id": "p2-002",
+      "question": "When does the training session start?",
+      "questionVoice": "male",
+      "responses": ["In the main conference room.", "It's a new training program.", "Right after lunch."],
+      "answer": 2,
+      "type": "wh-question",
+      "explanation": "'When' hỏi thời gian, 'ngay sau bữa trưa' là câu trả lời đúng. (A) trả lời nơi chốn (Where). (B) lặp lại từ 'training' để gây nhiễu.",
+      "translation": "Buổi đào tạo bắt đầu lúc nào? — Ngay sau bữa trưa."
+    },
+    {
+      "id": "p2-003",
+      "question": "Have you finished the budget report yet?",
+      "questionVoice": "female",
+      "responses": ["The budget was approved.", "I'm still working on it.", "Report it to the manager."],
+      "answer": 1,
+      "type": "yes-no",
+      "explanation": "Câu hỏi Yes/No nhưng đáp án trả lời gián tiếp: 'Tôi vẫn đang làm' = chưa xong. (A) lặp từ 'budget', (C) dùng 'report' với nghĩa động từ 'báo cáo' — bẫy lặp từ.",
+      "translation": "Bạn đã hoàn thành báo cáo ngân sách chưa? — Tôi vẫn đang làm."
+    },
+    {
+      "id": "p2-004",
+      "question": "Who's in charge of the client presentation?",
+      "questionVoice": "male",
+      "responses": ["At two o'clock.", "Ms. Tanaka is handling it.", "It was very presentable."],
+      "answer": 1,
+      "type": "wh-question",
+      "explanation": "'Who' hỏi người, đáp án nêu tên người phụ trách 'Ms. Tanaka'. (A) trả lời thời gian. (C) dùng từ có âm giống 'presentation' (presentable) — bẫy âm tương tự.",
+      "translation": "Ai phụ trách bài thuyết trình cho khách hàng? — Cô Tanaka đang lo việc đó."
+    },
+    {
+      "id": "p2-005",
+      "question": "Would you prefer a window seat or an aisle seat?",
+      "questionVoice": "female",
+      "responses": ["An aisle seat, please.", "Yes, I would.", "The window is open."],
+      "answer": 0,
+      "type": "choice",
+      "explanation": "Câu hỏi lựa chọn (A or B) cần chọn một trong hai: 'ghế cạnh lối đi'. (B) trả lời Yes không phù hợp với câu hỏi lựa chọn. (C) lặp từ 'window'.",
+      "translation": "Bạn thích ghế cạnh cửa sổ hay ghế cạnh lối đi? — Ghế cạnh lối đi, làm ơn."
+    },
+    {
+      "id": "p2-006",
+      "question": "Why was the shipment delayed?",
+      "questionVoice": "male",
+      "responses": ["It was shipped to Denver.", "No, it's not late.", "There was a storm at the port."],
+      "answer": 2,
+      "type": "wh-question",
+      "explanation": "'Why' hỏi lý do: 'có bão ở cảng'. Lưu ý câu trả lời lý do không nhất thiết bắt đầu bằng 'Because'. (A) dùng 'shipped' giống 'shipment'. (B) trả lời No cho câu hỏi Wh-.",
+      "translation": "Tại sao lô hàng bị chậm? — Có một cơn bão ở cảng."
+    },
+    {
+      "id": "p2-007",
+      "question": "Could you help me move this desk this afternoon?",
+      "questionVoice": "female",
+      "responses": ["He moved last month.", "The desk is made of oak.", "Sure, I'll be free after three."],
+      "answer": 2,
+      "type": "request-suggestion",
+      "explanation": "Lời nhờ vả 'Could you...?' — đáp án đồng ý 'Chắc chắn rồi, tôi rảnh sau 3 giờ'. (A) dùng 'moved' với nghĩa chuyển nhà và chủ ngữ 'He' không liên quan. (B) lặp từ 'desk'.",
+      "translation": "Chiều nay bạn có thể giúp tôi chuyển cái bàn này không? — Được chứ, tôi rảnh sau 3 giờ."
+    },
+    {
+      "id": "p2-008",
+      "question": "How long will the renovation take?",
+      "questionVoice": "male",
+      "responses": ["The lobby on the first floor.", "About two weeks.", "Yes, it's taking a while."],
+      "answer": 1,
+      "type": "wh-question",
+      "explanation": "'How long' hỏi khoảng thời gian: 'khoảng hai tuần'. (A) nói nơi chốn. (C) trả lời Yes cho câu hỏi Wh- và lặp từ 'take'.",
+      "translation": "Việc cải tạo sẽ mất bao lâu? — Khoảng hai tuần."
+    },
+    {
+      "id": "p2-009",
+      "question": "The elevator is out of order again.",
+      "questionVoice": "female",
+      "responses": ["Then let's take the stairs.", "In alphabetical order.", "On the fifth floor, I think."],
+      "answer": 0,
+      "type": "statement",
+      "explanation": "Câu trần thuật thông báo thang máy hỏng; phản hồi tự nhiên là đề xuất 'Vậy đi cầu thang bộ nhé'. (B) lặp từ 'order' với nghĩa khác (thứ tự). (C) liên tưởng tầng lầu nhưng không phản hồi vấn đề.",
+      "translation": "Thang máy lại hỏng nữa rồi. — Vậy chúng ta đi cầu thang bộ nhé."
+    },
+    {
+      "id": "p2-010",
+      "question": "What time does the pharmacy close today?",
+      "questionVoice": "male",
+      "responses": ["At eight this evening.", "It's close to the station.", "Yes, it's open today."],
+      "answer": 0,
+      "type": "wh-question",
+      "explanation": "'What time' hỏi giờ: 'lúc 8 giờ tối nay'. (B) là bẫy đồng âm: 'close' (đóng cửa) và 'close to' (gần). (C) trả lời Yes cho câu hỏi Wh-.",
+      "translation": "Hôm nay hiệu thuốc đóng cửa lúc mấy giờ? — Lúc 8 giờ tối nay."
+    },
+    {
+      "id": "p2-011",
+      "question": "You've met our new sales director, haven't you?",
+      "questionVoice": "female",
+      "responses": ["She'll direct the meeting.", "Yes, at the conference last week.", "The sales were higher than expected."],
+      "answer": 1,
+      "type": "tag-question",
+      "explanation": "Câu hỏi đuôi xác nhận đã gặp giám đốc chưa — 'Có, tại hội nghị tuần trước'. (A) dùng 'direct' giống 'director'. (C) lặp từ 'sales'.",
+      "translation": "Bạn đã gặp giám đốc kinh doanh mới của chúng ta rồi, phải không? — Rồi, tại hội nghị tuần trước."
+    },
+    {
+      "id": "p2-012",
+      "question": "Which bus goes to the convention center?",
+      "questionVoice": "male",
+      "responses": ["The convention lasts three days.", "Every fifteen minutes.", "Number forty-two."],
+      "answer": 2,
+      "type": "wh-question",
+      "explanation": "'Which bus' hỏi xe buýt nào: 'Tuyến số 42'. (A) lặp từ 'convention'. (B) trả lời tần suất (How often), không phải xe nào.",
+      "translation": "Xe buýt nào đi đến trung tâm hội nghị? — Tuyến số 42."
+    },
+    {
+      "id": "p2-013",
+      "question": "Why don't we order lunch from the new Thai restaurant?",
+      "questionVoice": "female",
+      "responses": ["Because it was too expensive.", "That sounds like a good idea.", "I ordered it last Tuesday."],
+      "answer": 1,
+      "type": "request-suggestion",
+      "explanation": "'Why don't we...?' là lời đề nghị, không phải hỏi lý do. Đáp án đồng ý 'Nghe hay đấy'. (A) là bẫy kinh điển: trả lời 'Because' như thể câu hỏi lý do. (C) lặp từ 'order'.",
+      "translation": "Sao chúng ta không đặt bữa trưa từ nhà hàng Thái mới nhỉ? — Nghe có vẻ là ý hay đấy."
+    },
+    {
+      "id": "p2-014",
+      "question": "Do you know where the spare keys are?",
+      "questionVoice": "male",
+      "responses": ["Yes, I know him well.", "A spare tire for the car.", "Check the top drawer of my desk."],
+      "answer": 2,
+      "type": "indirect",
+      "explanation": "Câu hỏi gián tiếp 'Do you know where...' thực chất hỏi vị trí chìa khóa; đáp án chỉ chỗ 'Xem ngăn kéo trên cùng bàn tôi'. (A) có Yes nhưng 'him' không liên quan. (B) lặp từ 'spare'.",
+      "translation": "Bạn có biết chìa khóa dự phòng ở đâu không? — Xem ngăn kéo trên cùng của bàn tôi."
+    },
+    {
+      "id": "p2-015",
+      "question": "Could you tell me how much it costs to rent a booth at the trade fair?",
+      "questionVoice": "female",
+      "responses": ["Let me look at the price list.", "It's a fair price.", "For three days in March."],
+      "answer": 0,
+      "type": "indirect",
+      "explanation": "Hỏi giá thuê gian hàng; câu trả lời gián tiếp tự nhiên 'Để tôi xem bảng giá'. (B) lặp từ 'fair' với nghĩa khác (hợp lý). (C) nói thời gian.",
+      "translation": "Bạn có thể cho tôi biết giá thuê một gian hàng tại hội chợ thương mại là bao nhiêu không? — Để tôi xem bảng giá."
+    },
+    {
+      "id": "p2-016",
+      "question": "Is the parking garage open on weekends?",
+      "questionVoice": "male",
+      "responses": ["I parked on the third level.", "It opens with this key card.", "Only on Saturdays."],
+      "answer": 2,
+      "type": "yes-no",
+      "explanation": "Hỏi bãi đỗ xe có mở cuối tuần không; 'Chỉ vào thứ Bảy' trả lời trực tiếp mà không cần Yes/No. (A) lặp 'park'. (B) dùng 'opens' nhưng nói về cách mở cửa.",
+      "translation": "Bãi đỗ xe có mở cửa vào cuối tuần không? — Chỉ vào thứ Bảy thôi."
+    },
+    {
+      "id": "p2-017",
+      "question": "Who should I send the invoice to?",
+      "questionVoice": "female",
+      "responses": ["The accounting department handles that.", "I sent it yesterday.", "Twelve hundred dollars."],
+      "answer": 0,
+      "type": "wh-question",
+      "explanation": "'Who' có thể được trả lời bằng tên phòng ban: 'Phòng kế toán phụ trách việc đó'. (B) lặp 'send/sent' nhưng không trả lời gửi cho ai. (C) liên tưởng 'invoice' với số tiền.",
+      "translation": "Tôi nên gửi hóa đơn cho ai? — Phòng kế toán phụ trách việc đó."
+    },
+    {
+      "id": "p2-018",
+      "question": "Should we hold the party indoors or outside?",
+      "questionVoice": "male",
+      "responses": ["Yes, we should.", "Let's check the weather forecast first.", "It was held last year."],
+      "answer": 1,
+      "type": "choice",
+      "explanation": "Câu hỏi lựa chọn nhưng đáp án là câu trả lời gián tiếp: 'Hãy xem dự báo thời tiết trước' (chưa quyết). (A) trả lời Yes cho câu hỏi lựa chọn. (C) lặp 'held'.",
+      "translation": "Chúng ta nên tổ chức tiệc trong nhà hay ngoài trời? — Hãy xem dự báo thời tiết trước đã."
+    },
+    {
+      "id": "p2-019",
+      "question": "Where did you buy that briefcase?",
+      "questionVoice": "female",
+      "responses": ["Because mine was broken.", "At a shop near the train station.", "It was a brief meeting."],
+      "answer": 1,
+      "type": "wh-question",
+      "explanation": "'Where' hỏi nơi mua: 'Ở một cửa hàng gần ga tàu'. (A) trả lời lý do (Why). (C) dùng 'brief' giống âm 'briefcase'.",
+      "translation": "Bạn mua chiếc cặp đó ở đâu vậy? — Ở một cửa hàng gần ga tàu."
+    },
+    {
+      "id": "p2-020",
+      "question": "I can't find the file for the Harrison account.",
+      "questionVoice": "male",
+      "responses": ["Our account number is new.", "No, I didn't file a complaint.", "Lisa was using it this morning."],
+      "answer": 2,
+      "type": "statement",
+      "explanation": "Người nói không tìm thấy hồ sơ; phản hồi hữu ích là 'Sáng nay Lisa đang dùng nó' (gợi ý hỏi Lisa). (A) lặp 'account'. (B) dùng 'file' với nghĩa động từ 'nộp (đơn khiếu nại)'.",
+      "translation": "Tôi không tìm thấy hồ sơ của khách hàng Harrison. — Sáng nay Lisa đang dùng nó."
+    },
+    {
+      "id": "p2-021",
+      "question": "When will the new software be installed?",
+      "questionVoice": "female",
+      "responses": ["The technicians are coming on Friday.", "It's soft and comfortable.", "In the IT department."],
+      "answer": 0,
+      "type": "wh-question",
+      "explanation": "'When' hỏi thời gian; đáp án gián tiếp 'Kỹ thuật viên sẽ đến vào thứ Sáu' ngụ ý phần mềm được cài thứ Sáu. (B) dùng 'soft' giống 'software'. (C) trả lời nơi chốn.",
+      "translation": "Khi nào phần mềm mới được cài đặt? — Các kỹ thuật viên sẽ đến vào thứ Sáu."
+    },
+    {
+      "id": "p2-022",
+      "question": "Would you mind reviewing my proposal before I submit it?",
+      "questionVoice": "male",
+      "responses": ["Not at all. Send it to me.", "The review was positive.", "Yes, it's on the list."],
+      "answer": 0,
+      "type": "request-suggestion",
+      "explanation": "'Would you mind...?' nghĩa là 'Bạn có phiền...?', nên 'Not at all' = không phiền, tức là đồng ý giúp. (B) lặp 'review'. (C) trả lời Yes không hợp lý (Yes ở đây lại có nghĩa là 'có phiền').",
+      "translation": "Bạn có phiền xem lại đề xuất của tôi trước khi tôi nộp không? — Không phiền gì cả. Gửi cho tôi nhé."
+    },
+    {
+      "id": "p2-023",
+      "question": "What did the customer complain about?",
+      "questionVoice": "female",
+      "responses": ["He's a regular customer.", "Yes, he complained.", "The late delivery of his order."],
+      "answer": 2,
+      "type": "wh-question",
+      "explanation": "'What... complain about' hỏi nội dung phàn nàn: 'việc giao hàng trễ'. (A) lặp 'customer'. (B) trả lời Yes cho câu hỏi Wh- và lặp 'complain'.",
+      "translation": "Khách hàng đã phàn nàn về điều gì? — Về việc giao đơn hàng của anh ấy bị trễ."
+    },
+    {
+      "id": "p2-024",
+      "question": "The museum is closed on Mondays, isn't it?",
+      "questionVoice": "male",
+      "responses": ["The museum has a new exhibit.", "I believe so.", "Close the door, please."],
+      "answer": 1,
+      "type": "tag-question",
+      "explanation": "Câu hỏi đuôi xác nhận thông tin; 'Tôi tin là vậy' = đúng vậy. (A) lặp 'museum'. (C) lặp 'close' với nghĩa khác (đóng cửa lại).",
+      "translation": "Bảo tàng đóng cửa vào thứ Hai, phải không? — Tôi tin là vậy."
+    },
+    {
+      "id": "p2-025",
+      "question": "How often do you visit the factory in Ridgeway?",
+      "questionVoice": "female",
+      "responses": ["About five hundred workers.", "It's a large factory.", "Once a month."],
+      "answer": 2,
+      "type": "wh-question",
+      "explanation": "'How often' hỏi tần suất: 'Mỗi tháng một lần'. (A) trả lời số lượng (How many). (B) lặp 'factory'.",
+      "translation": "Bạn đến thăm nhà máy ở Ridgeway bao lâu một lần? — Mỗi tháng một lần."
+    },
+    {
+      "id": "p2-026",
+      "question": "Did you receive my e-mail about the schedule change?",
+      "questionVoice": "male",
+      "responses": ["She received an award.", "Yes, I'll update the calendar.", "Change trains at Central Station."],
+      "answer": 1,
+      "type": "yes-no",
+      "explanation": "Hỏi đã nhận email chưa; 'Rồi, tôi sẽ cập nhật lịch' là phản hồi hợp lý. (A) lặp 'receive' với chủ ngữ 'She' không liên quan. (C) lặp 'change'.",
+      "translation": "Bạn đã nhận được email của tôi về việc thay đổi lịch chưa? — Rồi, tôi sẽ cập nhật lịch."
+    },
+    {
+      "id": "p2-027",
+      "question": "Why is the office so quiet today?",
+      "questionVoice": "female",
+      "responses": ["Most of the staff are at a workshop.", "Yes, it's very quiet.", "Quite a lot of people."],
+      "answer": 0,
+      "type": "wh-question",
+      "explanation": "'Why' hỏi lý do: 'Phần lớn nhân viên đang dự hội thảo'. (B) trả lời Yes và lặp 'quiet'. (C) dùng 'quite' có âm gần giống 'quiet'.",
+      "translation": "Sao hôm nay văn phòng yên tĩnh thế? — Phần lớn nhân viên đang tham dự một buổi hội thảo."
+    },
+    {
+      "id": "p2-028",
+      "question": "Do you want to take the train or drive to the conference?",
+      "questionVoice": "male",
+      "responses": ["The conference was informative.", "The train is faster.", "Yes, I'd like that."],
+      "answer": 1,
+      "type": "choice",
+      "explanation": "Câu hỏi lựa chọn; 'Tàu hỏa nhanh hơn' ngụ ý chọn đi tàu. (A) lặp 'conference'. (C) trả lời Yes cho câu hỏi lựa chọn.",
+      "translation": "Bạn muốn đi tàu hay lái xe đến hội nghị? — Tàu hỏa nhanh hơn."
+    },
+    {
+      "id": "p2-029",
+      "question": "Daniel is leading the weekly meeting, isn't he?",
+      "questionVoice": "female",
+      "responses": ["I think it's his turn, yes.", "We meet every week.", "Turn left at the corner."],
+      "answer": 0,
+      "type": "tag-question",
+      "explanation": "Câu hỏi đuôi xác nhận Daniel chủ trì cuộc họp; 'Tôi nghĩ đến lượt anh ấy, đúng vậy'. (B) lặp ý 'weekly'. (C) dùng 'turn' với nghĩa rẽ.",
+      "translation": "Daniel sẽ chủ trì cuộc họp hằng tuần, phải không? — Tôi nghĩ đến lượt anh ấy rồi, đúng vậy."
+    },
+    {
+      "id": "p2-030",
+      "question": "Let's ask Ms. Ortega to join the project team.",
+      "questionVoice": "male",
+      "responses": ["The project is due in May.", "She asked a question.", "She's already very busy, though."],
+      "answer": 2,
+      "type": "request-suggestion",
+      "explanation": "Lời đề nghị 'Let's...'; phản hồi tự nhiên là nêu lo ngại 'Nhưng cô ấy đã rất bận rồi'. (A) lặp 'project'. (B) lặp 'ask'.",
+      "translation": "Chúng ta hãy mời cô Ortega tham gia nhóm dự án. — Nhưng cô ấy đã rất bận rồi."
+    },
+    {
+      "id": "p2-031",
+      "question": "How many chairs do we need for the seminar?",
+      "questionVoice": "female",
+      "responses": ["Around sixty people have registered.", "Yes, we need them.", "Move them to the hall."],
+      "answer": 0,
+      "type": "wh-question",
+      "explanation": "'How many' hỏi số lượng; đáp án gián tiếp 'Khoảng 60 người đã đăng ký' (nên cần khoảng 60 ghế). (B) trả lời Yes cho câu hỏi Wh-. (C) không trả lời số lượng.",
+      "translation": "Chúng ta cần bao nhiêu ghế cho buổi hội thảo? — Khoảng 60 người đã đăng ký."
+    },
+    {
+      "id": "p2-032",
+      "question": "The client wants to move the meeting to Thursday.",
+      "questionVoice": "male",
+      "responses": ["She moved to a new house.", "That works for me.", "We met on Thursday."],
+      "answer": 1,
+      "type": "statement",
+      "explanation": "Thông báo dời cuộc họp; 'Tôi thấy được' là phản hồi phù hợp. (A) lặp 'move' với nghĩa chuyển nhà. (C) lặp 'Thursday' và dùng 'met' giống 'meeting', lại sai thì.",
+      "translation": "Khách hàng muốn dời cuộc họp sang thứ Năm. — Tôi thấy được."
+    },
+    {
+      "id": "p2-033",
+      "question": "Where's the closest bank?",
+      "questionVoice": "female",
+      "responses": ["The closing time is five.", "I need to withdraw some cash.", "There's one across the street."],
+      "answer": 2,
+      "type": "wh-question",
+      "explanation": "'Where' hỏi nơi chốn: 'Có một ngân hàng bên kia đường'. (A) dùng 'closing' giống 'closest'. (B) liên tưởng 'bank' với rút tiền nhưng không trả lời ở đâu.",
+      "translation": "Ngân hàng gần nhất ở đâu? — Có một cái ở bên kia đường."
+    },
+    {
+      "id": "p2-034",
+      "question": "Can you tell me when the next flight to Toronto leaves?",
+      "questionVoice": "male",
+      "responses": ["Yes, I flew there last year.", "The flight attendant.", "At six fifteen, from gate twelve."],
+      "answer": 2,
+      "type": "indirect",
+      "explanation": "Câu hỏi gián tiếp thực chất hỏi 'when': 'Lúc 6 giờ 15, tại cổng 12'. (A) có Yes nhưng nói chuyện đã bay năm ngoái. (B) lặp 'flight'.",
+      "translation": "Bạn có thể cho tôi biết khi nào chuyến bay tiếp theo đến Toronto cất cánh không? — Lúc 6 giờ 15, tại cổng 12."
+    },
+    {
+      "id": "p2-035",
+      "question": "Do you know the best way to get to the airport from here?",
+      "questionVoice": "female",
+      "responses": ["Take the express shuttle.", "It's the best one in town.", "Around noon tomorrow."],
+      "answer": 0,
+      "type": "indirect",
+      "explanation": "Hỏi cách tốt nhất để ra sân bay; đáp án 'Đi xe đưa đón tốc hành'. (B) lặp 'best'. (C) trả lời thời gian.",
+      "translation": "Bạn có biết cách tốt nhất để đi từ đây ra sân bay không? — Hãy đi xe đưa đón tốc hành."
+    },
+    {
+      "id": "p2-036",
+      "question": "Are you going to the retirement dinner on Friday?",
+      "questionVoice": "male",
+      "responses": ["She's retiring after thirty years.", "I wouldn't miss it.", "The dinner was delicious."],
+      "answer": 1,
+      "type": "yes-no",
+      "explanation": "'Tôi sẽ không bỏ lỡ đâu' = chắc chắn sẽ đi. (A) dùng 'retiring' giống 'retirement'. (C) lặp 'dinner' và sai thì (quá khứ).",
+      "translation": "Bạn có đi dự bữa tiệc nghỉ hưu vào thứ Sáu không? — Tôi sẽ không bỏ lỡ đâu."
+    },
+    {
+      "id": "p2-037",
+      "question": "Who left these documents on the copier?",
+      "questionVoice": "female",
+      "responses": ["Make ten copies, please.", "They might be Mr. Kim's.", "He left an hour ago."],
+      "answer": 1,
+      "type": "wh-question",
+      "explanation": "'Who' hỏi người để quên tài liệu; 'Có thể là của anh Kim'. (A) dùng 'copies' giống 'copier'. (C) lặp 'left' với nghĩa 'rời đi' và không xác định ai.",
+      "translation": "Ai để quên những tài liệu này trên máy photocopy vậy? — Có thể là của anh Kim."
+    },
+    {
+      "id": "p2-038",
+      "question": "Can you send me the updated price list?",
+      "questionVoice": "male",
+      "responses": ["I'll e-mail it to you right away.", "Prices have gone up.", "Yes, it's on the list."],
+      "answer": 0,
+      "type": "request-suggestion",
+      "explanation": "Lời nhờ gửi bảng giá; 'Tôi sẽ email cho bạn ngay' là đồng ý. (B) liên tưởng 'price'. (C) có Yes nhưng lặp 'list' và không đáp ứng yêu cầu.",
+      "translation": "Bạn có thể gửi cho tôi bảng giá đã cập nhật không? — Tôi sẽ email cho bạn ngay."
+    },
+    {
+      "id": "p2-039",
+      "question": "Have you worked here long?",
+      "questionVoice": "female",
+      "responses": ["In the marketing department.", "From nine to five every day.", "About three years now."],
+      "answer": 2,
+      "type": "yes-no",
+      "explanation": "Hỏi đã làm ở đây lâu chưa; 'Khoảng ba năm rồi' trả lời trực tiếp về thời gian làm việc. (A) nói bộ phận. (B) nói giờ làm hằng ngày, không phải đã làm bao lâu.",
+      "translation": "Bạn làm việc ở đây lâu chưa? — Khoảng ba năm rồi."
+    },
+    {
+      "id": "p2-040",
+      "question": "This printer needs new toner, doesn't it?",
+      "questionVoice": "male",
+      "responses": ["Yes, I'll order some today.", "Print it in color.", "The tone was friendly."],
+      "answer": 0,
+      "type": "tag-question",
+      "explanation": "Câu hỏi đuôi; 'Đúng vậy, hôm nay tôi sẽ đặt mua' là xác nhận và hành động hợp lý. (B) dùng 'print' giống 'printer'. (C) dùng 'tone' giống âm 'toner'.",
+      "translation": "Máy in này cần mực mới, phải không? — Đúng vậy, hôm nay tôi sẽ đặt mua."
+    },
+    {
+      "id": "p2-041",
+      "question": "Why did the company open a branch in Lisbon?",
+      "questionVoice": "female",
+      "responses": ["Last spring.", "Yes, they opened it.", "To expand into the European market."],
+      "answer": 2,
+      "type": "wh-question",
+      "explanation": "'Why' hỏi mục đích/lý do: 'Để mở rộng sang thị trường châu Âu' (dùng 'To + động từ'). (A) trả lời thời gian. (B) trả lời Yes cho câu hỏi Wh-.",
+      "translation": "Tại sao công ty mở chi nhánh ở Lisbon? — Để mở rộng sang thị trường châu Âu."
+    },
+    {
+      "id": "p2-042",
+      "question": "Should I call the supplier now or wait until tomorrow?",
+      "questionVoice": "male",
+      "responses": ["The supplier is in Chicago.", "It's better to call today.", "I'll wait in the lobby."],
+      "answer": 1,
+      "type": "choice",
+      "explanation": "Câu hỏi lựa chọn; 'Gọi hôm nay thì tốt hơn' = chọn gọi ngay. (A) lặp 'supplier'. (C) lặp 'wait' nhưng không liên quan.",
+      "translation": "Tôi nên gọi nhà cung cấp bây giờ hay đợi đến mai? — Gọi hôm nay thì tốt hơn."
+    },
+    {
+      "id": "p2-043",
+      "question": "I heard the cafeteria is serving a new menu.",
+      "questionVoice": "female",
+      "responses": ["I'll have the soup.", "He served as manager.", "Yes, I tried it yesterday."],
+      "answer": 2,
+      "type": "statement",
+      "explanation": "Câu trần thuật chia sẻ thông tin; 'Đúng, hôm qua tôi đã thử rồi' là phản hồi tự nhiên. (A) liên tưởng gọi món nhưng không phù hợp ngữ cảnh. (B) lặp 'serve' với nghĩa 'giữ chức vụ'.",
+      "translation": "Tôi nghe nói căng tin đang phục vụ thực đơn mới. — Đúng vậy, hôm qua tôi đã thử rồi."
+    },
+    {
+      "id": "p2-044",
+      "question": "How did the product launch go?",
+      "questionVoice": "male",
+      "responses": ["We launched it in June.", "Better than we expected.", "I'll go by taxi."],
+      "answer": 1,
+      "type": "wh-question",
+      "explanation": "'How did... go?' hỏi kết quả diễn ra thế nào: 'Tốt hơn chúng tôi mong đợi'. (A) lặp 'launch' và trả lời thời gian. (C) lặp 'go' với nghĩa di chuyển.",
+      "translation": "Buổi ra mắt sản phẩm diễn ra thế nào? — Tốt hơn chúng tôi mong đợi."
+    },
+    {
+      "id": "p2-045",
+      "question": "Is the report due today or tomorrow?",
+      "questionVoice": "female",
+      "responses": ["Tomorrow, before noon.", "Yes, it's due.", "I reported it already."],
+      "answer": 0,
+      "type": "choice",
+      "explanation": "Câu hỏi lựa chọn giữa hôm nay và ngày mai; 'Ngày mai, trước buổi trưa'. (B) trả lời Yes cho câu hỏi lựa chọn. (C) lặp 'report' với nghĩa động từ.",
+      "translation": "Báo cáo hạn nộp hôm nay hay ngày mai? — Ngày mai, trước buổi trưa."
+    }
+  ]
+}

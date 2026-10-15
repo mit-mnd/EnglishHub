@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "slug": "greetings-introductions",
+    "name": "Chào hỏi & giới thiệu",
+    "description": "Từ vựng cơ bản khi gặp gỡ người mới.",
+    "levelId": 1,
+    "wordIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "travel-essentials",
+    "name": "Du lịch",
+    "description": "Từ vựng cần thiết ở sân bay và khách sạn.",
+    "levelId": 2,
+    "wordIds": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "toeic-office",
+    "name": "TOEIC - Văn phòng",
+    "description": "Từ vựng thường gặp trong TOEIC chủ đề công sở.",
+    "levelId": 5,
+    "wordIds": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  }
+]

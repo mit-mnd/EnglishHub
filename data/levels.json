@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "code": "FOUNDATION",
+    "name": "Mất gốc",
+    "description": "Làm quen lại từ đầu: phát âm, từ vựng và ngữ pháp nền tảng.",
+    "cefrRange": "Pre-A1",
+    "placementMinPercent": 0,
+    "placementMaxPercent": 20.99,
+    "sortOrder": 1
+  },
+  {
+    "id": 2,
+    "code": "ELEMENTARY",
+    "name": "Cơ bản",
+    "description": "Giao tiếp các tình huống quen thuộc hằng ngày.",
+    "cefrRange": "A1-A2",
+    "placementMinPercent": 21,
+    "placementMaxPercent": 45.99,
+    "sortOrder": 2
+  },
+  {
+    "id": 3,
+    "code": "INTERMEDIATE",
+    "name": "Trung cấp",
+    "description": "Diễn đạt ý kiến, hiểu nội dung chính của bài nghe/đọc dài.",
+    "cefrRange": "B1",
+    "placementMinPercent": 46,
+    "placementMaxPercent": 70.99,
+    "sortOrder": 3
+  },
+  {
+    "id": 4,
+    "code": "ADVANCED",
+    "name": "Nâng cao",
+    "description": "Sử dụng tiếng Anh linh hoạt trong học tập và công việc.",
+    "cefrRange": "B2-C1",
+    "placementMinPercent": 71,
+    "placementMaxPercent": 85.99,
+    "sortOrder": 4
+  },
+  {
+    "id": 5,
+    "code": "EXAM_PREP",
+    "name": "Luyện thi TOEIC - IELTS",
+    "description": "Đủ nền tảng để luyện đề TOEIC 650+ / IELTS 6.5+.",
+    "cefrRange": "B2+",
+    "placementMinPercent": 86,
+    "placementMaxPercent": 100,
+    "sortOrder": 5
+  }
+]

@@ -1,0 +1,1807 @@
+{
+  "part": 5,
+  "title": "Part 5 - Hoàn thành câu",
+  "description": "Chọn từ hoặc cụm từ thích hợp nhất để hoàn thành mỗi câu chưa đầy đủ.",
+  "items": [
+    {
+      "id": "p5-001",
+      "sentence": "The new software will make it ------- easier for staff to track inventory.",
+      "options": [
+        "considerably",
+        "considerable",
+        "consider",
+        "consideration"
+      ],
+      "answer": 0,
+      "category": "word-form",
+      "difficulty": 2,
+      "translation": "Phần mềm mới sẽ giúp nhân viên theo dõi hàng tồn kho dễ dàng hơn đáng kể.",
+      "explanation": "Trước tính từ so sánh 'easier' cần trạng từ để bổ nghĩa → 'considerably'. 'considerable' là tính từ, 'consider' là động từ, 'consideration' là danh từ."
+    },
+    {
+      "id": "p5-002",
+      "sentence": "Ms. Tanaka was praised for her valuable ------- to the success of the product launch.",
+      "options": [
+        "contribution",
+        "contribute",
+        "contributed",
+        "contributing"
+      ],
+      "answer": 0,
+      "category": "word-form",
+      "difficulty": 1,
+      "translation": "Cô Tanaka được khen ngợi vì đóng góp quý giá cho thành công của buổi ra mắt sản phẩm.",
+      "explanation": "Sau tính từ 'valuable' (và tính từ sở hữu 'her') cần danh từ → 'contribution'. Các phương án còn lại là động từ/phân từ, không đứng sau tính từ được."
+    },
+    {
+      "id": "p5-003",
+      "sentence": "Applicants must be able to communicate ------- in both English and Vietnamese.",
+      "options": [
+        "effective",
+        "effect",
+        "effectively",
+        "effectiveness"
+      ],
+      "answer": 2,
+      "category": "word-form",
+      "difficulty": 1,
+      "translation": "Ứng viên phải có khả năng giao tiếp hiệu quả bằng cả tiếng Anh và tiếng Việt.",
+      "explanation": "Bổ nghĩa cho động từ 'communicate' cần trạng từ → 'effectively'. 'effective' là tính từ; 'effect', 'effectiveness' là danh từ."
+    },
+    {
+      "id": "p5-004",
+      "sentence": "The quarterly report shows a ------- increase in online sales.",
+      "options": [
+        "significant",
+        "significantly",
+        "signify",
+        "significance"
+      ],
+      "answer": 0,
+      "category": "word-form",
+      "difficulty": 1,
+      "translation": "Báo cáo quý cho thấy doanh số trực tuyến tăng đáng kể.",
+      "explanation": "Giữa mạo từ 'a' và danh từ 'increase' cần tính từ → 'significant'. 'significantly' là trạng từ, không bổ nghĩa cho danh từ."
+    },
+    {
+      "id": "p5-005",
+      "sentence": "Please handle the glass items ------- when unpacking the shipment.",
+      "options": [
+        "carefully",
+        "careful",
+        "care",
+        "carefulness"
+      ],
+      "answer": 0,
+      "category": "word-form",
+      "difficulty": 1,
+      "translation": "Vui lòng xử lý cẩn thận các món đồ thủy tinh khi mở kiện hàng.",
+      "explanation": "Bổ nghĩa cho động từ 'handle' cần trạng từ → 'carefully'. 'careful' là tính từ; 'care', 'carefulness' là danh từ."
+    },
+    {
+      "id": "p5-006",
+      "sentence": "Guests may make a ------- through the hotel's mobile application.",
+      "options": [
+        "reserve",
+        "reserved",
+        "reserving",
+        "reservation"
+      ],
+      "answer": 3,
+      "category": "word-form",
+      "difficulty": 1,
+      "translation": "Khách có thể đặt phòng qua ứng dụng di động của khách sạn.",
+      "explanation": "Sau mạo từ 'a' cần danh từ; cụm cố định 'make a reservation' = đặt chỗ. 'reserve' (danh từ) nghĩa là 'nguồn dự trữ', không hợp nghĩa; 'reserved', 'reserving' không phải danh từ."
+    },
+    {
+      "id": "p5-007",
+      "sentence": "The board found the proposal ------- unrealistic.",
+      "options": [
+        "finance",
+        "financial",
+        "financially",
+        "financed"
+      ],
+      "answer": 2,
+      "category": "word-form",
+      "difficulty": 2,
+      "translation": "Hội đồng quản trị nhận thấy đề xuất này không khả thi về mặt tài chính.",
+      "explanation": "Trước tính từ 'unrealistic' cần trạng từ để bổ nghĩa → 'financially'. 'financial' là tính từ, không bổ nghĩa cho tính từ khác."
+    },
+    {
+      "id": "p5-008",
+      "sentence": "The company has hired a consultant to improve the ------- of its delivery network.",
+      "options": [
+        "efficient",
+        "efficiency",
+        "efficiently",
+        "more efficient"
+      ],
+      "answer": 1,
+      "category": "word-form",
+      "difficulty": 1,
+      "translation": "Công ty đã thuê chuyên gia tư vấn để cải thiện hiệu quả của mạng lưới giao hàng.",
+      "explanation": "Cấu trúc 'the ... of' cần danh từ → 'efficiency'. 'efficient' là tính từ, 'efficiently' là trạng từ."
+    },
+    {
+      "id": "p5-009",
+      "sentence": "Our customer service team responds to all inquiries ------- within 24 hours.",
+      "options": [
+        "prompt",
+        "prompted",
+        "promptness",
+        "promptly"
+      ],
+      "answer": 3,
+      "category": "word-form",
+      "difficulty": 2,
+      "translation": "Đội ngũ chăm sóc khách hàng của chúng tôi phản hồi nhanh chóng mọi yêu cầu trong vòng 24 giờ.",
+      "explanation": "Câu đã đủ thành phần (responds to all inquiries); vị trí trống bổ nghĩa cho động từ 'responds' → trạng từ 'promptly'."
+    },
+    {
+      "id": "p5-010",
+      "sentence": "The museum is closed ------- for renovations.",
+      "options": [
+        "temporary",
+        "temporarily",
+        "temporaries",
+        "temporariness"
+      ],
+      "answer": 1,
+      "category": "word-form",
+      "difficulty": 1,
+      "translation": "Bảo tàng tạm thời đóng cửa để cải tạo.",
+      "explanation": "Bổ nghĩa cho 'is closed' cần trạng từ → 'temporarily'. 'temporary' là tính từ, hai phương án còn lại là danh từ."
+    },
+    {
+      "id": "p5-011",
+      "sentence": "Employees who wish to attend the workshop should register -------.",
+      "options": [
+        "individual",
+        "individually",
+        "individuals",
+        "individuality"
+      ],
+      "answer": 1,
+      "category": "word-form",
+      "difficulty": 2,
+      "translation": "Nhân viên muốn tham dự hội thảo nên đăng ký riêng từng người.",
+      "explanation": "'register' là nội động từ ở đây, vị trí sau nó cần trạng từ → 'individually'. 'individuals' là danh từ, không làm tân ngữ của 'register' theo nghĩa này."
+    },
+    {
+      "id": "p5-012",
+      "sentence": "The marketing director gave a highly ------- presentation on consumer trends.",
+      "options": [
+        "inform",
+        "information",
+        "informatively",
+        "informative"
+      ],
+      "answer": 3,
+      "category": "word-form",
+      "difficulty": 2,
+      "translation": "Giám đốc tiếp thị đã có một bài thuyết trình rất bổ ích về xu hướng tiêu dùng.",
+      "explanation": "Sau trạng từ 'highly' và trước danh từ 'presentation' cần tính từ → 'informative'. 'information' là danh từ, 'informatively' là trạng từ."
+    },
+    {
+      "id": "p5-013",
+      "sentence": "The ------- of the new branch office is scheduled for early March.",
+      "options": [
+        "opening",
+        "open",
+        "opened",
+        "openly"
+      ],
+      "answer": 0,
+      "category": "word-form",
+      "difficulty": 2,
+      "translation": "Việc khai trương văn phòng chi nhánh mới được lên lịch vào đầu tháng Ba.",
+      "explanation": "Sau 'The' và trước 'of' cần danh từ làm chủ ngữ → 'opening' (sự khai trương). 'open' không dùng làm danh từ với nghĩa này; 'opened', 'openly' không phải danh từ."
+    },
+    {
+      "id": "p5-014",
+      "sentence": "Sales of the device have grown ------- since the price was reduced.",
+      "options": [
+        "steady",
+        "steadiness",
+        "steadily",
+        "steadied"
+      ],
+      "answer": 2,
+      "category": "word-form",
+      "difficulty": 1,
+      "translation": "Doanh số của thiết bị đã tăng đều đặn kể từ khi giảm giá.",
+      "explanation": "Bổ nghĩa cho động từ 'have grown' cần trạng từ → 'steadily'. 'steady' là tính từ."
+    },
+    {
+      "id": "p5-015",
+      "sentence": "Fernhill Logistics is known for its ------- delivery times.",
+      "options": [
+        "depend",
+        "dependably",
+        "dependable",
+        "dependence"
+      ],
+      "answer": 2,
+      "category": "word-form",
+      "difficulty": 2,
+      "translation": "Fernhill Logistics nổi tiếng nhờ thời gian giao hàng đáng tin cậy.",
+      "explanation": "Giữa 'its' và danh từ 'delivery times' cần tính từ → 'dependable'. 'dependence' là danh từ, không ghép với 'delivery times' theo nghĩa này; 'dependably' là trạng từ."
+    },
+    {
+      "id": "p5-016",
+      "sentence": "All visitors must show valid ------- at the front desk.",
+      "options": [
+        "identify",
+        "identifiable",
+        "identification",
+        "identified"
+      ],
+      "answer": 2,
+      "category": "word-form",
+      "difficulty": 2,
+      "translation": "Tất cả khách đến thăm phải xuất trình giấy tờ tùy thân hợp lệ tại quầy lễ tân.",
+      "explanation": "Sau tính từ 'valid' cần danh từ làm tân ngữ của 'show' → 'identification'. Các phương án còn lại là động từ/tính từ."
+    },
+    {
+      "id": "p5-017",
+      "sentence": "The survey results were ------- different from what analysts had predicted.",
+      "options": [
+        "marked",
+        "mark",
+        "marking",
+        "markedly"
+      ],
+      "answer": 3,
+      "category": "word-form",
+      "difficulty": 3,
+      "translation": "Kết quả khảo sát khác biệt rõ rệt so với dự đoán của các nhà phân tích.",
+      "explanation": "Trước tính từ 'different' cần trạng từ → 'markedly' (một cách rõ rệt). 'marked' là tính từ, 'mark'/'marking' là động từ/danh từ."
+    },
+    {
+      "id": "p5-018",
+      "sentence": "The board approved the merger after a ------- review of the financial records.",
+      "options": [
+        "thoroughly",
+        "thoroughness",
+        "thorough",
+        "more thoroughly"
+      ],
+      "answer": 2,
+      "category": "word-form",
+      "difficulty": 2,
+      "translation": "Hội đồng quản trị đã phê duyệt việc sáp nhập sau khi xem xét kỹ lưỡng hồ sơ tài chính.",
+      "explanation": "Giữa 'a' và danh từ 'review' cần tính từ → 'thorough'. 'thoroughly' và 'more thoroughly' là trạng từ; 'thoroughness' là danh từ."
+    },
+    {
+      "id": "p5-019",
+      "sentence": "Mr. Patel is ------- for coordinating the annual shareholders' meeting.",
+      "options": [
+        "responsible",
+        "responsibly",
+        "responsibility",
+        "responsibilities"
+      ],
+      "answer": 0,
+      "category": "word-form",
+      "difficulty": 1,
+      "translation": "Ông Patel chịu trách nhiệm điều phối cuộc họp cổ đông thường niên.",
+      "explanation": "Sau 'to be' và trước 'for' cần tính từ: 'be responsible for' = chịu trách nhiệm về. Danh từ 'responsibility' không đi với 'is ... for' theo cách này."
+    },
+    {
+      "id": "p5-020",
+      "sentence": "The CEO spoke ------- about the company's plans for overseas expansion.",
+      "options": [
+        "enthusiastic",
+        "enthusiasm",
+        "enthusiast",
+        "enthusiastically"
+      ],
+      "answer": 3,
+      "category": "word-form",
+      "difficulty": 2,
+      "translation": "Giám đốc điều hành đã nói một cách hào hứng về kế hoạch mở rộng ra nước ngoài của công ty.",
+      "explanation": "Bổ nghĩa cho động từ 'spoke' cần trạng từ → 'enthusiastically'. 'enthusiastic' là tính từ; 'enthusiasm', 'enthusiast' là danh từ."
+    },
+    {
+      "id": "p5-021",
+      "sentence": "Due to ------- demand, the factory will add a night shift.",
+      "options": [
+        "increase",
+        "increasingly",
+        "increases",
+        "increasing"
+      ],
+      "answer": 3,
+      "category": "word-form",
+      "difficulty": 3,
+      "translation": "Do nhu cầu ngày càng tăng, nhà máy sẽ bổ sung ca đêm.",
+      "explanation": "Trước danh từ 'demand' cần tính từ; phân từ 'increasing' (đang tăng) đóng vai trò tính từ. 'increasingly' là trạng từ; 'increase/increases' là danh từ/động từ, không bổ nghĩa cho 'demand'."
+    },
+    {
+      "id": "p5-022",
+      "sentence": "The architect's design was chosen for its ------- use of natural light.",
+      "options": [
+        "innovation",
+        "innovatively",
+        "innovate",
+        "innovative"
+      ],
+      "answer": 3,
+      "category": "word-form",
+      "difficulty": 2,
+      "translation": "Thiết kế của kiến trúc sư được chọn nhờ cách sử dụng ánh sáng tự nhiên đầy sáng tạo.",
+      "explanation": "Giữa 'its' và danh từ 'use' cần tính từ → 'innovative'. 'innovation' là danh từ, 'innovatively' là trạng từ, 'innovate' là động từ."
+    },
+    {
+      "id": "p5-023",
+      "sentence": "Several ------- attended the trade fair to promote their new products.",
+      "options": [
+        "manufacturers",
+        "manufacture",
+        "manufactured",
+        "manufacturing"
+      ],
+      "answer": 0,
+      "category": "word-form",
+      "difficulty": 2,
+      "translation": "Một số nhà sản xuất đã tham dự hội chợ thương mại để quảng bá sản phẩm mới của họ.",
+      "explanation": "Sau 'Several' cần danh từ đếm được số nhiều chỉ người làm chủ ngữ → 'manufacturers'. 'manufacture' là động từ/danh từ không đếm được; 'manufacturing' chỉ ngành sản xuất."
+    },
+    {
+      "id": "p5-024",
+      "sentence": "The new printer is ------- with most operating systems.",
+      "options": [
+        "compatible",
+        "compatibility",
+        "compatibly",
+        "compatibilities"
+      ],
+      "answer": 0,
+      "category": "word-form",
+      "difficulty": 2,
+      "translation": "Máy in mới tương thích với hầu hết các hệ điều hành.",
+      "explanation": "Sau 'is' và trước 'with' cần tính từ: 'be compatible with' = tương thích với. 'compatibility' là danh từ, 'compatibly' là trạng từ."
+    },
+    {
+      "id": "p5-025",
+      "sentence": "Delivery charges are based ------- on the weight of the package.",
+      "options": [
+        "primary",
+        "primaries",
+        "primacy",
+        "primarily"
+      ],
+      "answer": 3,
+      "category": "word-form",
+      "difficulty": 3,
+      "translation": "Phí giao hàng chủ yếu dựa trên trọng lượng của kiện hàng.",
+      "explanation": "Vị trí giữa 'are based' và 'on' bổ nghĩa cho động từ → trạng từ 'primarily' (chủ yếu). 'primary' là tính từ; 'primaries', 'primacy' là danh từ."
+    },
+    {
+      "id": "p5-026",
+      "sentence": "Ridgeway Bank offers ------- interest rates to first-time home buyers.",
+      "options": [
+        "compete",
+        "competitive",
+        "competitively",
+        "competition"
+      ],
+      "answer": 1,
+      "category": "word-form",
+      "difficulty": 2,
+      "translation": "Ngân hàng Ridgeway cung cấp lãi suất cạnh tranh cho người mua nhà lần đầu.",
+      "explanation": "Trước cụm danh từ 'interest rates' cần tính từ → 'competitive' (có tính cạnh tranh). 'competitively' là trạng từ, 'competition' là danh từ."
+    },
+    {
+      "id": "p5-027",
+      "sentence": "Ms. Ito's ------- as regional manager takes effect on May 1.",
+      "options": [
+        "appoint",
+        "appointed",
+        "appointing",
+        "appointment"
+      ],
+      "answer": 3,
+      "category": "word-form",
+      "difficulty": 3,
+      "translation": "Việc bổ nhiệm cô Ito làm quản lý khu vực có hiệu lực từ ngày 1 tháng 5.",
+      "explanation": "Sau sở hữu cách 'Ms. Ito's' cần danh từ làm chủ ngữ → 'appointment' (sự bổ nhiệm). 'appointing' mang nghĩa cô Ito đi bổ nhiệm người khác, sai nghĩa."
+    },
+    {
+      "id": "p5-028",
+      "sentence": "The renovation was completed ------- ahead of schedule.",
+      "options": [
+        "slight",
+        "slighted",
+        "slightly",
+        "slightest"
+      ],
+      "answer": 2,
+      "category": "word-form",
+      "difficulty": 3,
+      "translation": "Việc cải tạo đã hoàn thành sớm hơn kế hoạch một chút.",
+      "explanation": "Bổ nghĩa cho cụm trạng từ 'ahead of schedule' cần trạng từ → 'slightly'. 'slight', 'slightest' là tính từ."
+    },
+    {
+      "id": "p5-029",
+      "sentence": "Customers have responded ------- to the new store layout.",
+      "options": [
+        "favorable",
+        "favorably",
+        "favor",
+        "favored"
+      ],
+      "answer": 1,
+      "category": "word-form",
+      "difficulty": 1,
+      "translation": "Khách hàng đã phản hồi tích cực về cách bố trí cửa hàng mới.",
+      "explanation": "Bổ nghĩa cho động từ 'have responded' cần trạng từ → 'favorably'. 'favorable' là tính từ."
+    },
+    {
+      "id": "p5-030",
+      "sentence": "The consultant's recommendations were both practical and -------.",
+      "options": [
+        "afford",
+        "affordable",
+        "affordably",
+        "affordability"
+      ],
+      "answer": 1,
+      "category": "word-form",
+      "difficulty": 3,
+      "translation": "Các khuyến nghị của chuyên gia tư vấn vừa thiết thực vừa có chi phí hợp lý.",
+      "explanation": "Cấu trúc song song 'both A and B': A là tính từ 'practical' nên B cũng phải là tính từ → 'affordable'. 'affordability' là danh từ, phá vỡ cấu trúc song song."
+    },
+    {
+      "id": "p5-031",
+      "sentence": "By the time the client arrives, the technicians ------- the projector.",
+      "options": [
+        "installed",
+        "have installed",
+        "will be installing",
+        "will have installed"
+      ],
+      "answer": 3,
+      "category": "verb-tense",
+      "difficulty": 3,
+      "translation": "Trước khi khách hàng đến, các kỹ thuật viên sẽ đã lắp đặt xong máy chiếu.",
+      "explanation": "'By the time + hiện tại đơn' chỉ mốc tương lai; hành động hoàn tất trước mốc đó dùng tương lai hoàn thành → 'will have installed'. 'will be installing' chỉ hành động đang diễn ra, không thể hiện sự hoàn tất."
+    },
+    {
+      "id": "p5-032",
+      "sentence": "Mr. Davis ------- for the company since 2015.",
+      "options": [
+        "works",
+        "has worked",
+        "worked",
+        "is working"
+      ],
+      "answer": 1,
+      "category": "verb-tense",
+      "difficulty": 1,
+      "translation": "Ông Davis đã làm việc cho công ty từ năm 2015.",
+      "explanation": "'since + mốc thời gian' dùng thì hiện tại hoàn thành → 'has worked'. Các thì đơn và tiếp diễn không đi với 'since'."
+    },
+    {
+      "id": "p5-033",
+      "sentence": "The shipment ------- yesterday afternoon, two days later than planned.",
+      "options": [
+        "arrived",
+        "arrives",
+        "has arrived",
+        "will arrive"
+      ],
+      "answer": 0,
+      "category": "verb-tense",
+      "difficulty": 1,
+      "translation": "Lô hàng đã đến vào chiều hôm qua, trễ hai ngày so với kế hoạch.",
+      "explanation": "'yesterday afternoon' là thời điểm xác định trong quá khứ → quá khứ đơn 'arrived'. Hiện tại hoàn thành không đi với mốc quá khứ cụ thể."
+    },
+    {
+      "id": "p5-034",
+      "sentence": "If the weather is good tomorrow, the outdoor reception ------- in the garden.",
+      "options": [
+        "was held",
+        "had been held",
+        "is holding",
+        "will be held"
+      ],
+      "answer": 3,
+      "category": "verb-tense",
+      "difficulty": 2,
+      "translation": "Nếu ngày mai thời tiết tốt, tiệc chiêu đãi ngoài trời sẽ được tổ chức trong vườn.",
+      "explanation": "Câu điều kiện loại 1 (If + hiện tại đơn) → mệnh đề chính dùng tương lai; buổi tiệc 'được tổ chức' nên dùng bị động → 'will be held'. 'is holding' sai thể (chủ động)."
+    },
+    {
+      "id": "p5-035",
+      "sentence": "Ms. Romero ------- the sales figures when the power went out.",
+      "options": [
+        "reviews",
+        "has reviewed",
+        "was reviewing",
+        "will review"
+      ],
+      "answer": 2,
+      "category": "verb-tense",
+      "difficulty": 2,
+      "translation": "Cô Romero đang xem xét số liệu bán hàng thì mất điện.",
+      "explanation": "Hành động đang diễn ra trong quá khứ thì bị hành động khác xen vào ('when the power went out') → quá khứ tiếp diễn 'was reviewing'."
+    },
+    {
+      "id": "p5-036",
+      "sentence": "The board ------- a decision on the new budget next Tuesday.",
+      "options": [
+        "made",
+        "has made",
+        "was making",
+        "will make"
+      ],
+      "answer": 3,
+      "category": "verb-tense",
+      "difficulty": 1,
+      "translation": "Hội đồng sẽ đưa ra quyết định về ngân sách mới vào thứ Ba tới.",
+      "explanation": "'next Tuesday' chỉ tương lai → 'will make'. Các phương án còn lại là thì quá khứ hoặc hiện tại hoàn thành."
+    },
+    {
+      "id": "p5-037",
+      "sentence": "Before joining Delta Freight, Mr. Ng ------- as a customs broker for ten years.",
+      "options": [
+        "works",
+        "has worked",
+        "had worked",
+        "will work"
+      ],
+      "answer": 2,
+      "category": "verb-tense",
+      "difficulty": 3,
+      "translation": "Trước khi gia nhập Delta Freight, ông Ng đã làm môi giới hải quan trong mười năm.",
+      "explanation": "Hành động kéo dài và kết thúc trước một hành động khác trong quá khứ (gia nhập Delta Freight) → quá khứ hoàn thành 'had worked'. 'has worked' gắn với hiện tại, không hợp với mốc 'Before joining'."
+    },
+    {
+      "id": "p5-038",
+      "sentence": "Ms. Choi usually ------- a short team meeting on Monday mornings.",
+      "options": [
+        "hold",
+        "holding",
+        "is held",
+        "holds"
+      ],
+      "answer": 3,
+      "category": "verb-tense",
+      "difficulty": 1,
+      "translation": "Cô Choi thường tổ chức một cuộc họp nhóm ngắn vào các sáng thứ Hai.",
+      "explanation": "'usually' diễn tả thói quen → hiện tại đơn; chủ ngữ số ít 'Ms. Choi' → 'holds'. 'is held' là bị động, sai nghĩa vì cô Choi là người tổ chức."
+    },
+    {
+      "id": "p5-039",
+      "sentence": "The new policy ------- effect at the beginning of next quarter.",
+      "options": [
+        "took",
+        "has taken",
+        "had taken",
+        "will take"
+      ],
+      "answer": 3,
+      "category": "verb-tense",
+      "difficulty": 1,
+      "translation": "Chính sách mới sẽ có hiệu lực vào đầu quý tới.",
+      "explanation": "'next quarter' chỉ tương lai → 'will take' (take effect = có hiệu lực). Các phương án còn lại đều là thì quá khứ/hoàn thành."
+    },
+    {
+      "id": "p5-040",
+      "sentence": "Since the new manager arrived, productivity ------- by nearly 20 percent.",
+      "options": [
+        "increases",
+        "has increased",
+        "will increase",
+        "had increased"
+      ],
+      "answer": 1,
+      "category": "verb-tense",
+      "difficulty": 2,
+      "translation": "Kể từ khi người quản lý mới đến, năng suất đã tăng gần 20 phần trăm.",
+      "explanation": "Mệnh đề 'Since + quá khứ đơn' → mệnh đề chính dùng hiện tại hoàn thành 'has increased'. 'had increased' (quá khứ hoàn thành) cần một mốc quá khứ khác làm mốc."
+    },
+    {
+      "id": "p5-041",
+      "sentence": "Ms. Hall requested that the report ------- to her by Friday.",
+      "options": [
+        "is sent",
+        "was sent",
+        "sending",
+        "be sent"
+      ],
+      "answer": 3,
+      "category": "verb-tense",
+      "difficulty": 3,
+      "translation": "Cô Hall yêu cầu báo cáo phải được gửi cho cô ấy trước thứ Sáu.",
+      "explanation": "Sau động từ 'request that' dùng thể giả định: động từ nguyên mẫu không 'to'; báo cáo 'được gửi' nên dùng bị động → 'be sent'. 'is sent', 'was sent' không đúng cấu trúc giả định."
+    },
+    {
+      "id": "p5-042",
+      "sentence": "The company ------- its annual picnic at Lakeside Park for the past five years.",
+      "options": [
+        "holds",
+        "has held",
+        "will hold",
+        "is holding"
+      ],
+      "answer": 1,
+      "category": "verb-tense",
+      "difficulty": 2,
+      "translation": "Công ty đã tổ chức buổi dã ngoại thường niên tại công viên Lakeside trong năm năm qua.",
+      "explanation": "'for the past five years' là dấu hiệu của thì hiện tại hoàn thành → 'has held'."
+    },
+    {
+      "id": "p5-043",
+      "sentence": "Please do not enter the lab while the equipment ------- calibrated.",
+      "options": [
+        "is being",
+        "has",
+        "will",
+        "does"
+      ],
+      "answer": 0,
+      "category": "verb-tense",
+      "difficulty": 3,
+      "translation": "Vui lòng không vào phòng thí nghiệm trong khi thiết bị đang được hiệu chỉnh.",
+      "explanation": "Thiết bị 'đang được' hiệu chỉnh → bị động tiếp diễn 'is being + V3'. 'has calibrated' là chủ động, sai nghĩa; 'will' không dùng trong mệnh đề 'while' chỉ thời gian; 'does calibrated' sai ngữ pháp."
+    },
+    {
+      "id": "p5-044",
+      "sentence": "All orders ------- carefully by our warehouse staff before shipment.",
+      "options": [
+        "inspect",
+        "are inspected",
+        "inspecting",
+        "have inspected"
+      ],
+      "answer": 1,
+      "category": "voice",
+      "difficulty": 2,
+      "translation": "Tất cả đơn hàng đều được nhân viên kho kiểm tra cẩn thận trước khi gửi đi.",
+      "explanation": "Có 'by our warehouse staff' (tác nhân) → câu bị động 'are inspected'. 'inspect', 'have inspected' là chủ động, sai nghĩa vì đơn hàng không tự kiểm tra."
+    },
+    {
+      "id": "p5-045",
+      "sentence": "The conference room ------- for the client meeting this afternoon.",
+      "options": [
+        "has reserved",
+        "is reserving",
+        "reserves",
+        "has been reserved"
+      ],
+      "answer": 3,
+      "category": "voice",
+      "difficulty": 2,
+      "translation": "Phòng hội nghị đã được đặt cho cuộc họp với khách hàng chiều nay.",
+      "explanation": "Phòng hội nghị là đối tượng 'được đặt' → bị động 'has been reserved'. Các phương án còn lại là chủ động và không có tân ngữ."
+    },
+    {
+      "id": "p5-046",
+      "sentence": "The winners of the design competition ------- at the awards dinner next week.",
+      "options": [
+        "will be announced",
+        "will announce",
+        "announced",
+        "are announcing"
+      ],
+      "answer": 0,
+      "category": "voice",
+      "difficulty": 2,
+      "translation": "Những người thắng cuộc thi thiết kế sẽ được công bố tại buổi tiệc trao giải tuần tới.",
+      "explanation": "'next week' → tương lai; người thắng cuộc 'được công bố' → bị động 'will be announced'. 'will announce' là chủ động, sai nghĩa."
+    },
+    {
+      "id": "p5-047",
+      "sentence": "The old warehouse ------- into a modern office complex last year.",
+      "options": [
+        "converted",
+        "has converted",
+        "was converted",
+        "is converting"
+      ],
+      "answer": 2,
+      "category": "voice",
+      "difficulty": 2,
+      "translation": "Nhà kho cũ đã được chuyển đổi thành khu văn phòng hiện đại vào năm ngoái.",
+      "explanation": "Nhà kho 'được chuyển đổi' và có 'last year' → bị động quá khứ đơn 'was converted'. 'converted' (chủ động) thiếu tân ngữ và sai nghĩa."
+    },
+    {
+      "id": "p5-048",
+      "sentence": "Mr. Lee was ------- with the quality of the samples.",
+      "options": [
+        "impressing",
+        "impress",
+        "impressive",
+        "impressed"
+      ],
+      "answer": 3,
+      "category": "voice",
+      "difficulty": 2,
+      "translation": "Ông Lee hài lòng/ấn tượng với chất lượng của các mẫu sản phẩm.",
+      "explanation": "Chỉ cảm xúc của người dùng phân từ quá khứ: 'be impressed with' = ấn tượng với. 'impressing' và 'impressive' mô tả vật/người gây ấn tượng, không đi với 'with' theo nghĩa này."
+    },
+    {
+      "id": "p5-049",
+      "sentence": "Candidates ------- for the position will be contacted by e-mail.",
+      "options": [
+        "selecting",
+        "select",
+        "selected",
+        "selects"
+      ],
+      "answer": 2,
+      "category": "voice",
+      "difficulty": 3,
+      "translation": "Những ứng viên được chọn cho vị trí này sẽ được liên hệ qua e-mail.",
+      "explanation": "Mệnh đề quan hệ rút gọn mang nghĩa bị động (Candidates who are selected) → phân từ quá khứ 'selected'. 'selecting' mang nghĩa chủ động (ứng viên đi chọn), sai nghĩa."
+    },
+    {
+      "id": "p5-050",
+      "sentence": "The quarterly figures ------- by the accounting department before they are released.",
+      "options": [
+        "must verify",
+        "verifying",
+        "have verified",
+        "must be verified"
+      ],
+      "answer": 3,
+      "category": "voice",
+      "difficulty": 2,
+      "translation": "Số liệu quý phải được phòng kế toán xác minh trước khi công bố.",
+      "explanation": "Có tác nhân 'by the accounting department' → bị động 'must be verified'. 'must verify', 'have verified' là chủ động; 'verifying' không làm động từ chính được."
+    },
+    {
+      "id": "p5-051",
+      "sentence": "Ms. Ward has worked in the finance department ------- more than a decade.",
+      "options": [
+        "since",
+        "during",
+        "for",
+        "until"
+      ],
+      "answer": 2,
+      "category": "preposition",
+      "difficulty": 1,
+      "translation": "Cô Ward đã làm việc ở phòng tài chính hơn một thập kỷ.",
+      "explanation": "'for + khoảng thời gian' (more than a decade) đi với hiện tại hoàn thành. 'since' cần mốc thời gian; 'during' chỉ trong suốt một sự kiện; 'until' chỉ điểm kết thúc."
+    },
+    {
+      "id": "p5-052",
+      "sentence": "Payment is due ------- receipt of the invoice.",
+      "options": [
+        "among",
+        "beside",
+        "upon",
+        "throughout"
+      ],
+      "answer": 2,
+      "category": "preposition",
+      "difficulty": 3,
+      "translation": "Khoản thanh toán đến hạn ngay khi nhận được hóa đơn.",
+      "explanation": "'upon receipt of' = ngay khi nhận được, cụm cố định trong thương mại. 'among' (giữa nhiều thứ), 'beside' (bên cạnh), 'throughout' (suốt) không hợp nghĩa."
+    },
+    {
+      "id": "p5-053",
+      "sentence": "The store will remain open ------- 9 P.M. throughout the holiday season.",
+      "options": [
+        "by",
+        "since",
+        "until",
+        "within"
+      ],
+      "answer": 2,
+      "category": "preposition",
+      "difficulty": 2,
+      "translation": "Cửa hàng sẽ mở cửa đến 9 giờ tối trong suốt mùa lễ.",
+      "explanation": "'remain open' là trạng thái kéo dài → 'until + mốc' (cho đến khi). 'by' dùng cho hạn chót của hành động hoàn tất; 'since' cần thì hoàn thành; 'within' đi với khoảng thời gian."
+    },
+    {
+      "id": "p5-054",
+      "sentence": "Applications must be received ------- April 30 to be considered.",
+      "options": [
+        "by",
+        "until",
+        "since",
+        "from"
+      ],
+      "answer": 0,
+      "category": "preposition",
+      "difficulty": 2,
+      "translation": "Đơn ứng tuyển phải được nhận trước (chậm nhất) ngày 30 tháng 4 để được xem xét.",
+      "explanation": "Hạn chót cho hành động hoàn tất một lần ('be received') → 'by'. 'until' dùng cho hành động/trạng thái kéo dài, không dùng cho hạn chót."
+    },
+    {
+      "id": "p5-055",
+      "sentence": "The sales team exceeded its target ------- a wide margin.",
+      "options": [
+        "with",
+        "by",
+        "at",
+        "for"
+      ],
+      "answer": 1,
+      "category": "preposition",
+      "difficulty": 3,
+      "translation": "Đội bán hàng đã vượt chỉ tiêu với cách biệt lớn.",
+      "explanation": "'by a (wide) margin' = với cách biệt (lớn); 'by' chỉ mức độ chênh lệch. Các giới từ khác không dùng trong cụm này."
+    },
+    {
+      "id": "p5-056",
+      "sentence": "------- the heavy rain, the outdoor concert went ahead as planned.",
+      "options": [
+        "Although",
+        "Despite",
+        "Because of",
+        "Instead of"
+      ],
+      "answer": 1,
+      "category": "preposition",
+      "difficulty": 2,
+      "translation": "Bất chấp mưa lớn, buổi hòa nhạc ngoài trời vẫn diễn ra như kế hoạch.",
+      "explanation": "Sau chỗ trống là cụm danh từ 'the heavy rain' và ý nghĩa tương phản → giới từ 'Despite'. 'Although' là liên từ, cần mệnh đề; 'Because of' và 'Instead of' sai nghĩa."
+    },
+    {
+      "id": "p5-057",
+      "sentence": "The new branch is conveniently located ------- the central train station.",
+      "options": [
+        "between",
+        "near",
+        "among",
+        "along"
+      ],
+      "answer": 1,
+      "category": "preposition",
+      "difficulty": 2,
+      "translation": "Chi nhánh mới nằm ở vị trí thuận tiện, gần nhà ga trung tâm.",
+      "explanation": "'near' = gần, hợp với 'conveniently located'. 'between' cần hai đối tượng, 'among' cần nhóm nhiều đối tượng, 'along' dùng với đường/sông."
+    },
+    {
+      "id": "p5-058",
+      "sentence": "Ms. Grant will be in charge ------- the department while Mr. Lowe is away.",
+      "options": [
+        "for",
+        "with",
+        "to",
+        "of"
+      ],
+      "answer": 3,
+      "category": "preposition",
+      "difficulty": 1,
+      "translation": "Cô Grant sẽ phụ trách phòng ban trong khi ông Lowe đi vắng.",
+      "explanation": "Cụm cố định 'in charge of' = phụ trách. Không dùng 'in charge for/with/to'."
+    },
+    {
+      "id": "p5-059",
+      "sentence": "Please direct all questions about the new benefits plan ------- the human resources office.",
+      "options": [
+        "to",
+        "at",
+        "on",
+        "with"
+      ],
+      "answer": 0,
+      "category": "preposition",
+      "difficulty": 1,
+      "translation": "Vui lòng gửi mọi câu hỏi về chương trình phúc lợi mới đến phòng nhân sự.",
+      "explanation": "'direct something to someone' = chuyển/gửi cái gì đến ai. 'at', 'on', 'with' không đi với 'direct' theo nghĩa này."
+    },
+    {
+      "id": "p5-060",
+      "sentence": "Our firm has an excellent reputation ------- delivering projects on time.",
+      "options": [
+        "with",
+        "for",
+        "about",
+        "on"
+      ],
+      "answer": 1,
+      "category": "preposition",
+      "difficulty": 3,
+      "translation": "Công ty chúng tôi có danh tiếng xuất sắc về việc giao dự án đúng hạn.",
+      "explanation": "Cụm 'a reputation for (doing) something' = nổi tiếng về điều gì. Các giới từ còn lại không kết hợp với 'reputation' theo nghĩa này."
+    },
+    {
+      "id": "p5-061",
+      "sentence": "Prices on the menu do not include tax and are subject ------- change.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "of"
+      ],
+      "answer": 0,
+      "category": "preposition",
+      "difficulty": 1,
+      "translation": "Giá trong thực đơn chưa bao gồm thuế và có thể thay đổi.",
+      "explanation": "Cụm cố định 'be subject to change' = có thể thay đổi. Không dùng 'subject for/with/of'."
+    },
+    {
+      "id": "p5-062",
+      "sentence": "Participants will be divided ------- small groups for the workshop.",
+      "options": [
+        "onto",
+        "among",
+        "through",
+        "into"
+      ],
+      "answer": 3,
+      "category": "preposition",
+      "difficulty": 2,
+      "translation": "Người tham gia sẽ được chia thành các nhóm nhỏ cho buổi hội thảo.",
+      "explanation": "'divide ... into' = chia thành. 'divide among' nghĩa là chia (cái gì) cho nhiều người, không hợp khi chủ ngữ là người được chia nhóm."
+    },
+    {
+      "id": "p5-063",
+      "sentence": "The shipment is expected to arrive ------- the next three days.",
+      "options": [
+        "among",
+        "within",
+        "since",
+        "between"
+      ],
+      "answer": 1,
+      "category": "preposition",
+      "difficulty": 2,
+      "translation": "Lô hàng dự kiến sẽ đến trong vòng ba ngày tới.",
+      "explanation": "'within + khoảng thời gian' = trong vòng. 'since' cần mốc thời gian quá khứ; 'between' cần hai mốc; 'among' không dùng cho thời gian."
+    },
+    {
+      "id": "p5-064",
+      "sentence": "------- the merger, the two firms will share a single headquarters.",
+      "options": [
+        "Unless",
+        "Among",
+        "Toward",
+        "Following"
+      ],
+      "answer": 3,
+      "category": "preposition",
+      "difficulty": 3,
+      "translation": "Sau khi sáp nhập, hai công ty sẽ dùng chung một trụ sở.",
+      "explanation": "'Following' (giới từ) = sau khi, theo sau, đứng trước cụm danh từ 'the merger'. 'Unless' là liên từ cần mệnh đề; 'Among', 'Toward' sai nghĩa."
+    },
+    {
+      "id": "p5-065",
+      "sentence": "Mr. Okafor has been working on the budget proposal ------- early this morning.",
+      "options": [
+        "since",
+        "for",
+        "during",
+        "by"
+      ],
+      "answer": 0,
+      "category": "preposition",
+      "difficulty": 1,
+      "translation": "Ông Okafor đã làm đề xuất ngân sách từ sáng sớm nay.",
+      "explanation": "Hiện tại hoàn thành tiếp diễn + mốc thời gian bắt đầu ('early this morning') → 'since'. 'for' cần khoảng thời gian; 'during', 'by' không diễn tả điểm bắt đầu."
+    },
+    {
+      "id": "p5-066",
+      "sentence": "The training session is mandatory for all staff, ------- those on vacation.",
+      "options": [
+        "against",
+        "except",
+        "upon",
+        "across"
+      ],
+      "answer": 1,
+      "category": "preposition",
+      "difficulty": 2,
+      "translation": "Buổi đào tạo là bắt buộc với toàn bộ nhân viên, trừ những người đang nghỉ phép.",
+      "explanation": "'except' = ngoại trừ, hợp nghĩa loại trừ người nghỉ phép. 'against', 'upon', 'across' không mang nghĩa loại trừ."
+    },
+    {
+      "id": "p5-067",
+      "sentence": "The company's revenue rose sharply ------- the second quarter.",
+      "options": [
+        "while",
+        "between",
+        "during",
+        "since"
+      ],
+      "answer": 2,
+      "category": "preposition",
+      "difficulty": 2,
+      "translation": "Doanh thu của công ty tăng mạnh trong quý hai.",
+      "explanation": "'during + danh từ chỉ khoảng thời gian' = trong suốt. 'while' là liên từ cần mệnh đề; 'since' cần thì hoàn thành; 'between' cần hai mốc."
+    },
+    {
+      "id": "p5-068",
+      "sentence": "Ms. Yuen will travel to Singapore ------- behalf of the company.",
+      "options": [
+        "at",
+        "on",
+        "for",
+        "by"
+      ],
+      "answer": 1,
+      "category": "preposition",
+      "difficulty": 1,
+      "translation": "Cô Yuen sẽ đi Singapore thay mặt công ty.",
+      "explanation": "Cụm cố định 'on behalf of' = thay mặt, đại diện cho. Không dùng 'at/for/by behalf of'."
+    },
+    {
+      "id": "p5-069",
+      "sentence": "------- the budget is approved, construction on the new wing will begin in June.",
+      "options": [
+        "Once",
+        "Despite",
+        "Due to",
+        "In spite"
+      ],
+      "answer": 0,
+      "category": "conjunction",
+      "difficulty": 2,
+      "translation": "Một khi ngân sách được phê duyệt, việc xây dựng khu nhà mới sẽ bắt đầu vào tháng Sáu.",
+      "explanation": "Sau chỗ trống là mệnh đề (the budget is approved) → cần liên từ 'Once' (một khi). 'Despite', 'Due to' là giới từ; 'In spite' thiếu 'of' và cũng là giới từ."
+    },
+    {
+      "id": "p5-070",
+      "sentence": "Ms. Bell could not attend the conference ------- she had a prior commitment.",
+      "options": [
+        "although",
+        "because",
+        "unless",
+        "so that"
+      ],
+      "answer": 1,
+      "category": "conjunction",
+      "difficulty": 1,
+      "translation": "Cô Bell không thể tham dự hội nghị vì cô ấy đã có hẹn trước.",
+      "explanation": "Mệnh đề sau là lý do → 'because'. 'although' (mặc dù) và 'unless' (trừ khi) sai logic; 'so that' chỉ mục đích."
+    },
+    {
+      "id": "p5-071",
+      "sentence": "The software is easy to install ------- requires no special training.",
+      "options": [
+        "but",
+        "and",
+        "or",
+        "nor"
+      ],
+      "answer": 1,
+      "category": "conjunction",
+      "difficulty": 1,
+      "translation": "Phần mềm dễ cài đặt và không cần đào tạo đặc biệt.",
+      "explanation": "Hai ý cùng chiều (đều là ưu điểm) → 'and'. 'but' chỉ tương phản; 'or' chỉ lựa chọn; 'nor' cần đi sau phủ định."
+    },
+    {
+      "id": "p5-072",
+      "sentence": "------- you have any questions about your order, please contact customer service.",
+      "options": [
+        "Unless",
+        "Whether",
+        "If",
+        "Although"
+      ],
+      "answer": 2,
+      "category": "conjunction",
+      "difficulty": 1,
+      "translation": "Nếu bạn có bất kỳ câu hỏi nào về đơn hàng, vui lòng liên hệ bộ phận chăm sóc khách hàng.",
+      "explanation": "Mệnh đề điều kiện → 'If'. 'Unless' (trừ khi) sai logic; 'Whether' cần 'or (not)' và không mở đầu mệnh đề điều kiện kiểu này; 'Although' chỉ nhượng bộ."
+    },
+    {
+      "id": "p5-073",
+      "sentence": "The restaurant is popular ------- its prices are higher than those of nearby competitors.",
+      "options": [
+        "because",
+        "so",
+        "even though",
+        "unless"
+      ],
+      "answer": 2,
+      "category": "conjunction",
+      "difficulty": 2,
+      "translation": "Nhà hàng vẫn đông khách mặc dù giá cao hơn các đối thủ gần đó.",
+      "explanation": "Hai mệnh đề tương phản (đông khách nhưng giá cao) → 'even though'. 'because' sai logic vì giá cao không phải lý do được ưa chuộng; 'so' chỉ kết quả; 'unless' chỉ điều kiện."
+    },
+    {
+      "id": "p5-074",
+      "sentence": "Please submit ------- a résumé and a cover letter by Friday.",
+      "options": [
+        "either",
+        "neither",
+        "both",
+        "whether"
+      ],
+      "answer": 2,
+      "category": "conjunction",
+      "difficulty": 1,
+      "translation": "Vui lòng nộp cả sơ yếu lý lịch và thư xin việc trước thứ Sáu.",
+      "explanation": "Liên từ tương quan 'both ... and'. 'either' đi với 'or', 'neither' đi với 'nor', 'whether' đi với 'or'."
+    },
+    {
+      "id": "p5-075",
+      "sentence": "Visitors may pay ------- by credit card or in cash.",
+      "options": [
+        "both",
+        "neither",
+        "not only",
+        "either"
+      ],
+      "answer": 3,
+      "category": "conjunction",
+      "difficulty": 1,
+      "translation": "Khách có thể thanh toán bằng thẻ tín dụng hoặc tiền mặt.",
+      "explanation": "Liên từ tương quan 'either ... or' = hoặc ... hoặc. 'both' đi với 'and', 'neither' đi với 'nor', 'not only' đi với 'but also'."
+    },
+    {
+      "id": "p5-076",
+      "sentence": "The new model is ------- lighter but also more durable than the previous one.",
+      "options": [
+        "both",
+        "not only",
+        "either",
+        "as well"
+      ],
+      "answer": 1,
+      "category": "conjunction",
+      "difficulty": 2,
+      "translation": "Mẫu mới không chỉ nhẹ hơn mà còn bền hơn mẫu trước.",
+      "explanation": "Cấu trúc 'not only ... but also' = không những ... mà còn. 'both' đi với 'and', 'either' đi với 'or'."
+    },
+    {
+      "id": "p5-077",
+      "sentence": "Employees cannot access the building after 8 P.M. ------- they have a security pass.",
+      "options": [
+        "if",
+        "as though",
+        "so",
+        "unless"
+      ],
+      "answer": 3,
+      "category": "conjunction",
+      "difficulty": 2,
+      "translation": "Nhân viên không thể vào tòa nhà sau 8 giờ tối trừ khi có thẻ an ninh.",
+      "explanation": "'unless' = trừ khi, hợp logic (không vào được trừ khi có thẻ). 'if' tạo nghĩa ngược (có thẻ thì không vào được); 'as though', 'so' sai nghĩa."
+    },
+    {
+      "id": "p5-078",
+      "sentence": "------- the project faced several delays, it was completed on schedule.",
+      "options": [
+        "Despite",
+        "Although",
+        "However",
+        "Even"
+      ],
+      "answer": 1,
+      "category": "conjunction",
+      "difficulty": 2,
+      "translation": "Mặc dù dự án gặp nhiều sự chậm trễ, nó vẫn hoàn thành đúng tiến độ.",
+      "explanation": "Trước mệnh đề và mang nghĩa nhượng bộ → liên từ 'Although'. 'Despite' là giới từ (cần danh từ); 'However' là trạng từ liên kết, không nối hai mệnh đề bằng dấu phẩy; 'Even' phải là 'Even though'."
+    },
+    {
+      "id": "p5-079",
+      "sentence": "Mr. Cruz checked the figures twice ------- there would be no errors in the final report.",
+      "options": [
+        "in case of",
+        "so that",
+        "as if",
+        "whereas"
+      ],
+      "answer": 1,
+      "category": "conjunction",
+      "difficulty": 3,
+      "translation": "Ông Cruz kiểm tra số liệu hai lần để báo cáo cuối cùng không có lỗi.",
+      "explanation": "Mệnh đề chỉ mục đích (có 'would') → 'so that'. 'in case of' là giới từ (cần danh từ); 'as if' (như thể) và 'whereas' (trong khi đó) sai nghĩa."
+    },
+    {
+      "id": "p5-080",
+      "sentence": "The demand for electric vehicles is rising; -------, many automakers are expanding production.",
+      "options": [
+        "however",
+        "nevertheless",
+        "otherwise",
+        "therefore"
+      ],
+      "answer": 3,
+      "category": "conjunction",
+      "difficulty": 3,
+      "translation": "Nhu cầu xe điện đang tăng; vì vậy, nhiều hãng ô tô đang mở rộng sản xuất.",
+      "explanation": "Mệnh đề sau là kết quả của mệnh đề trước → 'therefore'. 'however', 'nevertheless' chỉ tương phản; 'otherwise' (nếu không thì) sai nghĩa."
+    },
+    {
+      "id": "p5-081",
+      "sentence": "The managers reviewed the proposal ------- before presenting it to the board.",
+      "options": [
+        "them",
+        "their",
+        "themselves",
+        "theirs"
+      ],
+      "answer": 2,
+      "category": "pronoun",
+      "difficulty": 2,
+      "translation": "Các quản lý đã tự mình xem xét đề xuất trước khi trình lên hội đồng.",
+      "explanation": "Câu đã đủ thành phần; đại từ phản thân 'themselves' dùng để nhấn mạnh (tự mình). 'them', 'their', 'theirs' không đứng sau tân ngữ 'the proposal' như vậy."
+    },
+    {
+      "id": "p5-082",
+      "sentence": "Mr. Sato prefers to book ------- own flights rather than use a travel agency.",
+      "options": [
+        "him",
+        "his",
+        "he",
+        "himself"
+      ],
+      "answer": 1,
+      "category": "pronoun",
+      "difficulty": 1,
+      "translation": "Ông Sato thích tự đặt chuyến bay của mình hơn là dùng đại lý du lịch.",
+      "explanation": "Trước 'own' phải là tính từ sở hữu → 'his own'. 'him', 'he', 'himself' không đứng trước 'own'."
+    },
+    {
+      "id": "p5-083",
+      "sentence": "Employees should keep ------- passwords confidential at all times.",
+      "options": [
+        "them",
+        "they",
+        "their",
+        "theirs"
+      ],
+      "answer": 2,
+      "category": "pronoun",
+      "difficulty": 1,
+      "translation": "Nhân viên nên luôn giữ bí mật mật khẩu của mình.",
+      "explanation": "Trước danh từ 'passwords' cần tính từ sở hữu → 'their'. 'theirs' là đại từ sở hữu, không đứng trước danh từ."
+    },
+    {
+      "id": "p5-084",
+      "sentence": "The laptop on the desk is not mine; it may be -------.",
+      "options": [
+        "her",
+        "hers",
+        "she",
+        "herself"
+      ],
+      "answer": 1,
+      "category": "pronoun",
+      "difficulty": 1,
+      "translation": "Chiếc máy tính xách tay trên bàn không phải của tôi; có thể là của cô ấy.",
+      "explanation": "Song song với 'mine', cần đại từ sở hữu đứng một mình → 'hers' (= her laptop). 'her' cần danh từ theo sau khi mang nghĩa sở hữu."
+    },
+    {
+      "id": "p5-085",
+      "sentence": "------- who registered for the seminar will receive a confirmation e-mail.",
+      "options": [
+        "They",
+        "Them",
+        "Those",
+        "These"
+      ],
+      "answer": 2,
+      "category": "pronoun",
+      "difficulty": 3,
+      "translation": "Những người đã đăng ký hội thảo sẽ nhận được e-mail xác nhận.",
+      "explanation": "Cấu trúc 'Those who ...' = những người mà. 'They who', 'Them who', 'These who' không dùng trong tiếng Anh chuẩn."
+    },
+    {
+      "id": "p5-086",
+      "sentence": "Our prices are lower than ------- of our competitors.",
+      "options": [
+        "these",
+        "that",
+        "those",
+        "them"
+      ],
+      "answer": 2,
+      "category": "pronoun",
+      "difficulty": 3,
+      "translation": "Giá của chúng tôi thấp hơn giá của các đối thủ cạnh tranh.",
+      "explanation": "Thay thế cho danh từ số nhiều 'prices' trong phép so sánh → 'those (of)'. 'that' thay cho danh từ số ít; 'these' không dùng với 'of' theo cách này; 'them of' sai ngữ pháp."
+    },
+    {
+      "id": "p5-087",
+      "sentence": "The company encourages ------- employees to take part in community events.",
+      "options": [
+        "its",
+        "it",
+        "it's",
+        "itself"
+      ],
+      "answer": 0,
+      "category": "pronoun",
+      "difficulty": 1,
+      "translation": "Công ty khuyến khích nhân viên của mình tham gia các sự kiện cộng đồng.",
+      "explanation": "Trước danh từ 'employees' cần tính từ sở hữu → 'its'. 'it's' = 'it is'; 'it', 'itself' không đứng trước danh từ."
+    },
+    {
+      "id": "p5-088",
+      "sentence": "If you cannot attend the session, please let ------- know in advance.",
+      "options": [
+        "us",
+        "we",
+        "our",
+        "ourselves"
+      ],
+      "answer": 0,
+      "category": "pronoun",
+      "difficulty": 1,
+      "translation": "Nếu bạn không thể tham dự buổi học, vui lòng báo trước cho chúng tôi.",
+      "explanation": "Sau động từ 'let' cần đại từ tân ngữ → 'us'. 'we' là chủ ngữ; 'our' là tính từ sở hữu; 'ourselves' chỉ dùng khi chủ ngữ là 'we'."
+    },
+    {
+      "id": "p5-089",
+      "sentence": "Ms. Patel and ------- will lead the training sessions next week.",
+      "options": [
+        "me",
+        "my",
+        "I",
+        "mine"
+      ],
+      "answer": 2,
+      "category": "pronoun",
+      "difficulty": 2,
+      "translation": "Cô Patel và tôi sẽ dẫn dắt các buổi đào tạo vào tuần tới.",
+      "explanation": "Vị trí chủ ngữ (cùng với 'Ms. Patel') → đại từ chủ ngữ 'I'. 'me' là tân ngữ; 'my', 'mine' là dạng sở hữu."
+    },
+    {
+      "id": "p5-090",
+      "sentence": "Mr. Roth designed the company logo -------, without help from an agency.",
+      "options": [
+        "himself",
+        "him",
+        "his",
+        "he"
+      ],
+      "answer": 0,
+      "category": "pronoun",
+      "difficulty": 2,
+      "translation": "Ông Roth tự mình thiết kế logo công ty, không cần sự trợ giúp của công ty quảng cáo.",
+      "explanation": "Câu đã đủ; đại từ phản thân 'himself' nhấn mạnh việc tự làm, phù hợp với 'without help'. 'him', 'his', 'he' không đứng ở vị trí này."
+    },
+    {
+      "id": "p5-091",
+      "sentence": "Please ------- the attached form and return it to the front desk.",
+      "options": [
+        "complete",
+        "conclude",
+        "perform",
+        "achieve"
+      ],
+      "answer": 0,
+      "category": "vocabulary",
+      "difficulty": 1,
+      "translation": "Vui lòng điền đầy đủ mẫu đơn đính kèm và gửi lại cho quầy lễ tân.",
+      "explanation": "'complete a form' = điền (hoàn tất) mẫu đơn. 'conclude' (kết luận), 'perform' (thực hiện), 'achieve' (đạt được) không kết hợp với 'form'."
+    },
+    {
+      "id": "p5-092",
+      "sentence": "The hotel offers free shuttle service to guests who ------- a room for three nights or more.",
+      "options": [
+        "write",
+        "book",
+        "spend",
+        "open"
+      ],
+      "answer": 1,
+      "category": "vocabulary",
+      "difficulty": 1,
+      "translation": "Khách sạn cung cấp dịch vụ đưa đón miễn phí cho khách đặt phòng từ ba đêm trở lên.",
+      "explanation": "'book a room' = đặt phòng. 'spend' đi với thời gian/tiền ('spend three nights'), không đi với 'a room'; 'write', 'open' sai nghĩa."
+    },
+    {
+      "id": "p5-093",
+      "sentence": "Mr. Brown has ------- an agreement with a new supplier in Malaysia.",
+      "options": [
+        "arrived",
+        "reached",
+        "attained",
+        "gained"
+      ],
+      "answer": 1,
+      "category": "vocabulary",
+      "difficulty": 3,
+      "translation": "Ông Brown đã đạt được thỏa thuận với một nhà cung cấp mới ở Malaysia.",
+      "explanation": "Collocation 'reach an agreement' = đạt được thỏa thuận. 'arrived' là nội động từ (cần 'at'); 'attain', 'gain' không kết hợp tự nhiên với 'agreement'."
+    },
+    {
+      "id": "p5-094",
+      "sentence": "The company will ------- a new line of eco-friendly packaging next spring.",
+      "options": [
+        "depart",
+        "emerge",
+        "rise",
+        "launch"
+      ],
+      "answer": 3,
+      "category": "vocabulary",
+      "difficulty": 1,
+      "translation": "Công ty sẽ ra mắt dòng bao bì thân thiện với môi trường vào mùa xuân tới.",
+      "explanation": "'launch a product/line' = tung ra sản phẩm. 'depart', 'emerge', 'rise' là nội động từ, không có tân ngữ."
+    },
+    {
+      "id": "p5-095",
+      "sentence": "All new employees must attend an ------- session on their first day.",
+      "options": [
+        "occupation",
+        "observation",
+        "obligation",
+        "orientation"
+      ],
+      "answer": 3,
+      "category": "vocabulary",
+      "difficulty": 2,
+      "translation": "Tất cả nhân viên mới phải tham dự buổi định hướng vào ngày làm việc đầu tiên.",
+      "explanation": "'orientation session' = buổi định hướng/hội nhập cho người mới. 'occupation' (nghề nghiệp), 'observation' (quan sát), 'obligation' (nghĩa vụ) sai nghĩa."
+    },
+    {
+      "id": "p5-096",
+      "sentence": "The firm hired an outside consultant to ------- the cause of the production delays.",
+      "options": [
+        "notify",
+        "certify",
+        "identify",
+        "qualify"
+      ],
+      "answer": 2,
+      "category": "vocabulary",
+      "difficulty": 2,
+      "translation": "Công ty đã thuê chuyên gia tư vấn bên ngoài để xác định nguyên nhân gây chậm trễ sản xuất.",
+      "explanation": "'identify the cause' = xác định nguyên nhân. 'notify' (thông báo cho ai), 'certify' (chứng nhận), 'qualify' (đủ điều kiện) không hợp nghĩa."
+    },
+    {
+      "id": "p5-097",
+      "sentence": "Customers who are not fully satisfied may request a full ------- within 30 days.",
+      "options": [
+        "refund",
+        "reward",
+        "receipt",
+        "reserve"
+      ],
+      "answer": 0,
+      "category": "vocabulary",
+      "difficulty": 1,
+      "translation": "Khách hàng chưa hoàn toàn hài lòng có thể yêu cầu hoàn tiền toàn bộ trong vòng 30 ngày.",
+      "explanation": "'a full refund' = hoàn tiền toàn bộ, hợp ngữ cảnh khách không hài lòng. 'reward' (phần thưởng), 'receipt' (biên lai), 'reserve' (dự trữ) sai nghĩa."
+    },
+    {
+      "id": "p5-098",
+      "sentence": "The CEO's speech will be followed by a question-and-answer -------.",
+      "options": [
+        "lesson",
+        "session",
+        "occasion",
+        "display"
+      ],
+      "answer": 1,
+      "category": "vocabulary",
+      "difficulty": 2,
+      "translation": "Sau bài phát biểu của giám đốc điều hành sẽ là phần hỏi đáp.",
+      "explanation": "'question-and-answer session' = phiên hỏi đáp. 'lesson' (bài học), 'occasion' (dịp), 'display' (trưng bày) không kết hợp."
+    },
+    {
+      "id": "p5-099",
+      "sentence": "Due to ------- weather conditions, all flights to Denver have been delayed.",
+      "options": [
+        "strict",
+        "severe",
+        "tight",
+        "steep"
+      ],
+      "answer": 1,
+      "category": "vocabulary",
+      "difficulty": 2,
+      "translation": "Do điều kiện thời tiết khắc nghiệt, tất cả chuyến bay đến Denver đều bị hoãn.",
+      "explanation": "'severe weather' = thời tiết khắc nghiệt. 'strict' (nghiêm khắc – luật lệ), 'tight' (chặt – lịch trình, ngân sách), 'steep' (dốc – giá cả) không đi với 'weather'."
+    },
+    {
+      "id": "p5-100",
+      "sentence": "Ms. Park was ------- to regional sales manager after only two years with the company.",
+      "options": [
+        "proceeded",
+        "progressed",
+        "promoted",
+        "provided"
+      ],
+      "answer": 2,
+      "category": "vocabulary",
+      "difficulty": 2,
+      "translation": "Cô Park được thăng chức lên quản lý bán hàng khu vực chỉ sau hai năm làm việc tại công ty.",
+      "explanation": "'be promoted to + chức vụ' = được thăng chức. 'proceed', 'progress' là nội động từ, không dùng ở bị động; 'provided' sai nghĩa."
+    },
+    {
+      "id": "p5-101",
+      "sentence": "Please keep your receipt as ------- of purchase.",
+      "options": [
+        "sign",
+        "mark",
+        "trace",
+        "proof"
+      ],
+      "answer": 3,
+      "category": "vocabulary",
+      "difficulty": 2,
+      "translation": "Vui lòng giữ biên lai làm bằng chứng mua hàng.",
+      "explanation": "Cụm cố định 'proof of purchase' = bằng chứng mua hàng. 'sign', 'mark', 'trace' không dùng trong cụm này."
+    },
+    {
+      "id": "p5-102",
+      "sentence": "The new manager has ------- implemented several cost-saving measures.",
+      "options": [
+        "already",
+        "yet",
+        "still",
+        "ever"
+      ],
+      "answer": 0,
+      "category": "vocabulary",
+      "difficulty": 3,
+      "translation": "Người quản lý mới đã triển khai một số biện pháp tiết kiệm chi phí.",
+      "explanation": "Câu khẳng định thì hiện tại hoàn thành → 'already' (đã). 'yet' dùng trong câu phủ định/nghi vấn; 'ever' dùng trong câu hỏi/so sánh; 'still' không đứng ở vị trí này với nghĩa hoàn tất."
+    },
+    {
+      "id": "p5-103",
+      "sentence": "The contract will ------- at the end of the year unless both parties agree to renew it.",
+      "options": [
+        "exhaust",
+        "deplete",
+        "expire",
+        "remove"
+      ],
+      "answer": 2,
+      "category": "vocabulary",
+      "difficulty": 3,
+      "translation": "Hợp đồng sẽ hết hạn vào cuối năm trừ khi cả hai bên đồng ý gia hạn.",
+      "explanation": "'a contract expires' = hợp đồng hết hạn, hợp với 'renew'. 'exhaust', 'deplete' (cạn kiệt) và 'remove' (loại bỏ) là ngoại động từ cần tân ngữ và sai nghĩa."
+    },
+    {
+      "id": "p5-104",
+      "sentence": "Our sales representatives are ------- to answer questions about the product range.",
+      "options": [
+        "capable",
+        "possible",
+        "available",
+        "accessible"
+      ],
+      "answer": 2,
+      "category": "vocabulary",
+      "difficulty": 3,
+      "translation": "Nhân viên bán hàng của chúng tôi luôn sẵn sàng trả lời câu hỏi về các dòng sản phẩm.",
+      "explanation": "'be available to do something' = sẵn sàng/có mặt để làm gì. 'capable' phải đi với 'of + V-ing'; 'possible' không dùng với chủ ngữ chỉ người như vậy; 'accessible' không đi với 'to + động từ'."
+    },
+    {
+      "id": "p5-105",
+      "sentence": "The factory must ------- with all national safety regulations.",
+      "options": [
+        "obey",
+        "follow",
+        "adhere",
+        "comply"
+      ],
+      "answer": 3,
+      "category": "vocabulary",
+      "difficulty": 3,
+      "translation": "Nhà máy phải tuân thủ tất cả các quy định an toàn quốc gia.",
+      "explanation": "'comply with' = tuân thủ. 'obey', 'follow' là ngoại động từ, không cần 'with'; 'adhere' đi với 'to', không đi với 'with'."
+    },
+    {
+      "id": "p5-106",
+      "sentence": "Interested applicants should submit their résumés to the human resources ------- by May 5.",
+      "options": [
+        "department",
+        "compartment",
+        "apartment",
+        "deportment"
+      ],
+      "answer": 0,
+      "category": "vocabulary",
+      "difficulty": 1,
+      "translation": "Ứng viên quan tâm nên nộp sơ yếu lý lịch cho phòng nhân sự trước ngày 5 tháng 5.",
+      "explanation": "'human resources department' = phòng nhân sự. 'compartment' (ngăn), 'apartment' (căn hộ), 'deportment' (cách cư xử) sai nghĩa."
+    },
+    {
+      "id": "p5-107",
+      "sentence": "The keynote speaker was ------- by heavy traffic and arrived 20 minutes late.",
+      "options": [
+        "delayed",
+        "postponed",
+        "extended",
+        "deferred"
+      ],
+      "answer": 0,
+      "category": "vocabulary",
+      "difficulty": 2,
+      "translation": "Diễn giả chính bị kẹt xe nên đến muộn 20 phút.",
+      "explanation": "Người bị chậm trễ dùng 'be delayed'. 'postponed', 'deferred' dùng cho sự kiện/kế hoạch bị dời lại; 'extended' (kéo dài) sai nghĩa."
+    },
+    {
+      "id": "p5-108",
+      "sentence": "The company is ------- for its commitment to environmental sustainability.",
+      "options": [
+        "aware",
+        "familiar",
+        "known",
+        "conscious"
+      ],
+      "answer": 2,
+      "category": "vocabulary",
+      "difficulty": 2,
+      "translation": "Công ty được biết đến nhờ cam kết bảo vệ môi trường bền vững.",
+      "explanation": "'be known for' = nổi tiếng/được biết đến vì. 'aware of', 'familiar with', 'conscious of' đi với giới từ khác và sai nghĩa."
+    },
+    {
+      "id": "p5-109",
+      "sentence": "The office supplies order was ------- because the item was out of stock.",
+      "options": [
+        "exhausted",
+        "excluded",
+        "canceled",
+        "expired"
+      ],
+      "answer": 2,
+      "category": "vocabulary",
+      "difficulty": 2,
+      "translation": "Đơn đặt văn phòng phẩm đã bị hủy vì mặt hàng hết hàng.",
+      "explanation": "'an order is canceled' = đơn hàng bị hủy. 'exhausted' (cạn kiệt), 'excluded' (bị loại trừ), 'expired' (hết hạn) không hợp với 'order' trong ngữ cảnh hết hàng."
+    },
+    {
+      "id": "p5-110",
+      "sentence": "The board of directors will ------- the proposal at its next meeting.",
+      "options": [
+        "regard",
+        "consider",
+        "think",
+        "suppose"
+      ],
+      "answer": 1,
+      "category": "vocabulary",
+      "difficulty": 1,
+      "translation": "Hội đồng quản trị sẽ xem xét đề xuất tại cuộc họp tới.",
+      "explanation": "'consider a proposal' = xem xét đề xuất. 'regard' cần 'as'; 'think' cần 'about/of'; 'suppose' (cho rằng) sai nghĩa."
+    },
+    {
+      "id": "p5-111",
+      "sentence": "The clinic's new appointment system has greatly ------- waiting times.",
+      "options": [
+        "reduced",
+        "declined",
+        "fallen",
+        "descended"
+      ],
+      "answer": 0,
+      "category": "vocabulary",
+      "difficulty": 3,
+      "translation": "Hệ thống đặt lịch mới của phòng khám đã giảm đáng kể thời gian chờ.",
+      "explanation": "Cần ngoại động từ có tân ngữ 'waiting times' → 'reduced' (làm giảm). 'declined', 'fallen', 'descended' là nội động từ (tự giảm), không có tân ngữ."
+    },
+    {
+      "id": "p5-112",
+      "sentence": "Ms. Liu will ------- the new employees on how to use the inventory system.",
+      "options": [
+        "instruct",
+        "explain",
+        "describe",
+        "mention"
+      ],
+      "answer": 0,
+      "category": "vocabulary",
+      "difficulty": 3,
+      "translation": "Cô Liu sẽ hướng dẫn nhân viên mới cách sử dụng hệ thống quản lý hàng tồn kho.",
+      "explanation": "'instruct someone on/in something' = hướng dẫn ai. 'explain', 'describe', 'mention' nhận tân ngữ là sự việc, không nhận tân ngữ chỉ người (phải là 'explain something to someone')."
+    },
+    {
+      "id": "p5-113",
+      "sentence": "This year's sales conference attracted ------- participants than last year's.",
+      "options": [
+        "more",
+        "most",
+        "much",
+        "many"
+      ],
+      "answer": 0,
+      "category": "comparison",
+      "difficulty": 1,
+      "translation": "Hội nghị bán hàng năm nay thu hút nhiều người tham gia hơn năm ngoái.",
+      "explanation": "Có 'than' → so sánh hơn; với danh từ đếm được số nhiều dùng 'more'. 'most' là so sánh nhất; 'much', 'many' không có 'than'."
+    },
+    {
+      "id": "p5-114",
+      "sentence": "Of all the candidates interviewed, Mr. Nolan was the ------- qualified for the position.",
+      "options": [
+        "more",
+        "much",
+        "very",
+        "most"
+      ],
+      "answer": 3,
+      "category": "comparison",
+      "difficulty": 2,
+      "translation": "Trong tất cả các ứng viên được phỏng vấn, ông Nolan là người đủ năng lực nhất cho vị trí này.",
+      "explanation": "'Of all ...' + 'the' → so sánh nhất 'the most qualified'. 'more' là so sánh hơn (cần 'than' hoặc so sánh hai đối tượng); 'much', 'very' không đi với 'the' như vậy."
+    },
+    {
+      "id": "p5-115",
+      "sentence": "The new delivery van is twice as ------- as the old one.",
+      "options": [
+        "large",
+        "larger",
+        "largest",
+        "largely"
+      ],
+      "answer": 0,
+      "category": "comparison",
+      "difficulty": 2,
+      "translation": "Xe tải giao hàng mới lớn gấp đôi xe cũ.",
+      "explanation": "Cấu trúc so sánh bằng 'as + tính từ nguyên mẫu + as' (twice as large as = lớn gấp đôi). 'larger', 'largest' không dùng giữa 'as ... as'; 'largely' là trạng từ."
+    },
+    {
+      "id": "p5-116",
+      "sentence": "The supplier ------- we ordered the parts from has closed its Busan warehouse.",
+      "options": [
+        "what",
+        "whose",
+        "where",
+        "that"
+      ],
+      "answer": 3,
+      "category": "relative-clause",
+      "difficulty": 3,
+      "translation": "Nhà cung cấp mà chúng tôi đặt linh kiện đã đóng cửa kho hàng ở Busan.",
+      "explanation": "Đại từ quan hệ thay cho 'the supplier', làm tân ngữ của giới từ 'from' ở cuối → 'that'. 'what' không có tiền ngữ; 'whose' cần danh từ theo sau; 'where' sẽ thừa giới từ 'from'."
+    },
+    {
+      "id": "p5-117",
+      "sentence": "Applicants ------- résumés are incomplete will not be considered.",
+      "options": [
+        "whose",
+        "who",
+        "whom",
+        "which"
+      ],
+      "answer": 0,
+      "category": "relative-clause",
+      "difficulty": 2,
+      "translation": "Những ứng viên có hồ sơ chưa đầy đủ sẽ không được xem xét.",
+      "explanation": "Cần đại từ quan hệ chỉ sở hữu đứng trước danh từ 'résumés' → 'whose' (hồ sơ của họ). 'who', 'whom', 'which' không đứng trước danh từ như vậy."
+    },
+    {
+      "id": "p5-118",
+      "sentence": "The conference center, ------- was renovated last year, can hold up to 800 people.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "answer": 0,
+      "category": "relative-clause",
+      "difficulty": 3,
+      "translation": "Trung tâm hội nghị, vốn được cải tạo năm ngoái, có sức chứa đến 800 người.",
+      "explanation": "Mệnh đề quan hệ không xác định (có dấu phẩy), thay cho vật, làm chủ ngữ → 'which'. 'that' không dùng sau dấu phẩy; 'what' không có tiền ngữ; 'where' không làm chủ ngữ."
+    },
+    {
+      "id": "p5-119",
+      "sentence": "Each of the branch offices ------- its own budget.",
+      "options": [
+        "manage",
+        "managing",
+        "manages",
+        "are managing"
+      ],
+      "answer": 2,
+      "category": "agreement",
+      "difficulty": 3,
+      "translation": "Mỗi văn phòng chi nhánh đều tự quản lý ngân sách của mình.",
+      "explanation": "Chủ ngữ 'Each of + danh từ số nhiều' đi với động từ số ít → 'manages' (cũng khớp với 'its'). 'manage', 'are managing' là số nhiều; 'managing' không làm động từ chính."
+    },
+    {
+      "id": "p5-120",
+      "sentence": "The number of applicants for the internship ------- risen sharply this year.",
+      "options": [
+        "have",
+        "has",
+        "having",
+        "are"
+      ],
+      "answer": 1,
+      "category": "agreement",
+      "difficulty": 3,
+      "translation": "Số lượng người ứng tuyển thực tập đã tăng mạnh trong năm nay.",
+      "explanation": "'The number of + danh từ số nhiều' là chủ ngữ số ít → 'has risen'. (Khác với 'A number of' đi với động từ số nhiều.) 'are risen' sai cấu trúc."
+    }
+  ]
+}

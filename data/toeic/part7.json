@@ -1,0 +1,1188 @@
+{
+  "part": 7,
+  "title": "Part 7 - Đọc hiểu",
+  "description": "Đọc các văn bản đơn, kép và ba văn bản (e-mail, thông báo, quảng cáo, chuỗi tin nhắn...) theo phong cách TOEIC Part 7 rồi chọn đáp án đúng cho từng câu hỏi.",
+  "items": [
+    {
+      "id": "p7-01",
+      "format": "single",
+      "documents": [
+        {
+          "type": "notice",
+          "title": "Notice",
+          "text": "NOTICE TO ALL TENANTS\nHarbor Point Office Tower\n\nPlease be advised that the east elevators will be closed from Monday, March 9, through Friday, March 13, while technicians from Velto Lift Services install new control panels. During this period, tenants and visitors should use the west elevators or the stairwells located beside the main lobby. The freight elevator will remain available for deliveries, but it must be reserved in advance through the building management office at extension 210.\n\nWe anticipate that the work will be finished on schedule. However, if the project takes longer than planned, an update will be posted in the lobby and sent to all tenants by e-mail. We apologize for any inconvenience and thank you for your patience.\n\nHarbor Point Building Management"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-01-1",
+          "question": "What is the purpose of the notice?",
+          "options": [
+            "To announce a temporary closure of some elevators",
+            "To introduce a new building management company",
+            "To request feedback about a lift service provider",
+            "To explain a change in delivery hours"
+          ],
+          "answer": 0,
+          "type": "main-idea",
+          "explanation": "Câu đầu tiên nói thang máy phía đông sẽ đóng cửa từ ngày 9 đến 13/3 để lắp bảng điều khiển mới → mục đích là thông báo việc tạm đóng một số thang máy. Velto Lift Services là đơn vị thi công, không phải công ty quản lý mới; thông báo không xin ý kiến và không đổi giờ giao hàng (chỉ yêu cầu đặt trước thang chở hàng)."
+        },
+        {
+          "id": "p7-01-2",
+          "question": "The word \"anticipate\" in paragraph 2, line 1, is closest in meaning to",
+          "options": [
+            "prevent",
+            "announce",
+            "expect",
+            "review"
+          ],
+          "answer": 2,
+          "type": "vocabulary",
+          "explanation": "\"We anticipate that the work will be finished on schedule\" = Chúng tôi dự kiến công việc sẽ xong đúng tiến độ. \"Anticipate\" ở đây nghĩa là \"dự kiến, mong đợi\" → \"expect\". \"Prevent\" (ngăn chặn), \"announce\" (thông báo), \"review\" (xem xét) không hợp nghĩa."
+        }
+      ],
+      "translation": "THÔNG BÁO GỬI TẤT CẢ ĐƠN VỊ THUÊ\nTòa văn phòng Harbor Point\n\nXin lưu ý rằng các thang máy phía đông sẽ đóng cửa từ thứ Hai, ngày 9 tháng 3, đến thứ Sáu, ngày 13 tháng 3, trong khi kỹ thuật viên của Velto Lift Services lắp đặt bảng điều khiển mới. Trong thời gian này, người thuê và khách nên sử dụng thang máy phía tây hoặc cầu thang bộ nằm cạnh sảnh chính. Thang máy chở hàng vẫn hoạt động để phục vụ việc giao hàng, nhưng phải được đặt trước thông qua văn phòng quản lý tòa nhà theo số máy lẻ 210.\n\nChúng tôi dự kiến công việc sẽ hoàn tất đúng tiến độ. Tuy nhiên, nếu dự án kéo dài hơn kế hoạch, thông tin cập nhật sẽ được dán ở sảnh và gửi đến tất cả người thuê qua e-mail. Chúng tôi xin lỗi vì mọi bất tiện và cảm ơn sự kiên nhẫn của quý vị.\n\nBan Quản lý Tòa nhà Harbor Point"
+    },
+    {
+      "id": "p7-02",
+      "format": "single",
+      "documents": [
+        {
+          "type": "text-message-chain",
+          "title": "Text-message chain",
+          "text": "Daniel Ortiz (10:31 A.M.): Hi Mei, are you still at the print shop?\nMei Tanaka (10:33 A.M.): Yes, I'm picking up the brochures for tomorrow's trade fair right now.\nDaniel Ortiz (10:34 A.M.): Great. Could you also ask them about our banner? The shop said it would be ready today, but I haven't received any confirmation.\nMei Tanaka (10:38 A.M.): I just checked. It's still being printed.\nDaniel Ortiz (10:39 A.M.): Oh no. We need it set up at our booth by 8 A.M. tomorrow.\nMei Tanaka (10:42 A.M.): Don't worry. The manager says it'll be finished by 4 P.M., and they can deliver it straight to the convention center this evening.\nDaniel Ortiz (10:43 A.M.): That works. I'll let the booth staff know to expect it."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-02-1",
+          "question": "At 10:42 A.M., what does Ms. Tanaka mean when she writes, \"Don't worry\"?",
+          "options": [
+            "She has already set up the booth.",
+            "The banner will be ready in time for the trade fair.",
+            "The brochures do not contain any errors.",
+            "She will wait at the print shop until the morning."
+          ],
+          "answer": 1,
+          "type": "intention",
+          "explanation": "Ông Ortiz lo lắng vì băng rôn cần dựng ở gian hàng trước 8 giờ sáng mai. Ngay sau \"Don't worry\", bà Tanaka nói băng rôn sẽ xong lúc 4 giờ chiều và được giao thẳng tới trung tâm hội nghị tối nay → băng rôn sẽ kịp cho hội chợ. Bà chưa dựng gian hàng, không nói gì về lỗi trong tờ rơi, và không ở lại cửa hàng."
+        },
+        {
+          "id": "p7-02-2",
+          "question": "What will Mr. Ortiz most likely do next?",
+          "options": [
+            "Go to the print shop",
+            "Cancel the banner order",
+            "Pick up the banner himself",
+            "Inform the booth staff about the delivery"
+          ],
+          "answer": 3,
+          "type": "inference",
+          "explanation": "Tin nhắn cuối (10:43): \"I'll let the booth staff know to expect it\" → ông sẽ báo cho nhân viên gian hàng về việc giao băng rôn. Ông không tự đến lấy (cửa hàng giao tận nơi) và không hủy đơn."
+        }
+      ],
+      "translation": "Daniel Ortiz (10:31 sáng): Chào Mei, bạn vẫn còn ở tiệm in chứ?\nMei Tanaka (10:33 sáng): Vâng, tôi đang lấy tờ rơi cho hội chợ thương mại ngày mai.\nDaniel Ortiz (10:34 sáng): Tốt quá. Bạn có thể hỏi họ luôn về băng rôn của chúng ta không? Tiệm nói hôm nay sẽ xong, nhưng tôi chưa nhận được xác nhận nào.\nMei Tanaka (10:38 sáng): Tôi vừa kiểm tra. Nó vẫn đang được in.\nDaniel Ortiz (10:39 sáng): Ôi không. Chúng ta cần dựng nó ở gian hàng trước 8 giờ sáng mai.\nMei Tanaka (10:42 sáng): Đừng lo. Quản lý nói sẽ xong trước 4 giờ chiều, và họ có thể giao thẳng đến trung tâm hội nghị tối nay.\nDaniel Ortiz (10:43 sáng): Vậy được. Tôi sẽ báo cho nhân viên gian hàng biết để chờ nhận."
+    },
+    {
+      "id": "p7-03",
+      "format": "single",
+      "documents": [
+        {
+          "type": "advertisement",
+          "title": "Advertisement",
+          "text": "Greenleaf Home Cleaning - Now Serving Westbrook!\n\nBusy schedule? Let Greenleaf take care of your home. Founded in Riverton eight years ago, we have just opened a second branch in Westbrook to serve our growing number of customers.\n\nOur services include:\n- Weekly and biweekly cleaning\n- Deep cleaning for kitchens and bathrooms\n- Move-in and move-out cleaning\n\nAll of our cleaners are fully trained, and we use only environmentally friendly products. Customers who book three or more visits before May 31 will receive 20 percent off their first visit. To schedule an appointment, call 555-0148 or visit www.greenleafclean.com. Please note that we do not offer carpet or window cleaning at this time."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-03-1",
+          "question": "What is being advertised?",
+          "options": [
+            "A furniture store",
+            "A carpet manufacturer",
+            "A household cleaning service",
+            "A home renovation company"
+          ],
+          "answer": 2,
+          "type": "main-idea",
+          "explanation": "Tiêu đề \"Greenleaf Home Cleaning\" và danh sách dịch vụ (dọn dẹp hằng tuần, vệ sinh sâu bếp và phòng tắm...) cho thấy đây là dịch vụ dọn dẹp nhà cửa. Quảng cáo còn nói rõ không làm sạch thảm, nên không phải nhà sản xuất thảm."
+        },
+        {
+          "id": "p7-03-2",
+          "question": "What is indicated about Greenleaf Home Cleaning?",
+          "options": [
+            "It was founded in Westbrook.",
+            "It has recently opened a new branch.",
+            "It sells cleaning products online.",
+            "It has hired new managers."
+          ],
+          "answer": 1,
+          "type": "detail",
+          "explanation": "\"we have just opened a second branch in Westbrook\" → công ty vừa mở chi nhánh mới. Công ty được thành lập ở Riverton chứ không phải Westbrook; quảng cáo không nói về bán sản phẩm trực tuyến hay tuyển quản lý."
+        },
+        {
+          "id": "p7-03-3",
+          "question": "What service is NOT offered by Greenleaf Home Cleaning?",
+          "options": [
+            "Bathroom cleaning",
+            "Weekly cleaning",
+            "Move-out cleaning",
+            "Window cleaning"
+          ],
+          "answer": 3,
+          "type": "not-true",
+          "explanation": "Câu cuối: \"we do not offer carpet or window cleaning at this time\" → không có dịch vụ lau cửa sổ. Ba dịch vụ còn lại đều có trong danh sách (deep cleaning for bathrooms, weekly cleaning, move-out cleaning)."
+        }
+      ],
+      "translation": "Greenleaf Home Cleaning - Nay đã phục vụ tại Westbrook!\n\nLịch trình bận rộn? Hãy để Greenleaf chăm sóc ngôi nhà của bạn. Được thành lập tại Riverton cách đây tám năm, chúng tôi vừa mở chi nhánh thứ hai tại Westbrook để phục vụ lượng khách hàng ngày càng tăng.\n\nDịch vụ của chúng tôi gồm:\n- Dọn dẹp hằng tuần và hai tuần một lần\n- Vệ sinh sâu nhà bếp và phòng tắm\n- Dọn dẹp khi chuyển đến và chuyển đi\n\nTất cả nhân viên dọn dẹp của chúng tôi đều được đào tạo đầy đủ, và chúng tôi chỉ sử dụng sản phẩm thân thiện với môi trường. Khách hàng đặt từ ba lượt trở lên trước ngày 31 tháng 5 sẽ được giảm 20% cho lượt đầu tiên. Để đặt lịch, hãy gọi 555-0148 hoặc truy cập www.greenleafclean.com. Xin lưu ý rằng hiện tại chúng tôi không cung cấp dịch vụ làm sạch thảm hoặc lau cửa sổ."
+    },
+    {
+      "id": "p7-04",
+      "format": "single",
+      "documents": [
+        {
+          "type": "memo",
+          "title": "Memo",
+          "text": "MEMO\nTo: All staff, Cobalt Logistics\nFrom: Priya Nair, Human Resources Director\nDate: June 2\nSubject: New expense reporting system\n\nBeginning July 1, all employees will submit travel and business expenses through ClearSpend, an online system that replaces our paper forms. With ClearSpend, you can photograph receipts with your mobile phone and upload them directly. Reimbursements will be processed within five business days instead of the current three weeks.\n\nTo help everyone get started, the HR department will hold one-hour training sessions on June 18 and June 25 in Conference Room B. Attendance at one session is required for all employees who travel for work. Other staff members are welcome to attend but are not obligated to do so. Please register by sending an e-mail to Tom Whitaker in HR no later than June 14.\n\nPaper expense forms submitted after June 30 will not be accepted."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-04-1",
+          "question": "What is the main purpose of the memo?",
+          "options": [
+            "To explain a new travel policy",
+            "To introduce a new way of submitting expenses",
+            "To announce a change in office location",
+            "To request feedback on a software program"
+          ],
+          "answer": 1,
+          "type": "main-idea",
+          "explanation": "Tiêu đề \"New expense reporting system\" và câu đầu: từ 1/7 nhân viên sẽ nộp chi phí qua hệ thống trực tuyến ClearSpend thay cho mẫu giấy → giới thiệu cách nộp chi phí mới. Bản ghi nhớ không đổi chính sách đi lại, không nói chuyển văn phòng và không xin góp ý."
+        },
+        {
+          "id": "p7-04-2",
+          "question": "According to the memo, what is an advantage of ClearSpend?",
+          "options": [
+            "It reduces the cost of business travel.",
+            "It can be downloaded for free.",
+            "It does not require any training.",
+            "Employees will be repaid more quickly."
+          ],
+          "answer": 3,
+          "type": "detail",
+          "explanation": "\"Reimbursements will be processed within five business days instead of the current three weeks\" → nhân viên được hoàn tiền nhanh hơn. Ngược lại với phương án C, công ty có tổ chức buổi đào tạo; bản ghi nhớ không nhắc chi phí đi lại hay việc tải miễn phí."
+        },
+        {
+          "id": "p7-04-3",
+          "question": "Who is required to attend a training session?",
+          "options": [
+            "Employees who travel for work",
+            "All newly hired staff",
+            "Members of the HR department",
+            "Department managers only"
+          ],
+          "answer": 0,
+          "type": "detail",
+          "explanation": "\"Attendance at one session is required for all employees who travel for work. Other staff members are welcome to attend but are not obligated\" → chỉ nhân viên đi công tác bắt buộc tham dự. Không có quy định riêng cho nhân viên mới, phòng nhân sự hay quản lý."
+        }
+      ],
+      "translation": "BẢN GHI NHỚ\nGửi: Toàn thể nhân viên, Cobalt Logistics\nTừ: Priya Nair, Giám đốc Nhân sự\nNgày: 2 tháng 6\nV/v: Hệ thống báo cáo chi phí mới\n\nBắt đầu từ ngày 1 tháng 7, tất cả nhân viên sẽ nộp chi phí đi lại và công tác thông qua ClearSpend, một hệ thống trực tuyến thay thế các mẫu đơn giấy hiện nay. Với ClearSpend, bạn có thể chụp ảnh hóa đơn bằng điện thoại di động và tải lên trực tiếp. Việc hoàn tiền sẽ được xử lý trong vòng năm ngày làm việc thay vì ba tuần như hiện tại.\n\nĐể giúp mọi người làm quen, phòng Nhân sự sẽ tổ chức các buổi đào tạo dài một giờ vào ngày 18 và 25 tháng 6 tại Phòng họp B. Tất cả nhân viên đi công tác bắt buộc phải tham dự một buổi. Các nhân viên khác được chào đón tham dự nhưng không bắt buộc. Vui lòng đăng ký bằng cách gửi e-mail cho Tom Whitaker ở phòng Nhân sự chậm nhất vào ngày 14 tháng 6.\n\nCác mẫu báo cáo chi phí bằng giấy nộp sau ngày 30 tháng 6 sẽ không được chấp nhận."
+    },
+    {
+      "id": "p7-05",
+      "format": "single",
+      "documents": [
+        {
+          "type": "article",
+          "title": "Article",
+          "text": "Bakery Expands Beyond City Limits\n\nASHFORD (April 3) - Morning Crust Bakery, a family-owned business that has operated on Elm Street for more than 20 years, will open its first location outside Ashford next month. [1] The new shop, in the neighboring town of Pinedale, will be roughly twice the size of the original store and will include a seating area for 40 customers.\n\nOwner Rosa Delgado said the decision came after years of requests from Pinedale residents, many of whom drive 30 minutes to buy her bread. [2] \"We kept hearing the same question: When are you coming to us?\" Ms. Delgado said.\n\nThe Pinedale location will offer the bakery's full range of breads and pastries as well as a new lunch menu featuring sandwiches and soups. [3] To prepare for the opening, the company is hiring 15 additional employees, including bakers, cashiers, and a store manager. [4] Applications can be submitted on the bakery's Web site until April 20.\n\nThe grand opening is scheduled for May 9."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-05-1",
+          "question": "What is the article mainly about?",
+          "options": [
+            "The retirement of a bakery owner",
+            "A change in a bakery's prices",
+            "A bakery's plan to open a new shop",
+            "A cooking competition in Pinedale"
+          ],
+          "answer": 2,
+          "type": "main-idea",
+          "explanation": "Tiêu đề \"Bakery Expands Beyond City Limits\" và câu đầu: Morning Crust Bakery sẽ mở cửa hàng đầu tiên bên ngoài Ashford vào tháng tới → kế hoạch mở cửa hàng mới. Bài không nói chủ tiệm nghỉ hưu, đổi giá hay cuộc thi nấu ăn."
+        },
+        {
+          "id": "p7-05-2",
+          "question": "Why did Ms. Delgado decide to open a shop in Pinedale?",
+          "options": [
+            "Many Pinedale residents had asked her to.",
+            "The rent in Pinedale is lower.",
+            "Her original store is closing.",
+            "A local newspaper recommended the town."
+          ],
+          "answer": 0,
+          "type": "detail",
+          "explanation": "\"the decision came after years of requests from Pinedale residents\" → nhiều cư dân Pinedale đã đề nghị. Bài không nhắc giá thuê; cửa hàng gốc trên phố Elm vẫn tiếp tục hoạt động (đây là chi nhánh mở rộng)."
+        },
+        {
+          "id": "p7-05-3",
+          "question": "What is NOT stated about the Pinedale location?",
+          "options": [
+            "It will have a seating area.",
+            "It will sell lunch items.",
+            "It will open in May.",
+            "It will offer a delivery service."
+          ],
+          "answer": 3,
+          "type": "not-true",
+          "explanation": "Bài có nêu: khu ngồi cho 40 khách (A), thực đơn bữa trưa với bánh mì kẹp và súp (B), khai trương ngày 9/5 (C). Không có thông tin nào về dịch vụ giao hàng → D."
+        },
+        {
+          "id": "p7-05-4",
+          "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n\"The soups will change daily depending on the season.\"",
+          "options": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "answer": 2,
+          "type": "sentence-insertion",
+          "explanation": "Câu cần chèn nói về \"The soups\" (món súp) – phải đứng sau câu đầu tiên nhắc tới súp: \"a new lunch menu featuring sandwiches and soups\". Vị trí [3] nằm ngay sau câu này. Các vị trí [1], [2] nói về quy mô cửa hàng và lý do mở; [4] nằm giữa thông tin tuyển dụng nên không phù hợp."
+        }
+      ],
+      "translation": "Tiệm bánh mở rộng ra ngoài thành phố\n\nASHFORD (3 tháng 4) - Morning Crust Bakery, một doanh nghiệp gia đình đã hoạt động trên phố Elm hơn 20 năm, sẽ mở cửa hàng đầu tiên bên ngoài Ashford vào tháng tới. [1] Cửa hàng mới, ở thị trấn lân cận Pinedale, sẽ rộng gần gấp đôi cửa hàng ban đầu và có khu chỗ ngồi cho 40 khách.\n\nChủ tiệm Rosa Delgado cho biết quyết định này được đưa ra sau nhiều năm cư dân Pinedale đề nghị, nhiều người trong số họ lái xe 30 phút để mua bánh mì của bà. [2] \"Chúng tôi cứ nghe mãi một câu hỏi: Khi nào tiệm đến chỗ chúng tôi?\" bà Delgado nói.\n\nCửa hàng Pinedale sẽ bán đầy đủ các loại bánh mì và bánh ngọt của tiệm, cùng với thực đơn bữa trưa mới gồm bánh mì kẹp và súp. [3] Để chuẩn bị khai trương, công ty đang tuyển thêm 15 nhân viên, gồm thợ làm bánh, thu ngân và một quản lý cửa hàng. [4] Có thể nộp đơn trên trang web của tiệm đến hết ngày 20 tháng 4.\n\nLễ khai trương dự kiến diễn ra vào ngày 9 tháng 5."
+    },
+    {
+      "id": "p7-06",
+      "format": "single",
+      "documents": [
+        {
+          "type": "text-message-chain",
+          "title": "Text-message chain",
+          "text": "Kevin Morris (2:15 P.M.): Hi Aisha. The client from Dunmore Foods just called. They want to move tomorrow's meeting from 10 A.M. to 2 P.M.\nAisha Rahman (2:17 P.M.): Hmm. I'm supposed to be at the warehouse inspection tomorrow afternoon.\nKevin Morris (2:18 P.M.): Could someone else go to the inspection?\nAisha Rahman (2:20 P.M.): Maybe Jonas. He's handled inspections before.\nKevin Morris (2:21 P.M.): Do you want me to ask him?\nAisha Rahman (2:22 P.M.): I'll take care of it. He sits right next to me.\nKevin Morris (2:23 P.M.): Thanks. I'll confirm the new time with Dunmore Foods, then."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-06-1",
+          "question": "Why did Mr. Morris contact Ms. Rahman?",
+          "options": [
+            "To tell her that a client wants to change a meeting time",
+            "To report a problem at the warehouse",
+            "To ask her to train a new employee",
+            "To cancel a contract with a client"
+          ],
+          "answer": 0,
+          "type": "main-idea",
+          "explanation": "Tin nhắn đầu (2:15): khách hàng Dunmore Foods muốn dời cuộc họp ngày mai từ 10 giờ sáng sang 2 giờ chiều → báo khách muốn đổi giờ họp. Không có sự cố ở kho, không nói đào tạo hay hủy hợp đồng."
+        },
+        {
+          "id": "p7-06-2",
+          "question": "At 2:22 P.M., what does Ms. Rahman mean when she writes, \"I'll take care of it\"?",
+          "options": [
+            "She will attend the inspection herself.",
+            "She will call the client to confirm the time.",
+            "She will reschedule the warehouse inspection.",
+            "She will ask Jonas to go to the inspection."
+          ],
+          "answer": 3,
+          "type": "intention",
+          "explanation": "Ông Morris hỏi \"Do you want me to ask him?\" (có muốn tôi hỏi Jonas không). Bà Rahman trả lời \"I'll take care of it. He sits right next to me\" → bà sẽ tự hỏi Jonas đi kiểm tra kho thay mình. Việc xác nhận với khách là do ông Morris làm (2:23); bà không tự đi kiểm tra và không dời lịch kiểm tra."
+        }
+      ],
+      "translation": "Kevin Morris (2:15 chiều): Chào Aisha. Khách hàng bên Dunmore Foods vừa gọi. Họ muốn dời cuộc họp ngày mai từ 10 giờ sáng sang 2 giờ chiều.\nAisha Rahman (2:17 chiều): Hừm. Chiều mai tôi phải có mặt ở buổi kiểm tra kho.\nKevin Morris (2:18 chiều): Có ai khác đi kiểm tra được không?\nAisha Rahman (2:20 chiều): Có lẽ là Jonas. Anh ấy đã từng phụ trách kiểm tra rồi.\nKevin Morris (2:21 chiều): Bạn có muốn tôi hỏi anh ấy không?\nAisha Rahman (2:22 chiều): Để tôi lo. Anh ấy ngồi ngay cạnh tôi.\nKevin Morris (2:23 chiều): Cảm ơn. Vậy tôi sẽ xác nhận giờ mới với Dunmore Foods."
+    },
+    {
+      "id": "p7-07",
+      "format": "single",
+      "documents": [
+        {
+          "type": "review",
+          "title": "Online review",
+          "text": "Lakeview Inn - Guest Review\nPosted by: T. Kowalski\nRating: 4 out of 5 stars\n\nI stayed at the Lakeview Inn for three nights in October while attending a conference in Marlow. The location is excellent - the convention center is only a five-minute walk away, and there are several good restaurants nearby. My room was spacious and very clean, and the staff at the front desk were friendly and helpful throughout my stay.\n\nThe only disappointment was the breakfast. Although the hotel's Web site describes a \"full hot breakfast,\" only cereal, toast, and coffee were available on two of the three mornings. When I mentioned this to the manager, she explained that the kitchen was being renovated and offered me a voucher for a free dinner at the hotel restaurant, which I appreciated.\n\nI would certainly stay here again, especially once the kitchen work is complete."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-07-1",
+          "question": "Why was Mr. Kowalski in Marlow?",
+          "options": [
+            "To visit relatives",
+            "To attend a conference",
+            "To interview for a job",
+            "To open a restaurant"
+          ],
+          "answer": 1,
+          "type": "detail",
+          "explanation": "Câu đầu: \"while attending a conference in Marlow\" → ông đến Marlow để dự hội nghị. Các lý do khác không được nhắc tới."
+        },
+        {
+          "id": "p7-07-2",
+          "question": "What problem does the reviewer mention?",
+          "options": [
+            "His room was not clean.",
+            "The hotel was far from the convention center.",
+            "The breakfast was more limited than advertised.",
+            "The front desk staff were unhelpful."
+          ],
+          "answer": 2,
+          "type": "detail",
+          "explanation": "Đoạn 2: trang web quảng cáo \"full hot breakfast\" nhưng hai trên ba buổi sáng chỉ có ngũ cốc, bánh mì nướng và cà phê → bữa sáng ít hơn quảng cáo. Các phương án còn lại trái với đoạn 1 (phòng sạch, gần trung tâm hội nghị 5 phút đi bộ, lễ tân thân thiện)."
+        },
+        {
+          "id": "p7-07-3",
+          "question": "What did the manager do for Mr. Kowalski?",
+          "options": [
+            "She refunded one night's stay.",
+            "She moved him to a larger room.",
+            "She arranged transportation to the convention center.",
+            "She offered him a free meal."
+          ],
+          "answer": 3,
+          "type": "detail",
+          "explanation": "\"offered me a voucher for a free dinner at the hotel restaurant\" → quản lý tặng phiếu ăn tối miễn phí. Không có hoàn tiền, đổi phòng hay sắp xếp đưa đón."
+        }
+      ],
+      "translation": "Lakeview Inn - Đánh giá của khách\nĐăng bởi: T. Kowalski\nXếp hạng: 4 trên 5 sao\n\nTôi đã ở Lakeview Inn ba đêm vào tháng 10 khi tham dự một hội nghị tại Marlow. Vị trí rất tuyệt - trung tâm hội nghị chỉ cách năm phút đi bộ, và có vài nhà hàng ngon ở gần đó. Phòng của tôi rộng rãi và rất sạch sẽ, và nhân viên lễ tân thân thiện, nhiệt tình suốt thời gian tôi lưu trú.\n\nĐiều đáng thất vọng duy nhất là bữa sáng. Mặc dù trang web của khách sạn mô tả \"bữa sáng nóng đầy đủ\", nhưng hai trong ba buổi sáng chỉ có ngũ cốc, bánh mì nướng và cà phê. Khi tôi nói điều này với quản lý, bà ấy giải thích rằng nhà bếp đang được cải tạo và tặng tôi một phiếu ăn tối miễn phí tại nhà hàng của khách sạn, điều mà tôi rất cảm kích.\n\nChắc chắn tôi sẽ ở lại đây lần nữa, đặc biệt là khi việc sửa chữa nhà bếp hoàn tất."
+    },
+    {
+      "id": "p7-08",
+      "format": "single",
+      "documents": [
+        {
+          "type": "invoice",
+          "title": "Invoice",
+          "text": "INVOICE\nBrightline Office Supplies\n420 Carver Avenue, Danford\n\nInvoice No.: 58217          Date: September 4\nBill to: Holloway Architects (Attn: Grace Liu)\n         17 Maple Court, Danford\n\nItem                          Qty   Unit Price     Total\nPrinter paper (box of 10)      6      $38.00     $228.00\nBlack ink cartridges           4      $45.00     $180.00\nDesk organizers                3      $22.00      $66.00\nErgonomic chair (model EC-5)   1     $310.00     $310.00\n                                     Subtotal:   $784.00\n                                     Delivery:     $0.00\n                                     Total due:  $784.00\n\nPayment is due within 30 days. Free delivery applies to all orders over $500. The ergonomic chair is currently out of stock and will be shipped separately on September 15. All other items were delivered on September 4. Questions? Contact our billing department at billing@brightline.com."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-08-1",
+          "question": "What is indicated about Holloway Architects' order?",
+          "options": [
+            "It was paid for in advance.",
+            "It qualified for free delivery.",
+            "It was picked up at Brightline's store.",
+            "It included a discount on ink cartridges."
+          ],
+          "answer": 1,
+          "type": "inference",
+          "explanation": "Tổng đơn là $784 và phí giao hàng $0.00; hóa đơn ghi \"Free delivery applies to all orders over $500\" → đơn hàng được miễn phí giao hàng. Thanh toán còn hạn 30 ngày (chưa trả trước); hàng được giao chứ không tự đến lấy; không có giảm giá mực in."
+        },
+        {
+          "id": "p7-08-2",
+          "question": "Which item will be delivered later than the others?",
+          "options": [
+            "The printer paper",
+            "The ink cartridges",
+            "The desk organizers",
+            "The ergonomic chair"
+          ],
+          "answer": 3,
+          "type": "detail",
+          "explanation": "\"The ergonomic chair is currently out of stock and will be shipped separately on September 15. All other items were delivered on September 4\" → ghế công thái học được giao sau."
+        },
+        {
+          "id": "p7-08-3",
+          "question": "How much did Holloway Architects pay in total for the ink cartridges?",
+          "options": [
+            "$228.00",
+            "$45.00",
+            "$180.00",
+            "$66.00"
+          ],
+          "answer": 2,
+          "type": "detail",
+          "explanation": "Dòng \"Black ink cartridges: 4 x $45.00 = $180.00\". $45.00 chỉ là đơn giá một hộp mực; $228.00 là tiền giấy in; $66.00 là tiền khay sắp xếp bàn làm việc."
+        }
+      ],
+      "translation": "HÓA ĐƠN\nBrightline Office Supplies\n420 đại lộ Carver, Danford\n\nSố hóa đơn: 58217          Ngày: 4 tháng 9\nGửi đến: Holloway Architects (Người nhận: Grace Liu)\n         17 Maple Court, Danford\n\nMặt hàng                          SL   Đơn giá     Thành tiền\nGiấy in (thùng 10 ram)             6    $38.00     $228.00\nHộp mực in đen                     4    $45.00     $180.00\nKhay sắp xếp bàn làm việc          3    $22.00      $66.00\nGhế công thái học (mẫu EC-5)       1   $310.00     $310.00\n                                   Tạm tính:   $784.00\n                                   Phí giao:     $0.00\n                                   Tổng phải trả: $784.00\n\nHạn thanh toán trong vòng 30 ngày. Miễn phí giao hàng cho mọi đơn hàng trên $500. Ghế công thái học hiện đang hết hàng và sẽ được gửi riêng vào ngày 15 tháng 9. Tất cả các mặt hàng khác đã được giao vào ngày 4 tháng 9. Có thắc mắc? Hãy liên hệ bộ phận thanh toán của chúng tôi tại billing@brightline.com."
+    },
+    {
+      "id": "p7-09",
+      "format": "single",
+      "documents": [
+        {
+          "type": "letter",
+          "title": "Letter",
+          "text": "Ridgeway Community Library\n88 Orchard Lane, Fallsbury\n\nMay 12\n\nMr. Samuel Achebe\n24 Linden Street\nFallsbury\n\nDear Mr. Achebe,\n\nOn behalf of the Ridgeway Community Library, I would like to thank you for volunteering with our Saturday reading program over the past two years. Your dedication has helped more than 150 children improve their reading skills.\n\nThe library will celebrate its 50th anniversary on June 20. As part of the event, we will honor several volunteers who have made outstanding contributions to our community. We would be delighted if you would accept our Volunteer of the Year award at the ceremony, which will begin at 6 P.M. in the main reading room.\n\nPlease let me know by June 1 whether you will be able to attend. You may bring up to two guests. If you have any questions, feel free to call me at 555-0193.\n\nSincerely,\n\nHelen Park\nDirector, Ridgeway Community Library"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-09-1",
+          "question": "Why did Ms. Park write the letter?",
+          "options": [
+            "To ask Mr. Achebe to lead a new program",
+            "To inform Mr. Achebe that he has been chosen for an award",
+            "To request a donation for the anniversary",
+            "To announce that the library will move"
+          ],
+          "answer": 1,
+          "type": "main-idea",
+          "explanation": "Đoạn 2: \"We would be delighted if you would accept our Volunteer of the Year award at the ceremony\" → thông báo ông được chọn nhận giải Tình nguyện viên của năm. Thư không đề nghị lãnh đạo chương trình mới, không xin quyên góp, không nói thư viện chuyển địa điểm."
+        },
+        {
+          "id": "p7-09-2",
+          "question": "The word \"celebrate\" in paragraph 2, line 1, is closest in meaning to",
+          "options": [
+            "advertise",
+            "postpone",
+            "commemorate",
+            "calculate"
+          ],
+          "answer": 2,
+          "type": "vocabulary",
+          "explanation": "\"The library will celebrate its 50th anniversary\" = thư viện sẽ kỷ niệm 50 năm thành lập. \"Celebrate\" một ngày kỷ niệm nghĩa là \"commemorate\" (kỷ niệm, tưởng nhớ). \"Advertise\" (quảng cáo), \"postpone\" (hoãn), \"calculate\" (tính toán) không hợp nghĩa."
+        },
+        {
+          "id": "p7-09-3",
+          "question": "What is Mr. Achebe asked to do by June 1?",
+          "options": [
+            "Submit a report on the reading program",
+            "Recommend other volunteers",
+            "Pay for his guests' tickets",
+            "Reply about his attendance"
+          ],
+          "answer": 3,
+          "type": "detail",
+          "explanation": "Đoạn 3: \"Please let me know by June 1 whether you will be able to attend\" → trả lời xem có tham dự được không. Thư không yêu cầu báo cáo hay giới thiệu tình nguyện viên; khách mời (tối đa hai người) không phải trả vé."
+        },
+        {
+          "id": "p7-09-4",
+          "question": "What is suggested about the reading program?",
+          "options": [
+            "It takes place on weekends.",
+            "It was started 50 years ago.",
+            "It is led by Ms. Park personally.",
+            "It is designed for adult learners."
+          ],
+          "answer": 0,
+          "type": "inference",
+          "explanation": "Đoạn 1 gọi đây là \"our Saturday reading program\" → chương trình diễn ra vào cuối tuần (thứ Bảy). 50 năm là tuổi của thư viện, không phải chương trình; chương trình giúp hơn 150 trẻ em, không phải người lớn; không có thông tin bà Park trực tiếp dẫn dắt."
+        }
+      ],
+      "translation": "Thư viện Cộng đồng Ridgeway\n88 Orchard Lane, Fallsbury\n\nNgày 12 tháng 5\n\nÔng Samuel Achebe\n24 phố Linden\nFallsbury\n\nKính gửi ông Achebe,\n\nThay mặt Thư viện Cộng đồng Ridgeway, tôi xin cảm ơn ông đã tình nguyện tham gia chương trình đọc sách ngày thứ Bảy của chúng tôi trong hai năm qua. Sự tận tâm của ông đã giúp hơn 150 trẻ em cải thiện kỹ năng đọc.\n\nThư viện sẽ kỷ niệm 50 năm thành lập vào ngày 20 tháng 6. Trong khuôn khổ sự kiện, chúng tôi sẽ vinh danh một số tình nguyện viên có đóng góp xuất sắc cho cộng đồng. Chúng tôi sẽ rất vui nếu ông nhận giải thưởng Tình nguyện viên của năm tại buổi lễ, bắt đầu lúc 6 giờ chiều tại phòng đọc chính.\n\nVui lòng cho tôi biết trước ngày 1 tháng 6 liệu ông có thể tham dự hay không. Ông có thể dẫn theo tối đa hai khách. Nếu có thắc mắc, xin cứ gọi cho tôi theo số 555-0193.\n\nTrân trọng,\n\nHelen Park\nGiám đốc, Thư viện Cộng đồng Ridgeway"
+    },
+    {
+      "id": "p7-10",
+      "format": "single",
+      "documents": [
+        {
+          "type": "schedule",
+          "title": "Schedule",
+          "text": "Tri-County Small Business Expo - Saturday, November 8\nGlenwood Convention Hall\n\nTime         Session                                       Room\n9:00 A.M.    Registration and coffee                       Main Lobby\n9:30 A.M.    Opening remarks: Mayor Linda Okafor           Hall A\n10:00 A.M.   Marketing on a Small Budget (J. Reyes)        Room 101\n11:15 A.M.   Hiring Your First Employees (D. Fischer)      Room 102\n12:30 P.M.   Networking lunch                              Hall B\n2:00 P.M.    Financing Options for Startups (M. Suzuki)    Room 101\n3:30 P.M.    Panel: Lessons from Local Entrepreneurs       Hall A\n\nAdmission is free for members of the Tri-County Business Association; nonmembers pay $25. Lunch is included for all registered attendees. Please note: Mr. Fischer's session has been moved from Room 101 to Room 102 because of the large number of registrations. Online registration closes on November 5."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-10-1",
+          "question": "Who will most likely talk about ways to obtain money for a new business?",
+          "options": [
+            "Linda Okafor",
+            "J. Reyes",
+            "D. Fischer",
+            "M. Suzuki"
+          ],
+          "answer": 3,
+          "type": "inference",
+          "explanation": "Phiên \"Financing Options for Startups\" (các lựa chọn tài chính cho doanh nghiệp khởi nghiệp) do M. Suzuki trình bày → nói về cách huy động vốn. J. Reyes nói về marketing, D. Fischer về tuyển nhân viên, Linda Okafor phát biểu khai mạc."
+        },
+        {
+          "id": "p7-10-2",
+          "question": "Why was one session moved to a different room?",
+          "options": [
+            "The speaker requested a change.",
+            "Many people registered for it.",
+            "Room 101 is being repaired.",
+            "It was combined with another session."
+          ],
+          "answer": 1,
+          "type": "detail",
+          "explanation": "\"Mr. Fischer's session has been moved from Room 101 to Room 102 because of the large number of registrations\" → do có nhiều người đăng ký. Phòng 101 vẫn được dùng cho các phiên 10:00 và 2:00 nên không phải đang sửa chữa."
+        },
+        {
+          "id": "p7-10-3",
+          "question": "What is indicated about the expo?",
+          "options": [
+            "Lunch is provided to registered participants.",
+            "It takes place over two days.",
+            "Registration is available only at the door.",
+            "All attendees must pay an admission fee."
+          ],
+          "answer": 0,
+          "type": "detail",
+          "explanation": "\"Lunch is included for all registered attendees\" → người đăng ký được cung cấp bữa trưa. Sự kiện chỉ diễn ra ngày thứ Bảy 8/11; có đăng ký trực tuyến (đóng ngày 5/11); hội viên được miễn phí nên không phải ai cũng trả phí."
+        }
+      ],
+      "translation": "Hội chợ Doanh nghiệp Nhỏ Tri-County - Thứ Bảy, ngày 8 tháng 11\nHội trường Glenwood\n\nGiờ          Phiên                                              Phòng\n9:00 sáng    Đăng ký và cà phê                                  Sảnh chính\n9:30 sáng    Phát biểu khai mạc: Thị trưởng Linda Okafor        Hội trường A\n10:00 sáng   Marketing với ngân sách nhỏ (J. Reyes)             Phòng 101\n11:15 sáng   Tuyển những nhân viên đầu tiên (D. Fischer)        Phòng 102\n12:30 chiều  Bữa trưa giao lưu                                  Hội trường B\n2:00 chiều   Các lựa chọn tài chính cho khởi nghiệp (M. Suzuki) Phòng 101\n3:30 chiều   Tọa đàm: Bài học từ các doanh nhân địa phương      Hội trường A\n\nHội viên Hiệp hội Doanh nghiệp Tri-County được vào cửa miễn phí; người không phải hội viên trả $25. Bữa trưa đã bao gồm cho tất cả người tham dự đã đăng ký. Xin lưu ý: phiên của ông Fischer đã được chuyển từ Phòng 101 sang Phòng 102 do số lượng đăng ký lớn. Đăng ký trực tuyến đóng vào ngày 5 tháng 11."
+    },
+    {
+      "id": "p7-11",
+      "format": "single",
+      "documents": [
+        {
+          "type": "email",
+          "title": "E-mail",
+          "text": "From: Marcus Bell <mbell@solsticetravel.com>\nTo: Nadia Ivanova <nivanova@quartzmedia.com>\nDate: February 18\nSubject: Your trip to Lisbon\n\nDear Ms. Ivanova,\n\nThank you for booking your business trip with Solstice Travel. I am writing to confirm the details of your itinerary and to inform you of one change.\n\nYour flight to Lisbon on March 3 will now depart at 7:40 A.M. instead of 9:15 A.M. because the airline has adjusted its schedule. Your return flight on March 7 is unchanged. If the new departure time is inconvenient, I can rebook you on a later flight on the same day at no extra charge, although only economy seats are currently available.\n\nYour reservation at the Hotel Miradouro has been confirmed for four nights. As you requested, your room has a work desk and a view of the river. Airport transportation is not included, but the hotel offers a shuttle service for 15 euros each way, which can be reserved at the front desk.\n\nPlease review the attached itinerary and reply by February 21 if you would like me to make any changes.\n\nBest regards,\nMarcus Bell\nTravel Consultant, Solstice Travel"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-11-1",
+          "question": "Why did Mr. Bell send the e-mail?",
+          "options": [
+            "To advertise a vacation package",
+            "To confirm a trip and report a schedule change",
+            "To request payment for a hotel stay",
+            "To apologize for a canceled flight"
+          ],
+          "answer": 1,
+          "type": "main-idea",
+          "explanation": "Đoạn 1: \"I am writing to confirm the details of your itinerary and to inform you of one change\" → xác nhận chuyến đi và báo thay đổi lịch bay. Chuyến bay chỉ đổi giờ, không bị hủy; không có yêu cầu thanh toán hay quảng cáo kỳ nghỉ."
+        },
+        {
+          "id": "p7-11-2",
+          "question": "What does Mr. Bell offer to do?",
+          "options": [
+            "Upgrade Ms. Ivanova's seat to business class",
+            "Arrange free airport transportation",
+            "Change the date of her return flight",
+            "Book her on a later flight at no cost"
+          ],
+          "answer": 3,
+          "type": "detail",
+          "explanation": "\"I can rebook you on a later flight on the same day at no extra charge\" → đặt lại chuyến bay muộn hơn miễn phí. Chỉ còn ghế phổ thông nên không nâng hạng; xe đưa đón sân bay không bao gồm (mất 15 euro mỗi chiều); chuyến về không thay đổi."
+        },
+        {
+          "id": "p7-11-3",
+          "question": "What is NOT true about the hotel reservation?",
+          "options": [
+            "It is for four nights.",
+            "The room has a view of the river.",
+            "The room includes a work desk.",
+            "It includes airport transportation."
+          ],
+          "answer": 3,
+          "type": "not-true",
+          "explanation": "Đoạn 3: \"Airport transportation is not included\" → D sai. Các ý A (four nights), B (view of the river), C (work desk) đều được nêu trong e-mail."
+        },
+        {
+          "id": "p7-11-4",
+          "question": "What is Ms. Ivanova asked to do by February 21?",
+          "options": [
+            "Respond if she wants any changes made",
+            "Pay the remaining cost of her flight",
+            "Reserve the hotel shuttle",
+            "Send a copy of her passport"
+          ],
+          "answer": 0,
+          "type": "detail",
+          "explanation": "Câu cuối: \"reply by February 21 if you would like me to make any changes\" → trả lời nếu muốn thay đổi. Xe đưa đón được đặt tại quầy lễ tân khách sạn, không có hạn 21/2; không nhắc thanh toán hay hộ chiếu."
+        }
+      ],
+      "translation": "Từ: Marcus Bell <mbell@solsticetravel.com>\nĐến: Nadia Ivanova <nivanova@quartzmedia.com>\nNgày: 18 tháng 2\nTiêu đề: Chuyến đi Lisbon của bà\n\nKính gửi bà Ivanova,\n\nCảm ơn bà đã đặt chuyến công tác với Solstice Travel. Tôi viết thư này để xác nhận chi tiết lịch trình của bà và thông báo một thay đổi.\n\nChuyến bay đến Lisbon ngày 3 tháng 3 của bà giờ sẽ khởi hành lúc 7:40 sáng thay vì 9:15 sáng vì hãng hàng không đã điều chỉnh lịch bay. Chuyến bay về ngày 7 tháng 3 không thay đổi. Nếu giờ khởi hành mới không thuận tiện, tôi có thể đặt lại cho bà một chuyến bay muộn hơn trong cùng ngày mà không tính thêm phí, tuy nhiên hiện chỉ còn ghế hạng phổ thông.\n\nĐặt phòng của bà tại Khách sạn Miradouro đã được xác nhận cho bốn đêm. Theo yêu cầu của bà, phòng có bàn làm việc và hướng nhìn ra sông. Dịch vụ đưa đón sân bay không được bao gồm, nhưng khách sạn có xe đưa đón với giá 15 euro mỗi chiều, có thể đặt tại quầy lễ tân.\n\nVui lòng xem lại lịch trình đính kèm và trả lời trước ngày 21 tháng 2 nếu bà muốn tôi thay đổi điều gì.\n\nTrân trọng,\nMarcus Bell\nChuyên viên tư vấn du lịch, Solstice Travel"
+    },
+    {
+      "id": "p7-12",
+      "format": "double",
+      "documents": [
+        {
+          "type": "advertisement",
+          "title": "Job advertisement",
+          "text": "Job Opening: Customer Service Supervisor\nNorwell Electronics - Brayton Branch\n\nNorwell Electronics is seeking an experienced supervisor to lead a team of twelve customer service representatives at our Brayton call center. Responsibilities include training new staff, monitoring call quality, and preparing weekly performance reports.\n\nRequirements:\n- At least three years of customer service experience, including one year in a supervisory role\n- Excellent communication skills\n- Ability to work some weekend shifts\n- Knowledge of Spanish is a plus but not required\n\nTo apply, send a résumé and cover letter to Amy Castillo at careers@norwell.com by August 15. Interviews will be held during the week of August 25."
+        },
+        {
+          "type": "email",
+          "title": "E-mail",
+          "text": "From: Victor Huang <vhuang@quickmail.com>\nTo: Amy Castillo <careers@norwell.com>\nDate: August 10\nSubject: Customer Service Supervisor position\n\nDear Ms. Castillo,\n\nI am writing to apply for the Customer Service Supervisor position at your Brayton branch, which I saw advertised on your Web site. For the past five years, I have worked in customer service at Elmhurst Telecom, and for the last eighteen months I have supervised a team of eight agents. In this role, I designed a new training program that reduced average call times by 15 percent.\n\nI am fluent in English and Mandarin. I understand that the position requires some weekend work, and I am happy to accommodate this.\n\nPlease note that I will be traveling from August 24 to August 28, so I would appreciate it if an interview could be scheduled after I return. My résumé is attached.\n\nSincerely,\nVictor Huang"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-12-1",
+          "question": "According to the advertisement, what is one responsibility of the position?",
+          "options": [
+            "Hiring sales staff",
+            "Preparing weekly reports",
+            "Repairing electronic devices",
+            "Translating documents into Spanish"
+          ],
+          "answer": 1,
+          "type": "detail",
+          "explanation": "Quảng cáo: \"Responsibilities include training new staff, monitoring call quality, and preparing weekly performance reports\" → lập báo cáo hằng tuần. Tiếng Tây Ban Nha chỉ là điểm cộng, không phải nhiệm vụ dịch thuật."
+        },
+        {
+          "id": "p7-12-2",
+          "question": "What did Mr. Huang accomplish at Elmhurst Telecom?",
+          "options": [
+            "He designed a training program that shortened calls.",
+            "He opened a new call center.",
+            "He was promoted to regional manager.",
+            "He increased sales by 15 percent."
+          ],
+          "answer": 0,
+          "type": "detail",
+          "explanation": "E-mail: \"I designed a new training program that reduced average call times by 15 percent\" → chương trình đào tạo giúp rút ngắn thời gian cuộc gọi. Con số 15% là thời gian cuộc gọi giảm, không phải doanh số tăng."
+        },
+        {
+          "id": "p7-12-3",
+          "question": "What is suggested about Mr. Huang?",
+          "options": [
+            "He speaks Spanish fluently.",
+            "He is unable to work on weekends.",
+            "He meets the supervisory experience requirement.",
+            "He learned about the job from a newspaper."
+          ],
+          "answer": 2,
+          "type": "cross-reference",
+          "explanation": "Quảng cáo yêu cầu ít nhất 3 năm kinh nghiệm, trong đó 1 năm làm giám sát. E-mail cho biết ông có 5 năm làm dịch vụ khách hàng và 18 tháng giám sát nhóm → đáp ứng yêu cầu. Ông nói tiếng Anh và tiếng Quan Thoại (không phải tiếng Tây Ban Nha), sẵn sàng làm cuối tuần, và biết tin tuyển dụng qua trang web."
+        },
+        {
+          "id": "p7-12-4",
+          "question": "What problem might Mr. Huang's application cause?",
+          "options": [
+            "It was sent after the deadline.",
+            "It does not include a résumé.",
+            "He will be away when interviews are planned.",
+            "He lacks the required language skills."
+          ],
+          "answer": 2,
+          "type": "cross-reference",
+          "explanation": "Quảng cáo: phỏng vấn diễn ra trong tuần 25/8. E-mail: ông đi vắng từ 24 đến 28/8 → ông vắng mặt đúng thời gian phỏng vấn. Đơn gửi ngày 10/8, trước hạn 15/8; có đính kèm sơ yếu lý lịch; tiếng Tây Ban Nha không bắt buộc."
+        },
+        {
+          "id": "p7-12-5",
+          "question": "How many employees will the new supervisor manage?",
+          "options": [
+            "Twelve",
+            "Eight",
+            "Fifteen",
+            "Eighteen"
+          ],
+          "answer": 0,
+          "type": "detail",
+          "explanation": "Quảng cáo: \"to lead a team of twelve customer service representatives\" → 12 người. \"Eight\" là số nhân viên ông Huang đang giám sát ở công ty cũ; 15 là phần trăm, 18 là số tháng."
+        }
+      ],
+      "translation": "Tuyển dụng: Giám sát Dịch vụ Khách hàng\nNorwell Electronics - Chi nhánh Brayton\n\nNorwell Electronics đang tìm một giám sát viên giàu kinh nghiệm để dẫn dắt nhóm mười hai nhân viên dịch vụ khách hàng tại tổng đài Brayton của chúng tôi. Trách nhiệm bao gồm đào tạo nhân viên mới, theo dõi chất lượng cuộc gọi và lập báo cáo hiệu suất hằng tuần.\n\nYêu cầu:\n- Ít nhất ba năm kinh nghiệm dịch vụ khách hàng, trong đó có một năm ở vị trí giám sát\n- Kỹ năng giao tiếp xuất sắc\n- Có thể làm một số ca cuối tuần\n- Biết tiếng Tây Ban Nha là một lợi thế nhưng không bắt buộc\n\nĐể ứng tuyển, hãy gửi sơ yếu lý lịch và thư xin việc cho Amy Castillo tại careers@norwell.com trước ngày 15 tháng 8. Phỏng vấn sẽ diễn ra trong tuần bắt đầu từ ngày 25 tháng 8.\n\nTừ: Victor Huang <vhuang@quickmail.com>\nĐến: Amy Castillo <careers@norwell.com>\nNgày: 10 tháng 8\nTiêu đề: Vị trí Giám sát Dịch vụ Khách hàng\n\nKính gửi bà Castillo,\n\nTôi viết thư này để ứng tuyển vị trí Giám sát Dịch vụ Khách hàng tại chi nhánh Brayton mà tôi thấy được quảng cáo trên trang web của quý công ty. Trong năm năm qua, tôi làm việc trong lĩnh vực dịch vụ khách hàng tại Elmhurst Telecom, và trong mười tám tháng gần đây tôi giám sát một nhóm tám nhân viên. Ở vai trò này, tôi đã thiết kế một chương trình đào tạo mới giúp giảm 15% thời gian trung bình của cuộc gọi.\n\nTôi thông thạo tiếng Anh và tiếng Quan Thoại. Tôi hiểu rằng vị trí này đòi hỏi làm việc một số ngày cuối tuần, và tôi sẵn lòng đáp ứng.\n\nXin lưu ý rằng tôi sẽ đi công tác từ ngày 24 đến 28 tháng 8, vì vậy tôi rất mong buổi phỏng vấn có thể được sắp xếp sau khi tôi trở về. Sơ yếu lý lịch của tôi được đính kèm.\n\nTrân trọng,\nVictor Huang"
+    },
+    {
+      "id": "p7-13",
+      "format": "double",
+      "documents": [
+        {
+          "type": "notice",
+          "title": "Notice",
+          "text": "Westfield Business Park Fitness Center - Membership Options\n\nThe Westfield Business Park Fitness Center is open to employees of all companies located in the park.\n\nBasic ($30 per month): Access to gym equipment, 6 A.M. to 9 P.M., weekdays only\nPlus ($45 per month): All Basic benefits, plus weekend access and group fitness classes such as yoga and spinning\nPremium ($60 per month): All Plus benefits, plus two personal training sessions per month\n\nNew members who sign up before January 31 pay no registration fee (normally $20). Lockers are available for an additional $5 per month. Membership applications can be picked up at the front desk in Building C."
+        },
+        {
+          "type": "email",
+          "title": "E-mail",
+          "text": "From: Rachel Dunn <rdunn@pembertonins.com>\nTo: Fitness Center Front Desk <frontdesk@westfieldfitness.com>\nDate: January 27\nSubject: Membership\n\nHello,\n\nI work for Pemberton Insurance in Building A, and I am interested in joining the fitness center. I usually exercise on Saturday mornings, and I would also like to attend the yoga classes my coworkers have told me about. However, I don't need a personal trainer at this point.\n\nCould you tell me whether I can submit my application by e-mail? I will be away at a training course until February 3, so I can't visit the front desk this week. Also, I would like to rent a locker.\n\nThank you,\nRachel Dunn"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-13-1",
+          "question": "What is indicated about the fitness center?",
+          "options": [
+            "It is located in Building A.",
+            "It is open 24 hours a day.",
+            "It serves employees of companies in the business park.",
+            "It offers free personal training to all members."
+          ],
+          "answer": 2,
+          "type": "detail",
+          "explanation": "Thông báo: \"open to employees of all companies located in the park\" → phục vụ nhân viên các công ty trong khu. Đơn đăng ký nhận ở tòa nhà C (tòa A là nơi bà Dunn làm việc); gói Basic chỉ mở 6 giờ sáng–9 giờ tối; huấn luyện cá nhân chỉ có ở gói Premium."
+        },
+        {
+          "id": "p7-13-2",
+          "question": "Which membership option is most appropriate for Ms. Dunn?",
+          "options": [
+            "Plus",
+            "Basic",
+            "Premium",
+            "Weekend Only"
+          ],
+          "answer": 0,
+          "type": "cross-reference",
+          "explanation": "E-mail: bà tập vào sáng thứ Bảy, muốn tham gia lớp yoga, không cần huấn luyện viên cá nhân. Thông báo: gói Plus có quyền vào cuối tuần và lớp tập nhóm như yoga; Basic chỉ ngày thường, Premium có thêm huấn luyện cá nhân mà bà không cần. Không có gói \"Weekend Only\"."
+        },
+        {
+          "id": "p7-13-3",
+          "question": "How much will Ms. Dunn most likely pay each month?",
+          "options": [
+            "$35",
+            "$45",
+            "$50",
+            "$65"
+          ],
+          "answer": 2,
+          "type": "cross-reference",
+          "explanation": "Gói phù hợp là Plus ($45/tháng) cộng thêm tủ đồ $5/tháng vì bà muốn thuê tủ (\"I would like to rent a locker\") → $50. $35 là Basic + tủ; $65 là Premium + tủ; $45 chưa tính tủ đồ."
+        },
+        {
+          "id": "p7-13-4",
+          "question": "What does Ms. Dunn ask about?",
+          "options": [
+            "Whether she can send her application by e-mail",
+            "Whether yoga classes are held on Saturdays",
+            "Whether personal trainers are available",
+            "Whether the center provides towels"
+          ],
+          "answer": 0,
+          "type": "detail",
+          "explanation": "\"Could you tell me whether I can submit my application by e-mail?\" → bà hỏi có thể nộp đơn qua e-mail không. Bà nói rõ không cần huấn luyện viên; không hỏi về lịch yoga hay khăn tắm."
+        },
+        {
+          "id": "p7-13-5",
+          "question": "Why can't Ms. Dunn visit the front desk this week?",
+          "options": [
+            "She will be attending a training course.",
+            "She is moving to a new office.",
+            "She works in a different city.",
+            "The front desk is closed for repairs."
+          ],
+          "answer": 0,
+          "type": "detail",
+          "explanation": "\"I will be away at a training course until February 3, so I can't visit the front desk this week\" → bà đi dự khóa đào tạo. Bà làm ở tòa nhà A ngay trong khu; không có thông tin chuyển văn phòng hay quầy lễ tân đóng cửa."
+        }
+      ],
+      "translation": "Trung tâm Thể hình Khu Kinh doanh Westfield - Các gói hội viên\n\nTrung tâm Thể hình Khu Kinh doanh Westfield mở cửa cho nhân viên của tất cả các công ty nằm trong khu.\n\nCơ bản ($30 mỗi tháng): Sử dụng thiết bị tập, từ 6 giờ sáng đến 9 giờ tối, chỉ các ngày trong tuần\nPlus ($45 mỗi tháng): Tất cả quyền lợi gói Cơ bản, cộng thêm quyền vào cuối tuần và các lớp tập nhóm như yoga và đạp xe\nCao cấp ($60 mỗi tháng): Tất cả quyền lợi gói Plus, cộng thêm hai buổi tập với huấn luyện viên cá nhân mỗi tháng\n\nHội viên mới đăng ký trước ngày 31 tháng 1 không phải trả phí đăng ký (thường là $20). Có tủ đồ với giá thêm $5 mỗi tháng. Đơn đăng ký hội viên có thể lấy tại quầy lễ tân ở Tòa nhà C.\n\nTừ: Rachel Dunn <rdunn@pembertonins.com>\nĐến: Quầy lễ tân Trung tâm Thể hình <frontdesk@westfieldfitness.com>\nNgày: 27 tháng 1\nTiêu đề: Hội viên\n\nXin chào,\n\nTôi làm việc cho Pemberton Insurance ở Tòa nhà A và muốn tham gia trung tâm thể hình. Tôi thường tập vào sáng thứ Bảy, và tôi cũng muốn tham gia các lớp yoga mà đồng nghiệp đã kể với tôi. Tuy nhiên, hiện tại tôi chưa cần huấn luyện viên cá nhân.\n\nAnh/chị có thể cho tôi biết liệu tôi có thể nộp đơn qua e-mail không? Tôi sẽ đi dự một khóa đào tạo đến ngày 3 tháng 2, nên tuần này tôi không thể đến quầy lễ tân. Ngoài ra, tôi muốn thuê một tủ đồ.\n\nCảm ơn,\nRachel Dunn"
+    },
+    {
+      "id": "p7-14",
+      "format": "double",
+      "documents": [
+        {
+          "type": "review",
+          "title": "Online review",
+          "text": "Customer Review - Aroma Pro 300 Coffee Maker\nPosted by: Jenna Wilkes\nRating: 2 out of 5 stars\n\nI bought the Aroma Pro 300 from the Kestrel Appliances online store on March 2. For the first two weeks, it worked perfectly and made excellent coffee. Unfortunately, the water tank began leaking on March 18, and now I have to place a towel under the machine every time I use it. I contacted customer service by e-mail the same day but have not received a response yet. I liked the machine at first, but I cannot recommend it until the company deals with this problem."
+        },
+        {
+          "type": "email",
+          "title": "E-mail",
+          "text": "From: Kestrel Appliances Customer Care <care@kestrelappliances.com>\nTo: Jenna Wilkes <jwilkes@inboxly.com>\nDate: March 24\nSubject: Your Aroma Pro 300\n\nDear Ms. Wilkes,\n\nWe are sorry to learn about the problem with your coffee maker, and we apologize for our slow reply to your e-mail. Our records show that a small number of Aroma Pro 300 machines produced in February had a faulty seal in the water tank, which causes exactly the problem you described. Because your machine is covered by our one-year warranty, we will send you a replacement machine free of charge. A prepaid shipping label for returning your current machine is attached.\n\nAs a thank-you for your patience, we have also added a $20 credit to your online account. It can be used on any purchase made before June 30.\n\nSincerely,\nDaniel Kim\nCustomer Care Manager, Kestrel Appliances"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-14-1",
+          "question": "Why did Ms. Wilkes give the product a low rating?",
+          "options": [
+            "It makes weak coffee.",
+            "It arrived later than expected.",
+            "Its water tank leaks.",
+            "It was too expensive."
+          ],
+          "answer": 2,
+          "type": "detail",
+          "explanation": "Bài đánh giá: \"the water tank began leaking on March 18\" → bình nước bị rò rỉ. Bà khen máy pha cà phê rất ngon trong hai tuần đầu; không nhắc giao hàng trễ hay giá cao."
+        },
+        {
+          "id": "p7-14-2",
+          "question": "What does Ms. Wilkes say about her contact with customer service?",
+          "options": [
+            "She was told to buy a new tank.",
+            "She has not received a reply yet.",
+            "She spoke with Mr. Kim by phone.",
+            "She was offered a full refund."
+          ],
+          "answer": 1,
+          "type": "detail",
+          "explanation": "\"I contacted customer service by e-mail the same day but have not received a response yet\" → bà chưa nhận được phản hồi. Bà liên hệ qua e-mail, không qua điện thoại."
+        },
+        {
+          "id": "p7-14-3",
+          "question": "What is most likely true about Ms. Wilkes's coffee maker?",
+          "options": [
+            "It was purchased at a physical store.",
+            "It was one of the machines with a faulty seal.",
+            "It is no longer covered by the warranty.",
+            "It was given to her as a gift."
+          ],
+          "answer": 1,
+          "type": "cross-reference",
+          "explanation": "Bài đánh giá mô tả bình nước bị rò rỉ; e-mail giải thích một số máy sản xuất tháng 2 có gioăng bình nước bị lỗi gây ra \"exactly the problem you described\" → máy của bà nhiều khả năng thuộc lô máy lỗi gioăng. Bà mua trên cửa hàng trực tuyến (không phải cửa hàng thực tế), tự mua (không phải quà tặng), và máy vẫn trong thời hạn bảo hành."
+        },
+        {
+          "id": "p7-14-4",
+          "question": "What will Kestrel Appliances send to Ms. Wilkes?",
+          "options": [
+            "A refund check",
+            "A repair technician",
+            "A coupon for coffee beans",
+            "A replacement machine"
+          ],
+          "answer": 3,
+          "type": "detail",
+          "explanation": "E-mail: \"we will send you a replacement machine free of charge\" → gửi máy thay thế. Khoản $20 là tín dụng trong tài khoản trực tuyến, không phải phiếu mua cà phê hay séc hoàn tiền."
+        },
+        {
+          "id": "p7-14-5",
+          "question": "What is indicated about the $20 credit?",
+          "options": [
+            "It can be used only for coffee products.",
+            "It must be used by the end of June.",
+            "It was sent to Ms. Wilkes by mail.",
+            "It requires the return of her machine first."
+          ],
+          "answer": 1,
+          "type": "detail",
+          "explanation": "\"It can be used on any purchase made before June 30\" → phải dùng trước cuối tháng 6. Khoản này dùng cho bất kỳ giao dịch nào (không chỉ sản phẩm cà phê), được cộng vào tài khoản trực tuyến (không gửi qua bưu điện), và không có điều kiện trả máy trước."
+        }
+      ],
+      "translation": "Đánh giá của khách hàng - Máy pha cà phê Aroma Pro 300\nĐăng bởi: Jenna Wilkes\nXếp hạng: 2 trên 5 sao\n\nTôi mua máy Aroma Pro 300 từ cửa hàng trực tuyến của Kestrel Appliances vào ngày 2 tháng 3. Trong hai tuần đầu, máy hoạt động hoàn hảo và pha cà phê rất ngon. Thật không may, bình nước bắt đầu rò rỉ vào ngày 18 tháng 3, và giờ mỗi lần dùng tôi phải đặt một chiếc khăn dưới máy. Tôi đã liên hệ bộ phận chăm sóc khách hàng qua e-mail ngay hôm đó nhưng đến nay vẫn chưa nhận được phản hồi. Lúc đầu tôi rất thích chiếc máy này, nhưng tôi không thể giới thiệu nó cho đến khi công ty giải quyết vấn đề này.\n\nTừ: Bộ phận Chăm sóc Khách hàng Kestrel Appliances <care@kestrelappliances.com>\nĐến: Jenna Wilkes <jwilkes@inboxly.com>\nNgày: 24 tháng 3\nTiêu đề: Máy Aroma Pro 300 của bà\n\nKính gửi bà Wilkes,\n\nChúng tôi rất tiếc khi biết về sự cố với máy pha cà phê của bà và xin lỗi vì đã chậm trả lời e-mail của bà. Hồ sơ của chúng tôi cho thấy một số ít máy Aroma Pro 300 sản xuất trong tháng 2 có gioăng bình nước bị lỗi, gây ra chính xác vấn đề mà bà mô tả. Vì máy của bà được bảo hành một năm, chúng tôi sẽ gửi cho bà một máy thay thế miễn phí. Kèm theo là nhãn vận chuyển trả trước để bà gửi trả lại máy hiện tại.\n\nĐể cảm ơn sự kiên nhẫn của bà, chúng tôi cũng đã cộng $20 vào tài khoản trực tuyến của bà. Khoản này có thể dùng cho bất kỳ giao dịch mua nào trước ngày 30 tháng 6.\n\nTrân trọng,\nDaniel Kim\nQuản lý Chăm sóc Khách hàng, Kestrel Appliances"
+    },
+    {
+      "id": "p7-15",
+      "format": "double",
+      "documents": [
+        {
+          "type": "schedule",
+          "title": "Schedule",
+          "text": "Orion Financial Group - Office Renovation Schedule\n\nFloor   Departments affected     Work dates          Temporary location\n3       Accounting, Payroll      May 4 - May 15      Conference Center, Floor 1\n4       Marketing                May 18 - May 29     Floor 6, Rooms 601-608\n5       Legal, Compliance        June 1 - June 12    Floor 6, Rooms 610-618\n6       Human Resources          June 15 - June 26   Floor 2, Training Rooms\n\nEmployees should pack their personal belongings in the boxes provided by the Friday before work begins on their floor. Movers will transport all computers and files."
+        },
+        {
+          "type": "email",
+          "title": "E-mail",
+          "text": "From: Felix Moreau <fmoreau@orionfinancial.com>\nTo: Sana Qureshi <squreshi@orionfinancial.com>\nDate: Wednesday, May 13\nSubject: Client meeting\n\nHi Sana,\n\nI'd like to meet with you and the Weller Industries team next week to go over their new advertising campaign. Since our department will be working from the temporary rooms on the sixth floor during that time, there won't be enough space there for eight people. Could you reserve the large meeting room on the seventh floor for Wednesday afternoon?\n\nAlso, please remind everyone on our team to have their boxes packed by this Friday.\n\nThanks,\nFelix"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-15-1",
+          "question": "What is the purpose of the schedule?",
+          "options": [
+            "To announce the appointment of new department heads",
+            "To explain when and where departments will relocate during renovations",
+            "To list the dates of employee training sessions",
+            "To invite staff to visit a newly renovated floor"
+          ],
+          "answer": 1,
+          "type": "main-idea",
+          "explanation": "Lịch có tiêu đề \"Office Renovation Schedule\", liệt kê từng tầng, ngày thi công và địa điểm làm việc tạm thời → cho biết các phòng ban chuyển đi đâu, khi nào trong thời gian cải tạo. \"Training Rooms\" chỉ là nơi làm việc tạm của phòng Nhân sự, không phải lịch đào tạo."
+        },
+        {
+          "id": "p7-15-2",
+          "question": "What are employees asked to do?",
+          "options": [
+            "Pack their personal belongings in boxes",
+            "Transport their own computers",
+            "Work from home during the renovations",
+            "Submit a moving request form"
+          ],
+          "answer": 0,
+          "type": "detail",
+          "explanation": "\"Employees should pack their personal belongings in the boxes provided\" → đóng gói đồ cá nhân. Máy tính và hồ sơ do đội vận chuyển chuyển (\"Movers will transport all computers and files\"); không có yêu cầu làm việc tại nhà hay nộp đơn."
+        },
+        {
+          "id": "p7-15-3",
+          "question": "In which department does Mr. Moreau most likely work?",
+          "options": [
+            "Accounting",
+            "Legal",
+            "Marketing",
+            "Human Resources"
+          ],
+          "answer": 2,
+          "type": "cross-reference",
+          "explanation": "E-mail ngày 13/5 nói tuần sau (tuần 18/5) phòng của ông sẽ làm việc ở các phòng tạm trên tầng 6, và cuộc họp bàn về chiến dịch quảng cáo. Lịch cho thấy phòng Marketing chuyển lên tầng 6 (phòng 601–608) từ 18 đến 29/5 → ông làm ở phòng Marketing. Phòng Pháp chế cũng lên tầng 6 nhưng từ 1/6; Kế toán chuyển xuống tầng 1; Nhân sự chuyển xuống tầng 2."
+        },
+        {
+          "id": "p7-15-4",
+          "question": "What does Mr. Moreau ask Ms. Qureshi to do?",
+          "options": [
+            "Contact the Weller Industries team",
+            "Order additional packing boxes",
+            "Change the renovation dates",
+            "Book a room for a meeting"
+          ],
+          "answer": 3,
+          "type": "detail",
+          "explanation": "\"Could you reserve the large meeting room on the seventh floor for Wednesday afternoon?\" → đặt phòng họp. Ông chỉ nhờ nhắc đồng nghiệp đóng thùng, không đặt thêm thùng; không yêu cầu liên lạc với khách hay đổi lịch thi công."
+        },
+        {
+          "id": "p7-15-5",
+          "question": "By what date must Mr. Moreau's team finish packing?",
+          "options": [
+            "May 13",
+            "May 15",
+            "May 18",
+            "May 29"
+          ],
+          "answer": 1,
+          "type": "cross-reference",
+          "explanation": "Lịch: phải đóng gói xong trước thứ Sáu ngay trước ngày bắt đầu thi công tầng của mình. Tầng của phòng Marketing bắt đầu thứ Hai 18/5, và e-mail gửi thứ Tư 13/5 nhắc \"by this Friday\" → thứ Sáu 15/5. 13/5 là ngày gửi e-mail; 18/5 là ngày bắt đầu thi công; 29/5 là ngày kết thúc."
+        }
+      ],
+      "translation": "Tập đoàn Tài chính Orion - Lịch cải tạo văn phòng\n\nTầng   Phòng ban bị ảnh hưởng   Ngày thi công          Địa điểm tạm thời\n3      Kế toán, Tiền lương      4/5 - 15/5             Trung tâm Hội nghị, Tầng 1\n4      Marketing                18/5 - 29/5            Tầng 6, Phòng 601-608\n5      Pháp chế, Tuân thủ       1/6 - 12/6             Tầng 6, Phòng 610-618\n6      Nhân sự                  15/6 - 26/6            Tầng 2, Các phòng đào tạo\n\nNhân viên cần đóng gói đồ dùng cá nhân vào các thùng được cung cấp trước thứ Sáu ngay trước ngày bắt đầu thi công tầng của mình. Đội vận chuyển sẽ chuyển toàn bộ máy tính và hồ sơ.\n\nTừ: Felix Moreau <fmoreau@orionfinancial.com>\nĐến: Sana Qureshi <squreshi@orionfinancial.com>\nNgày: Thứ Tư, 13 tháng 5\nTiêu đề: Cuộc họp với khách hàng\n\nChào Sana,\n\nTuần sau tôi muốn họp với bạn và nhóm Weller Industries để xem xét chiến dịch quảng cáo mới của họ. Vì trong thời gian đó phòng ban chúng ta sẽ làm việc tại các phòng tạm trên tầng sáu, ở đó sẽ không đủ chỗ cho tám người. Bạn có thể đặt phòng họp lớn trên tầng bảy cho chiều thứ Tư được không?\n\nNgoài ra, hãy nhắc mọi người trong nhóm đóng gói xong thùng đồ trước thứ Sáu tuần này.\n\nCảm ơn,\nFelix"
+    },
+    {
+      "id": "p7-16",
+      "format": "double",
+      "documents": [
+        {
+          "type": "web-page",
+          "title": "Web page",
+          "text": "Brookside Arts Center - Summer Photography Workshops\n\nWorkshop                          Dates              Fee     Instructor\nIntroduction to Digital Cameras   July 7, 14, 21     $90     Carla Mendes\nPortrait Photography              July 9, 16, 23     $120    Owen Bradley\nLandscape Photography*            July 12, 19        $110    Carla Mendes\nPhoto Editing Basics              July 10, 17, 24    $100    Lena Hoffmann\n\n*Sessions take place outdoors at Silver Lake Park. Participants must arrange their own transportation.\n\nArts Center members receive a 10 percent discount on all workshops. Participants must bring their own camera to every workshop except Photo Editing Basics, for which laptops are provided."
+        },
+        {
+          "type": "form",
+          "title": "Registration form",
+          "text": "Brookside Arts Center - Workshop Registration Form\n\nName: Thomas Eriksen\nE-mail: teriksen@mailbox.net\nMember ID (if applicable): BAC-2291\nWorkshop selected: Landscape Photography\nAmount paid: $99.00\n\nComments: I'm excited to take another class with Ms. Mendes - I really enjoyed her course last spring. Is there any way to share a ride to the park with other participants? I don't drive."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-16-1",
+          "question": "What is indicated about the workshops?",
+          "options": [
+            "All of them take place at Silver Lake Park.",
+            "Most of them require participants to bring a camera.",
+            "They are free for Arts Center members.",
+            "They are all taught by the same instructor."
+          ],
+          "answer": 1,
+          "type": "detail",
+          "explanation": "Trang web: \"Participants must bring their own camera to every workshop except Photo Editing Basics\" → phần lớn các khóa yêu cầu mang máy ảnh. Chỉ khóa Landscape học ở công viên; hội viên được giảm 10% chứ không miễn phí; có ba giảng viên khác nhau."
+        },
+        {
+          "id": "p7-16-2",
+          "question": "What is suggested about Mr. Eriksen?",
+          "options": [
+            "He has never taken a class at the center.",
+            "He plans to drive to the park.",
+            "He will be provided with a laptop.",
+            "He received a discount on his fee."
+          ],
+          "answer": 3,
+          "type": "cross-reference",
+          "explanation": "Khóa Landscape Photography giá $110; hội viên được giảm 10%. Phiếu đăng ký có mã hội viên và số tiền đã trả là $99 (= $110 − 10%) → ông được giảm giá. Ông từng học cô Mendes mùa xuân trước, không lái xe, và laptop chỉ có ở khóa Photo Editing."
+        },
+        {
+          "id": "p7-16-3",
+          "question": "When will Mr. Eriksen's workshop meet?",
+          "options": [
+            "On July 7 and 14",
+            "On July 9 and 16",
+            "On July 12 and 19",
+            "On July 10 and 17"
+          ],
+          "answer": 2,
+          "type": "cross-reference",
+          "explanation": "Phiếu đăng ký: ông chọn Landscape Photography. Trang web: khóa này học ngày 12 và 19/7. Các ngày khác thuộc những khóa còn lại."
+        },
+        {
+          "id": "p7-16-4",
+          "question": "What concern does Mr. Eriksen mention?",
+          "options": [
+            "How he will get to the park",
+            "The cost of the workshop",
+            "The type of camera required",
+            "The length of each session"
+          ],
+          "answer": 0,
+          "type": "detail",
+          "explanation": "\"Is there any way to share a ride to the park with other participants? I don't drive.\" → ông lo về cách di chuyển đến công viên. Ông không nhắc học phí, loại máy ảnh hay thời lượng buổi học."
+        },
+        {
+          "id": "p7-16-5",
+          "question": "What is indicated about Ms. Mendes?",
+          "options": [
+            "She teaches only portrait classes.",
+            "She will provide transportation to the park.",
+            "She has taught Mr. Eriksen before.",
+            "She manages the Brookside Arts Center."
+          ],
+          "answer": 2,
+          "type": "detail",
+          "explanation": "Phiếu đăng ký: \"I'm excited to take another class with Ms. Mendes - I really enjoyed her course last spring\" → cô đã từng dạy ông. Cô dạy Introduction to Digital Cameras và Landscape Photography (lớp chân dung do Owen Bradley dạy); không có thông tin cô đưa đón hay quản lý trung tâm."
+        }
+      ],
+      "translation": "Trung tâm Nghệ thuật Brookside - Các khóa học nhiếp ảnh mùa hè\n\nKhóa học                           Ngày học            Học phí  Giảng viên\nNhập môn máy ảnh kỹ thuật số       7, 14, 21/7         $90      Carla Mendes\nChụp ảnh chân dung                 9, 16, 23/7         $120     Owen Bradley\nChụp ảnh phong cảnh*               12, 19/7            $110     Carla Mendes\nCơ bản về chỉnh sửa ảnh            10, 17, 24/7        $100     Lena Hoffmann\n\n*Các buổi học diễn ra ngoài trời tại Công viên Silver Lake. Học viên phải tự sắp xếp phương tiện đi lại.\n\nHội viên Trung tâm Nghệ thuật được giảm 10% cho tất cả các khóa học. Học viên phải mang máy ảnh riêng đến mọi khóa học, trừ khóa Cơ bản về chỉnh sửa ảnh, khóa này được cung cấp máy tính xách tay.\n\nTrung tâm Nghệ thuật Brookside - Phiếu đăng ký khóa học\n\nHọ tên: Thomas Eriksen\nE-mail: teriksen@mailbox.net\nMã hội viên (nếu có): BAC-2291\nKhóa học đã chọn: Chụp ảnh phong cảnh\nSố tiền đã trả: $99.00\n\nGhi chú: Tôi rất hào hứng được học thêm một lớp với cô Mendes - tôi rất thích khóa học của cô vào mùa xuân năm ngoái. Có cách nào để đi chung xe đến công viên với các học viên khác không? Tôi không lái xe."
+    },
+    {
+      "id": "p7-17",
+      "format": "triple",
+      "documents": [
+        {
+          "type": "advertisement",
+          "title": "Advertisement",
+          "text": "Silver Spoon Catering\n\nPlanning a business lunch, training day, or office celebration? Silver Spoon Catering delivers fresh, high-quality meals anywhere in the Northgate area.\n\nLunch packages (price per person):\nClassic: sandwich, salad, and drink - $12\nDeluxe: hot entrée, two side dishes, and drink - $18\nExecutive: hot entrée, two side dishes, dessert, and drink - $24\n\nOrders for 30 or more people receive free delivery; otherwise, a $25 delivery fee applies. All orders must be placed at least 48 hours in advance. Vegetarian options are available for every package at no extra charge."
+        },
+        {
+          "type": "email",
+          "title": "E-mail",
+          "text": "From: Olivia Grant <ogrant@tellurian.com>\nTo: Silver Spoon Catering <orders@silverspoon.com>\nDate: October 6\nSubject: Lunch order for October 9\n\nHello,\n\nTellurian Software is holding an all-day training session for new employees on Thursday, October 9, and we would like to order lunch for 25 people. We would like hot meals with two side dishes, but dessert won't be necessary because we are planning a separate afternoon coffee break with snacks. Five of the participants do not eat meat.\n\nPlease deliver the food to our office at 300 Ferris Road by 12:00 noon. Lunch will be served in the third-floor meeting room.\n\nThank you,\nOlivia Grant\nOffice Manager, Tellurian Software"
+        },
+        {
+          "type": "invoice",
+          "title": "Invoice",
+          "text": "Silver Spoon Catering - Invoice\nCustomer: Tellurian Software (Attn: Olivia Grant)\nEvent date: October 9\n\nItem                             Qty    Price      Amount\nDeluxe lunch package             25     $18.00     $450.00\n  (includes 5 vegetarian meals)\nDelivery fee                      1     $25.00      $25.00\n                                        Total:     $475.00\n\nNote: Our driver will arrive at 11:30 A.M. Please make sure that someone is available to receive the delivery at the building's main entrance."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-17-1",
+          "question": "What is indicated about Silver Spoon Catering?",
+          "options": [
+            "It requires orders to be placed at least two days ahead.",
+            "It specializes in evening events.",
+            "It charges extra for vegetarian meals.",
+            "It operates in several cities."
+          ],
+          "answer": 0,
+          "type": "detail",
+          "explanation": "Quảng cáo: \"All orders must be placed at least 48 hours in advance\" → phải đặt trước ít nhất hai ngày. Món chay không tính thêm phí; công ty phục vụ khu vực Northgate và quảng cáo các gói bữa trưa, không phải sự kiện buổi tối."
+        },
+        {
+          "id": "p7-17-2",
+          "question": "Why does Ms. Grant NOT order dessert?",
+          "options": [
+            "The participants did not request it.",
+            "A separate break with snacks has been planned.",
+            "Dessert is not included in any package.",
+            "Her budget does not allow it."
+          ],
+          "answer": 1,
+          "type": "detail",
+          "explanation": "E-mail: \"dessert won't be necessary because we are planning a separate afternoon coffee break with snacks\" → đã có giờ nghỉ uống cà phê riêng. Gói Executive có tráng miệng nên C sai; e-mail không nói về ngân sách."
+        },
+        {
+          "id": "p7-17-3",
+          "question": "Why was Tellurian Software charged a delivery fee?",
+          "options": [
+            "The office is outside the Northgate area.",
+            "The order was placed less than 48 hours in advance.",
+            "The order was for fewer than 30 people.",
+            "The food was delivered to the third floor."
+          ],
+          "answer": 2,
+          "type": "cross-reference",
+          "explanation": "Quảng cáo: miễn phí giao hàng cho đơn từ 30 người, nếu không thì phí $25. E-mail đặt cho 25 người, và hóa đơn có phí giao $25 → vì đơn dưới 30 người. Đơn đặt ngày 6/10 cho ngày 9/10 nên không trễ; đồ ăn giao ở cửa chính, không phải tầng ba."
+        },
+        {
+          "id": "p7-17-4",
+          "question": "What is true about Ms. Grant's order?",
+          "options": [
+            "It asked for delivery to the building's main entrance.",
+            "It requested the Classic lunch package.",
+            "It was placed by a training instructor.",
+            "It was sent early enough to meet the ordering deadline."
+          ],
+          "answer": 3,
+          "type": "cross-reference",
+          "explanation": "Quảng cáo yêu cầu đặt trước ít nhất 48 giờ; e-mail gửi ngày 6/10 cho bữa trưa ngày 9/10 (trước 3 ngày) → đáp ứng thời hạn. Bà muốn món nóng với hai món phụ (gói Deluxe, không phải Classic); việc nhận hàng ở cửa chính là yêu cầu trong hóa đơn của Silver Spoon, không phải của bà; bà là quản lý văn phòng, không phải giảng viên."
+        },
+        {
+          "id": "p7-17-5",
+          "question": "According to the invoice, what should Tellurian Software do?",
+          "options": [
+            "Pay the driver in cash",
+            "Return the serving dishes after lunch",
+            "Confirm the order by telephone",
+            "Have someone receive the food at the main entrance"
+          ],
+          "answer": 3,
+          "type": "detail",
+          "explanation": "Ghi chú trong hóa đơn: \"Please make sure that someone is available to receive the delivery at the building's main entrance\" → cử người nhận đồ ăn ở cửa chính lúc 11:30. Hóa đơn không đề cập thanh toán tiền mặt, trả lại dụng cụ hay xác nhận qua điện thoại."
+        }
+      ],
+      "translation": "Silver Spoon Catering\n\nBạn đang lên kế hoạch cho bữa trưa công việc, ngày đào tạo hay buổi liên hoan văn phòng? Silver Spoon Catering giao các bữa ăn tươi ngon, chất lượng cao đến bất kỳ đâu trong khu vực Northgate.\n\nCác gói bữa trưa (giá mỗi người):\nCổ điển: bánh mì kẹp, salad và đồ uống - $12\nCao cấp (Deluxe): món chính nóng, hai món phụ và đồ uống - $18\nThượng hạng (Executive): món chính nóng, hai món phụ, tráng miệng và đồ uống - $24\n\nĐơn hàng từ 30 người trở lên được miễn phí giao hàng; nếu không, áp dụng phí giao hàng $25. Mọi đơn hàng phải được đặt trước ít nhất 48 giờ. Có lựa chọn món chay cho mọi gói mà không tính thêm phí.\n\nTừ: Olivia Grant <ogrant@tellurian.com>\nĐến: Silver Spoon Catering <orders@silverspoon.com>\nNgày: 6 tháng 10\nTiêu đề: Đặt bữa trưa cho ngày 9 tháng 10\n\nXin chào,\n\nTellurian Software sẽ tổ chức một buổi đào tạo cả ngày cho nhân viên mới vào thứ Năm, ngày 9 tháng 10, và chúng tôi muốn đặt bữa trưa cho 25 người. Chúng tôi muốn các suất ăn nóng với hai món phụ, nhưng không cần tráng miệng vì chúng tôi đã lên kế hoạch một giờ nghỉ cà phê buổi chiều riêng có đồ ăn nhẹ. Năm người tham dự không ăn thịt.\n\nVui lòng giao đồ ăn đến văn phòng của chúng tôi tại số 300 đường Ferris trước 12 giờ trưa. Bữa trưa sẽ được phục vụ tại phòng họp tầng ba.\n\nCảm ơn,\nOlivia Grant\nQuản lý văn phòng, Tellurian Software\n\nSilver Spoon Catering - Hóa đơn\nKhách hàng: Tellurian Software (Người nhận: Olivia Grant)\nNgày sự kiện: 9 tháng 10\n\nMặt hàng                         SL     Đơn giá    Thành tiền\nGói bữa trưa Deluxe              25     $18.00     $450.00\n  (bao gồm 5 suất chay)\nPhí giao hàng                     1     $25.00      $25.00\n                                        Tổng:      $475.00\n\nLưu ý: Tài xế của chúng tôi sẽ đến lúc 11:30 sáng. Vui lòng đảm bảo có người nhận hàng tại cửa chính của tòa nhà."
+    },
+    {
+      "id": "p7-18",
+      "format": "triple",
+      "documents": [
+        {
+          "type": "article",
+          "title": "Article",
+          "text": "Calderon Launches Bike-Share Program\n\nCALDERON (April 2) - Residents and visitors in Calderon will soon have a new way to get around downtown. On April 15, the city will launch PedalGo, a bike-share program with 300 bicycles at 40 stations. Riders will be able to unlock bikes using a mobile app and return them to any station.\n\n\"Our goal is to reduce traffic and make short trips easier,\" said city transportation director Miguel Santos. The program is being funded jointly by the city and Harlow Bank, whose logo will appear on every bicycle.\n\nIf the program proves popular, the city plans to add 20 more stations near the Calderon University campus by the end of next year."
+        },
+        {
+          "type": "web-page",
+          "title": "Web page",
+          "text": "PedalGo - Membership Plans\n\nSingle Ride: $2 for up to 30 minutes; $1 for each additional 15 minutes\nDay Pass: $10 for unlimited rides of up to 30 minutes each within 24 hours\nMonthly Plan: $25 per month; unlimited rides of up to 45 minutes each\nAnnual Plan: $180 per year; unlimited rides of up to 60 minutes each\n\nStudents with a valid university ID receive 50 percent off Monthly and Annual Plans.\nDownload the PedalGo app to sign up."
+        },
+        {
+          "type": "email",
+          "title": "E-mail",
+          "text": "From: Hana Sato <hsato@calderon-u.edu>\nTo: PedalGo Support <support@pedalgo.com>\nDate: May 6\nSubject: Membership question\n\nHello,\n\nI'm a graduate student at Calderon University, and I signed up for a Monthly Plan last week. I ride from my apartment to campus every day, and each trip takes about 40 minutes. However, the nearest PedalGo station is a 15-minute walk from my classroom building. Do you know whether any stations will be added closer to the university?\n\nAlso, I was charged the full price for my plan. I entered my student ID number when I registered, so I think there may have been an error.\n\nThank you,\nHana Sato"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-18-1",
+          "question": "What is the article mainly about?",
+          "options": [
+            "A new transportation service in a city",
+            "The opening of a new bank branch",
+            "The expansion of a university campus",
+            "A bicycle race held downtown"
+          ],
+          "answer": 0,
+          "type": "main-idea",
+          "explanation": "Bài báo nói thành phố Calderon ra mắt chương trình xe đạp công cộng PedalGo để giảm ùn tắc và giúp đi lại quãng ngắn dễ hơn → dịch vụ giao thông mới. Harlow Bank chỉ là nhà tài trợ; trường đại học chỉ được nhắc khi nói về trạm mới."
+        },
+        {
+          "id": "p7-18-2",
+          "question": "According to the article, who is helping to pay for the program?",
+          "options": [
+            "Calderon University",
+            "A bicycle manufacturer",
+            "Harlow Bank",
+            "Miguel Santos"
+          ],
+          "answer": 2,
+          "type": "detail",
+          "explanation": "\"The program is being funded jointly by the city and Harlow Bank\" → Harlow Bank cùng tài trợ. Miguel Santos là giám đốc giao thông thành phố, người phát biểu chứ không phải nhà tài trợ."
+        },
+        {
+          "id": "p7-18-3",
+          "question": "What is suggested about Ms. Sato's daily rides?",
+          "options": [
+            "They cost $2 each.",
+            "They are within the time limit of her plan.",
+            "They are longer than 60 minutes.",
+            "They begin at the university."
+          ],
+          "answer": 1,
+          "type": "cross-reference",
+          "explanation": "E-mail: mỗi chuyến của bà khoảng 40 phút và bà dùng gói Monthly. Trang web: gói Monthly cho phép mỗi chuyến tối đa 45 phút → các chuyến nằm trong giới hạn thời gian. Bà không trả theo từng chuyến ($2), chuyến đi dưới 60 phút, và xuất phát từ căn hộ chứ không phải từ trường."
+        },
+        {
+          "id": "p7-18-4",
+          "question": "How much should Ms. Sato most likely have been charged for one month?",
+          "options": [
+            "$10.00",
+            "$25.00",
+            "$90.00",
+            "$12.50"
+          ],
+          "answer": 3,
+          "type": "cross-reference",
+          "explanation": "Gói Monthly giá $25; sinh viên có thẻ hợp lệ được giảm 50% → $12.50. E-mail cho biết bà là nghiên cứu sinh và đã nhập mã thẻ sinh viên nhưng vẫn bị tính đủ giá ($25). $10 là giá vé ngày; $90 là nửa giá gói năm."
+        },
+        {
+          "id": "p7-18-5",
+          "question": "What information could PedalGo most likely give Ms. Sato in response to her first question?",
+          "options": [
+            "The city may build stations near the university in the future.",
+            "A station is already planned next to every campus building.",
+            "Bicycles are not allowed on the university campus.",
+            "The university will start its own bike program."
+          ],
+          "answer": 0,
+          "type": "cross-reference",
+          "explanation": "Bà hỏi liệu có thêm trạm gần trường không. Bài báo cho biết nếu chương trình được ưa chuộng, thành phố dự định thêm 20 trạm gần khuôn viên Đại học Calderon trước cuối năm sau → có thể sẽ có trạm gần trường trong tương lai (có điều kiện, chưa chắc chắn). Các phương án khác không có căn cứ trong văn bản."
+        }
+      ],
+      "translation": "Calderon ra mắt chương trình xe đạp công cộng\n\nCALDERON (2 tháng 4) - Cư dân và du khách ở Calderon sắp có thêm một cách mới để đi lại trong khu trung tâm. Vào ngày 15 tháng 4, thành phố sẽ ra mắt PedalGo, chương trình chia sẻ xe đạp với 300 chiếc xe tại 40 trạm. Người đi xe có thể mở khóa xe bằng ứng dụng di động và trả xe ở bất kỳ trạm nào.\n\n\"Mục tiêu của chúng tôi là giảm ùn tắc giao thông và giúp những chuyến đi ngắn trở nên dễ dàng hơn,\" giám đốc giao thông thành phố Miguel Santos cho biết. Chương trình được thành phố và Ngân hàng Harlow cùng tài trợ, và logo của ngân hàng sẽ xuất hiện trên mọi chiếc xe.\n\nNếu chương trình được ưa chuộng, thành phố dự định bổ sung thêm 20 trạm gần khuôn viên Đại học Calderon trước cuối năm sau.\n\nPedalGo - Các gói thành viên\n\nMột chuyến: $2 cho tối đa 30 phút; $1 cho mỗi 15 phút tiếp theo\nVé ngày: $10 cho số chuyến không giới hạn, mỗi chuyến tối đa 30 phút, trong vòng 24 giờ\nGói tháng: $25 mỗi tháng; không giới hạn số chuyến, mỗi chuyến tối đa 45 phút\nGói năm: $180 mỗi năm; không giới hạn số chuyến, mỗi chuyến tối đa 60 phút\n\nSinh viên có thẻ sinh viên đại học hợp lệ được giảm 50% cho gói tháng và gói năm.\nTải ứng dụng PedalGo để đăng ký.\n\nTừ: Hana Sato <hsato@calderon-u.edu>\nĐến: Bộ phận Hỗ trợ PedalGo <support@pedalgo.com>\nNgày: 6 tháng 5\nTiêu đề: Câu hỏi về gói thành viên\n\nXin chào,\n\nTôi là nghiên cứu sinh tại Đại học Calderon, và tuần trước tôi đã đăng ký gói tháng. Hằng ngày tôi đạp xe từ căn hộ đến trường, mỗi chuyến mất khoảng 40 phút. Tuy nhiên, trạm PedalGo gần nhất cách tòa nhà lớp học của tôi 15 phút đi bộ. Anh/chị có biết liệu sẽ có thêm trạm nào gần trường hơn không?\n\nNgoài ra, tôi đã bị tính đủ giá cho gói của mình. Tôi đã nhập mã số sinh viên khi đăng ký, nên tôi nghĩ có thể đã có sai sót.\n\nCảm ơn,\nHana Sato"
+    }
+  ]
+}

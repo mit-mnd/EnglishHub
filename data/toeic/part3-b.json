@@ -1,0 +1,1423 @@
+{
+  "part": 3,
+  "title": "Part 3 - Hội thoại (bộ 2)",
+  "description": "Nghe các đoạn hội thoại giữa hai hoặc ba người và trả lời ba câu hỏi cho mỗi đoạn. Hãy đọc trước câu hỏi và các lựa chọn để biết cần nghe thông tin gì.",
+  "items": [
+    {
+      "id": "p3-14",
+      "title": "Returning a faulty blender",
+      "speakers": [
+        {
+          "name": "Man",
+          "voice": "male"
+        },
+        {
+          "name": "Woman",
+          "voice": "female"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Man",
+          "text": "Hi, I bought this blender here last Saturday, but the motor stops after just a few seconds. I'd like to return it."
+        },
+        {
+          "speaker": "Woman",
+          "text": "I'm sorry to hear that. Do you have your receipt with you?"
+        },
+        {
+          "speaker": "Man",
+          "text": "I do. Here it is. I paid with my credit card."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Thank you. Since it's within thirty days, I can give you a full refund to the same card, or you can exchange it for another blender."
+        },
+        {
+          "speaker": "Man",
+          "text": "Actually, I'd rather exchange it. I really liked the size and the color. I just need one that works."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Of course. Unfortunately, we don't have that model on the shelf right now, but our other location on Fulton Avenue has three in stock. I can call them and have one set aside for you."
+        },
+        {
+          "speaker": "Man",
+          "text": "That would be great. I drive past Fulton Avenue on my way home from work."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Perfect. I'll call them now. They'll hold it under your name until Friday."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p3-14-1",
+          "question": "Why is the man at the store?",
+          "options": [
+            "A product is not working properly.",
+            "He wants to buy a gift.",
+            "He was charged twice.",
+            "He lost his receipt."
+          ],
+          "answer": 0,
+          "explanation": "Người đàn ông nói 'the motor stops after just a few seconds. I'd like to return it' — sản phẩm bị hỏng. Anh vẫn có hóa đơn nên (D) sai."
+        },
+        {
+          "id": "p3-14-2",
+          "question": "What does the man decide to do?",
+          "options": [
+            "Get a refund",
+            "Exchange an item",
+            "Buy a larger model",
+            "Repair the motor"
+          ],
+          "answer": 1,
+          "explanation": "'Actually, I'd rather exchange it' — anh chọn đổi hàng. Hoàn tiền (refund) chỉ là phương án người phụ nữ đưa ra."
+        },
+        {
+          "id": "p3-14-3",
+          "question": "What will the woman do next?",
+          "options": [
+            "Check the man's credit card",
+            "Order a replacement part",
+            "Call another store",
+            "Print a new receipt"
+          ],
+          "answer": 2,
+          "explanation": "'I'll call them now' — cô sẽ gọi cho chi nhánh trên đại lộ Fulton để giữ hàng."
+        }
+      ],
+      "translation": "Man: Chào chị, tôi mua chiếc máy xay sinh tố này ở đây hôm thứ Bảy tuần trước, nhưng động cơ cứ dừng sau vài giây. Tôi muốn trả lại.\nWoman: Rất tiếc về chuyện đó. Anh có mang hóa đơn không?\nMan: Có. Đây ạ. Tôi đã trả bằng thẻ tín dụng.\nWoman: Cảm ơn anh. Vì vẫn trong vòng ba mươi ngày, tôi có thể hoàn tiền đầy đủ vào thẻ đó, hoặc anh có thể đổi lấy một chiếc máy xay khác.\nMan: Thật ra tôi muốn đổi hơn. Tôi rất thích kích thước và màu sắc của nó. Tôi chỉ cần một chiếc chạy được.\nWoman: Dĩ nhiên. Tiếc là hiện trên kệ không còn mẫu đó, nhưng chi nhánh trên đại lộ Fulton còn ba chiếc. Tôi có thể gọi để họ giữ một chiếc cho anh.\nMan: Vậy thì tốt quá. Tôi lái xe ngang qua đại lộ Fulton trên đường đi làm về.\nWoman: Tuyệt. Tôi sẽ gọi họ ngay. Họ sẽ giữ hàng theo tên anh đến thứ Sáu."
+    },
+    {
+      "id": "p3-15",
+      "title": "Planning a team outing",
+      "speakers": [
+        {
+          "name": "Man",
+          "voice": "male"
+        },
+        {
+          "name": "Woman 1",
+          "voice": "female"
+        },
+        {
+          "name": "Woman 2",
+          "voice": "female"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Man",
+          "text": "Okay, we need to decide on a location for the department's team outing next month. Linda, you looked into a few options, right?"
+        },
+        {
+          "speaker": "Woman 1",
+          "text": "Yes. The most popular choice in our survey was a cooking class at Saffron Kitchen, but it can only take fifteen people, and we have twenty-two."
+        },
+        {
+          "speaker": "Woman 2",
+          "text": "What about splitting into two groups? They could hold a morning class and an afternoon class."
+        },
+        {
+          "speaker": "Woman 1",
+          "text": "I asked about that. They said it's possible, but only on weekdays."
+        },
+        {
+          "speaker": "Man",
+          "text": "That works. A weekday outing means people won't have to give up their weekend."
+        },
+        {
+          "speaker": "Woman 2",
+          "text": "Great. Should I book a bus to get everyone there?"
+        },
+        {
+          "speaker": "Man",
+          "text": "Saffron Kitchen is only a ten-minute walk from our office, so I don't think we need a bus."
+        },
+        {
+          "speaker": "Woman 1",
+          "text": "Then I'll call Saffron Kitchen this afternoon to reserve two classes."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p3-15-1",
+          "question": "What are the speakers planning?",
+          "options": [
+            "A product launch",
+            "A client dinner",
+            "A training seminar",
+            "A team outing"
+          ],
+          "answer": 3,
+          "explanation": "Người đàn ông mở đầu: 'decide on a location for the department's team outing' — một buổi dã ngoại/hoạt động tập thể của phòng."
+        },
+        {
+          "id": "p3-15-2",
+          "question": "What problem does Woman 1 mention?",
+          "options": [
+            "A venue is too small for the group.",
+            "A survey was not completed.",
+            "A price has increased.",
+            "A class has been canceled."
+          ],
+          "answer": 0,
+          "explanation": "Woman 1: lớp nấu ăn 'can only take fifteen people, and we have twenty-two' — địa điểm không đủ chỗ."
+        },
+        {
+          "id": "p3-15-3",
+          "question": "Why does the man say a bus is not needed?",
+          "options": [
+            "Most employees drive to work.",
+            "The location is close to the office.",
+            "The event will be held online.",
+            "The budget is limited."
+          ],
+          "answer": 1,
+          "explanation": "'only a ten-minute walk from our office' — địa điểm gần văn phòng. Ngân sách không được nhắc đến."
+        }
+      ],
+      "translation": "Man: Được rồi, chúng ta cần chọn địa điểm cho buổi sinh hoạt tập thể của phòng vào tháng sau. Linda, chị đã tìm hiểu vài lựa chọn rồi phải không?\nWoman 1: Vâng. Lựa chọn được bình chọn nhiều nhất trong khảo sát là lớp nấu ăn ở Saffron Kitchen, nhưng họ chỉ nhận được mười lăm người, còn chúng ta có hai mươi hai người.\nWoman 2: Hay là chia thành hai nhóm? Họ có thể mở một lớp buổi sáng và một lớp buổi chiều.\nWoman 1: Tôi đã hỏi rồi. Họ nói được, nhưng chỉ vào ngày thường.\nMan: Vậy cũng ổn. Đi vào ngày thường thì mọi người không phải bỏ ngày cuối tuần.\nWoman 2: Tuyệt. Tôi có nên đặt xe buýt đưa mọi người đến đó không?\nMan: Saffron Kitchen chỉ cách văn phòng mười phút đi bộ, nên tôi nghĩ không cần xe buýt.\nWoman 1: Vậy chiều nay tôi sẽ gọi Saffron Kitchen để đặt hai lớp."
+    },
+    {
+      "id": "p3-16",
+      "title": "A rush printing order",
+      "speakers": [
+        {
+          "name": "Woman",
+          "voice": "female"
+        },
+        {
+          "name": "Man",
+          "voice": "male"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Woman",
+          "text": "Hello, this is Rachel Moore from Greenleaf Realty. We ordered five hundred flyers from you last week for our open house, and I was wondering whether they're ready."
+        },
+        {
+          "speaker": "Man",
+          "text": "Let me check, Ms. Moore. Your order is scheduled to be printed tomorrow morning, and it should be ready by noon."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Oh. The open house starts tomorrow at ten."
+        },
+        {
+          "speaker": "Man",
+          "text": "I see. Our machines are busy today, but I could move your job ahead of a larger order that isn't due until Thursday."
+        },
+        {
+          "speaker": "Woman",
+          "text": "That would be wonderful. Is there an extra charge for that?"
+        },
+        {
+          "speaker": "Man",
+          "text": "Normally there's a rush fee, but since we gave you the wrong date when you placed the order, we'll waive it."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Thank you so much. Could I pick them up this evening?"
+        },
+        {
+          "speaker": "Man",
+          "text": "Sure. We're open until seven. Just come to the counter at the back of the store."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p3-16-1",
+          "question": "What did the woman order?",
+          "options": [
+            "Business cards",
+            "Posters",
+            "Flyers",
+            "Banners"
+          ],
+          "answer": 2,
+          "explanation": "'We ordered five hundred flyers from you' — cô đặt in tờ rơi."
+        },
+        {
+          "id": "p3-16-2",
+          "question": "Why does the woman say, \"The open house starts tomorrow at ten\"?",
+          "options": [
+            "To invite the man to an event",
+            "To change a delivery address",
+            "To ask for directions",
+            "To indicate that the order will be too late"
+          ],
+          "answer": 3,
+          "explanation": "Hàng xong lúc trưa mai, nhưng buổi xem nhà bắt đầu lúc mười giờ sáng → cô ngụ ý như vậy là quá trễ. Người đàn ông hiểu ý nên đề nghị in sớm hơn."
+        },
+        {
+          "id": "p3-16-3",
+          "question": "Why will the woman not pay an extra fee?",
+          "options": [
+            "The business made a mistake.",
+            "She is a regular customer.",
+            "She ordered a large quantity.",
+            "She will pick up the order herself."
+          ],
+          "answer": 0,
+          "explanation": "'since we gave you the wrong date when you placed the order, we'll waive it' — lỗi là của cửa hàng in."
+        }
+      ],
+      "translation": "Woman: Xin chào, tôi là Rachel Moore ở Greenleaf Realty. Tuần trước chúng tôi đặt in năm trăm tờ rơi cho buổi xem nhà mở, tôi muốn hỏi xem đã xong chưa.\nMan: Để tôi kiểm tra, chị Moore. Đơn hàng của chị được lên lịch in vào sáng mai và sẽ xong trước buổi trưa.\nWoman: Ôi. Buổi xem nhà bắt đầu lúc mười giờ sáng mai.\nMan: Tôi hiểu. Hôm nay máy của chúng tôi đang bận, nhưng tôi có thể cho đơn của chị in trước một đơn lớn hơn chưa cần giao đến thứ Năm.\nWoman: Vậy thì tuyệt quá. Có tính thêm phí không?\nMan: Thường thì có phí in gấp, nhưng vì chúng tôi đã báo sai ngày cho chị lúc đặt hàng nên chúng tôi sẽ miễn phí.\nWoman: Cảm ơn anh rất nhiều. Tối nay tôi đến lấy được không?\nMan: Được ạ. Chúng tôi mở cửa đến bảy giờ. Chị cứ đến quầy ở phía cuối cửa hàng."
+    },
+    {
+      "id": "p3-17",
+      "title": "Renting a community garden plot",
+      "speakers": [
+        {
+          "name": "Woman",
+          "voice": "female"
+        },
+        {
+          "name": "Man",
+          "voice": "male"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Woman",
+          "text": "Hi, I'm interested in renting a plot in the community garden this spring. Are there any still available?"
+        },
+        {
+          "speaker": "Man",
+          "text": "We have a few left. The small plots are three meters by three meters, and the large ones are twice that size."
+        },
+        {
+          "speaker": "Woman",
+          "text": "I think a small one will be enough. I mainly want to grow tomatoes and herbs."
+        },
+        {
+          "speaker": "Man",
+          "text": "Good choice. Just so you know, all gardeners have to attend a short orientation before they start planting. The next one is on Saturday morning at nine."
+        },
+        {
+          "speaker": "Woman",
+          "text": "I have to work this Saturday. Is there another one?"
+        },
+        {
+          "speaker": "Man",
+          "text": "There's one the following Wednesday evening. It covers watering schedules and where the tools are stored."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Wednesday works for me. How do I sign up?"
+        },
+        {
+          "speaker": "Man",
+          "text": "Just fill out this registration form and bring it back with a copy of a utility bill to show that you live in the neighborhood."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p3-17-1",
+          "question": "What does the woman want to do?",
+          "options": [
+            "Take a cooking class",
+            "Rent a garden plot",
+            "Buy gardening tools",
+            "Volunteer at a community center"
+          ],
+          "answer": 1,
+          "explanation": "'I'm interested in renting a plot in the community garden' — thuê một mảnh vườn."
+        },
+        {
+          "id": "p3-17-2",
+          "question": "Why can't the woman attend the Saturday session?",
+          "options": [
+            "She will be traveling.",
+            "She has a medical appointment.",
+            "She has to work.",
+            "She is taking a class."
+          ],
+          "answer": 2,
+          "explanation": "'I have to work this Saturday' — cô phải đi làm."
+        },
+        {
+          "id": "p3-17-3",
+          "question": "What does the man ask the woman to bring?",
+          "options": [
+            "A photo identification",
+            "A membership card",
+            "A payment receipt",
+            "Proof of address"
+          ],
+          "answer": 3,
+          "explanation": "Mang 'a copy of a utility bill to show that you live in the neighborhood' — giấy tờ chứng minh địa chỉ (diễn đạt lại thành 'proof of address')."
+        }
+      ],
+      "translation": "Woman: Chào anh, tôi muốn thuê một mảnh đất trong vườn cộng đồng mùa xuân này. Còn mảnh nào trống không?\nMan: Còn vài mảnh. Mảnh nhỏ rộng ba mét nhân ba mét, còn mảnh lớn gấp đôi.\nWoman: Tôi nghĩ mảnh nhỏ là đủ. Tôi chủ yếu muốn trồng cà chua và rau thơm.\nMan: Lựa chọn hay đấy. Xin lưu ý, tất cả người làm vườn phải tham dự một buổi hướng dẫn ngắn trước khi bắt đầu trồng. Buổi tiếp theo vào chín giờ sáng thứ Bảy.\nWoman: Thứ Bảy này tôi phải đi làm. Có buổi nào khác không?\nMan: Có một buổi vào tối thứ Tư tuần sau đó. Buổi đó hướng dẫn lịch tưới nước và nơi cất dụng cụ.\nWoman: Thứ Tư thì tôi được. Đăng ký thế nào ạ?\nMan: Chị chỉ cần điền mẫu đăng ký này rồi mang lại kèm bản sao hóa đơn điện nước để chứng minh chị sống trong khu này."
+    },
+    {
+      "id": "p3-18",
+      "title": "Choosing a ferry",
+      "speakers": [
+        {
+          "name": "Man",
+          "voice": "male"
+        },
+        {
+          "name": "Woman",
+          "voice": "female"
+        }
+      ],
+      "graphic": {
+        "title": "Harbor Ferry - Departures to Marlow Island",
+        "text": "Departure    Arrival\n7:15         8:00\n9:30         10:15\n11:45        12:30\n2:00         2:45"
+      },
+      "script": [
+        {
+          "speaker": "Man",
+          "text": "Jenna, our meeting with the client on Marlow Island is at eleven tomorrow, right? Which ferry should we take?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "Well, the trip takes forty-five minutes, and their office is about a twenty-minute walk from the ferry terminal."
+        },
+        {
+          "speaker": "Man",
+          "text": "So the nine thirty ferry would get us there just in time."
+        },
+        {
+          "speaker": "Woman",
+          "text": "That's cutting it close. I'd rather not risk being late. Besides, I want to set up the projector before the meeting starts. Let's take the earlier one."
+        },
+        {
+          "speaker": "Man",
+          "text": "Okay, but that means leaving home very early. Do you want to drive to the harbor together?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "Sure. Parking at the terminal is expensive, though. Maybe we should take a taxi."
+        },
+        {
+          "speaker": "Man",
+          "text": "Actually, I just remembered that the company gives us a parking pass for the harbor lot. I'll ask the office manager for it this afternoon."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p3-18-1",
+          "question": "Why are the speakers going to Marlow Island?",
+          "options": [
+            "To attend a conference",
+            "To meet with a client",
+            "To inspect a property",
+            "To visit a branch office"
+          ],
+          "answer": 1,
+          "explanation": "'our meeting with the client on Marlow Island' — gặp khách hàng."
+        },
+        {
+          "id": "p3-18-2",
+          "question": "Look at the graphic. What time will the speakers most likely take the ferry?",
+          "options": [
+            "7:15",
+            "9:30",
+            "11:45",
+            "2:00"
+          ],
+          "answer": 0,
+          "explanation": "Chuyến 9:30 thì quá sát giờ, người phụ nữ đề nghị 'Let's take the earlier one' — chuyến sớm hơn 9:30 trên bảng là 7:15."
+        },
+        {
+          "id": "p3-18-3",
+          "question": "What will the man do this afternoon?",
+          "options": [
+            "Book a taxi",
+            "Set up a projector",
+            "Request a parking pass",
+            "Buy ferry tickets"
+          ],
+          "answer": 2,
+          "explanation": "'I'll ask the office manager for it this afternoon' — xin thẻ đỗ xe. Lắp máy chiếu là việc của người phụ nữ vào ngày mai."
+        }
+      ],
+      "translation": "Man: Jenna, cuộc họp với khách hàng ở đảo Marlow là lúc mười một giờ ngày mai, đúng không? Chúng ta nên đi chuyến phà nào?\nWoman: À, chuyến đi mất bốn mươi lăm phút, và văn phòng của họ cách bến phà khoảng hai mươi phút đi bộ.\nMan: Vậy chuyến chín giờ ba mươi sẽ đưa chúng ta đến vừa kịp.\nWoman: Như thế sát giờ quá. Tôi không muốn mạo hiểm bị trễ. Vả lại, tôi muốn lắp máy chiếu trước khi cuộc họp bắt đầu. Hãy đi chuyến sớm hơn.\nMan: Được, nhưng như vậy phải rời nhà rất sớm. Chị có muốn cùng lái xe ra bến cảng không?\nWoman: Được. Nhưng đỗ xe ở bến phà đắt lắm. Có lẽ chúng ta nên đi taxi.\nMan: À, tôi vừa nhớ ra công ty có cấp thẻ đỗ xe ở bãi xe bến cảng. Chiều nay tôi sẽ xin quản lý văn phòng."
+    },
+    {
+      "id": "p3-19",
+      "title": "Hiring temporary warehouse staff",
+      "speakers": [
+        {
+          "name": "Woman",
+          "voice": "female"
+        },
+        {
+          "name": "Man 1",
+          "voice": "male"
+        },
+        {
+          "name": "Man 2",
+          "voice": "male"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Woman",
+          "text": "Thanks for coming, both of you. As you know, our annual inventory count is in two weeks, and we'll need extra workers for three days."
+        },
+        {
+          "speaker": "Man 1",
+          "text": "How many temporary staff are we thinking of?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "Last year we hired eight, but the count took longer than expected, so I'd like to bring in twelve this time."
+        },
+        {
+          "speaker": "Man 2",
+          "text": "The staffing agency we used last year was reliable. I can contact them today."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Good. Ask them for workers who can operate a forklift, if possible."
+        },
+        {
+          "speaker": "Man 1",
+          "text": "I'll prepare the safety training materials, then. Everyone will need to complete the training on their first morning."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Great. And Kevin, could you also reserve the break room for that morning? That's where we'll hold the training."
+        },
+        {
+          "speaker": "Man 1",
+          "text": "Sure, I'll do that."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p3-19-1",
+          "question": "What event are the speakers preparing for?",
+          "options": [
+            "A building inspection",
+            "A job fair",
+            "A product launch",
+            "An inventory count"
+          ],
+          "answer": 3,
+          "explanation": "'our annual inventory count is in two weeks' — đợt kiểm kê hàng năm."
+        },
+        {
+          "id": "p3-19-2",
+          "question": "What does the woman ask Man 2 to request?",
+          "options": [
+            "Workers with forklift experience",
+            "A lower fee",
+            "Additional equipment",
+            "Weekend shifts"
+          ],
+          "answer": 0,
+          "explanation": "Sau khi Man 2 nói sẽ liên hệ công ty cung ứng nhân sự, người phụ nữ bảo 'Ask them for workers who can operate a forklift'."
+        },
+        {
+          "id": "p3-19-3",
+          "question": "What will Man 1 do?",
+          "options": [
+            "Contact an agency",
+            "Prepare training materials",
+            "Order safety equipment",
+            "Interview applicants"
+          ],
+          "answer": 1,
+          "explanation": "Man 1: 'I'll prepare the safety training materials'. Liên hệ công ty nhân sự là việc của Man 2 — bẫy nhầm người nói."
+        }
+      ],
+      "translation": "Woman: Cảm ơn hai anh đã đến. Như các anh biết, đợt kiểm kê hàng năm sẽ diễn ra sau hai tuần nữa, và chúng ta cần thêm người làm trong ba ngày.\nMan 1: Chúng ta tính thuê bao nhiêu nhân viên thời vụ?\nWoman: Năm ngoái chúng ta thuê tám người, nhưng việc kiểm kê kéo dài hơn dự kiến, nên lần này tôi muốn thuê mười hai người.\nMan 2: Công ty cung ứng nhân sự năm ngoái làm việc khá đáng tin cậy. Hôm nay tôi có thể liên hệ họ.\nWoman: Tốt. Nếu được, hãy yêu cầu họ cử người biết lái xe nâng.\nMan 1: Vậy tôi sẽ chuẩn bị tài liệu đào tạo an toàn. Mọi người sẽ phải hoàn thành khóa đào tạo vào buổi sáng đầu tiên.\nWoman: Tuyệt. Và Kevin, anh có thể đặt luôn phòng nghỉ cho buổi sáng hôm đó không? Chúng ta sẽ tổ chức đào tạo ở đó.\nMan 1: Được, tôi sẽ làm."
+    },
+    {
+      "id": "p3-20",
+      "title": "Changing a bakery order",
+      "speakers": [
+        {
+          "name": "Man",
+          "voice": "male"
+        },
+        {
+          "name": "Woman",
+          "voice": "female"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Man",
+          "text": "Hi, this is Victor from Corner Bean Cafe. I'd like to increase our daily order of croissants starting next Monday."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Hi, Victor. You're currently getting thirty a day, right? How many would you like?"
+        },
+        {
+          "speaker": "Man",
+          "text": "Let's make it forty-five. We've started opening an hour earlier, and the morning crowd has really grown."
+        },
+        {
+          "speaker": "Woman",
+          "text": "No problem. Just so you know, our driver delivers to your area at six thirty. Is that still all right with your new hours?"
+        },
+        {
+          "speaker": "Man",
+          "text": "Actually, we now open at six, so it would help to get them earlier."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Hmm, the delivery route is fixed, but you're welcome to pick them up from our shop at five thirty."
+        },
+        {
+          "speaker": "Man",
+          "text": "That works. One of my employees lives nearby."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Great. I'll also send you our new seasonal menu. We've added a pumpkin muffin that's been very popular."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p3-20-1",
+          "question": "Why does the man want to change his order?",
+          "options": [
+            "A competitor has closed.",
+            "Prices have decreased.",
+            "His business has more morning customers.",
+            "He is opening a new location."
+          ],
+          "answer": 2,
+          "explanation": "'the morning crowd has really grown' — lượng khách buổi sáng tăng."
+        },
+        {
+          "id": "p3-20-2",
+          "question": "What does the woman suggest?",
+          "options": [
+            "Changing the delivery route",
+            "Ordering fewer items",
+            "Opening later",
+            "Picking up the order"
+          ],
+          "answer": 3,
+          "explanation": "Tuyến giao hàng cố định nên cô đề nghị 'pick them up from our shop at five thirty'. (A) sai vì cô nói tuyến 'is fixed'."
+        },
+        {
+          "id": "p3-20-3",
+          "question": "What will the woman send the man?",
+          "options": [
+            "A seasonal menu",
+            "A discount code",
+            "An invoice",
+            "A product sample"
+          ],
+          "answer": 0,
+          "explanation": "'I'll also send you our new seasonal menu' — thực đơn theo mùa."
+        }
+      ],
+      "translation": "Man: Chào chị, tôi là Victor ở quán Corner Bean Cafe. Tôi muốn tăng số bánh sừng bò đặt hằng ngày bắt đầu từ thứ Hai tới.\nWoman: Chào Victor. Hiện anh lấy ba mươi chiếc mỗi ngày phải không? Anh muốn bao nhiêu?\nMan: Cho tôi bốn mươi lăm chiếc. Chúng tôi bắt đầu mở cửa sớm hơn một tiếng, và lượng khách buổi sáng tăng lên nhiều.\nWoman: Không vấn đề gì. Xin lưu ý, tài xế của chúng tôi giao hàng đến khu của anh lúc sáu giờ ba mươi. Giờ đó có còn phù hợp với giờ mở cửa mới không?\nMan: Thật ra giờ chúng tôi mở cửa lúc sáu giờ, nên nhận hàng sớm hơn thì tốt hơn.\nWoman: Hừm, tuyến giao hàng là cố định, nhưng anh có thể đến tiệm lấy hàng lúc năm giờ ba mươi.\nMan: Được đấy. Một nhân viên của tôi sống gần đó.\nWoman: Tuyệt. Tôi cũng sẽ gửi anh thực đơn theo mùa mới. Chúng tôi vừa thêm bánh muffin bí ngô rất được ưa chuộng."
+    },
+    {
+      "id": "p3-21",
+      "title": "Renovating a restaurant patio",
+      "speakers": [
+        {
+          "name": "Woman",
+          "voice": "female"
+        },
+        {
+          "name": "Man",
+          "voice": "male"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Woman",
+          "text": "Mr. Alvarez, how is the work on the patio coming along? We were hoping to open it for outdoor dining by the first of May."
+        },
+        {
+          "speaker": "Man",
+          "text": "The new floor is finished, and the railings will be installed tomorrow. The only thing left is the awning."
+        },
+        {
+          "speaker": "Woman",
+          "text": "That's good news. When will the awning arrive?"
+        },
+        {
+          "speaker": "Man",
+          "text": "Well, the manufacturer told me it was shipped last week. Delivery usually takes four days."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Hmm, so it should have arrived by now."
+        },
+        {
+          "speaker": "Man",
+          "text": "I know. I'll call them this afternoon to find out where it is."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Thanks. If it doesn't come in time, could we open the patio without it?"
+        },
+        {
+          "speaker": "Man",
+          "text": "You could, but customers would be sitting in direct sun all afternoon. I'd suggest renting some large umbrellas for a few weeks."
+        },
+        {
+          "speaker": "Woman",
+          "text": "That's a good idea. I'll look into rental companies."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p3-21-1",
+          "question": "What is the man working on?",
+          "options": [
+            "A kitchen",
+            "An outdoor dining area",
+            "A parking lot",
+            "A storage room"
+          ],
+          "answer": 1,
+          "explanation": "Họ nói về 'the patio' để 'open it for outdoor dining' — khu ăn uống ngoài trời."
+        },
+        {
+          "id": "p3-21-2",
+          "question": "Why does the woman say, \"so it should have arrived by now\"?",
+          "options": [
+            "She wants to cancel an order.",
+            "She is pleased with the delivery speed.",
+            "She is concerned about a delay.",
+            "She has to leave soon."
+          ],
+          "answer": 2,
+          "explanation": "Mái che được gửi tuần trước, thường giao mất bốn ngày → lẽ ra đã đến rồi; cô lo hàng bị chậm. Người đàn ông đáp sẽ gọi hỏi hàng đang ở đâu."
+        },
+        {
+          "id": "p3-21-3",
+          "question": "What does the man recommend?",
+          "options": [
+            "Delaying the opening",
+            "Choosing a different color",
+            "Hiring more workers",
+            "Renting some umbrellas"
+          ],
+          "answer": 3,
+          "explanation": "'I'd suggest renting some large umbrellas for a few weeks' — thuê ô lớn."
+        }
+      ],
+      "translation": "Woman: Anh Alvarez, công việc ở hiên ngoài trời tiến triển thế nào rồi? Chúng tôi mong có thể mở khu ăn ngoài trời trước ngày một tháng Năm.\nMan: Sàn mới đã xong, lan can sẽ được lắp vào ngày mai. Chỉ còn lại mái che.\nWoman: Tin tốt đấy. Khi nào mái che đến?\nMan: À, nhà sản xuất nói đã gửi hàng tuần trước. Thường thì giao mất bốn ngày.\nWoman: Hừm, vậy lẽ ra nó phải đến rồi chứ.\nMan: Tôi biết. Chiều nay tôi sẽ gọi họ để hỏi hàng đang ở đâu.\nWoman: Cảm ơn anh. Nếu nó không đến kịp, chúng tôi có thể mở hiên mà không có mái che không?\nMan: Được, nhưng khách sẽ phải ngồi dưới nắng trực tiếp cả buổi chiều. Tôi đề nghị thuê vài chiếc ô lớn trong vài tuần.\nWoman: Ý hay đấy. Tôi sẽ tìm hiểu các công ty cho thuê."
+    },
+    {
+      "id": "p3-22",
+      "title": "A new museum volunteer",
+      "speakers": [
+        {
+          "name": "Man",
+          "voice": "male"
+        },
+        {
+          "name": "Woman",
+          "voice": "female"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Man",
+          "text": "Welcome to the Halden Science Museum, Ms. Okafor. Thanks for volunteering with us. Is this your first time working at a museum?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "Yes, it is. But I taught chemistry at a high school for twenty years, so I'm comfortable explaining science to visitors."
+        },
+        {
+          "speaker": "Man",
+          "text": "That's perfect. We'd like you to help in our hands-on laboratory, where children do simple experiments."
+        },
+        {
+          "speaker": "Woman",
+          "text": "That sounds like fun. What hours would I be working?"
+        },
+        {
+          "speaker": "Man",
+          "text": "Most volunteers do one four-hour shift a week. Weekend shifts are the busiest, but we also need help on Tuesday mornings, when school groups visit."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Tuesday mornings would be ideal. I keep my weekends free for my grandchildren."
+        },
+        {
+          "speaker": "Man",
+          "text": "Wonderful. Before you start, you'll need a volunteer badge. Let's go to the security office so they can take your photo."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p3-22-1",
+          "question": "Who most likely is the woman?",
+          "options": [
+            "A former teacher",
+            "A museum director",
+            "A security guard",
+            "A tour guide"
+          ],
+          "answer": 0,
+          "explanation": "'I taught chemistry at a high school for twenty years' — cô từng là giáo viên."
+        },
+        {
+          "id": "p3-22-2",
+          "question": "When does the woman prefer to volunteer?",
+          "options": [
+            "On weekends",
+            "On Tuesday mornings",
+            "On weekday evenings",
+            "During holidays"
+          ],
+          "answer": 1,
+          "explanation": "'Tuesday mornings would be ideal' — cô dành cuối tuần cho các cháu, nên (A) sai."
+        },
+        {
+          "id": "p3-22-3",
+          "question": "What will the speakers do next?",
+          "options": [
+            "Visit the laboratory",
+            "Meet a school group",
+            "Go to the security office",
+            "Fill out a form"
+          ],
+          "answer": 2,
+          "explanation": "'Let's go to the security office so they can take your photo' — đến phòng bảo vệ để chụp ảnh làm thẻ."
+        }
+      ],
+      "translation": "Man: Chào mừng chị đến Bảo tàng Khoa học Halden, chị Okafor. Cảm ơn chị đã làm tình nguyện viên cho chúng tôi. Đây có phải lần đầu chị làm việc ở bảo tàng không?\nWoman: Vâng. Nhưng tôi đã dạy hóa học ở trường trung học hai mươi năm, nên tôi khá tự tin khi giải thích khoa học cho khách tham quan.\nMan: Thật hoàn hảo. Chúng tôi muốn chị hỗ trợ ở phòng thí nghiệm thực hành, nơi trẻ em làm các thí nghiệm đơn giản.\nWoman: Nghe vui đấy. Tôi sẽ làm vào những giờ nào?\nMan: Hầu hết tình nguyện viên làm một ca bốn tiếng mỗi tuần. Ca cuối tuần là đông nhất, nhưng chúng tôi cũng cần người vào sáng thứ Ba, khi các đoàn học sinh đến.\nWoman: Sáng thứ Ba thì lý tưởng. Tôi dành cuối tuần cho các cháu.\nMan: Tuyệt vời. Trước khi bắt đầu, chị cần một thẻ tình nguyện viên. Chúng ta đến phòng bảo vệ để họ chụp ảnh chị nhé."
+    },
+    {
+      "id": "p3-23",
+      "title": "Preparing a trade show booth",
+      "speakers": [
+        {
+          "name": "Woman",
+          "voice": "female"
+        },
+        {
+          "name": "Man 1",
+          "voice": "male"
+        },
+        {
+          "name": "Man 2",
+          "voice": "male"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Woman",
+          "text": "Daniel, Marco, the Regional Outdoor Expo opens on Thursday. Is everything ready for our booth?"
+        },
+        {
+          "speaker": "Man 1",
+          "text": "Almost. The display tents arrived yesterday, but the banner with our company logo still hasn't been delivered."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Didn't the printer promise it by Monday?"
+        },
+        {
+          "speaker": "Man 1",
+          "text": "They did. I called them this morning, and they said it'll be delivered directly to the convention center on Wednesday."
+        },
+        {
+          "speaker": "Man 2",
+          "text": "That's fine, as long as one of us is there to receive it. I'm driving our new camping gear over on Wednesday anyway, so I'll take care of it."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Thanks, Marco. Also, I'd like to give away something at the booth this year. Last year we only had brochures."
+        },
+        {
+          "speaker": "Man 1",
+          "text": "How about water bottles with our logo? They'd be useful for hikers and campers."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Great idea. Daniel, can you get a price quote?"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p3-23-1",
+          "question": "What kind of business do the speakers most likely work for?",
+          "options": [
+            "A printing company",
+            "A travel agency",
+            "A food supplier",
+            "An outdoor equipment company"
+          ],
+          "answer": 3,
+          "explanation": "Họ tham gia 'Outdoor Expo', trưng bày lều và 'our new camping gear' — công ty đồ dã ngoại. Printing company là bên in băng rôn, không phải công ty của họ."
+        },
+        {
+          "id": "p3-23-2",
+          "question": "What problem does Man 1 mention?",
+          "options": [
+            "A banner has not arrived.",
+            "A booth is too small.",
+            "Some tents are damaged.",
+            "A shipment went to the wrong address."
+          ],
+          "answer": 0,
+          "explanation": "'the banner with our company logo still hasn't been delivered' — băng rôn chưa đến."
+        },
+        {
+          "id": "p3-23-3",
+          "question": "What does the woman ask Daniel to do?",
+          "options": [
+            "Design a brochure",
+            "Get a price quote",
+            "Contact the convention center",
+            "Pick up a delivery"
+          ],
+          "answer": 1,
+          "explanation": "'Daniel, can you get a price quote?' — lấy báo giá cho bình nước. Nhận băng rôn là việc Marco (Man 2) nhận làm."
+        }
+      ],
+      "translation": "Woman: Daniel, Marco, Triển lãm Ngoài trời Khu vực khai mạc vào thứ Năm. Mọi thứ cho gian hàng của chúng ta đã sẵn sàng chưa?\nMan 1: Gần xong rồi. Lều trưng bày đã đến hôm qua, nhưng băng rôn có logo công ty vẫn chưa được giao.\nWoman: Không phải bên in đã hứa giao trước thứ Hai sao?\nMan 1: Đúng vậy. Sáng nay tôi đã gọi họ, họ nói sẽ giao thẳng đến trung tâm hội nghị vào thứ Tư.\nMan 2: Vậy cũng được, miễn là có một người trong chúng ta ở đó nhận. Đằng nào thứ Tư tôi cũng chở đồ cắm trại mới đến đó, nên tôi sẽ lo việc này.\nWoman: Cảm ơn Marco. Ngoài ra, năm nay tôi muốn tặng quà ở gian hàng. Năm ngoái chúng ta chỉ có tờ giới thiệu.\nMan 1: Bình nước có in logo của chúng ta thì sao? Chúng hữu ích cho người đi bộ đường dài và cắm trại.\nWoman: Ý hay đấy. Daniel, anh lấy báo giá được không?"
+    },
+    {
+      "id": "p3-24",
+      "title": "Renting a moving truck",
+      "speakers": [
+        {
+          "name": "Man",
+          "voice": "male"
+        },
+        {
+          "name": "Woman",
+          "voice": "female"
+        }
+      ],
+      "graphic": {
+        "title": "Haulwell Truck Rental - Daily Rates",
+        "text": "Vehicle            Daily Rate\nCargo van          45 dollars\n10-foot truck      60 dollars\n15-foot truck      80 dollars\n20-foot truck      100 dollars"
+      },
+      "script": [
+        {
+          "speaker": "Man",
+          "text": "Haulwell Truck Rental. How can I help you?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "Hi. I'm moving out of my one-bedroom apartment this Saturday, and I'd like to rent a truck. I was thinking about the ten-foot one."
+        },
+        {
+          "speaker": "Man",
+          "text": "For a one-bedroom apartment, the ten-foot truck is usually fine. Do you have any large furniture?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "Well, I have a piano. I'm not sure it would fit with everything else."
+        },
+        {
+          "speaker": "Man",
+          "text": "In that case, I'd recommend going one size up. The fifteen-foot truck also has a loading ramp, which makes moving heavy items much easier."
+        },
+        {
+          "speaker": "Woman",
+          "text": "All right, I'll take that one. Can I also rent some furniture blankets?"
+        },
+        {
+          "speaker": "Man",
+          "text": "You don't need to rent them. They're included free with any truck larger than ten feet."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Great. I'll only need the truck for one day."
+        },
+        {
+          "speaker": "Man",
+          "text": "Fine. I'll e-mail you a confirmation with our pickup address."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p3-24-1",
+          "question": "What is the woman planning to do on Saturday?",
+          "options": [
+            "Buy a piano",
+            "Sell some furniture",
+            "Open a store",
+            "Move to a new home"
+          ],
+          "answer": 3,
+          "explanation": "'I'm moving out of my one-bedroom apartment this Saturday' — chuyển nhà. Piano là đồ cô đã có (bẫy lặp từ)."
+        },
+        {
+          "id": "p3-24-2",
+          "question": "Look at the graphic. How much will the woman pay for the truck rental?",
+          "options": [
+            "45 dollars",
+            "60 dollars",
+            "80 dollars",
+            "100 dollars"
+          ],
+          "answer": 2,
+          "explanation": "Cô định thuê xe mười foot, nhưng vì có đàn piano nên chọn lớn hơn một cỡ — xe mười lăm foot; thuê một ngày giá 80 đô la theo bảng giá. (B) là bẫy theo ý định ban đầu."
+        },
+        {
+          "id": "p3-24-3",
+          "question": "What does the man say about the furniture blankets?",
+          "options": [
+            "They are free with the rental.",
+            "They must be reserved early.",
+            "They are sold out.",
+            "They cost extra."
+          ],
+          "answer": 0,
+          "explanation": "'They're included free with any truck larger than ten feet' — xe mười lăm foot nên được tặng kèm miễn phí."
+        }
+      ],
+      "translation": "Man: Công ty cho thuê xe tải Haulwell xin nghe. Tôi có thể giúp gì cho chị?\nWoman: Chào anh. Thứ Bảy này tôi chuyển khỏi căn hộ một phòng ngủ và muốn thuê một chiếc xe tải. Tôi đang nghĩ đến loại mười foot.\nMan: Với căn hộ một phòng ngủ thì xe mười foot thường là đủ. Chị có đồ nội thất lớn nào không?\nWoman: À, tôi có một cây đàn piano. Tôi không chắc nó có vừa cùng với mọi thứ khác không.\nMan: Vậy tôi khuyên chị nên lấy lớn hơn một cỡ. Xe mười lăm foot còn có cầu dốc để chất hàng, giúp di chuyển đồ nặng dễ hơn nhiều.\nWoman: Được, tôi lấy xe đó. Tôi có thể thuê thêm chăn bọc đồ nội thất không?\nMan: Chị không cần thuê. Chúng được tặng kèm miễn phí với mọi xe lớn hơn mười foot.\nWoman: Tuyệt. Tôi chỉ cần xe trong một ngày.\nMan: Được. Tôi sẽ gửi e-mail xác nhận kèm địa chỉ nhận xe."
+    },
+    {
+      "id": "p3-25",
+      "title": "Rescheduling a dental cleaning",
+      "speakers": [
+        {
+          "name": "Woman",
+          "voice": "female"
+        },
+        {
+          "name": "Man",
+          "voice": "male"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Woman",
+          "text": "Hello, this is Hannah Lee. I have a cleaning appointment with Doctor Sato on Thursday at two, but something came up at work. Could I move it to another day?"
+        },
+        {
+          "speaker": "Man",
+          "text": "Of course, Ms. Lee. Doctor Sato is fully booked for the rest of this week, but she has an opening next Monday at eight in the morning."
+        },
+        {
+          "speaker": "Woman",
+          "text": "That's a bit early for me, since I live on the other side of town. Is there anything later in the day?"
+        },
+        {
+          "speaker": "Man",
+          "text": "Not with Doctor Sato, I'm afraid. But Doctor Ramos has an opening that afternoon at four. He's also very experienced."
+        },
+        {
+          "speaker": "Woman",
+          "text": "That's fine. I don't mind seeing a different dentist for a cleaning."
+        },
+        {
+          "speaker": "Man",
+          "text": "Great, I've booked it for you. By the way, our office has moved to the second floor of the same building, so please take the elevator when you arrive."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Thanks for letting me know."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p3-25-1",
+          "question": "Why is the woman calling?",
+          "options": [
+            "To ask about a bill",
+            "To change an appointment",
+            "To request a referral",
+            "To cancel her insurance"
+          ],
+          "answer": 1,
+          "explanation": "'Could I move it to another day?' — dời lịch hẹn."
+        },
+        {
+          "id": "p3-25-2",
+          "question": "Why does the woman decline the eight o'clock appointment?",
+          "options": [
+            "She has a meeting then.",
+            "She prefers Doctor Sato.",
+            "She lives far from the office.",
+            "She will be out of town."
+          ],
+          "answer": 2,
+          "explanation": "'since I live on the other side of town' — cô sống xa phòng khám."
+        },
+        {
+          "id": "p3-25-3",
+          "question": "What does the man tell the woman about the office?",
+          "options": [
+            "It has a new phone number.",
+            "It closes early on Mondays.",
+            "It is being renovated.",
+            "It is on a different floor."
+          ],
+          "answer": 3,
+          "explanation": "'our office has moved to the second floor of the same building' — phòng khám đã chuyển lên tầng khác."
+        }
+      ],
+      "translation": "Woman: Xin chào, tôi là Hannah Lee. Tôi có lịch lấy cao răng với bác sĩ Sato lúc hai giờ thứ Năm, nhưng có việc đột xuất ở chỗ làm. Tôi có thể dời sang ngày khác không?\nMan: Dĩ nhiên, chị Lee. Bác sĩ Sato đã kín lịch đến hết tuần này, nhưng bà ấy còn trống lúc tám giờ sáng thứ Hai tới.\nWoman: Hơi sớm với tôi, vì tôi sống ở đầu bên kia thành phố. Có giờ nào muộn hơn trong ngày không?\nMan: Tiếc là bác sĩ Sato không còn giờ nào. Nhưng bác sĩ Ramos còn trống lúc bốn giờ chiều hôm đó. Ông ấy cũng rất giàu kinh nghiệm.\nWoman: Được ạ. Tôi không ngại gặp nha sĩ khác cho việc lấy cao răng.\nMan: Tuyệt, tôi đã đặt lịch cho chị. Nhân tiện, phòng khám đã chuyển lên tầng hai của cùng tòa nhà, nên khi đến chị đi thang máy nhé.\nWoman: Cảm ơn anh đã báo."
+    },
+    {
+      "id": "p3-26",
+      "title": "Replacing an employee's laptop",
+      "speakers": [
+        {
+          "name": "Man",
+          "voice": "male"
+        },
+        {
+          "name": "Woman",
+          "voice": "female"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Man",
+          "text": "Hi, Priya. I got an e-mail saying my laptop will be replaced this week. When will that happen?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "Hi, Ben. We're scheduled to swap out the laptops in your department on Wednesday. It takes about two hours per computer, because we have to transfer all your files."
+        },
+        {
+          "speaker": "Man",
+          "text": "Wednesday? I'm giving a presentation to the board that afternoon."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Oh, I see. We could do yours on Thursday morning instead."
+        },
+        {
+          "speaker": "Man",
+          "text": "That would be much better. Will I lose any of my settings?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "Your files and e-mail will be moved automatically, but you'll have to reinstall a few programs yourself, like the design software. I'll send you instructions."
+        },
+        {
+          "speaker": "Man",
+          "text": "Okay. Should I back up my files beforehand?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "That's a good idea. Just save anything important to the shared drive by Wednesday evening."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p3-26-1",
+          "question": "What is the conversation mainly about?",
+          "options": [
+            "Replacing a computer",
+            "Planning a presentation",
+            "Hiring a designer",
+            "Repairing a printer"
+          ],
+          "answer": 0,
+          "explanation": "Cả cuộc hội thoại xoay quanh việc thay laptop: 'my laptop will be replaced this week'."
+        },
+        {
+          "id": "p3-26-2",
+          "question": "Why does the man say, \"I'm giving a presentation to the board that afternoon\"?",
+          "options": [
+            "To ask for help with his slides",
+            "To explain that Wednesday is inconvenient",
+            "To invite the woman to attend",
+            "To request a larger room"
+          ],
+          "answer": 1,
+          "explanation": "Anh cần máy tính chiều thứ Tư nên ngụ ý ngày đó không tiện. Người phụ nữ hiểu ý và đề nghị chuyển sang sáng thứ Năm."
+        },
+        {
+          "id": "p3-26-3",
+          "question": "What does the woman advise the man to do?",
+          "options": [
+            "Reinstall his e-mail program",
+            "Call the help desk",
+            "Save files to a shared drive",
+            "Buy design software"
+          ],
+          "answer": 2,
+          "explanation": "'save anything important to the shared drive by Wednesday evening'. E-mail sẽ được chuyển tự động nên (A) sai."
+        }
+      ],
+      "translation": "Man: Chào Priya. Tôi nhận được e-mail nói laptop của tôi sẽ được thay trong tuần này. Khi nào thì thay?\nWoman: Chào Ben. Chúng tôi dự kiến thay laptop cho phòng anh vào thứ Tư. Mỗi máy mất khoảng hai tiếng vì phải chuyển toàn bộ tệp của anh.\nMan: Thứ Tư à? Chiều hôm đó tôi thuyết trình trước ban giám đốc.\nWoman: À, tôi hiểu rồi. Chúng tôi có thể thay máy của anh vào sáng thứ Năm.\nMan: Vậy thì tốt hơn nhiều. Tôi có bị mất cài đặt nào không?\nWoman: Tệp và e-mail của anh sẽ được chuyển tự động, nhưng anh sẽ phải tự cài lại một vài chương trình, như phần mềm thiết kế. Tôi sẽ gửi hướng dẫn cho anh.\nMan: Được. Tôi có nên sao lưu tệp trước không?\nWoman: Nên đấy. Chỉ cần lưu những gì quan trọng vào ổ đĩa dùng chung trước tối thứ Tư."
+    },
+    {
+      "id": "p3-27",
+      "title": "Redesigning the company newsletter",
+      "speakers": [
+        {
+          "name": "Woman 1",
+          "voice": "female"
+        },
+        {
+          "name": "Man",
+          "voice": "male"
+        },
+        {
+          "name": "Woman 2",
+          "voice": "female"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Woman 1",
+          "text": "Thanks for joining me. As you know, we're redesigning the company newsletter. In a recent survey, employees said it's too long and hard to read on their phones."
+        },
+        {
+          "speaker": "Man",
+          "text": "I've heard that complaint too. Most people read it on the train on their way to work."
+        },
+        {
+          "speaker": "Woman 2",
+          "text": "What if we sent out a shorter version every week instead of a long one every month?"
+        },
+        {
+          "speaker": "Woman 1",
+          "text": "I like that. Ahmed, could your team handle a weekly schedule?"
+        },
+        {
+          "speaker": "Man",
+          "text": "We'd need one more writer. Right now there are only two of us."
+        },
+        {
+          "speaker": "Woman 1",
+          "text": "I'll talk to the budget committee about hiring someone. Maria, could you design a new layout that works well on small screens?"
+        },
+        {
+          "speaker": "Woman 2",
+          "text": "Sure. I'll have a draft ready by next Friday."
+        },
+        {
+          "speaker": "Man",
+          "text": "And I'll put together a list of topics for the first four issues."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p3-27-1",
+          "question": "What did employees complain about?",
+          "options": [
+            "The newsletter is published too rarely.",
+            "Some articles contain errors.",
+            "Photos are missing.",
+            "The newsletter is too long."
+          ],
+          "answer": 3,
+          "explanation": "Theo khảo sát, nhân viên nói bản tin 'too long and hard to read on their phones'."
+        },
+        {
+          "id": "p3-27-2",
+          "question": "What does Woman 2 suggest?",
+          "options": [
+            "Sending a shorter newsletter more often",
+            "Printing paper copies",
+            "Conducting another survey",
+            "Hiring a photographer"
+          ],
+          "answer": 0,
+          "explanation": "Woman 2: 'a shorter version every week instead of a long one every month'."
+        },
+        {
+          "id": "p3-27-3",
+          "question": "What will the man do?",
+          "options": [
+            "Speak to a committee",
+            "Prepare a list of topics",
+            "Design a layout",
+            "Interview a writer"
+          ],
+          "answer": 1,
+          "explanation": "Man: 'I'll put together a list of topics'. Nói chuyện với ủy ban là Woman 1, thiết kế bố cục là Woman 2."
+        }
+      ],
+      "translation": "Woman 1: Cảm ơn mọi người đã tham gia. Như các bạn biết, chúng ta đang thiết kế lại bản tin công ty. Trong cuộc khảo sát gần đây, nhân viên nói bản tin quá dài và khó đọc trên điện thoại.\nMan: Tôi cũng nghe phàn nàn đó. Hầu hết mọi người đọc nó trên tàu khi đi làm.\nWoman 2: Hay là chúng ta gửi một bản ngắn hơn mỗi tuần thay vì một bản dài mỗi tháng?\nWoman 1: Tôi thích ý đó. Ahmed, nhóm anh có theo được lịch hằng tuần không?\nMan: Chúng tôi sẽ cần thêm một người viết. Hiện giờ chỉ có hai người.\nWoman 1: Tôi sẽ nói với ủy ban ngân sách về việc tuyển thêm người. Maria, chị có thể thiết kế bố cục mới hiển thị tốt trên màn hình nhỏ không?\nWoman 2: Được. Tôi sẽ có bản nháp trước thứ Sáu tới.\nMan: Còn tôi sẽ lập danh sách chủ đề cho bốn số đầu tiên."
+    },
+    {
+      "id": "p3-28",
+      "title": "Viewing an office for lease",
+      "speakers": [
+        {
+          "name": "Man",
+          "voice": "male"
+        },
+        {
+          "name": "Woman",
+          "voice": "female"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Man",
+          "text": "Thanks for showing me this office, Ms. Grant. The space is bright, and I like that it's close to the subway station."
+        },
+        {
+          "speaker": "Woman",
+          "text": "It's a popular location. The rent is twenty-two hundred dollars a month, and that includes electricity and internet."
+        },
+        {
+          "speaker": "Man",
+          "text": "That's within my budget. My accounting firm has five employees now, but I plan to hire two more next year. Do you think there's enough room?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "There should be. And the room next door will become available in the spring, so you could expand into it later if you need to."
+        },
+        {
+          "speaker": "Man",
+          "text": "That's good to know. What about parking? Some of my clients prefer to drive."
+        },
+        {
+          "speaker": "Woman",
+          "text": "The building has a small lot for visitors, and there's a public garage across the street."
+        },
+        {
+          "speaker": "Man",
+          "text": "Great. Could you send me a copy of the lease agreement? I'd like my lawyer to review it."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Certainly. I'll e-mail it to you this afternoon."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p3-28-1",
+          "question": "What type of business does the man own?",
+          "options": [
+            "A law firm",
+            "A real estate agency",
+            "An accounting firm",
+            "A design studio"
+          ],
+          "answer": 2,
+          "explanation": "'My accounting firm has five employees' — công ty kế toán. (A) là bẫy vì anh nhắc đến luật sư của mình."
+        },
+        {
+          "id": "p3-28-2",
+          "question": "What does the woman say will happen in the spring?",
+          "options": [
+            "The rent will increase.",
+            "A garage will open.",
+            "The building will be painted.",
+            "A nearby room will become available."
+          ],
+          "answer": 3,
+          "explanation": "'the room next door will become available in the spring' — phòng bên cạnh sẽ trống."
+        },
+        {
+          "id": "p3-28-3",
+          "question": "What does the man ask the woman to do?",
+          "options": [
+            "Send a document",
+            "Lower the rent",
+            "Show another property",
+            "Contact his lawyer"
+          ],
+          "answer": 0,
+          "explanation": "'Could you send me a copy of the lease agreement?' — gửi hợp đồng thuê. Anh tự đưa cho luật sư xem, nên (D) sai."
+        }
+      ],
+      "translation": "Man: Cảm ơn chị đã dẫn tôi xem văn phòng này, chị Grant. Không gian sáng sủa, và tôi thích việc nó gần ga tàu điện ngầm.\nWoman: Đây là vị trí được ưa chuộng. Tiền thuê là hai nghìn hai trăm đô la một tháng, đã bao gồm điện và internet.\nMan: Nằm trong ngân sách của tôi. Công ty kế toán của tôi hiện có năm nhân viên, nhưng tôi dự định tuyển thêm hai người vào năm sau. Chị nghĩ có đủ chỗ không?\nWoman: Chắc là đủ. Và phòng bên cạnh sẽ trống vào mùa xuân, nên sau này anh có thể mở rộng sang nếu cần.\nMan: Tốt quá. Còn chỗ đỗ xe thì sao? Một số khách hàng của tôi thích lái xe đến.\nWoman: Tòa nhà có một bãi nhỏ cho khách, và có một nhà để xe công cộng ở bên kia đường.\nMan: Tuyệt. Chị có thể gửi tôi bản hợp đồng thuê không? Tôi muốn luật sư xem qua.\nWoman: Chắc chắn rồi. Chiều nay tôi sẽ gửi e-mail cho anh."
+    },
+    {
+      "id": "p3-29",
+      "title": "Finding an office in a building",
+      "speakers": [
+        {
+          "name": "Woman",
+          "voice": "female"
+        },
+        {
+          "name": "Man",
+          "voice": "male"
+        }
+      ],
+      "graphic": {
+        "title": "Corbin Tower - Building Directory",
+        "text": "Floor 1    Lobby and Cafe\nFloor 2    Westfield Insurance\nFloor 3    Marston Legal Services\nFloor 4    Palmer Architects\nFloor 5    Corbin Fitness Club"
+      },
+      "script": [
+        {
+          "speaker": "Woman",
+          "text": "Excuse me. I have a job interview at eleven, but I don't see the company name on the directory. It's called Nova Design Group."
+        },
+        {
+          "speaker": "Man",
+          "text": "Ah, Nova Design moved out last month. But the architecture firm that took over their space hired several of their staff. Who is your interview with?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "A woman named Teresa Park."
+        },
+        {
+          "speaker": "Man",
+          "text": "Yes, Ms. Park works for the architects now. I'm sure that's where you need to go."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Thank you. I'm a little early. Is there somewhere I could get a coffee first?"
+        },
+        {
+          "speaker": "Man",
+          "text": "There's a cafe right here in the lobby, behind the elevators."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Great. Do I need a visitor pass to go upstairs?"
+        },
+        {
+          "speaker": "Man",
+          "text": "Yes. I'll just need to see a photo ID, and then I'll print one for you."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p3-29-1",
+          "question": "Why is the woman visiting the building?",
+          "options": [
+            "To deliver a package",
+            "To attend a job interview",
+            "To meet a client",
+            "To sign a lease"
+          ],
+          "answer": 1,
+          "explanation": "'I have a job interview at eleven' — đi phỏng vấn xin việc."
+        },
+        {
+          "id": "p3-29-2",
+          "question": "Look at the graphic. Which floor will the woman most likely go to for her interview?",
+          "options": [
+            "Floor 2",
+            "Floor 3",
+            "Floor 4",
+            "Floor 5"
+          ],
+          "answer": 2,
+          "explanation": "Nova Design đã chuyển đi; bà Park hiện làm cho công ty kiến trúc. Theo bảng chỉ dẫn, Palmer Architects ở tầng 4. (Tầng 1 có quán cà phê nhưng không phải nơi phỏng vấn.)"
+        },
+        {
+          "id": "p3-29-3",
+          "question": "What does the man ask the woman for?",
+          "options": [
+            "A business card",
+            "An appointment letter",
+            "A parking ticket",
+            "A photo identification"
+          ],
+          "answer": 3,
+          "explanation": "'I'll just need to see a photo ID' — giấy tờ tùy thân có ảnh."
+        }
+      ],
+      "translation": "Woman: Xin lỗi anh. Tôi có buổi phỏng vấn xin việc lúc mười một giờ, nhưng tôi không thấy tên công ty trên bảng chỉ dẫn. Công ty tên là Nova Design Group.\nMan: À, Nova Design đã chuyển đi tháng trước. Nhưng công ty kiến trúc tiếp quản chỗ của họ đã tuyển một số nhân viên của họ. Chị phỏng vấn với ai?\nWoman: Một người phụ nữ tên Teresa Park.\nMan: Đúng rồi, bà Park giờ làm cho công ty kiến trúc. Tôi chắc chị cần đến đó.\nWoman: Cảm ơn anh. Tôi đến hơi sớm. Có chỗ nào tôi mua cà phê trước được không?\nMan: Có quán cà phê ngay tại sảnh này, phía sau thang máy.\nWoman: Tuyệt. Tôi có cần thẻ khách để lên lầu không?\nMan: Có. Tôi chỉ cần xem giấy tờ tùy thân có ảnh, rồi tôi sẽ in thẻ cho chị."
+    }
+  ]
+}

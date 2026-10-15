@@ -1,0 +1,1480 @@
+{
+  "part": 7,
+  "title": "Part 7 - Đọc hiểu (bộ 2)",
+  "description": "Bộ 2 gồm 22 bài đọc đơn, kép và ba văn bản mới (e-mail, chuỗi tin nhắn, hóa đơn, trang web, lịch trình...) theo phong cách TOEIC Part 7 để luyện kỹ năng đọc hiểu và đối chiếu thông tin.",
+  "items": [
+    {
+      "id": "p7-19",
+      "format": "single",
+      "documents": [
+        {
+          "type": "email",
+          "title": "E-mail",
+          "text": "From: Leona Fairweather <lfairweather@tamsinuniforms.com>\nTo: Gregory Pak <gpak@copperpotbistro.com>\nDate: September 22\nSubject: Order #4471\n\nDear Mr. Pak,\n\nThank you for your order of 36 embroidered aprons and 18 chef jackets for the Copper Pot Bistro locations. I am writing to let you know that the aprons will be shipped on September 26 as promised. However, the chef jackets will be delayed by about a week because our supplier has run short of the charcoal-gray fabric you selected.\n\nWe can offer two options. First, we can ship the jackets in charcoal gray once the fabric arrives, which we expect to be around October 3. Alternatively, we can make them right away in navy blue, which we have in stock, so that they arrive together with the aprons. If you choose navy, we will reduce the price of the jackets by 10 percent to compensate for the change.\n\nPlease let me know your preference by Friday so that we can arrange production accordingly. I apologize for the inconvenience and appreciate your understanding.\n\nSincerely,\nLeona Fairweather\nCustomer Accounts, Tamsin Uniform Company"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-19-1",
+          "question": "Why did Ms. Fairweather write the e-mail?",
+          "options": [
+            "To confirm that a payment was received",
+            "To report a problem with part of an order",
+            "To request a change in a delivery address",
+            "To introduce a new line of uniforms"
+          ],
+          "answer": 1,
+          "type": "main-idea",
+          "explanation": "Đoạn 1 cho biết tạp dề vẫn giao đúng hẹn nhưng áo đầu bếp \"will be delayed by about a week\" vì thiếu vải → mục đích là báo vấn đề với một phần đơn hàng. E-mail không nhắc đến thanh toán, địa chỉ giao hàng hay dòng sản phẩm mới."
+        },
+        {
+          "id": "p7-19-2",
+          "question": "The word \"selected\" in paragraph 1 is closest in meaning to",
+          "options": [
+            "delivered",
+            "designed",
+            "measured",
+            "chose"
+          ],
+          "answer": 3,
+          "type": "vocabulary",
+          "explanation": "\"the charcoal-gray fabric you selected\" = loại vải xám than mà ông đã chọn → \"selected\" = \"chose\". \"Delivered\" (giao), \"designed\" (thiết kế), \"measured\" (đo) không hợp nghĩa."
+        },
+        {
+          "id": "p7-19-3",
+          "question": "What will Mr. Pak receive if he accepts navy-blue jackets?",
+          "options": [
+            "Free shipping on the order",
+            "A lower price for the jackets",
+            "Additional aprons at no cost",
+            "Earlier delivery of the aprons"
+          ],
+          "answer": 1,
+          "type": "detail",
+          "explanation": "Đoạn 2: \"If you choose navy, we will reduce the price of the jackets by 10 percent\" → được giảm giá áo. Không có miễn phí vận chuyển hay tặng thêm tạp dề; tạp dề vẫn giao ngày 26/9 như cũ, không sớm hơn."
+        }
+      ],
+      "translation": "Từ: Leona Fairweather <lfairweather@tamsinuniforms.com>\nĐến: Gregory Pak <gpak@copperpotbistro.com>\nNgày: 22 tháng 9\nTiêu đề: Đơn hàng số 4471\n\nKính gửi ông Pak,\n\nCảm ơn ông đã đặt 36 tạp dề thêu và 18 áo đầu bếp cho các chi nhánh Copper Pot Bistro. Tôi viết thư để báo rằng tạp dề sẽ được gửi đi vào ngày 26 tháng 9 như đã hứa. Tuy nhiên, áo đầu bếp sẽ bị chậm khoảng một tuần vì nhà cung cấp của chúng tôi đang thiếu loại vải xám than mà ông đã chọn.\n\nChúng tôi có thể đưa ra hai phương án. Thứ nhất, chúng tôi có thể gửi áo màu xám than khi vải về, dự kiến khoảng ngày 3 tháng 10. Hoặc chúng tôi có thể may ngay bằng màu xanh navy, loại vải đang có sẵn trong kho, để áo đến cùng lúc với tạp dề. Nếu ông chọn màu navy, chúng tôi sẽ giảm 10% giá áo để bù đắp cho sự thay đổi này.\n\nVui lòng cho tôi biết lựa chọn của ông trước thứ Sáu để chúng tôi sắp xếp sản xuất cho phù hợp. Tôi xin lỗi vì sự bất tiện và cảm ơn sự thông cảm của ông.\n\nTrân trọng,\nLeona Fairweather\nBộ phận Tài khoản Khách hàng, Công ty Đồng phục Tamsin"
+    },
+    {
+      "id": "p7-20",
+      "format": "single",
+      "documents": [
+        {
+          "type": "text-message-chain",
+          "title": "Text-message chain",
+          "text": "Hannah Breyer (9:05 A.M.): Raj, are you at the Lindell Street site yet? The tile delivery was supposed to arrive at 8:30.\nRaj Mehta (9:07 A.M.): Just pulled in. No truck here yet.\nHannah Breyer (9:08 A.M.): I called Stonecrest Tile, and they said the driver left the warehouse at 8:00. He should be there any minute.\nRaj Mehta (9:10 A.M.): OK. The kitchen crew can't start until the tiles are here, though.\nHannah Breyer (9:11 A.M.): Could they work on the bathroom cabinets in the meantime?\nRaj Mehta (9:12 A.M.): Good thinking. I'll let them know.\nRaj Mehta (9:31 A.M.): The truck just arrived. Everything's here except the border tiles.\nHannah Breyer (9:33 A.M.): That's fine. Those aren't needed until next week."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-20-1",
+          "question": "What is suggested about the kitchen crew?",
+          "options": [
+            "They arrived at the site late.",
+            "They work for Stonecrest Tile.",
+            "They will do other work while waiting for a delivery.",
+            "They have finished installing the cabinets."
+          ],
+          "answer": 2,
+          "type": "inference",
+          "explanation": "Lúc 9:10 Raj nói đội bếp chưa thể bắt đầu khi chưa có gạch; Hannah đề nghị họ làm tủ phòng tắm \"in the meantime\" và Raj đồng ý báo họ → họ sẽ làm việc khác trong lúc chờ. Người đến trễ là xe tải; đội thi công không thuộc Stonecrest Tile; tủ chưa được lắp xong."
+        },
+        {
+          "id": "p7-20-2",
+          "question": "At 9:33 A.M., what does Ms. Breyer mean when she writes, \"That's fine\"?",
+          "options": [
+            "The missing items are not needed right away.",
+            "The driver arrived on time.",
+            "The crew can leave the site early.",
+            "The bathroom work has been completed."
+          ],
+          "answer": 0,
+          "type": "intention",
+          "explanation": "Raj báo chỉ thiếu gạch viền; Hannah đáp \"That's fine. Those aren't needed until next week\" → hàng còn thiếu chưa cần gấp. Tài xế thực ra đến trễ (hẹn 8:30, đến 9:31); không ai nói đội được về sớm hay đã làm xong phòng tắm."
+        }
+      ],
+      "translation": "Hannah Breyer (9:05 sáng): Raj, anh đã đến công trình đường Lindell chưa? Lô gạch lẽ ra phải đến lúc 8:30.\nRaj Mehta (9:07 sáng): Tôi vừa đến. Chưa thấy xe tải đâu cả.\nHannah Breyer (9:08 sáng): Tôi đã gọi cho Stonecrest Tile, họ nói tài xế rời kho lúc 8:00. Chắc anh ấy sắp tới rồi.\nRaj Mehta (9:10 sáng): Được. Nhưng đội làm bếp không thể bắt đầu cho đến khi có gạch.\nHannah Breyer (9:11 sáng): Trong lúc chờ, họ làm tủ phòng tắm được không?\nRaj Mehta (9:12 sáng): Ý hay đấy. Tôi sẽ báo họ.\nRaj Mehta (9:31 sáng): Xe tải vừa đến. Có đủ mọi thứ trừ gạch viền.\nHannah Breyer (9:33 sáng): Không sao. Tuần sau mới cần đến loại đó."
+    },
+    {
+      "id": "p7-21",
+      "format": "single",
+      "documents": [
+        {
+          "type": "notice",
+          "title": "Notice",
+          "text": "NOTICE TO VENDORS\nLarkfield Farmers' Market\n\nAll vendors who wish to sell at the Larkfield Farmers' Market during the upcoming season must renew their permits by February 28. Renewal forms are available at the market office in Larkfield Town Hall, Room 104, and may also be downloaded from www.larkfieldmarket.org.\n\nThe permit fee this year is $120 for a standard stall and $180 for a corner stall. Vendors who renew before February 1 will receive a $20 discount. Please note that vendors selling prepared foods must also submit a copy of a current health certificate with their application.\n\nThe market will open for the season on Saturday, April 5, and will operate every Saturday from 7:00 A.M. to 1:00 P.M. through October. New this year, the market will also be open on Wednesday evenings from 4:00 P.M. to 7:00 P.M. during June, July, and August.\n\nQuestions may be directed to market coordinator Felipe Arango at 555-0187."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-21-1",
+          "question": "For whom is the notice intended?",
+          "options": [
+            "Shoppers at a market",
+            "Employees of the town hall",
+            "People who sell goods at a market",
+            "Health inspectors"
+          ],
+          "answer": 2,
+          "type": "main-idea",
+          "explanation": "Tiêu đề \"NOTICE TO VENDORS\" và câu đầu \"All vendors who wish to sell...\" → dành cho người bán hàng ở chợ. Người mua, nhân viên tòa thị chính và thanh tra y tế không phải đối tượng của thông báo."
+        },
+        {
+          "id": "p7-21-2",
+          "question": "How much would a vendor pay for a corner stall if renewing on January 20?",
+          "options": [
+            "$100",
+            "$120",
+            "$140",
+            "$160"
+          ],
+          "answer": 3,
+          "type": "detail",
+          "explanation": "Sạp góc giá $180; gia hạn trước ngày 1/2 được giảm $20. Ngày 20/1 trước 1/2 → $180 - $20 = $160. $100 là giá sạp thường sau giảm; $120 là giá sạp thường; $140 không khớp phép tính nào."
+        },
+        {
+          "id": "p7-21-3",
+          "question": "What is NOT mentioned about the market?",
+          "options": [
+            "It will open in April.",
+            "It will have evening hours in the summer.",
+            "It provides parking for vendors.",
+            "It operates on Saturdays."
+          ],
+          "answer": 2,
+          "type": "not-true",
+          "explanation": "Thông báo nói chợ mở cửa ngày 5/4 (A), mở tối thứ Tư tháng 6-8 (B) và hoạt động mỗi thứ Bảy (D). Không có thông tin nào về chỗ đậu xe cho người bán → C."
+        }
+      ],
+      "translation": "THÔNG BÁO GỬI CÁC NGƯỜI BÁN HÀNG\nChợ nông sản Larkfield\n\nTất cả người bán muốn bán hàng tại Chợ nông sản Larkfield trong mùa tới phải gia hạn giấy phép trước ngày 28 tháng 2. Mẫu đơn gia hạn có tại văn phòng chợ ở Tòa thị chính Larkfield, phòng 104, và cũng có thể tải về từ www.larkfieldmarket.org.\n\nPhí giấy phép năm nay là $120 cho sạp thường và $180 cho sạp ở góc. Người bán gia hạn trước ngày 1 tháng 2 sẽ được giảm $20. Xin lưu ý rằng người bán thực phẩm chế biến sẵn cũng phải nộp kèm bản sao giấy chứng nhận sức khỏe còn hiệu lực.\n\nChợ sẽ mở cửa mùa mới vào thứ Bảy, ngày 5 tháng 4, và hoạt động mỗi thứ Bảy từ 7:00 sáng đến 1:00 chiều cho đến hết tháng 10. Điểm mới năm nay: chợ cũng sẽ mở vào tối thứ Tư từ 4:00 đến 7:00 chiều trong các tháng 6, 7 và 8.\n\nMọi thắc mắc xin liên hệ điều phối viên chợ Felipe Arango theo số 555-0187."
+    },
+    {
+      "id": "p7-22",
+      "format": "single",
+      "documents": [
+        {
+          "type": "advertisement",
+          "title": "Advertisement",
+          "text": "Work Better at Haverly Commons\n\nTired of working from your kitchen table? Haverly Commons, located on the second floor of the Pemberton Building at 51 Quay Street, offers a quiet, professional workspace for freelancers and small teams.\n\nMembership plans:\n- Day Pass: $25 per day - access to any open desk from 8 A.M. to 6 P.M.\n- Flex: $160 per month - up to 10 days per month, plus 2 hours of meeting room use\n- Dedicated Desk: $320 per month - your own desk with a locking cabinet, 24-hour access, and 8 hours of meeting room use\n\nAll plans include high-speed Internet, printing (up to 50 pages per month), and free coffee and tea. Members on monthly plans may also have business mail delivered to our address.\n\nSign up before May 31 and receive your first week free on any monthly plan. Schedule a tour at www.haverlycommons.com."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-22-1",
+          "question": "What is being advertised?",
+          "options": [
+            "A shared office space",
+            "A furniture store",
+            "A printing service",
+            "A coffee shop"
+          ],
+          "answer": 0,
+          "type": "main-idea",
+          "explanation": "Quảng cáo giới thiệu Haverly Commons, \"a quiet, professional workspace for freelancers and small teams\" với các gói thành viên → không gian làm việc chung. In ấn và cà phê chỉ là tiện ích kèm theo; không bán đồ nội thất."
+        },
+        {
+          "id": "p7-22-2",
+          "question": "What is included only with the Dedicated Desk plan?",
+          "options": [
+            "Printing",
+            "Meeting room use",
+            "Access at any hour",
+            "Free beverages"
+          ],
+          "answer": 2,
+          "type": "detail",
+          "explanation": "Chỉ gói Dedicated Desk có \"24-hour access\". Phòng họp cũng có trong gói Flex (2 giờ); in ấn và cà phê, trà miễn phí có trong \"All plans\"."
+        },
+        {
+          "id": "p7-22-3",
+          "question": "What is suggested about Day Pass users?",
+          "options": [
+            "They cannot have business mail sent to Haverly Commons.",
+            "They receive their first week free.",
+            "They may print an unlimited number of pages.",
+            "They can enter the workspace at any time of day."
+          ],
+          "answer": 0,
+          "type": "inference",
+          "explanation": "\"Members on monthly plans may also have business mail delivered to our address\" → chỉ gói theo tháng mới được nhận thư; Day Pass là gói theo ngày nên suy ra không được. Ưu đãi tuần đầu miễn phí chỉ áp dụng cho gói tháng; in giới hạn 50 trang; Day Pass chỉ vào từ 8 giờ sáng đến 6 giờ chiều."
+        }
+      ],
+      "translation": "Làm việc hiệu quả hơn tại Haverly Commons\n\nBạn đã chán làm việc trên bàn bếp? Haverly Commons, nằm trên tầng hai tòa nhà Pemberton tại số 51 phố Quay, mang đến không gian làm việc yên tĩnh, chuyên nghiệp cho người làm tự do và các nhóm nhỏ.\n\nCác gói thành viên:\n- Vé ngày: $25 mỗi ngày - sử dụng bất kỳ bàn trống nào từ 8 giờ sáng đến 6 giờ chiều\n- Linh hoạt: $160 mỗi tháng - tối đa 10 ngày mỗi tháng, cộng 2 giờ sử dụng phòng họp\n- Bàn riêng: $320 mỗi tháng - bàn riêng có tủ khóa, ra vào 24 giờ và 8 giờ sử dụng phòng họp\n\nTất cả các gói đều bao gồm Internet tốc độ cao, in ấn (tối đa 50 trang mỗi tháng), cà phê và trà miễn phí. Thành viên các gói theo tháng còn có thể nhận thư từ công việc tại địa chỉ của chúng tôi.\n\nĐăng ký trước ngày 31 tháng 5 để được miễn phí tuần đầu tiên với bất kỳ gói tháng nào. Hãy đặt lịch tham quan tại www.haverlycommons.com."
+    },
+    {
+      "id": "p7-23",
+      "format": "single",
+      "documents": [
+        {
+          "type": "article",
+          "title": "Article",
+          "text": "Local Ferry Service Adds Electric Vessels\n\nPORT ALDEN (June 11) - Seaward Ferries, which carries passengers between Port Alden and Gull Island, will introduce two electric boats on its busiest route this summer. [1] The new vessels, built by Norvik Marine, can each carry 150 passengers and will replace two diesel ferries that have been in service since 1998.\n\nAccording to Seaward's operations manager, Clara Whitfield, the electric boats will cut fuel costs by nearly half and make crossings noticeably quieter. [2] Each vessel will be charged at a new station at the Port Alden terminal during the 20-minute stop between trips.\n\nThe company also plans to increase the number of daily departures from 12 to 16 beginning July 1. [3] Ticket prices will remain the same, although the company will close the ticket booth at the Gull Island dock. [4] Passengers will instead be able to purchase tickets through the Seaward mobile app or from machines at either terminal.\n\nThe older diesel ferries will be sold to a sightseeing company based in Marlow Bay."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-23-1",
+          "question": "What is the article mainly about?",
+          "options": [
+            "The opening of a new ferry terminal",
+            "Changes to a ferry company's service",
+            "The construction of an island resort",
+            "A decline in passenger numbers"
+          ],
+          "answer": 1,
+          "type": "main-idea",
+          "explanation": "Bài báo nói về tàu điện mới, tăng số chuyến, thay đổi cách bán vé của Seaward Ferries → những thay đổi trong dịch vụ phà. Chỉ có trạm sạc mới, không phải bến mới; không nhắc đến khu nghỉ dưỡng hay lượng khách giảm."
+        },
+        {
+          "id": "p7-23-2",
+          "question": "According to the article, what will happen on July 1?",
+          "options": [
+            "Ticket prices will increase.",
+            "A charging station will be removed.",
+            "The diesel ferries will be sold.",
+            "More trips will be offered each day."
+          ],
+          "answer": 3,
+          "type": "detail",
+          "explanation": "\"increase the number of daily departures from 12 to 16 beginning July 1\" → có thêm chuyến mỗi ngày. Giá vé giữ nguyên; trạm sạc là trạm mới xây chứ không bị dỡ; bài không nói phà diesel được bán vào ngày 1/7."
+        },
+        {
+          "id": "p7-23-3",
+          "question": "According to the article, how will passengers NOT be able to buy tickets after the change?",
+          "options": [
+            "Through a mobile app",
+            "From a machine at the Port Alden terminal",
+            "From a machine at the Gull Island terminal",
+            "From a ticket booth on Gull Island"
+          ],
+          "answer": 3,
+          "type": "not-true",
+          "explanation": "Công ty \"will close the ticket booth at the Gull Island dock\"; hành khách sẽ mua qua ứng dụng hoặc máy bán vé \"at either terminal\" (cả hai bến Port Alden và Gull Island). Vì vậy quầy vé ở Gull Island là cách không còn dùng được."
+        },
+        {
+          "id": "p7-23-4",
+          "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n\"The extra trips are expected to reduce waiting times during the busy tourist season.\"",
+          "options": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "answer": 2,
+          "type": "sentence-insertion",
+          "explanation": "\"The extra trips\" phải đứng sau câu nhắc đến việc tăng số chuyến từ 12 lên 16 → vị trí [3]. Ở [1] và [2] chưa nói đến chuyến tăng thêm; ở [4] đang nói về việc mua vé nên câu chen vào sẽ cắt mạch ý."
+        }
+      ],
+      "translation": "Dịch vụ phà địa phương bổ sung tàu chạy điện\n\nPORT ALDEN (11 tháng 6) - Seaward Ferries, hãng chở khách giữa Port Alden và đảo Gull, sẽ đưa vào sử dụng hai tàu chạy điện trên tuyến đông khách nhất vào mùa hè này. [1] Các tàu mới do Norvik Marine đóng, mỗi chiếc chở được 150 hành khách và sẽ thay thế hai phà chạy dầu diesel đã hoạt động từ năm 1998.\n\nTheo bà Clara Whitfield, giám đốc vận hành của Seaward, tàu điện sẽ giảm chi phí nhiên liệu gần một nửa và giúp các chuyến đi yên tĩnh hơn rõ rệt. [2] Mỗi tàu sẽ được sạc tại một trạm mới ở bến Port Alden trong thời gian dừng 20 phút giữa các chuyến.\n\nCông ty cũng dự định tăng số chuyến mỗi ngày từ 12 lên 16 kể từ ngày 1 tháng 7. [3] Giá vé sẽ giữ nguyên, tuy nhiên công ty sẽ đóng cửa quầy bán vé tại bến đảo Gull. [4] Thay vào đó, hành khách có thể mua vé qua ứng dụng di động của Seaward hoặc tại máy bán vé ở cả hai bến.\n\nCác phà diesel cũ sẽ được bán cho một công ty du lịch ngắm cảnh có trụ sở tại vịnh Marlow.\n\n(Câu cần chèn: \"Các chuyến tăng thêm được kỳ vọng sẽ giảm thời gian chờ trong mùa du lịch cao điểm.\")"
+    },
+    {
+      "id": "p7-24",
+      "format": "single",
+      "documents": [
+        {
+          "type": "invoice",
+          "title": "Invoice",
+          "text": "INVOICE\nPellham Garden Design\n17 Birchwood Road, Coleford\n\nInvoice No.: PG-2093\nDate: October 6\nCustomer: Ms. Ingrid Solberg, 402 Maple Crescent, Coleford\n\nDescription                                   Amount\nDesign consultation (2 hours @ $60/hour)      $120.00\nRemoval of old hedges                         $250.00\nPlanting of 12 shrubs (plants included)       $480.00\nInstallation of stone pathway                 $900.00\nSubtotal                                      $1,750.00\nLess deposit paid on September 15             -$500.00\nBalance due                                   $1,250.00\n\nPayment is due within 30 days of the invoice date. A 2% discount applies to balances paid in full within 10 days. Please make checks payable to Pellham Garden Design or pay online at www.pellhamgardens.com/pay.\n\nThank you for your business! Ask us about our seasonal maintenance plans."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-24-1",
+          "question": "What is indicated about the shrubs?",
+          "options": [
+            "They were planted on September 15.",
+            "Ms. Solberg purchased them separately.",
+            "There were 15 of them.",
+            "The cost of the plants is included in the charge."
+          ],
+          "answer": 3,
+          "type": "detail",
+          "explanation": "Dòng \"Planting of 12 shrubs (plants included)\" → giá $480 đã gồm cả cây. Ngày 15/9 là ngày đặt cọc; số cây là 12 chứ không phải 15; bà Solberg không mua cây riêng."
+        },
+        {
+          "id": "p7-24-2",
+          "question": "How much will Ms. Solberg pay if she pays the full balance on October 12?",
+          "options": [
+            "$1,225.00",
+            "$1,250.00",
+            "$1,715.00",
+            "$1,750.00"
+          ],
+          "answer": 0,
+          "type": "detail",
+          "explanation": "Hóa đơn ngày 6/10; trả đủ trong vòng 10 ngày được giảm 2%. Ngày 12/10 nằm trong hạn → $1,250 - 2% ($25) = $1,225. $1,250 là số tiền chưa giảm; $1,715 là 2% trừ trên tổng phụ; $1,750 là tổng phụ chưa trừ tiền cọc."
+        },
+        {
+          "id": "p7-24-3",
+          "question": "What is suggested about Pellham Garden Design?",
+          "options": [
+            "It offers ongoing garden care services.",
+            "It accepts payment only by check.",
+            "It charges extra for consultations longer than two hours.",
+            "It required full payment in advance."
+          ],
+          "answer": 0,
+          "type": "inference",
+          "explanation": "Cuối hóa đơn: \"Ask us about our seasonal maintenance plans\" → công ty có dịch vụ chăm sóc vườn định kỳ. Có thể trả online nên không chỉ nhận séc; tư vấn tính theo giờ, không có phụ phí; chỉ đặt cọc $500 chứ không trả toàn bộ trước."
+        }
+      ],
+      "translation": "HÓA ĐƠN\nPellham Garden Design (Thiết kế sân vườn Pellham)\n17 đường Birchwood, Coleford\n\nSố hóa đơn: PG-2093\nNgày: 6 tháng 10\nKhách hàng: Bà Ingrid Solberg, 402 Maple Crescent, Coleford\n\nMô tả - Số tiền\nTư vấn thiết kế (2 giờ x $60/giờ) - $120.00\nDỡ bỏ hàng rào cây cũ - $250.00\nTrồng 12 cây bụi (đã gồm cây) - $480.00\nLát lối đi bằng đá - $900.00\nTổng phụ - $1,750.00\nTrừ tiền cọc đã trả ngày 15 tháng 9 - -$500.00\nSố tiền còn phải trả - $1,250.00\n\nThanh toán trong vòng 30 ngày kể từ ngày lập hóa đơn. Được giảm 2% nếu trả đủ số dư trong vòng 10 ngày. Vui lòng viết séc cho Pellham Garden Design hoặc thanh toán trực tuyến tại www.pellhamgardens.com/pay.\n\nCảm ơn quý khách! Hãy hỏi chúng tôi về các gói chăm sóc vườn theo mùa."
+    },
+    {
+      "id": "p7-25",
+      "format": "single",
+      "documents": [
+        {
+          "type": "text-message-chain",
+          "title": "Online chat discussion",
+          "text": "Tomás Reyes [1:02 P.M.]: Hi, team. The Brennan Hotel just told me our usual meeting room isn't available for the sales training on November 18. They've offered the Garden Room instead.\nEllen Croft [1:04 P.M.]: How many people does it hold? We have 45 registered.\nTomás Reyes [1:05 P.M.]: Only 40 seated, unfortunately.\nJi-woo Han [1:06 P.M.]: Five of those people are from the Dalton office, right? They asked last week whether they could join by video.\nEllen Croft [1:08 P.M.]: That's right. If they connect remotely, we'd be at exactly 40.\nTomás Reyes [1:09 P.M.]: Does the Garden Room have video equipment?\nJi-woo Han [1:10 P.M.]: I'll find out. I know the hotel's events coordinator.\nTomás Reyes [1:11 P.M.]: Thanks. I'd rather not move to a different hotel this late.\nJi-woo Han [1:24 P.M.]: Just heard back. There's a projector and a camera, and they'll set up a speakerphone for us at no charge.\nEllen Croft [1:25 P.M.]: Perfect. I'll e-mail the Dalton group the link for joining."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-25-1",
+          "question": "What problem is being discussed?",
+          "options": [
+            "A training session has been canceled.",
+            "A room is too small for the planned number of attendees.",
+            "A hotel has raised its prices.",
+            "Some employees have not registered."
+          ],
+          "answer": 1,
+          "type": "main-idea",
+          "explanation": "Phòng thay thế (Garden Room) chỉ có 40 chỗ ngồi trong khi có 45 người đăng ký → phòng quá nhỏ. Buổi đào tạo không bị hủy; không nhắc chuyện tăng giá hay người chưa đăng ký."
+        },
+        {
+          "id": "p7-25-2",
+          "question": "What is suggested about the employees from the Dalton office?",
+          "options": [
+            "They will lead the training session.",
+            "They prefer to attend in person.",
+            "They work at the Brennan Hotel.",
+            "They had already asked to join the session remotely."
+          ],
+          "answer": 3,
+          "type": "inference",
+          "explanation": "Lúc 1:06 Ji-woo nói nhóm Dalton \"asked last week whether they could join by video\" → họ đã xin tham gia từ xa từ trước. Điều này trái với việc muốn dự trực tiếp; không có thông tin họ là người hướng dẫn hay nhân viên khách sạn."
+        },
+        {
+          "id": "p7-25-3",
+          "question": "At 1:10 P.M., what does Ms. Han most likely mean when she writes, \"I know the hotel's events coordinator\"?",
+          "options": [
+            "She can easily get information from the hotel.",
+            "She used to work at the Brennan Hotel.",
+            "She will ask the hotel for a discount.",
+            "She has reserved the Garden Room before."
+          ],
+          "answer": 0,
+          "type": "intention",
+          "explanation": "Câu này nối tiếp \"I'll find out\" (về thiết bị video) → cô quen người điều phối sự kiện nên có thể hỏi thông tin nhanh chóng. Sau đó cô quả thật báo lại kết quả lúc 1:24. Không có dấu hiệu cô từng làm ở khách sạn, xin giảm giá hay đã từng đặt phòng này."
+        },
+        {
+          "id": "p7-25-4",
+          "question": "What will Ms. Croft most likely do next?",
+          "options": [
+            "Reserve a room at a different hotel",
+            "Cancel five registrations",
+            "Send some participants information for joining online",
+            "Rent a projector"
+          ],
+          "answer": 2,
+          "type": "inference",
+          "explanation": "Lúc 1:25 Ellen viết \"I'll e-mail the Dalton group the link for joining\" → gửi thông tin tham gia trực tuyến. Tomás không muốn đổi khách sạn; 5 người vẫn tham gia qua video chứ không bị hủy; phòng đã có máy chiếu."
+        }
+      ],
+      "translation": "Tomás Reyes [1:02 chiều]: Chào cả nhóm. Khách sạn Brennan vừa báo rằng phòng họp quen thuộc của chúng ta không còn trống cho buổi đào tạo bán hàng ngày 18 tháng 11. Họ đề xuất Garden Room thay thế.\nEllen Croft [1:04 chiều]: Phòng đó chứa được bao nhiêu người? Chúng ta có 45 người đăng ký.\nTomás Reyes [1:05 chiều]: Tiếc là chỉ 40 chỗ ngồi.\nJi-woo Han [1:06 chiều]: Năm người trong số đó đến từ văn phòng Dalton, đúng không? Tuần trước họ đã hỏi liệu có thể tham gia qua video không.\nEllen Croft [1:08 chiều]: Đúng vậy. Nếu họ kết nối từ xa thì chúng ta vừa đúng 40 người.\nTomás Reyes [1:09 chiều]: Garden Room có thiết bị video không?\nJi-woo Han [1:10 chiều]: Để tôi tìm hiểu. Tôi quen người điều phối sự kiện của khách sạn.\nTomás Reyes [1:11 chiều]: Cảm ơn. Tôi không muốn chuyển sang khách sạn khác vào lúc sát ngày thế này.\nJi-woo Han [1:24 chiều]: Vừa có tin. Phòng có máy chiếu và camera, và họ sẽ lắp loa ngoài điện thoại miễn phí cho chúng ta.\nEllen Croft [1:25 chiều]: Tuyệt. Tôi sẽ gửi e-mail đường link tham gia cho nhóm Dalton."
+    },
+    {
+      "id": "p7-26",
+      "format": "single",
+      "documents": [
+        {
+          "type": "form",
+          "title": "Form",
+          "text": "Westmoor Public Transit - Lost Property Report\n\nName: Darius Okafor\nPhone: 555-0142\nE-mail: dokafor@lumenmail.com\nDate of loss: Tuesday, March 17\nRoute: Bus Route 22 (Harlow Street to Central Station)\nApproximate time: 7:45 A.M.\nItem description: Black laptop bag with a silver zipper, containing a 14-inch laptop, a charger, and a blue notebook. The bag has a small tag with my name on it attached to the handle.\nWhere were you seated? Near the rear door, on the left side.\nPreferred contact method: [ ] Phone [X] E-mail\n\nPlease note: Items found on buses are held at the Central Station customer service desk for 30 days. You will be contacted if an item matching your description is turned in. Items can be collected with photo identification Monday to Friday, 8:00 A.M. to 6:00 P.M."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-26-1",
+          "question": "What is indicated about Mr. Okafor's bag?",
+          "options": [
+            "It is silver.",
+            "It has a label showing its owner's name.",
+            "It contains two laptops.",
+            "It was left at Central Station."
+          ],
+          "answer": 1,
+          "type": "detail",
+          "explanation": "Mô tả: \"a small tag with my name on it attached to the handle\" → túi có thẻ ghi tên chủ. Túi màu đen (chỉ khóa kéo màu bạc); chỉ có một laptop; túi bị bỏ quên trên xe buýt tuyến 22, không phải ở nhà ga."
+        },
+        {
+          "id": "p7-26-2",
+          "question": "How will Mr. Okafor most likely be notified if his bag is found?",
+          "options": [
+            "By telephone",
+            "By letter",
+            "In person at a service desk",
+            "By e-mail"
+          ],
+          "answer": 3,
+          "type": "inference",
+          "explanation": "Ở mục \"Preferred contact method\" ông đánh dấu [X] E-mail, và thông báo cho biết người mất đồ \"will be contacted\" khi tìm thấy → nhiều khả năng được báo qua e-mail. Ô Phone để trống; không nhắc đến thư tay; quầy dịch vụ là nơi nhận lại đồ, không phải cách thông báo."
+        }
+      ],
+      "translation": "Giao thông công cộng Westmoor - Phiếu báo mất đồ\n\nHọ tên: Darius Okafor\nĐiện thoại: 555-0142\nE-mail: dokafor@lumenmail.com\nNgày mất: thứ Ba, 17 tháng 3\nTuyến: Xe buýt tuyến 22 (phố Harlow đến Ga Trung tâm)\nThời gian ước tính: 7:45 sáng\nMô tả đồ vật: Túi laptop màu đen có khóa kéo màu bạc, bên trong có một máy tính xách tay 14 inch, một bộ sạc và một cuốn sổ màu xanh dương. Túi có một thẻ nhỏ ghi tên tôi gắn ở quai xách.\nBạn ngồi ở đâu? Gần cửa sau, phía bên trái.\nCách liên hệ ưu tiên: [ ] Điện thoại [X] E-mail\n\nLưu ý: Đồ vật tìm thấy trên xe buýt được giữ tại quầy dịch vụ khách hàng Ga Trung tâm trong 30 ngày. Bạn sẽ được liên hệ nếu có đồ vật khớp với mô tả được giao nộp. Có thể nhận lại đồ khi xuất trình giấy tờ tùy thân có ảnh, từ thứ Hai đến thứ Sáu, 8:00 sáng đến 6:00 chiều."
+    },
+    {
+      "id": "p7-27",
+      "format": "single",
+      "documents": [
+        {
+          "type": "review",
+          "title": "Online review",
+          "text": "Customer Review - Swiftline Movers\nPosted by: Beatrice Lam\nRating: 4 out of 5 stars\n\nLast month I relocated my small accounting office from the Ferndale district to a larger space downtown, and I hired Swiftline Movers to handle the job. Overall, I was very satisfied. The crew of four arrived promptly at 7:00 A.M., wrapped every computer monitor in protective padding, and labeled each box according to the floor plan I had provided. The entire move was completed in under six hours, which was faster than the estimate.\n\nMy only complaint concerns the billing. The quote I received listed a flat rate of $1,400, but the final bill included an additional $150 for carrying furniture up the stairs. The new building's freight elevator was out of service that day, so I understand the extra work, but I wish the charge had been explained to me beforehand rather than appearing on the invoice.\n\nStill, I would not hesitate to recommend Swiftline to other business owners. Their crew was careful, efficient, and courteous."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-27-1",
+          "question": "Why did Ms. Lam hire Swiftline Movers?",
+          "options": [
+            "To move her home to a new city",
+            "To relocate her business",
+            "To deliver new office furniture",
+            "To store equipment temporarily"
+          ],
+          "answer": 1,
+          "type": "detail",
+          "explanation": "\"I relocated my small accounting office ... and I hired Swiftline Movers to handle the job\" → chuyển văn phòng kế toán (doanh nghiệp) của bà. Đây không phải nhà riêng, cũng không phải giao đồ mới hay lưu kho."
+        },
+        {
+          "id": "p7-27-2",
+          "question": "Why was Ms. Lam charged an extra fee?",
+          "options": [
+            "The move took longer than expected.",
+            "Additional workers were needed.",
+            "An elevator could not be used.",
+            "Some boxes were not labeled."
+          ],
+          "answer": 2,
+          "type": "detail",
+          "explanation": "Phụ phí $150 là để khiêng đồ lên cầu thang vì \"the freight elevator was out of service that day\". Việc chuyển nhà còn nhanh hơn dự kiến; đội vẫn là 4 người; mọi thùng đều được dán nhãn."
+        },
+        {
+          "id": "p7-27-3",
+          "question": "The word \"handle\" in paragraph 1 is closest in meaning to",
+          "options": [
+            "manage",
+            "touch",
+            "sell",
+            "hold"
+          ],
+          "answer": 0,
+          "type": "vocabulary",
+          "explanation": "\"hired Swiftline Movers to handle the job\" = thuê Swiftline đảm nhận/xử lý công việc → \"handle\" = \"manage\". \"Touch\" (chạm), \"hold\" (cầm) là nghĩa vật lý của \"handle\", không hợp với \"the job\"; \"sell\" (bán) sai nghĩa."
+        }
+      ],
+      "translation": "Đánh giá của khách hàng - Swiftline Movers\nNgười đăng: Beatrice Lam\nXếp hạng: 4 trên 5 sao\n\nTháng trước tôi chuyển văn phòng kế toán nhỏ của mình từ quận Ferndale đến một không gian rộng hơn ở trung tâm thành phố, và tôi đã thuê Swiftline Movers đảm nhận công việc này. Nhìn chung, tôi rất hài lòng. Đội bốn người đến đúng giờ lúc 7:00 sáng, bọc mọi màn hình máy tính bằng đệm bảo vệ và dán nhãn từng thùng theo sơ đồ mặt bằng tôi đã cung cấp. Toàn bộ việc chuyển đồ hoàn tất trong chưa đầy sáu giờ, nhanh hơn ước tính.\n\nĐiều duy nhất tôi phàn nàn là về hóa đơn. Bảng báo giá tôi nhận được ghi mức giá trọn gói $1,400, nhưng hóa đơn cuối cùng có thêm $150 cho việc khiêng đồ nội thất lên cầu thang. Hôm đó thang máy chở hàng của tòa nhà mới bị hỏng, nên tôi hiểu là có thêm việc, nhưng tôi mong khoản phí này được giải thích trước cho tôi thay vì xuất hiện trên hóa đơn.\n\nDù vậy, tôi sẽ không ngần ngại giới thiệu Swiftline cho các chủ doanh nghiệp khác. Đội ngũ của họ cẩn thận, hiệu quả và lịch sự."
+    },
+    {
+      "id": "p7-28",
+      "format": "single",
+      "documents": [
+        {
+          "type": "web-page",
+          "title": "Web page",
+          "text": "Ellery Science Museum\nHome | Exhibits | Visit | Membership | Contact\n\nPlanning Your Visit\n\nHours: Tuesday-Sunday, 9:30 A.M. to 5:00 P.M. (closed Mondays). On the first Thursday of each month, the museum stays open until 9:00 P.M.\n\nAdmission: Adults $18; Seniors (65+) $14; Children 4-12 $10; Children under 4 free. Members enter free of charge.\n\nGetting here: The museum is a five-minute walk from Ellery Park subway station. Visitors arriving by car may use the underground garage on Dorset Avenue; present your admission ticket at the information desk to receive a reduced parking rate of $6 for the day.\n\nGroup visits: Groups of 15 or more receive 20 percent off admission but must book at least two weeks in advance by calling 555-0163.\n\nSpecial exhibit: \"Oceans in Motion\" runs through January 31 in the West Gallery. Tickets for the special exhibit cost an additional $5 and are not included in general admission, even for members."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-28-1",
+          "question": "What is indicated about the museum?",
+          "options": [
+            "It is open seven days a week.",
+            "It is located inside a park.",
+            "It offers free parking to all visitors.",
+            "It stays open later once a month."
+          ],
+          "answer": 3,
+          "type": "detail",
+          "explanation": "\"On the first Thursday of each month, the museum stays open until 9:00 P.M.\" → mỗi tháng mở cửa muộn một lần. Bảo tàng đóng cửa thứ Hai; chỉ cách ga Ellery Park năm phút đi bộ chứ không nằm trong công viên; gửi xe được giảm giá còn $6 chứ không miễn phí."
+        },
+        {
+          "id": "p7-28-2",
+          "question": "How can drivers get a parking discount?",
+          "options": [
+            "By booking two weeks in advance",
+            "By becoming members",
+            "By showing an admission ticket",
+            "By arriving before 9:30 A.M."
+          ],
+          "answer": 2,
+          "type": "detail",
+          "explanation": "\"present your admission ticket at the information desk to receive a reduced parking rate\" → xuất trình vé vào cửa. Đặt trước hai tuần là điều kiện giảm giá cho đoàn; thành viên được vào cửa miễn phí, không phải giảm phí gửi xe."
+        },
+        {
+          "id": "p7-28-3",
+          "question": "What is true about the \"Oceans in Motion\" exhibit?",
+          "options": [
+            "It requires an additional fee.",
+            "It is located in the East Gallery.",
+            "Members can see it at no extra cost.",
+            "It will close at the end of December."
+          ],
+          "answer": 0,
+          "type": "detail",
+          "explanation": "\"Tickets for the special exhibit cost an additional $5\" → phải trả thêm phí. Triển lãm ở West Gallery, kéo dài đến 31/1, và \"not included ... even for members\" nên thành viên cũng phải trả."
+        }
+      ],
+      "translation": "Bảo tàng Khoa học Ellery\nTrang chủ | Triển lãm | Tham quan | Thành viên | Liên hệ\n\nLên kế hoạch tham quan\n\nGiờ mở cửa: Thứ Ba - Chủ nhật, 9:30 sáng đến 5:00 chiều (đóng cửa thứ Hai). Vào thứ Năm đầu tiên của mỗi tháng, bảo tàng mở cửa đến 9:00 tối.\n\nVé vào cửa: Người lớn $18; Người cao tuổi (65+) $14; Trẻ em 4-12 tuổi $10; Trẻ dưới 4 tuổi miễn phí. Thành viên được vào cửa miễn phí.\n\nĐường đến: Bảo tàng cách ga tàu điện ngầm Ellery Park năm phút đi bộ. Khách đi ô tô có thể dùng bãi đỗ xe ngầm trên đại lộ Dorset; xuất trình vé vào cửa tại quầy thông tin để được giảm phí gửi xe còn $6 cả ngày.\n\nTham quan theo đoàn: Đoàn từ 15 người trở lên được giảm 20% giá vé nhưng phải đặt trước ít nhất hai tuần qua số 555-0163.\n\nTriển lãm đặc biệt: \"Oceans in Motion\" (Đại dương chuyển động) diễn ra đến ngày 31 tháng 1 tại Phòng trưng bày phía Tây. Vé triển lãm đặc biệt tốn thêm $5 và không bao gồm trong vé vào cửa thông thường, kể cả đối với thành viên."
+    },
+    {
+      "id": "p7-29",
+      "format": "single",
+      "documents": [
+        {
+          "type": "schedule",
+          "title": "Schedule",
+          "text": "Marlowe Engineering - New Employee Orientation\nWeek of January 12, Building C\n\nMonday, Jan. 12, 9:00-11:00 A.M.\nWelcome and company overview - Room 210 - Gloria Sutherland, CEO\n\nMonday, Jan. 12, 1:00-4:00 P.M.\nIT setup: laptops and system accounts - Room 115 - Owen Fitch\n\nTuesday, Jan. 13, 9:00 A.M.-12:00 P.M.\nWorkplace safety training - Lab 3 - Dana Kowal\n\nWednesday, Jan. 14, 10:00-11:30 A.M.\nBenefits and payroll - Room 210 - Liam Ortega\n\nThursday, Jan. 15, 9:00 A.M.-3:00 P.M.\nDepartment visits (lunch provided) - various locations - department managers\n\nNotes:\n- Bring a government-issued photo ID to the IT session so that your building pass can be issued.\n- Closed-toe shoes are required for the safety training.\n- Friday is reserved for meetings with your assigned mentor."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-29-1",
+          "question": "Where will the session on benefits take place?",
+          "options": [
+            "Room 115",
+            "Room 210",
+            "Lab 3",
+            "Building A"
+          ],
+          "answer": 1,
+          "type": "detail",
+          "explanation": "Buổi \"Benefits and payroll\" (thứ Tư) diễn ra tại Room 210. Room 115 là buổi IT; Lab 3 là buổi an toàn lao động; toàn bộ chương trình ở Building C."
+        },
+        {
+          "id": "p7-29-2",
+          "question": "What should new employees bring on Monday afternoon?",
+          "options": [
+            "A laptop",
+            "Safety shoes",
+            "Photo identification",
+            "Their own lunch"
+          ],
+          "answer": 2,
+          "type": "detail",
+          "explanation": "Chiều thứ Hai là buổi IT setup; ghi chú yêu cầu \"Bring a government-issued photo ID to the IT session\". Laptop được cấp trong buổi này; giày kín mũi dành cho buổi an toàn (thứ Ba); bữa trưa được cung cấp vào thứ Năm."
+        },
+        {
+          "id": "p7-29-3",
+          "question": "What is suggested about the Thursday activity?",
+          "options": [
+            "It is the shortest session of the week.",
+            "It will be led by the CEO.",
+            "It takes place in Lab 3.",
+            "Participants will not need to bring a meal."
+          ],
+          "answer": 3,
+          "type": "inference",
+          "explanation": "Thứ Năm có ghi \"(lunch provided)\" → nhân viên không cần mang đồ ăn. Đây là buổi dài nhất (6 tiếng); do các trưởng phòng dẫn, không phải CEO; diễn ra ở nhiều địa điểm khác nhau."
+        }
+      ],
+      "translation": "Marlowe Engineering - Định hướng cho nhân viên mới\nTuần bắt đầu ngày 12 tháng 1, Tòa nhà C\n\nThứ Hai, 12/1, 9:00-11:00 sáng\nChào mừng và giới thiệu tổng quan công ty - Phòng 210 - Gloria Sutherland, Giám đốc điều hành\n\nThứ Hai, 12/1, 1:00-4:00 chiều\nThiết lập CNTT: máy tính xách tay và tài khoản hệ thống - Phòng 115 - Owen Fitch\n\nThứ Ba, 13/1, 9:00 sáng-12:00 trưa\nĐào tạo an toàn lao động - Phòng thí nghiệm 3 - Dana Kowal\n\nThứ Tư, 14/1, 10:00-11:30 sáng\nPhúc lợi và tiền lương - Phòng 210 - Liam Ortega\n\nThứ Năm, 15/1, 9:00 sáng-3:00 chiều\nTham quan các phòng ban (có cung cấp bữa trưa) - nhiều địa điểm - các trưởng phòng\n\nGhi chú:\n- Mang theo giấy tờ tùy thân có ảnh do nhà nước cấp đến buổi CNTT để được cấp thẻ ra vào tòa nhà.\n- Bắt buộc mang giày kín mũi khi tham gia buổi đào tạo an toàn.\n- Thứ Sáu dành cho các buổi gặp với người hướng dẫn được phân công."
+    },
+    {
+      "id": "p7-30",
+      "format": "single",
+      "documents": [
+        {
+          "type": "memo",
+          "title": "Memo",
+          "text": "MEMO\nTo: All employees, Ridgeline Software\nFrom: Arthur Benning, Office Manager\nDate: August 4\nSubject: Kitchen renovation\n\nThe second-floor kitchen will be closed for renovation from August 11 to August 22. [1] During this time, the refrigerators will be emptied and unplugged, so please remove any personal food items by 5:00 P.M. on Friday, August 8. Anything left after that time will be thrown away.\n\nWhile the work is under way, employees may use the kitchen on the fourth floor, which will be stocked with extra coffee and tea supplies. [2] We have also arranged for a microwave to be placed temporarily in the third-floor break room.\n\nWhen the kitchen reopens, it will feature a larger refrigerator, a second sink, and a dishwasher. [3] To keep the new space clean, we will introduce a cleaning schedule, with each department taking responsibility for one week at a time. [4] Details will be shared later this month.\n\nThank you for your cooperation."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-30-1",
+          "question": "What is the purpose of the memo?",
+          "options": [
+            "To announce the temporary closure of a facility",
+            "To request ideas for a kitchen design",
+            "To introduce a new office manager",
+            "To announce a change in working hours"
+          ],
+          "answer": 0,
+          "type": "main-idea",
+          "explanation": "Câu đầu: bếp tầng hai \"will be closed for renovation from August 11 to August 22\" → thông báo tạm đóng cửa một khu vực. Bản ghi nhớ không xin ý tưởng thiết kế, không giới thiệu quản lý mới, không đổi giờ làm."
+        },
+        {
+          "id": "p7-30-2",
+          "question": "By when must employees remove their food from the refrigerators?",
+          "options": [
+            "August 4",
+            "August 8",
+            "August 11",
+            "August 22"
+          ],
+          "answer": 1,
+          "type": "detail",
+          "explanation": "\"please remove any personal food items by 5:00 P.M. on Friday, August 8\". 4/8 là ngày ra bản ghi nhớ; 11/8 và 22/8 là ngày bắt đầu và kết thúc cải tạo."
+        },
+        {
+          "id": "p7-30-3",
+          "question": "What is NOT mentioned as a feature of the renovated kitchen?",
+          "options": [
+            "A dishwasher",
+            "An additional sink",
+            "A larger refrigerator",
+            "A new coffee machine"
+          ],
+          "answer": 3,
+          "type": "not-true",
+          "explanation": "Bếp mới sẽ có \"a larger refrigerator, a second sink, and a dishwasher\". Máy pha cà phê mới không được nhắc đến (cà phê chỉ được bổ sung ở bếp tầng bốn trong thời gian sửa chữa)."
+        },
+        {
+          "id": "p7-30-4",
+          "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n\"Because that floor is also used by visiting clients, please keep noise to a minimum there.\"",
+          "options": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "answer": 1,
+          "type": "sentence-insertion",
+          "explanation": "\"That floor\" phải chỉ một tầng vừa được nhắc đến mà nhân viên sẽ đến dùng tạm → bếp tầng bốn ở câu ngay trước [2]. Ở [1] câu đứng sau thông tin bếp tầng hai bị đóng (không ai dùng); ở [3] và [4] đang nói về tiện nghi và lịch dọn dẹp của bếp mới."
+        }
+      ],
+      "translation": "BẢN GHI NHỚ\nGửi: Toàn thể nhân viên, Ridgeline Software\nTừ: Arthur Benning, Quản lý văn phòng\nNgày: 4 tháng 8\nTiêu đề: Cải tạo khu bếp\n\nBếp tầng hai sẽ đóng cửa để cải tạo từ ngày 11 đến ngày 22 tháng 8. [1] Trong thời gian này, tủ lạnh sẽ được dọn trống và rút điện, vì vậy vui lòng lấy hết đồ ăn cá nhân trước 5:00 chiều thứ Sáu, ngày 8 tháng 8. Mọi thứ còn lại sau thời điểm đó sẽ bị bỏ đi.\n\nTrong khi công việc đang tiến hành, nhân viên có thể dùng bếp ở tầng bốn, nơi sẽ được bổ sung thêm cà phê và trà. [2] Chúng tôi cũng đã sắp xếp đặt tạm một lò vi sóng ở phòng nghỉ tầng ba.\n\nKhi mở cửa trở lại, bếp sẽ có tủ lạnh lớn hơn, bồn rửa thứ hai và máy rửa bát. [3] Để giữ không gian mới sạch sẽ, chúng tôi sẽ áp dụng lịch dọn dẹp, mỗi phòng ban phụ trách một tuần theo lượt. [4] Chi tiết sẽ được thông báo vào cuối tháng này.\n\nCảm ơn sự hợp tác của mọi người.\n\n(Câu cần chèn: \"Vì tầng đó cũng được khách hàng đến thăm sử dụng, vui lòng giữ yên lặng tối đa ở đó.\")"
+    },
+    {
+      "id": "p7-31",
+      "format": "single",
+      "documents": [
+        {
+          "type": "letter",
+          "title": "Letter",
+          "text": "Department of Licensing\nCity of Brantwood\n300 Civic Plaza, Brantwood\n\nJuly 2\n\nMs. Yasmin Haddad\nOlive & Thyme Café\n58 Market Lane\nBrantwood\n\nDear Ms. Haddad,\n\nWe are pleased to inform you that your application for an outdoor seating permit has been approved. The permit allows you to place up to six tables and 24 chairs on the sidewalk in front of your café between April 1 and October 31 each year. The permit is valid for two years from the date of this letter.\n\nPlease note the following conditions. A clear path at least 1.5 meters wide must be kept open for pedestrians at all times, and all furniture must be brought indoors when the café is closed. Outdoor service must end by 10:00 P.M.\n\nYour permit certificate is enclosed. It must be displayed in a front window where it can be easily seen from the street. To renew the permit, submit a renewal form at least 30 days before it expires.\n\nSincerely,\nMartin Okonkwo\nPermit Officer"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-31-1",
+          "question": "Why was the letter sent?",
+          "options": [
+            "To approve a request",
+            "To announce a new tax",
+            "To request payment of a fine",
+            "To invite Ms. Haddad to a meeting"
+          ],
+          "answer": 0,
+          "type": "main-idea",
+          "explanation": "\"your application for an outdoor seating permit has been approved\" → thư thông báo chấp thuận đơn xin phép. Không có thuế mới, tiền phạt hay lời mời họp."
+        },
+        {
+          "id": "p7-31-2",
+          "question": "What is Ms. Haddad required to do?",
+          "options": [
+            "Close the café by 10:00 P.M.",
+            "Display a document where it is clearly visible",
+            "Limit outdoor seating to six chairs",
+            "Bring the furniture indoors only in winter"
+          ],
+          "answer": 1,
+          "type": "detail",
+          "explanation": "Giấy phép \"must be displayed in a front window where it can be easily seen from the street\". Chỉ phục vụ ngoài trời phải kết thúc lúc 10 giờ tối, không bắt đóng cửa quán; được phép 6 bàn và 24 ghế; đồ đạc phải mang vào mỗi khi quán đóng cửa, không chỉ mùa đông."
+        },
+        {
+          "id": "p7-31-3",
+          "question": "What is indicated about the permit?",
+          "options": [
+            "It must be renewed every year.",
+            "It allows outdoor service until midnight.",
+            "It covers the period from April to October.",
+            "It was issued for a café on Civic Plaza."
+          ],
+          "answer": 2,
+          "type": "detail",
+          "explanation": "Giấy phép cho đặt bàn ghế \"between April 1 and October 31 each year\". Giấy phép có hiệu lực hai năm; phục vụ ngoài trời đến 10 giờ tối; quán ở 58 Market Lane, còn Civic Plaza là địa chỉ của Sở cấp phép."
+        }
+      ],
+      "translation": "Sở Cấp phép\nThành phố Brantwood\n300 Civic Plaza, Brantwood\n\nNgày 2 tháng 7\n\nBà Yasmin Haddad\nQuán cà phê Olive & Thyme\n58 Market Lane\nBrantwood\n\nKính gửi bà Haddad,\n\nChúng tôi vui mừng thông báo rằng đơn xin giấy phép đặt chỗ ngồi ngoài trời của bà đã được chấp thuận. Giấy phép cho phép bà đặt tối đa sáu bàn và 24 ghế trên vỉa hè trước quán từ ngày 1 tháng 4 đến ngày 31 tháng 10 hằng năm. Giấy phép có hiệu lực hai năm kể từ ngày của thư này.\n\nXin lưu ý các điều kiện sau. Phải luôn chừa một lối đi trống rộng ít nhất 1,5 mét cho người đi bộ, và mọi bàn ghế phải được mang vào trong khi quán đóng cửa. Việc phục vụ ngoài trời phải kết thúc trước 10:00 tối.\n\nGiấy chứng nhận giấy phép được gửi kèm theo thư. Giấy này phải được trưng bày ở cửa sổ phía trước, nơi có thể dễ dàng nhìn thấy từ ngoài đường. Để gia hạn giấy phép, hãy nộp mẫu đơn gia hạn ít nhất 30 ngày trước khi giấy phép hết hạn.\n\nTrân trọng,\nMartin Okonkwo\nCán bộ cấp phép"
+    },
+    {
+      "id": "p7-32",
+      "format": "double",
+      "documents": [
+        {
+          "type": "advertisement",
+          "title": "Advertisement",
+          "text": "FixPoint Device Repair\n\nCracked screen? Battery that won't hold a charge? FixPoint's certified technicians can repair most phones, tablets, and laptops on the same day.\n\nStandard pricing:\n- Phone screen replacement: $89\n- Phone battery replacement: $59\n- Laptop battery replacement: $119\n- Laptop keyboard replacement: $139\n- Data recovery: from $150\n\nAll repairs come with a 90-day warranty on parts and labor. Repairs are usually completed within three hours; laptop keyboard replacements may take up to two business days because parts must be ordered.\n\nVisit us at 230 Lowell Avenue (next to Corbin Bank), open Monday to Saturday, 10 A.M. to 7 P.M. Students with a valid ID receive 15% off any repair."
+        },
+        {
+          "type": "email",
+          "title": "E-mail",
+          "text": "From: Naomi Petrakis <npetrakis@fernmail.com>\nTo: service@fixpointrepair.com\nDate: November 3\nSubject: Repair follow-up\n\nHello,\n\nOn October 28, I brought my laptop to your shop because several keys had stopped working. The technician, Mr. Delacroix, told me the repair would be ready on October 30, and it was. As a graduate student at Hensley University, I showed my student card and received the discount, which I appreciated.\n\nUnfortunately, yesterday the \"E\" and \"R\" keys stopped responding again. Since the repair was done less than a week ago, I assume this is covered. Could you tell me whether I need to make an appointment, or whether I can simply bring the laptop in? I am available any weekday after 4 P.M.\n\nThank you,\nNaomi Petrakis"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-32-1",
+          "question": "What is indicated about FixPoint Device Repair?",
+          "options": [
+            "It is closed on Sundays.",
+            "It has several locations.",
+            "It sells new laptops.",
+            "It offers repairs at customers' homes."
+          ],
+          "answer": 0,
+          "type": "detail",
+          "explanation": "Quảng cáo: \"open Monday to Saturday\" → Chủ nhật đóng cửa. Chỉ có một địa chỉ (230 Lowell Avenue); không nhắc đến bán laptop mới hay sửa tại nhà."
+        },
+        {
+          "id": "p7-32-2",
+          "question": "How much did Ms. Petrakis most likely pay for her repair?",
+          "options": [
+            "$101.15",
+            "$118.15",
+            "$119.00",
+            "$139.00"
+          ],
+          "answer": 1,
+          "type": "cross-reference",
+          "explanation": "E-mail: bàn phím bị hỏng phím → thay bàn phím laptop giá $139 (quảng cáo). Cô xuất trình thẻ sinh viên nên được giảm 15%: $139 x 0.85 = $118.15. $101.15 là giá thay pin ($119) sau giảm; $119 và $139 là giá chưa giảm."
+        },
+        {
+          "id": "p7-32-3",
+          "question": "What is suggested about Ms. Petrakis's repair?",
+          "options": [
+            "It was completed within three hours.",
+            "It was done by the store manager.",
+            "It required parts to be ordered.",
+            "It was not covered by a warranty."
+          ],
+          "answer": 2,
+          "type": "cross-reference",
+          "explanation": "Cô gửi máy ngày 28/10, nhận ngày 30/10 (hai ngày). Quảng cáo giải thích thay bàn phím \"may take up to two business days because parts must be ordered\" → sửa chữa cần đặt linh kiện. Không xong trong 3 giờ; Mr. Delacroix là kỹ thuật viên; mọi sửa chữa đều có bảo hành 90 ngày."
+        },
+        {
+          "id": "p7-32-4",
+          "question": "Why did Ms. Petrakis write the e-mail?",
+          "options": [
+            "To complain about a technician's behavior",
+            "To request a full refund",
+            "To ask about a student discount",
+            "To ask how to have a problem fixed again"
+          ],
+          "answer": 3,
+          "type": "main-idea",
+          "explanation": "Phím E và R lại hỏng; cô hỏi \"whether I need to make an appointment, or whether I can simply bring the laptop in\" → hỏi cách để được sửa lại. Cô không phàn nàn về kỹ thuật viên, không đòi hoàn tiền; cô đã nhận giảm giá sinh viên rồi."
+        },
+        {
+          "id": "p7-32-5",
+          "question": "When will Ms. Petrakis most likely be able to visit the shop?",
+          "options": [
+            "On a Sunday morning",
+            "On a weekday between 4 and 7 P.M.",
+            "On a weekday before 10 A.M.",
+            "Only on a Saturday"
+          ],
+          "answer": 1,
+          "type": "cross-reference",
+          "explanation": "Cô rảnh \"any weekday after 4 P.M.\"; cửa hàng mở đến 7 giờ tối → khoảng 4-7 giờ chiều các ngày trong tuần. Chủ nhật cửa hàng đóng; trước 10 giờ sáng cửa hàng chưa mở và cô bận; cô không nói chỉ rảnh thứ Bảy."
+        }
+      ],
+      "translation": "FixPoint - Sửa chữa thiết bị\n\nMàn hình bị nứt? Pin không giữ được điện? Các kỹ thuật viên có chứng chỉ của FixPoint có thể sửa hầu hết điện thoại, máy tính bảng và laptop ngay trong ngày.\n\nBảng giá tiêu chuẩn:\n- Thay màn hình điện thoại: $89\n- Thay pin điện thoại: $59\n- Thay pin laptop: $119\n- Thay bàn phím laptop: $139\n- Khôi phục dữ liệu: từ $150\n\nMọi sửa chữa đều được bảo hành 90 ngày cho linh kiện và công thợ. Việc sửa chữa thường hoàn tất trong vòng ba giờ; thay bàn phím laptop có thể mất đến hai ngày làm việc vì phải đặt linh kiện.\n\nHãy đến với chúng tôi tại 230 Lowell Avenue (cạnh ngân hàng Corbin), mở cửa từ thứ Hai đến thứ Bảy, 10 giờ sáng đến 7 giờ tối. Sinh viên có thẻ hợp lệ được giảm 15% cho mọi sửa chữa.\n\nTừ: Naomi Petrakis\nĐến: service@fixpointrepair.com\nNgày: 3 tháng 11\nTiêu đề: Theo dõi sửa chữa\n\nXin chào,\n\nNgày 28 tháng 10, tôi mang laptop đến cửa hàng của quý vị vì một số phím đã ngừng hoạt động. Kỹ thuật viên, anh Delacroix, nói máy sẽ sửa xong vào ngày 30 tháng 10, và đúng như vậy. Là nghiên cứu sinh của Đại học Hensley, tôi đã xuất trình thẻ sinh viên và được giảm giá, điều mà tôi rất cảm kích.\n\nThật không may, hôm qua phím \"E\" và \"R\" lại không phản hồi nữa. Vì việc sửa chữa mới thực hiện chưa đầy một tuần, tôi cho rằng trường hợp này được bảo hành. Quý vị có thể cho tôi biết tôi cần đặt lịch hẹn hay chỉ cần mang laptop đến không? Tôi rảnh vào bất kỳ ngày thường nào sau 4 giờ chiều.\n\nCảm ơn,\nNaomi Petrakis"
+    },
+    {
+      "id": "p7-33",
+      "format": "double",
+      "documents": [
+        {
+          "type": "notice",
+          "title": "Notice",
+          "text": "Greener Ashby Volunteer Day\nSaturday, April 26\n\nJoin the Ashby Parks Department and your neighbors for our annual tree-planting day! This year we will plant 200 young trees in three locations:\n\n- Millbrook Park (north entrance): 9:00 A.M. - 12:00 P.M.\n- Ashby Riverside Trail (Pier Street access): 9:30 A.M. - 12:00 P.M.\n- Carver Elementary School grounds: 1:00 P.M. - 4:00 P.M.\n\nGloves, shovels, and water will be provided. Volunteers should wear sturdy shoes and clothing that can get dirty. Volunteers under 16 must be accompanied by an adult.\n\nTo sign up, e-mail coordinator Rebecca Thornton at rthornton@ashbyparks.org by April 18 and indicate which location you prefer. Every volunteer will receive a free T-shirt, and lunch will be served at noon at the Riverside Trail site."
+        },
+        {
+          "type": "email",
+          "title": "E-mail",
+          "text": "From: Samuel Ferreira <sferreira@quillnet.com>\nTo: Rebecca Thornton <rthornton@ashbyparks.org>\nDate: April 15\nSubject: Volunteer Day\n\nDear Ms. Thornton,\n\nI would like to volunteer for Greener Ashby Volunteer Day along with my two children, ages 12 and 14. Because my daughter has a swimming lesson that morning, we cannot arrive anywhere before 12:30 P.M. Please sign the three of us up for whichever location fits our schedule.\n\nAlso, I run a small hardware store on Pier Street, and I would be happy to lend ten wheelbarrows for the day if they would be useful. Just let me know where they should be delivered.\n\nBest regards,\nSamuel Ferreira"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-33-1",
+          "question": "What is the purpose of the notice?",
+          "options": [
+            "To recruit people for a community project",
+            "To announce the opening of a park",
+            "To advertise a gardening store",
+            "To request donations of trees"
+          ],
+          "answer": 0,
+          "type": "main-idea",
+          "explanation": "Thông báo kêu gọi \"Join the Ashby Parks Department and your neighbors for our annual tree-planting day\" và hướng dẫn đăng ký → tuyển tình nguyện viên cho hoạt động cộng đồng. Không có công viên mới khai trương, không quảng cáo cửa hàng, không xin quyên góp cây."
+        },
+        {
+          "id": "p7-33-2",
+          "question": "What is NOT provided to volunteers?",
+          "options": [
+            "Gloves",
+            "A T-shirt",
+            "Transportation",
+            "Water"
+          ],
+          "answer": 2,
+          "type": "not-true",
+          "explanation": "Thông báo nêu găng tay, xẻng, nước uống, áo phông miễn phí và bữa trưa. Phương tiện đi lại không được nhắc đến."
+        },
+        {
+          "id": "p7-33-3",
+          "question": "Where will Mr. Ferreira most likely volunteer?",
+          "options": [
+            "Millbrook Park",
+            "Ashby Riverside Trail",
+            "The Ashby Parks Department office",
+            "Carver Elementary School"
+          ],
+          "answer": 3,
+          "type": "cross-reference",
+          "explanation": "Ông Ferreira không thể đến trước 12:30 chiều. Theo thông báo, Millbrook Park (9:00-12:00) và Riverside Trail (9:30-12:00) đều kết thúc trước giờ đó; chỉ trường Carver (1:00-4:00 chiều) phù hợp. Văn phòng Sở Công viên không phải địa điểm trồng cây."
+        },
+        {
+          "id": "p7-33-4",
+          "question": "What is suggested about Mr. Ferreira's children?",
+          "options": [
+            "They must be accompanied by an adult.",
+            "They have volunteered before.",
+            "They will eat lunch at the Riverside Trail site.",
+            "They attend Carver Elementary School."
+          ],
+          "answer": 0,
+          "type": "cross-reference",
+          "explanation": "Hai con 12 và 14 tuổi; thông báo quy định \"Volunteers under 16 must be accompanied by an adult\" → các em phải có người lớn đi cùng (và ông Ferreira sẽ đi cùng). Bữa trưa phục vụ lúc 12 giờ, trước khi họ đến được; không có thông tin các em từng tham gia hay học ở trường Carver."
+        },
+        {
+          "id": "p7-33-5",
+          "question": "What does Mr. Ferreira offer to do?",
+          "options": [
+            "Donate some trees",
+            "Lend some equipment",
+            "Provide lunch",
+            "Lead a group of volunteers"
+          ],
+          "answer": 1,
+          "type": "detail",
+          "explanation": "\"I would be happy to lend ten wheelbarrows for the day\" → cho mượn thiết bị (xe cút kít). Ông không đề nghị tặng cây, cung cấp bữa trưa hay dẫn nhóm."
+        }
+      ],
+      "translation": "Ngày tình nguyện Ashby Xanh hơn\nThứ Bảy, 26 tháng 4\n\nHãy cùng Sở Công viên Ashby và hàng xóm tham gia ngày trồng cây thường niên! Năm nay chúng ta sẽ trồng 200 cây non tại ba địa điểm:\n\n- Công viên Millbrook (cổng phía bắc): 9:00 sáng - 12:00 trưa\n- Đường mòn ven sông Ashby (lối vào phố Pier): 9:30 sáng - 12:00 trưa\n- Sân trường Tiểu học Carver: 1:00 chiều - 4:00 chiều\n\nGăng tay, xẻng và nước uống sẽ được cung cấp. Tình nguyện viên nên mang giày chắc chắn và mặc quần áo có thể bị bẩn. Tình nguyện viên dưới 16 tuổi phải có người lớn đi kèm.\n\nĐể đăng ký, hãy gửi e-mail cho điều phối viên Rebecca Thornton tại rthornton@ashbyparks.org trước ngày 18 tháng 4 và cho biết địa điểm bạn muốn. Mỗi tình nguyện viên sẽ nhận được một áo phông miễn phí, và bữa trưa sẽ được phục vụ lúc 12 giờ trưa tại điểm Đường mòn ven sông.\n\nTừ: Samuel Ferreira\nĐến: Rebecca Thornton\nNgày: 15 tháng 4\nTiêu đề: Ngày tình nguyện\n\nKính gửi bà Thornton,\n\nTôi muốn tham gia Ngày tình nguyện Ashby Xanh hơn cùng hai con tôi, 12 và 14 tuổi. Vì con gái tôi có buổi học bơi vào sáng hôm đó, chúng tôi không thể đến bất kỳ địa điểm nào trước 12:30 chiều. Xin hãy đăng ký cho ba chúng tôi ở địa điểm nào phù hợp với lịch của chúng tôi.\n\nNgoài ra, tôi có một cửa hàng đồ kim khí nhỏ trên phố Pier và rất sẵn lòng cho mượn mười chiếc xe cút kít trong ngày hôm đó nếu chúng hữu ích. Chỉ cần cho tôi biết cần giao chúng đến đâu.\n\nTrân trọng,\nSamuel Ferreira"
+    },
+    {
+      "id": "p7-34",
+      "format": "double",
+      "documents": [
+        {
+          "type": "web-page",
+          "title": "Web page",
+          "text": "Parcelwise Shipping - Domestic Rates\n\nService: Economy - Delivery: 5-7 business days - Up to 5 kg: $9.50 - Each additional kg: $1.00\nService: Standard - Delivery: 3-4 business days - Up to 5 kg: $14.00 - Each additional kg: $1.50\nService: Express - Delivery: next business day - Up to 5 kg: $27.00 - Each additional kg: $3.00\nService: Saturday Express - Delivery: next day, including Saturdays - Up to 5 kg: $35.00 - Each additional kg: $3.00\n\n- Tracking is included with all services except Economy.\n- Packages over 30 kg must be shipped as freight; please call 555-0110 for a quote.\n- Insurance for contents worth up to $500 is available for $4 per package.\n- Drop off packages at any Parcelwise counter by 5:00 P.M. for same-day processing."
+        },
+        {
+          "type": "email",
+          "title": "E-mail",
+          "text": "From: Gemma Lindqvist <glindqvist@harrowceramics.com>\nTo: support@parcelwise.com\nDate: Thursday, May 8\nSubject: Shipping question\n\nHello,\n\nI own a small pottery studio and need to send a set of handmade bowls to a customer who is using them at an event this weekend. The package must arrive by Friday, May 9. The box weighs 7 kg, and I will drop it off at your Fenton Road counter at about 3:00 P.M. today.\n\nBecause the bowls are fragile and the order is worth $420, I would like to insure the package. I also need to be able to check where it is at any time, since my customer is anxious about the delivery. Could you tell me which service I should choose and what the total cost will be?\n\nThank you,\nGemma Lindqvist"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-34-1",
+          "question": "What is indicated about the Economy service?",
+          "options": [
+            "It does not include tracking.",
+            "It is limited to packages of 5 kg.",
+            "It takes 3-4 business days.",
+            "It is available only on weekdays."
+          ],
+          "answer": 0,
+          "type": "detail",
+          "explanation": "\"Tracking is included with all services except Economy\" → Economy không có theo dõi. Mức 5 kg chỉ là mức giá cơ bản (có giá cho mỗi kg thêm); Economy mất 5-7 ngày; không có thông tin chỉ giao ngày thường."
+        },
+        {
+          "id": "p7-34-2",
+          "question": "Who most likely is Ms. Lindqvist?",
+          "options": [
+            "A Parcelwise employee",
+            "A studio owner",
+            "An event planner",
+            "A delivery driver"
+          ],
+          "answer": 1,
+          "type": "inference",
+          "explanation": "\"I own a small pottery studio\" → bà là chủ xưởng gốm. Bà gửi e-mail cho Parcelwise nên không phải nhân viên ở đó; người tổ chức sự kiện là khách hàng của bà."
+        },
+        {
+          "id": "p7-34-3",
+          "question": "Which service should Ms. Lindqvist most likely choose?",
+          "options": [
+            "Economy",
+            "Standard",
+            "Express",
+            "Freight"
+          ],
+          "answer": 2,
+          "type": "cross-reference",
+          "explanation": "Bà gửi hàng thứ Năm (8/5) trước 5 giờ chiều và cần hàng đến trước thứ Sáu (9/5) → cần dịch vụ \"next business day\" là Express. Economy và Standard quá chậm (và Economy không có theo dõi); Freight dành cho kiện trên 30 kg, trong khi kiện của bà chỉ 7 kg."
+        },
+        {
+          "id": "p7-34-4",
+          "question": "What will be the total cost of Ms. Lindqvist's shipment, including insurance?",
+          "options": [
+            "$31.00",
+            "$33.00",
+            "$35.00",
+            "$37.00"
+          ],
+          "answer": 3,
+          "type": "cross-reference",
+          "explanation": "Express: $27 cho 5 kg đầu + 2 kg thêm x $3 = $33; cộng bảo hiểm $4 (hàng trị giá $420, dưới $500) → $37. $33 là chưa có bảo hiểm; $31 là $27 + $4 mà quên phí kg thêm; $35 là giá cơ bản Saturday Express."
+        },
+        {
+          "id": "p7-34-5",
+          "question": "What is suggested about Ms. Lindqvist's package?",
+          "options": [
+            "It will be processed on the same day.",
+            "It weighs more than 30 kg.",
+            "Its contents are worth more than $500.",
+            "It will be delivered on Saturday."
+          ],
+          "answer": 0,
+          "type": "cross-reference",
+          "explanation": "Bà gửi hàng khoảng 3 giờ chiều, trước mốc \"by 5:00 P.M. for same-day processing\" → kiện hàng được xử lý trong ngày. Kiện nặng 7 kg, trị giá $420, và cần đến trước thứ Sáu chứ không phải thứ Bảy."
+        }
+      ],
+      "translation": "Parcelwise Shipping - Bảng giá giao hàng trong nước\n\nDịch vụ: Tiết kiệm - Thời gian giao: 5-7 ngày làm việc - Đến 5 kg: $9.50 - Mỗi kg thêm: $1.00\nDịch vụ: Tiêu chuẩn - Thời gian giao: 3-4 ngày làm việc - Đến 5 kg: $14.00 - Mỗi kg thêm: $1.50\nDịch vụ: Hỏa tốc - Thời gian giao: ngày làm việc kế tiếp - Đến 5 kg: $27.00 - Mỗi kg thêm: $3.00\nDịch vụ: Hỏa tốc thứ Bảy - Thời gian giao: ngày kế tiếp, kể cả thứ Bảy - Đến 5 kg: $35.00 - Mỗi kg thêm: $3.00\n\n- Tất cả dịch vụ đều có theo dõi đơn hàng, trừ dịch vụ Tiết kiệm.\n- Kiện hàng trên 30 kg phải gửi theo dạng hàng hóa vận tải; vui lòng gọi 555-0110 để được báo giá.\n- Bảo hiểm cho hàng hóa trị giá đến $500 có giá $4 mỗi kiện.\n- Gửi kiện hàng tại bất kỳ quầy Parcelwise nào trước 5:00 chiều để được xử lý trong ngày.\n\nTừ: Gemma Lindqvist\nĐến: support@parcelwise.com\nNgày: thứ Năm, 8 tháng 5\nTiêu đề: Câu hỏi về gửi hàng\n\nXin chào,\n\nTôi là chủ một xưởng gốm nhỏ và cần gửi một bộ bát làm thủ công cho một khách hàng sẽ dùng chúng tại một sự kiện vào cuối tuần này. Kiện hàng phải đến trước thứ Sáu, ngày 9 tháng 5. Hộp nặng 7 kg, và tôi sẽ mang đến quầy trên đường Fenton của quý vị vào khoảng 3:00 chiều hôm nay.\n\nVì bát dễ vỡ và đơn hàng trị giá $420, tôi muốn mua bảo hiểm cho kiện hàng. Tôi cũng cần kiểm tra được vị trí của kiện hàng bất cứ lúc nào, vì khách hàng của tôi đang lo lắng về việc giao hàng. Quý vị có thể cho tôi biết nên chọn dịch vụ nào và tổng chi phí là bao nhiêu không?\n\nCảm ơn,\nGemma Lindqvist"
+    },
+    {
+      "id": "p7-35",
+      "format": "double",
+      "documents": [
+        {
+          "type": "article",
+          "title": "Article",
+          "text": "Chamber Opens Nominations for Business Awards\n\nDELMONT (February 3) - The Delmont Chamber of Commerce is now accepting nominations for its annual Business Excellence Awards. Awards will be presented in four categories: New Business of the Year, for companies that have been operating for less than three years; Community Partner, for businesses that have supported local charities or events; Green Business, for companies that have reduced their environmental impact; and Employer of the Year, for businesses with at least 20 employees that offer outstanding workplace benefits.\n\nAnyone may submit a nomination, but businesses may not nominate themselves. Nominations must be submitted online at www.delmontchamber.org/awards by March 14. Finalists will be announced on April 4, and winners will be honored at a dinner at the Grandview Hotel on May 2.\n\n\"Last year we received over 150 nominations,\" said Chamber president Howard Linton. \"We hope to see even more this year.\""
+        },
+        {
+          "type": "email",
+          "title": "E-mail",
+          "text": "From: Teresa Vance <tvance@delmontlibrary.org>\nTo: awards@delmontchamber.org\nDate: March 10\nSubject: Nomination\n\nDear Awards Committee,\n\nI submitted a nomination for Pine & Paper Bookshop through your Web site this morning, but I was unable to attach my supporting letter, so I am sending it with this e-mail.\n\nPine & Paper opened on Kendall Street just eighteen months ago, yet it has already become a gathering place for our town. Its owner, Isaac Brandt, has hosted free weekly story hours for children and has donated more than 400 books to the Delmont Public Library, where I work as head librarian. Last fall, the shop also sponsored our reading festival, which attracted over 2,000 visitors.\n\nPlease let me know if you need any further information.\n\nSincerely,\nTeresa Vance"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-35-1",
+          "question": "What is the article mainly about?",
+          "options": [
+            "The results of a business competition",
+            "A request for award nominations",
+            "The opening of a new hotel",
+            "A change in a chamber's leadership"
+          ],
+          "answer": 1,
+          "type": "main-idea",
+          "explanation": "Tiêu đề và câu đầu: Phòng Thương mại \"is now accepting nominations\" cho giải thưởng → kêu gọi đề cử. Kết quả chưa có (chung kết công bố 4/4); khách sạn Grandview chỉ là nơi tổ chức tiệc; không nói về thay đổi lãnh đạo."
+        },
+        {
+          "id": "p7-35-2",
+          "question": "According to the article, what will happen on April 4?",
+          "options": [
+            "Nominations will close.",
+            "An awards dinner will be held.",
+            "Finalists will be announced.",
+            "A new award category will be added."
+          ],
+          "answer": 2,
+          "type": "detail",
+          "explanation": "\"Finalists will be announced on April 4\". Hạn đề cử là 14/3; tiệc trao giải ngày 2/5; không có hạng mục mới."
+        },
+        {
+          "id": "p7-35-3",
+          "question": "Based on how long it has been operating, for which category is Pine & Paper Bookshop eligible?",
+          "options": [
+            "New Business of the Year",
+            "Community Partner",
+            "Green Business",
+            "Employer of the Year"
+          ],
+          "answer": 0,
+          "type": "cross-reference",
+          "explanation": "E-mail: cửa hàng mới mở \"eighteen months ago\"; bài báo: New Business of the Year dành cho công ty hoạt động \"less than three years\" → đủ điều kiện. Community Partner dựa trên hoạt động hỗ trợ cộng đồng chứ không dựa vào thời gian hoạt động; không có thông tin về môi trường hay số nhân viên."
+        },
+        {
+          "id": "p7-35-4",
+          "question": "What is suggested about Ms. Vance's nomination?",
+          "options": [
+            "It was sent by regular mail.",
+            "It was written by Mr. Brandt.",
+            "It was rejected by the committee.",
+            "It was submitted before the deadline."
+          ],
+          "answer": 3,
+          "type": "cross-reference",
+          "explanation": "Bà nộp đề cử qua website vào sáng 10/3; hạn chót trong bài báo là 14/3 → nộp đúng hạn. Đề cử được gửi trực tuyến; do bà Vance (thủ thư) viết, không phải chủ cửa hàng tự đề cử; không có thông tin bị từ chối."
+        },
+        {
+          "id": "p7-35-5",
+          "question": "What has Mr. Brandt done?",
+          "options": [
+            "He has worked as a librarian.",
+            "He has donated books to a library.",
+            "He has served as Chamber president.",
+            "He has opened a second shop."
+          ],
+          "answer": 1,
+          "type": "detail",
+          "explanation": "\"has donated more than 400 books to the Delmont Public Library\". Người làm thủ thư là bà Vance; chủ tịch Phòng Thương mại là Howard Linton; không nhắc đến cửa hàng thứ hai."
+        }
+      ],
+      "translation": "Phòng Thương mại mở đề cử cho Giải thưởng Doanh nghiệp\n\nDELMONT (3 tháng 2) - Phòng Thương mại Delmont hiện đang nhận đề cử cho Giải thưởng Doanh nghiệp Xuất sắc thường niên. Giải thưởng được trao ở bốn hạng mục: Doanh nghiệp mới của năm, dành cho các công ty hoạt động chưa đến ba năm; Đối tác cộng đồng, dành cho các doanh nghiệp đã hỗ trợ các tổ chức từ thiện hoặc sự kiện địa phương; Doanh nghiệp xanh, dành cho các công ty đã giảm tác động đến môi trường; và Nhà tuyển dụng của năm, dành cho các doanh nghiệp có ít nhất 20 nhân viên với chế độ phúc lợi xuất sắc.\n\nBất kỳ ai cũng có thể gửi đề cử, nhưng doanh nghiệp không được tự đề cử mình. Đề cử phải được nộp trực tuyến tại www.delmontchamber.org/awards trước ngày 14 tháng 3. Danh sách chung kết sẽ được công bố vào ngày 4 tháng 4, và những người chiến thắng sẽ được vinh danh tại bữa tiệc ở khách sạn Grandview vào ngày 2 tháng 5.\n\n\"Năm ngoái chúng tôi nhận được hơn 150 đề cử,\" chủ tịch Phòng Thương mại Howard Linton cho biết. \"Chúng tôi hy vọng năm nay sẽ còn nhiều hơn.\"\n\nTừ: Teresa Vance\nĐến: awards@delmontchamber.org\nNgày: 10 tháng 3\nTiêu đề: Đề cử\n\nKính gửi Ban giải thưởng,\n\nSáng nay tôi đã gửi đề cử cho hiệu sách Pine & Paper qua trang web của quý vị, nhưng tôi không đính kèm được thư giới thiệu, nên tôi gửi thư đó kèm e-mail này.\n\nPine & Paper mở cửa trên phố Kendall mới mười tám tháng trước, nhưng đã trở thành nơi tụ họp của thị trấn chúng ta. Chủ cửa hàng, ông Isaac Brandt, đã tổ chức các buổi kể chuyện miễn phí hằng tuần cho trẻ em và đã tặng hơn 400 cuốn sách cho Thư viện Công cộng Delmont, nơi tôi làm thủ thư trưởng. Mùa thu năm ngoái, hiệu sách còn tài trợ cho lễ hội đọc sách của chúng tôi, thu hút hơn 2.000 khách tham dự.\n\nXin vui lòng cho tôi biết nếu quý vị cần thêm thông tin.\n\nTrân trọng,\nTeresa Vance"
+    },
+    {
+      "id": "p7-36",
+      "format": "double",
+      "documents": [
+        {
+          "type": "email",
+          "title": "E-mail",
+          "text": "From: Victor Almeida <valmeida@trestlelaw.com>\nTo: accounts@verdanceplants.com\nDate: June 3\nSubject: Our account\n\nHello,\n\nTrestle & Moore Law Offices has rented plants from Verdance for two years, and we have been very pleased with the service. However, as we discussed with your representative, Ms. Kiyomi Hart, on May 2, we moved to a smaller office on May 15. We therefore returned the four large floor plants from our former reception area and now keep only the eight desk plants.\n\nMs. Hart told me that our monthly charge would be adjusted starting in June. I would appreciate it if you could confirm this before our next invoice is issued. Also, we would like to change our weekly maintenance visit from Mondays to Thursdays, since our office is closed on Mondays during the summer.\n\nRegards,\nVictor Almeida\nOffice Manager"
+        },
+        {
+          "type": "invoice",
+          "title": "Invoice",
+          "text": "Verdance Plant Services\nInvoice #V-7716\nDate: June 30\nBill to: Trestle & Moore Law Offices, 9 Granger Street, Suite 300\nBilling period: June 1-30\n\nItem - Qty - Unit price - Amount\nLarge floor plant rental - 4 - $30.00 - $120.00\nDesk plant rental - 8 - $12.00 - $96.00\nWeekly maintenance visits (Thursdays) - 4 - $15.00 - $60.00\nTotal due: $276.00\n\nPayment due by July 15. Questions? Contact accounts@verdanceplants.com."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-36-1",
+          "question": "Why did Mr. Almeida write the e-mail?",
+          "options": [
+            "To cancel a rental agreement",
+            "To confirm changes to a service",
+            "To complain about the quality of some plants",
+            "To schedule a meeting with Ms. Hart"
+          ],
+          "answer": 1,
+          "type": "main-idea",
+          "explanation": "Ông nhắc lại việc trả bớt cây, đề nghị xác nhận phí hằng tháng được điều chỉnh và xin đổi ngày bảo dưỡng → xác nhận các thay đổi dịch vụ. Ông vẫn tiếp tục thuê, hài lòng với dịch vụ, và cuộc trao đổi với bà Hart đã diễn ra ngày 2/5."
+        },
+        {
+          "id": "p7-36-2",
+          "question": "What is indicated about Trestle & Moore Law Offices?",
+          "options": [
+            "It recently relocated.",
+            "It is open every day.",
+            "It has just started using Verdance.",
+            "It purchased its plants from Verdance."
+          ],
+          "answer": 0,
+          "type": "detail",
+          "explanation": "\"we moved to a smaller office on May 15\" → mới chuyển văn phòng. Văn phòng đóng cửa thứ Hai vào mùa hè; đã thuê Verdance hai năm; cây là thuê chứ không mua."
+        },
+        {
+          "id": "p7-36-3",
+          "question": "What error does the invoice contain?",
+          "options": [
+            "The maintenance day is incorrect.",
+            "The number of desk plants is incorrect.",
+            "It includes charges for returned plants.",
+            "It shows a due date that has already passed."
+          ],
+          "answer": 2,
+          "type": "cross-reference",
+          "explanation": "E-mail cho biết 4 cây sàn lớn đã được trả lại, nhưng hóa đơn tháng 6 vẫn tính \"Large floor plant rental - 4 - $120.00\" → tính tiền cây đã trả. Ngày bảo dưỡng (thứ Năm) và số cây để bàn (8) đều đúng; hạn 15/7 sau ngày lập hóa đơn 30/6."
+        },
+        {
+          "id": "p7-36-4",
+          "question": "Which of Mr. Almeida's requests has been carried out?",
+          "options": [
+            "His monthly charges have been reduced.",
+            "He has received a discount for being a long-term customer.",
+            "Ms. Hart has visited his new office.",
+            "His maintenance visits have been moved to a different day."
+          ],
+          "answer": 3,
+          "type": "cross-reference",
+          "explanation": "Ông xin đổi lịch bảo dưỡng sang thứ Năm; hóa đơn ghi \"Weekly maintenance visits (Thursdays)\" → yêu cầu này đã được thực hiện. Phí hằng tháng chưa được giảm (vẫn tính 4 cây lớn); không có giảm giá khách hàng lâu năm hay chuyến thăm của bà Hart."
+        },
+        {
+          "id": "p7-36-5",
+          "question": "How much should Trestle & Moore most likely have been charged for June?",
+          "options": [
+            "$120.00",
+            "$156.00",
+            "$216.00",
+            "$276.00"
+          ],
+          "answer": 1,
+          "type": "cross-reference",
+          "explanation": "Bỏ khoản cây sàn lớn đã trả lại ($120): $96 (cây để bàn) + $60 (bảo dưỡng) = $156. $276 là số tiền sai trên hóa đơn; $216 là bỏ phí bảo dưỡng thay vì phí cây lớn; $120 là tiền cây lớn."
+        }
+      ],
+      "translation": "Từ: Victor Almeida\nĐến: accounts@verdanceplants.com\nNgày: 3 tháng 6\nTiêu đề: Tài khoản của chúng tôi\n\nXin chào,\n\nVăn phòng Luật Trestle & Moore đã thuê cây xanh của Verdance trong hai năm và chúng tôi rất hài lòng với dịch vụ. Tuy nhiên, như đã trao đổi với đại diện của quý công ty, bà Kiyomi Hart, vào ngày 2 tháng 5, chúng tôi đã chuyển đến một văn phòng nhỏ hơn vào ngày 15 tháng 5. Vì vậy, chúng tôi đã trả lại bốn cây sàn lớn ở khu lễ tân cũ và hiện chỉ giữ tám cây để bàn.\n\nBà Hart cho tôi biết phí hằng tháng của chúng tôi sẽ được điều chỉnh từ tháng 6. Tôi rất mong quý công ty xác nhận điều này trước khi phát hành hóa đơn tiếp theo. Ngoài ra, chúng tôi muốn đổi buổi bảo dưỡng hằng tuần từ thứ Hai sang thứ Năm, vì văn phòng chúng tôi đóng cửa vào thứ Hai trong mùa hè.\n\nTrân trọng,\nVictor Almeida\nQuản lý văn phòng\n\nVerdance Plant Services (Dịch vụ cây xanh Verdance)\nHóa đơn số V-7716\nNgày: 30 tháng 6\nGửi: Văn phòng Luật Trestle & Moore, 9 phố Granger, Phòng 300\nKỳ thanh toán: 1-30 tháng 6\n\nHạng mục - Số lượng - Đơn giá - Thành tiền\nThuê cây sàn lớn - 4 - $30.00 - $120.00\nThuê cây để bàn - 8 - $12.00 - $96.00\nBảo dưỡng hằng tuần (thứ Năm) - 4 - $15.00 - $60.00\nTổng cộng phải trả: $276.00\n\nHạn thanh toán: 15 tháng 7. Có thắc mắc? Liên hệ accounts@verdanceplants.com."
+    },
+    {
+      "id": "p7-37",
+      "format": "double",
+      "documents": [
+        {
+          "type": "letter",
+          "title": "Letter",
+          "text": "Northern Society of Architects\n112 Halden Street, Corwick\n\nNovember 20\n\nMr. Elias Varga\n47 Thornbury Road\nCorwick\n\nDear Mr. Varga,\n\nYour membership in the Northern Society of Architects expires on December 31. To continue enjoying member benefits, including discounted conference fees, access to our online library of design journals, and our monthly newsletter, please complete the enclosed renewal form.\n\nMembership fees for the coming year are as follows: Associate, $90; Professional, $175; Senior Fellow, $240. Members who have belonged to the Society for ten years or more may choose the Senior Fellow level, which includes two free tickets to our annual gala. Members who renew by December 10 will also receive a complimentary copy of our new book, Corwick: A City in Stone.\n\nWe thank you for your continued support.\n\nSincerely,\nLorraine Healey\nMembership Director"
+        },
+        {
+          "type": "form",
+          "title": "Form",
+          "text": "Northern Society of Architects - Membership Renewal Form\n\nName: Elias Varga\nMember since: 2012\nMembership level: [ ] Associate [ ] Professional [X] Senior Fellow\nPayment method: [X] Credit card [ ] Check\nNewsletter format: [X] Electronic [ ] Printed\nComments: I will be traveling from December 5 to January 8 and will be unable to receive mail at home. Please send any materials to my office at Varga & Lund Design, 3 Pellam Square, Corwick, instead.\nSignature: Elias Varga\nDate: December 3"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-37-1",
+          "question": "What is the purpose of the letter?",
+          "options": [
+            "To remind a member to renew his membership",
+            "To announce an upcoming conference",
+            "To thank a member for a donation",
+            "To introduce a new membership director"
+          ],
+          "answer": 0,
+          "type": "main-idea",
+          "explanation": "Thư báo tư cách hội viên \"expires on December 31\" và đề nghị \"complete the enclosed renewal form\" → nhắc gia hạn. Hội nghị chỉ được nhắc như một quyền lợi; không có khoản quyên góp hay giới thiệu giám đốc mới."
+        },
+        {
+          "id": "p7-37-2",
+          "question": "What is NOT mentioned as a membership benefit?",
+          "options": [
+            "Reduced conference fees",
+            "Access to online journals",
+            "A monthly newsletter",
+            "Free parking at events"
+          ],
+          "answer": 3,
+          "type": "not-true",
+          "explanation": "Quyền lợi được nêu: \"discounted conference fees, access to our online library of design journals, and our monthly newsletter\". Đỗ xe miễn phí không được nhắc đến."
+        },
+        {
+          "id": "p7-37-3",
+          "question": "How much will Mr. Varga pay for his membership?",
+          "options": [
+            "$90",
+            "$175",
+            "$240",
+            "$265"
+          ],
+          "answer": 2,
+          "type": "cross-reference",
+          "explanation": "Phiếu gia hạn chọn \"Senior Fellow\"; theo thư, phí hạng này là $240. $90 và $175 là phí hạng Associate và Professional; $265 không khớp."
+        },
+        {
+          "id": "p7-37-4",
+          "question": "What is suggested about Mr. Varga?",
+          "options": [
+            "He prefers to receive a printed newsletter.",
+            "He has been a member for at least ten years.",
+            "He will pay by check.",
+            "He is employed by the Society."
+          ],
+          "answer": 1,
+          "type": "cross-reference",
+          "explanation": "Thư nói chỉ hội viên từ mười năm trở lên mới được chọn Senior Fellow; ông chọn hạng này và là hội viên từ năm 2012 → đã là hội viên ít nhất mười năm. Ông chọn bản tin điện tử, trả bằng thẻ tín dụng, và làm việc tại Varga & Lund Design."
+        },
+        {
+          "id": "p7-37-5",
+          "question": "What will most likely be sent to Mr. Varga's office?",
+          "options": [
+            "A refund check",
+            "A printed newsletter",
+            "A membership directory",
+            "A copy of a book"
+          ],
+          "answer": 3,
+          "type": "cross-reference",
+          "explanation": "Ông gia hạn ngày 3/12, trước mốc 10/12 nên được tặng cuốn sách \"Corwick: A City in Stone\"; ông yêu cầu gửi mọi tài liệu đến văn phòng → cuốn sách sẽ được gửi đến đó. Ông chọn bản tin điện tử; không có hoàn tiền hay danh bạ hội viên."
+        }
+      ],
+      "translation": "Hiệp hội Kiến trúc sư phương Bắc\n112 phố Halden, Corwick\n\nNgày 20 tháng 11\n\nÔng Elias Varga\n47 đường Thornbury\nCorwick\n\nKính gửi ông Varga,\n\nTư cách hội viên Hiệp hội Kiến trúc sư phương Bắc của ông sẽ hết hạn vào ngày 31 tháng 12. Để tiếp tục hưởng các quyền lợi hội viên, bao gồm giảm phí hội nghị, truy cập thư viện trực tuyến các tạp chí thiết kế và bản tin hằng tháng, xin vui lòng điền vào mẫu gia hạn gửi kèm.\n\nPhí hội viên cho năm tới như sau: Hội viên liên kết, $90; Hội viên chuyên nghiệp, $175; Hội viên cao cấp, $240. Hội viên đã tham gia Hiệp hội từ mười năm trở lên có thể chọn hạng Hội viên cao cấp, bao gồm hai vé miễn phí dự dạ tiệc thường niên. Hội viên gia hạn trước ngày 10 tháng 12 cũng sẽ được tặng một cuốn sách mới của chúng tôi, Corwick: A City in Stone.\n\nCảm ơn ông đã luôn ủng hộ.\n\nTrân trọng,\nLorraine Healey\nGiám đốc Hội viên\n\nHiệp hội Kiến trúc sư phương Bắc - Mẫu gia hạn hội viên\n\nHọ tên: Elias Varga\nHội viên từ: 2012\nHạng hội viên: [ ] Liên kết [ ] Chuyên nghiệp [X] Cao cấp\nPhương thức thanh toán: [X] Thẻ tín dụng [ ] Séc\nĐịnh dạng bản tin: [X] Điện tử [ ] Bản in\nGhi chú: Tôi sẽ đi công tác từ ngày 5 tháng 12 đến ngày 8 tháng 1 và không thể nhận thư tại nhà. Xin vui lòng gửi mọi tài liệu đến văn phòng của tôi tại Varga & Lund Design, 3 quảng trường Pellam, Corwick.\nChữ ký: Elias Varga\nNgày: 3 tháng 12"
+    },
+    {
+      "id": "p7-38",
+      "format": "triple",
+      "documents": [
+        {
+          "type": "web-page",
+          "title": "Web page",
+          "text": "Kellerman Institute - Evening Courses for Professionals (Fall Term)\n\nBusiness Writing Essentials - Mondays - starts September 8 - 6 weeks - $280\nIntroduction to Data Analysis - Tuesdays - starts September 9 - 8 weeks - $420\nNegotiation Skills - Wednesdays - starts September 10 - 5 weeks - $300\nProject Management Basics - Thursdays - starts September 11 - 8 weeks - $390\n\nAll classes meet from 6:30 to 8:30 P.M. at our Halston Avenue campus. Register by August 25 to receive a 10% early-registration discount. Participants who attend all sessions of a course receive a certificate of completion."
+        },
+        {
+          "type": "email",
+          "title": "E-mail",
+          "text": "From: Marisol Quintero\nTo: Douglas Fenn\nDate: August 18\nSubject: Training request\n\nHi Douglas,\n\nAs we discussed in my performance review, I'd like to improve my skills in working with spreadsheets and reports. I found an evening course at the Kellerman Institute that looks ideal. It runs for eight weeks, and the day suits me, since I have my volunteer shift at the animal shelter on Thursday evenings.\n\nOur department's training policy covers up to $400 per employee per year. Since I would register before the early deadline, the fee would fall within that limit. Could you approve this request?\n\nThanks,\nMarisol"
+        },
+        {
+          "type": "email",
+          "title": "E-mail",
+          "text": "From: Douglas Fenn\nTo: Marisol Quintero\nDate: August 19\nSubject: RE: Training request\n\nHi Marisol,\n\nApproved - this is a great choice. Please register through the institute's Web site and submit your receipt to Andrea Kim in Accounting for reimbursement.\n\nOne thing to keep in mind: we're presenting the quarterly results to the board on the evening of September 23, and I'll need you to stay late that day to help set up. You may have to miss that week's class, so check with the instructor about how to catch up.\n\nDouglas"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-38-1",
+          "question": "What is indicated about the Kellerman Institute courses?",
+          "options": [
+            "They are held on weekends.",
+            "They are offered online only.",
+            "They all meet at the same time of day.",
+            "They each last eight weeks."
+          ],
+          "answer": 2,
+          "type": "detail",
+          "explanation": "\"All classes meet from 6:30 to 8:30 P.M.\" → cùng khung giờ. Các lớp học từ thứ Hai đến thứ Năm, tại cơ sở Halston Avenue (không phải chỉ trực tuyến); thời lượng 5, 6 hoặc 8 tuần."
+        },
+        {
+          "id": "p7-38-2",
+          "question": "Which course does Ms. Quintero want to take?",
+          "options": [
+            "Business Writing Essentials",
+            "Negotiation Skills",
+            "Project Management Basics",
+            "Introduction to Data Analysis"
+          ],
+          "answer": 3,
+          "type": "cross-reference",
+          "explanation": "Cô muốn học về bảng tính và báo cáo, khóa 8 tuần, và tối thứ Năm cô bận. Hai khóa 8 tuần là Data Analysis (thứ Ba) và Project Management (thứ Năm) → chọn Introduction to Data Analysis. Hai khóa còn lại không kéo dài 8 tuần."
+        },
+        {
+          "id": "p7-38-3",
+          "question": "How much will Ms. Quintero most likely pay for the course?",
+          "options": [
+            "$351",
+            "$378",
+            "$400",
+            "$420"
+          ],
+          "answer": 1,
+          "type": "cross-reference",
+          "explanation": "Khóa Data Analysis giá $420; cô đăng ký trước 25/8 (e-mail ngày 18-19/8) nên được giảm 10% → $378, nằm trong mức $400 của công ty. $351 là $390 giảm 10% (khóa thứ Năm); $400 là mức trần chính sách; $420 là giá gốc."
+        },
+        {
+          "id": "p7-38-4",
+          "question": "What does Mr. Fenn ask Ms. Quintero to do?",
+          "options": [
+            "Send a receipt to a colleague",
+            "Teach a class at the institute",
+            "Prepare the quarterly results",
+            "Change her volunteer schedule"
+          ],
+          "answer": 0,
+          "type": "detail",
+          "explanation": "\"submit your receipt to Andrea Kim in Accounting for reimbursement\" → gửi biên lai cho đồng nghiệp. Ông chỉ nhờ cô ở lại giúp chuẩn bị buổi trình bày, không phải soạn kết quả quý; không yêu cầu dạy học hay đổi lịch tình nguyện."
+        },
+        {
+          "id": "p7-38-5",
+          "question": "What is suggested about Ms. Quintero?",
+          "options": [
+            "She will start the course on September 23.",
+            "She works in the Accounting department.",
+            "She may not receive a certificate of completion.",
+            "She will need to pay part of the course fee herself."
+          ],
+          "answer": 2,
+          "type": "cross-reference",
+          "explanation": "Ngày 23/9 là thứ Ba (lớp bắt đầu thứ Ba 9/9, cộng 14 ngày) nên cô có thể phải nghỉ một buổi; trang web nói chỉ người \"attend all sessions\" mới nhận chứng chỉ → cô có thể không được nhận. Khóa bắt đầu 9/9; Andrea Kim mới làm ở Kế toán; học phí $378 nằm trong mức công ty chi trả."
+        }
+      ],
+      "translation": "Học viện Kellerman - Các khóa học buổi tối cho người đi làm (Học kỳ mùa thu)\n\nKỹ năng viết thương mại cơ bản - Thứ Hai - bắt đầu 8 tháng 9 - 6 tuần - $280\nNhập môn phân tích dữ liệu - Thứ Ba - bắt đầu 9 tháng 9 - 8 tuần - $420\nKỹ năng đàm phán - Thứ Tư - bắt đầu 10 tháng 9 - 5 tuần - $300\nQuản lý dự án cơ bản - Thứ Năm - bắt đầu 11 tháng 9 - 8 tuần - $390\n\nTất cả các lớp học từ 6:30 đến 8:30 tối tại cơ sở đại lộ Halston. Đăng ký trước ngày 25 tháng 8 để được giảm 10% học phí đăng ký sớm. Học viên tham dự đầy đủ tất cả các buổi của khóa học sẽ nhận được chứng chỉ hoàn thành.\n\nTừ: Marisol Quintero\nĐến: Douglas Fenn\nNgày: 18 tháng 8\nTiêu đề: Đề nghị đào tạo\n\nChào Douglas,\n\nNhư chúng ta đã trao đổi trong buổi đánh giá hiệu suất của tôi, tôi muốn nâng cao kỹ năng làm việc với bảng tính và báo cáo. Tôi đã tìm được một khóa học buổi tối ở Học viện Kellerman có vẻ rất phù hợp. Khóa học kéo dài tám tuần, và ngày học cũng hợp với tôi, vì tối thứ Năm tôi có ca tình nguyện ở trại cứu hộ động vật.\n\nChính sách đào tạo của phòng chúng ta chi trả tối đa $400 cho mỗi nhân viên mỗi năm. Vì tôi sẽ đăng ký trước hạn đăng ký sớm, học phí sẽ nằm trong giới hạn đó. Anh có thể phê duyệt đề nghị này không?\n\nCảm ơn,\nMarisol\n\nTừ: Douglas Fenn\nĐến: Marisol Quintero\nNgày: 19 tháng 8\nTiêu đề: RE: Đề nghị đào tạo\n\nChào Marisol,\n\nĐã duyệt - đây là lựa chọn rất tốt. Hãy đăng ký qua trang web của học viện và nộp biên lai cho Andrea Kim ở phòng Kế toán để được hoàn tiền.\n\nCó một điều cần lưu ý: chúng ta sẽ trình bày kết quả quý trước hội đồng quản trị vào tối ngày 23 tháng 9, và tôi cần cô ở lại muộn hôm đó để giúp chuẩn bị. Có thể cô sẽ phải nghỉ buổi học tuần đó, vì vậy hãy hỏi giảng viên về cách học bù.\n\nDouglas"
+    },
+    {
+      "id": "p7-39",
+      "format": "triple",
+      "documents": [
+        {
+          "type": "advertisement",
+          "title": "Advertisement",
+          "text": "Hollins Home Furnishings - Spring Sale\nMarch 20-31\n\nSave on everything for your home and office!\n- Sofas and armchairs: 25% off\n- Dining tables and chairs: 20% off\n- Office desks and chairs: 30% off\n- Rugs and lighting: 15% off\n\nFree delivery on orders over $500 within 40 kilometers of any of our stores. Assembly is available for $50 per item. Sale prices apply to both in-store and online purchases. Please note that clearance items are final sale and cannot be returned or exchanged."
+        },
+        {
+          "type": "form",
+          "title": "Order confirmation",
+          "text": "Hollins Home Furnishings - Order Confirmation\n\nOrder number: HH-55128\nOrder date: March 24\nCustomer: Kwame Asante\nDelivery address: 18 Fairlight Close, Brindley\n\nItems:\n1 x Ashgrove standing desk (regular price $600) - $420.00\n1 x Ergo-Lite office chair (regular price $250) - $175.00\nAssembly: Ashgrove standing desk - $50.00\nDelivery: Free\nOrder total: $645.00\n\nScheduled delivery: March 29, between 1:00 and 5:00 P.M."
+        },
+        {
+          "type": "email",
+          "title": "E-mail",
+          "text": "From: Kwame Asante <kasante@brindleymail.com>\nTo: customercare@hollinshome.com\nDate: March 30\nSubject: Order HH-55128\n\nHello,\n\nMy order was delivered yesterday as scheduled, and the delivery team was very professional. The chair is excellent, and I am very pleased with it. However, after the desk was assembled, I noticed that one of its legs is deeply scratched along its full length. Since the desk was not a clearance item, I would like to exchange it for an undamaged one.\n\nI work from home, so I can receive a replacement on any weekday. Could you also confirm that I will not be charged again for assembly?\n\nRegards,\nKwame Asante"
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-39-1",
+          "question": "What is NOT offered in the advertisement?",
+          "options": [
+            "Discounts on lighting",
+            "An assembly service",
+            "Free delivery for some orders",
+            "Extended product warranties"
+          ],
+          "answer": 3,
+          "type": "not-true",
+          "explanation": "Quảng cáo có giảm giá đèn (15%), dịch vụ lắp ráp ($50/món) và giao hàng miễn phí cho đơn trên $500. Bảo hành mở rộng không được nhắc đến."
+        },
+        {
+          "id": "p7-39-2",
+          "question": "What discount did Mr. Asante receive on his items?",
+          "options": [
+            "15 percent",
+            "20 percent",
+            "25 percent",
+            "30 percent"
+          ],
+          "answer": 3,
+          "type": "cross-reference",
+          "explanation": "Bàn đứng $600 → $420 và ghế $250 → $175, tức giảm 30%; khớp với mức \"Office desks and chairs: 30% off\" trong quảng cáo. 15%, 20%, 25% là mức giảm của các nhóm hàng khác."
+        },
+        {
+          "id": "p7-39-3",
+          "question": "Why was Mr. Asante not charged for delivery?",
+          "options": [
+            "He used a coupon.",
+            "His order was over $500.",
+            "He picked up the items himself.",
+            "He is a regular customer."
+          ],
+          "answer": 1,
+          "type": "cross-reference",
+          "explanation": "Quảng cáo: \"Free delivery on orders over $500\"; đơn hàng của ông là $645 → được miễn phí giao hàng. Hàng được giao đến nhà nên ông không tự lấy; không có phiếu giảm giá hay thông tin khách quen."
+        },
+        {
+          "id": "p7-39-4",
+          "question": "What problem does Mr. Asante report?",
+          "options": [
+            "His delivery arrived late.",
+            "He received the wrong chair.",
+            "An item is damaged.",
+            "He was charged twice for assembly."
+          ],
+          "answer": 2,
+          "type": "detail",
+          "explanation": "\"one of its legs is deeply scratched along its full length\" → bàn bị hư hỏng. Hàng được giao \"as scheduled\"; ông rất hài lòng với chiếc ghế; ông chỉ hỏi để chắc rằng không bị tính phí lắp ráp lần nữa."
+        },
+        {
+          "id": "p7-39-5",
+          "question": "What is suggested about the Ashgrove standing desk?",
+          "options": [
+            "It can be exchanged.",
+            "It was delivered in the morning.",
+            "It was assembled by Mr. Asante.",
+            "It was bought at a store location."
+          ],
+          "answer": 0,
+          "type": "cross-reference",
+          "explanation": "Quảng cáo chỉ cấm đổi trả hàng thanh lý (clearance); e-mail khẳng định bàn \"was not a clearance item\" → có thể đổi. Hàng giao từ 1-5 giờ chiều; ông trả phí để cửa hàng lắp ráp; không có thông tin mua tại cửa hàng hay trực tuyến."
+        }
+      ],
+      "translation": "Nội thất Hollins - Đợt giảm giá mùa xuân\n20-31 tháng 3\n\nTiết kiệm cho mọi món đồ trong nhà và văn phòng của bạn!\n- Ghế sofa và ghế bành: giảm 25%\n- Bàn ăn và ghế ăn: giảm 20%\n- Bàn và ghế văn phòng: giảm 30%\n- Thảm và đèn: giảm 15%\n\nMiễn phí giao hàng cho đơn trên $500 trong phạm vi 40 km từ bất kỳ cửa hàng nào của chúng tôi. Dịch vụ lắp ráp có giá $50 mỗi món. Giá khuyến mãi áp dụng cho cả mua tại cửa hàng và mua trực tuyến. Xin lưu ý rằng hàng thanh lý không được trả lại hoặc đổi.\n\nNội thất Hollins - Xác nhận đơn hàng\n\nSố đơn hàng: HH-55128\nNgày đặt hàng: 24 tháng 3\nKhách hàng: Kwame Asante\nĐịa chỉ giao hàng: 18 Fairlight Close, Brindley\n\nSản phẩm:\n1 x Bàn đứng Ashgrove (giá gốc $600) - $420.00\n1 x Ghế văn phòng Ergo-Lite (giá gốc $250) - $175.00\nLắp ráp: Bàn đứng Ashgrove - $50.00\nGiao hàng: Miễn phí\nTổng đơn hàng: $645.00\n\nLịch giao hàng: 29 tháng 3, từ 1:00 đến 5:00 chiều.\n\nTừ: Kwame Asante\nĐến: customercare@hollinshome.com\nNgày: 30 tháng 3\nTiêu đề: Đơn hàng HH-55128\n\nXin chào,\n\nĐơn hàng của tôi đã được giao hôm qua đúng lịch, và đội giao hàng rất chuyên nghiệp. Chiếc ghế rất tuyệt và tôi rất hài lòng. Tuy nhiên, sau khi bàn được lắp xong, tôi nhận thấy một chân bàn bị trầy xước sâu suốt chiều dài. Vì bàn không phải hàng thanh lý, tôi muốn đổi lấy một chiếc không bị hư hại.\n\nTôi làm việc tại nhà, nên có thể nhận hàng thay thế vào bất kỳ ngày thường nào. Quý vị cũng có thể xác nhận giúp rằng tôi sẽ không bị tính phí lắp ráp lần nữa không?\n\nTrân trọng,\nKwame Asante"
+    },
+    {
+      "id": "p7-40",
+      "format": "triple",
+      "documents": [
+        {
+          "type": "email",
+          "title": "E-mail",
+          "text": "From: Penelope Strand <pstrand@aldercrest.com>\nTo: Regional sales team\nDate: October 1\nSubject: Visit to the Brockton plant\n\nHi everyone,\n\nAs part of next week's sales meeting, our team will tour Aldercrest's new manufacturing plant in Brockton on Thursday, October 9. A chartered bus will leave from our headquarters at 7:30 A.M. and return by 5:00 P.M. If you would prefer to drive yourself, please note that visitor parking at the plant is limited, so let me know by October 6 so that I can reserve a space for you.\n\nSafety glasses will be provided, but everyone must wear long trousers and closed-toe shoes on the factory floor. Lunch will be served in the plant cafeteria.\n\nPenelope"
+        },
+        {
+          "type": "schedule",
+          "title": "Schedule",
+          "text": "Aldercrest Brockton Plant - Visitor Itinerary\nThursday, October 9\n\n9:00 A.M. - Arrival and welcome (Plant manager Hugo Lindahl)\n9:30 A.M. - Safety briefing\n10:00 A.M. - Tour: Assembly Line A\n11:30 A.M. - Presentation: New product line (Engineering lead Farah Siddiqui)\n12:30 P.M. - Lunch (cafeteria)\n1:30 P.M. - Tour: Packaging and shipping center\n3:00 P.M. - Questions and answers\n3:30 P.M. - Departure"
+        },
+        {
+          "type": "text-message-chain",
+          "title": "Text-message chain",
+          "text": "Owen Gallagher (8:52 A.M.): Penelope, I'm stuck in traffic on Route 9. There was an accident near the Lakeside exit. Looks like I'll be about 40 minutes late.\nPenelope Strand (8:54 A.M.): Thanks for letting me know. Your parking space is reserved under your name, so just show your ID at the gate.\nOwen Gallagher (8:55 A.M.): Great. Will I miss much?\nPenelope Strand (8:57 A.M.): You'll miss the safety briefing, and you can't go onto the assembly floor without it. I'll ask whether someone can give you a quick one when you arrive.\nOwen Gallagher (8:58 A.M.): I'd appreciate that. I really want to see Farah's talk.\nPenelope Strand (8:59 A.M.): No problem there."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p7-40-1",
+          "question": "What is the purpose of the e-mail?",
+          "options": [
+            "To give details about a facility visit",
+            "To announce the opening of a new plant",
+            "To ask for volunteers to drive",
+            "To request feedback about a sales meeting"
+          ],
+          "answer": 0,
+          "type": "main-idea",
+          "explanation": "E-mail thông báo chuyến tham quan nhà máy Brockton ngày 9/10 với thông tin xe buýt, đỗ xe, trang phục, bữa trưa → cung cấp chi tiết về chuyến tham quan. Không phải lễ khai trương; tự lái xe chỉ là lựa chọn, không kêu gọi tình nguyện lái; không xin ý kiến về cuộc họp."
+        },
+        {
+          "id": "p7-40-2",
+          "question": "According to the e-mail, what are visitors required to do?",
+          "options": [
+            "Bring their own safety glasses",
+            "Pack their own lunch",
+            "Wear suitable clothing",
+            "Park in the visitor lot"
+          ],
+          "answer": 2,
+          "type": "detail",
+          "explanation": "\"everyone must wear long trousers and closed-toe shoes on the factory floor\" → mặc trang phục phù hợp. Kính bảo hộ được cung cấp; bữa trưa phục vụ ở căng tin; đa số đi xe buýt nên không bắt buộc đỗ xe."
+        },
+        {
+          "id": "p7-40-3",
+          "question": "What is suggested about Mr. Gallagher?",
+          "options": [
+            "He works at the Brockton plant.",
+            "He took the chartered bus.",
+            "He has visited the plant before.",
+            "He contacted Ms. Strand by October 6."
+          ],
+          "answer": 3,
+          "type": "cross-reference",
+          "explanation": "Ông tự lái xe (kẹt xe trên Route 9) và đã có chỗ đỗ \"reserved under your name\"; e-mail yêu cầu báo trước ngày 6/10 để được giữ chỗ → ông đã liên hệ bà Strand trước hạn đó. Ông là thành viên đội bán hàng đến thăm, không đi xe buýt, và không có thông tin ông từng đến nhà máy."
+        },
+        {
+          "id": "p7-40-4",
+          "question": "At 8:59 A.M., what does Ms. Strand most likely mean when she writes, \"No problem there\"?",
+          "options": [
+            "Ms. Siddiqui will repeat her talk later.",
+            "The safety briefing will be postponed.",
+            "Mr. Gallagher will arrive in time for a presentation.",
+            "Mr. Gallagher does not need to see the assembly line."
+          ],
+          "answer": 2,
+          "type": "intention",
+          "explanation": "Ông muốn xem bài nói của Farah. Lúc 8:52 ông trễ khoảng 40 phút (đến khoảng 9:40), còn theo lịch bài trình bày của Farah Siddiqui là 11:30 → ông kịp dự. Không ai nói bài nói được lặp lại hay buổi an toàn bị hoãn; bà Strand còn tìm cách để ông được hướng dẫn an toàn và vào xem dây chuyền."
+        },
+        {
+          "id": "p7-40-5",
+          "question": "Which activity can Mr. Gallagher join only if he receives a safety briefing on arrival?",
+          "options": [
+            "The new product presentation",
+            "Lunch in the cafeteria",
+            "The question-and-answer session",
+            "The tour of Assembly Line A"
+          ],
+          "answer": 3,
+          "type": "cross-reference",
+          "explanation": "Bà Strand nói ông \"can't go onto the assembly floor without it\" (buổi hướng dẫn an toàn); theo lịch trình, hoạt động trên khu dây chuyền là \"Tour: Assembly Line A\" lúc 10:00. Bài trình bày, bữa trưa và phần hỏi đáp không cần vào khu sản xuất."
+        }
+      ],
+      "translation": "Từ: Penelope Strand\nĐến: Đội kinh doanh khu vực\nNgày: 1 tháng 10\nTiêu đề: Tham quan nhà máy Brockton\n\nChào mọi người,\n\nTrong khuôn khổ cuộc họp kinh doanh tuần tới, đội chúng ta sẽ tham quan nhà máy sản xuất mới của Aldercrest ở Brockton vào thứ Năm, ngày 9 tháng 10. Một xe buýt thuê riêng sẽ khởi hành từ trụ sở chính lúc 7:30 sáng và trở về trước 5:00 chiều. Nếu ai muốn tự lái xe, xin lưu ý chỗ đỗ xe cho khách tại nhà máy có hạn, vì vậy hãy báo cho tôi trước ngày 6 tháng 10 để tôi giữ chỗ cho bạn.\n\nKính bảo hộ sẽ được cung cấp, nhưng mọi người phải mặc quần dài và đi giày kín mũi khi vào khu sản xuất. Bữa trưa sẽ được phục vụ tại căng tin nhà máy.\n\nPenelope\n\nNhà máy Aldercrest Brockton - Lịch trình cho khách tham quan\nThứ Năm, 9 tháng 10\n\n9:00 sáng - Đón tiếp và chào mừng (Giám đốc nhà máy Hugo Lindahl)\n9:30 sáng - Hướng dẫn an toàn\n10:00 sáng - Tham quan: Dây chuyền lắp ráp A\n11:30 sáng - Trình bày: Dòng sản phẩm mới (Trưởng nhóm kỹ thuật Farah Siddiqui)\n12:30 chiều - Ăn trưa (căng tin)\n1:30 chiều - Tham quan: Trung tâm đóng gói và vận chuyển\n3:00 chiều - Hỏi đáp\n3:30 chiều - Ra về\n\nOwen Gallagher (8:52 sáng): Penelope, tôi bị kẹt xe trên Quốc lộ 9. Có tai nạn gần lối ra Lakeside. Có vẻ tôi sẽ trễ khoảng 40 phút.\nPenelope Strand (8:54 sáng): Cảm ơn anh đã báo. Chỗ đỗ xe của anh đã được giữ theo tên anh, chỉ cần xuất trình giấy tờ tùy thân ở cổng.\nOwen Gallagher (8:55 sáng): Tuyệt. Tôi có bỏ lỡ nhiều không?\nPenelope Strand (8:57 sáng): Anh sẽ lỡ buổi hướng dẫn an toàn, mà không có nó thì anh không được vào khu dây chuyền lắp ráp. Tôi sẽ hỏi xem có ai hướng dẫn nhanh cho anh khi anh đến không.\nOwen Gallagher (8:58 sáng): Tôi rất cảm kích. Tôi thực sự muốn nghe bài nói của Farah.\nPenelope Strand (8:59 sáng): Cái đó thì không vấn đề gì."
+    }
+  ]
+}

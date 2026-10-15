@@ -1,0 +1,847 @@
+{
+  "part": 4,
+  "title": "Part 4 - Bài nói ngắn (bộ 2)",
+  "description": "Nghe các bài nói ngắn của một người (thông báo, tin nhắn thoại, quảng cáo, bản tin, hướng dẫn...) và trả lời ba câu hỏi cho mỗi bài. Hãy đọc trước câu hỏi để biết cần tập trung nghe thông tin gì.",
+  "items": [
+    {
+      "id": "p4-11",
+      "title": "Message from a hotel front desk",
+      "type": "voicemail",
+      "speakers": [
+        {
+          "name": "Speaker",
+          "voice": "female"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Speaker",
+          "text": "Hello, this message is for Mr. Thomas Reid. This is Angela calling from the front desk of the Lakeview Grand Hotel. You checked out of room four twelve yesterday morning, and while cleaning the room, our housekeeping staff found a black leather wallet in the desk drawer. We believe it belongs to you, since it contains a business card with your name on it."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "We'd be happy to mail it to your home address. However, because the wallet contains credit cards, we need to send it by registered mail, which costs about twelve dollars. If you prefer, we can keep it here at the front desk until you're able to pick it up in person."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Please call us back at five five five, two one eight, nine four zero zero, and let us know which option you'd like. Thank you, and we hope to welcome you back soon."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p4-11-1",
+          "question": "Where does the speaker work?",
+          "options": [
+            "At a hotel",
+            "At a bank",
+            "At a post office",
+            "At a restaurant"
+          ],
+          "answer": 0,
+          "explanation": "Người nói gọi từ 'the front desk of the Lakeview Grand Hotel' — làm ở khách sạn. (C) là bẫy liên tưởng 'registered mail'."
+        },
+        {
+          "id": "p4-11-2",
+          "question": "What was found?",
+          "options": [
+            "A suitcase",
+            "A wallet",
+            "A mobile phone",
+            "A room key"
+          ],
+          "answer": 1,
+          "explanation": "'found a black leather wallet in the desk drawer' — một chiếc ví."
+        },
+        {
+          "id": "p4-11-3",
+          "question": "What is the listener asked to do?",
+          "options": [
+            "Pay a bill",
+            "Send a business card",
+            "Choose a delivery option",
+            "Fill out a form"
+          ],
+          "answer": 2,
+          "explanation": "Người nghe được yêu cầu gọi lại 'let us know which option you'd like' — gửi qua bưu điện hay đến lấy trực tiếp."
+        }
+      ],
+      "translation": "Speaker: Xin chào, tin nhắn này dành cho ông Thomas Reid. Tôi là Angela gọi từ quầy lễ tân khách sạn Lakeview Grand. Ông đã trả phòng bốn mười hai vào sáng hôm qua, và khi dọn phòng, nhân viên buồng phòng đã tìm thấy một chiếc ví da màu đen trong ngăn bàn. Chúng tôi tin rằng nó là của ông, vì trong đó có danh thiếp mang tên ông.\nSpeaker: Chúng tôi sẵn lòng gửi nó đến địa chỉ nhà ông. Tuy nhiên, vì ví có thẻ tín dụng, chúng tôi cần gửi bằng thư bảo đảm, chi phí khoảng mười hai đô la. Nếu ông muốn, chúng tôi có thể giữ nó tại quầy lễ tân cho đến khi ông đến lấy trực tiếp.\nSpeaker: Vui lòng gọi lại cho chúng tôi theo số năm năm năm, hai một tám, chín bốn không không, và cho chúng tôi biết ông chọn phương án nào. Cảm ơn ông, và mong được đón tiếp ông lần sau."
+    },
+    {
+      "id": "p4-12",
+      "title": "Home cleaning service advertisement",
+      "type": "radio advertisement",
+      "speakers": [
+        {
+          "name": "Speaker",
+          "voice": "male"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Speaker",
+          "text": "Are you too busy to keep your home clean? Let Sparkline Home Cleaning take care of it for you. For over fifteen years, our trained staff have been helping families across Ridgefield enjoy spotless homes without lifting a finger."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Unlike many other services, we use only natural cleaning products that are safe for children and pets. And because we bring all our own equipment, you don't need to provide anything. Just tell us when to come."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "This month only, new customers who sign up for a weekly cleaning plan will receive their first visit at half price. To schedule a free consultation, visit our Web site or call us any day of the week. Sparkline Home Cleaning, because you deserve to come home to a clean house."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p4-12-1",
+          "question": "What is being advertised?",
+          "options": [
+            "A furniture store",
+            "A hardware product",
+            "A pet supply shop",
+            "A cleaning service"
+          ],
+          "answer": 3,
+          "explanation": "'Let Sparkline Home Cleaning take care of it' — dịch vụ dọn nhà. 'pets' chỉ là chi tiết về sản phẩm an toàn, (C) là bẫy."
+        },
+        {
+          "id": "p4-12-2",
+          "question": "What does the speaker say is special about the business?",
+          "options": [
+            "It uses natural products.",
+            "It is open twenty-four hours.",
+            "It offers free equipment rental.",
+            "It has many branch offices."
+          ],
+          "answer": 0,
+          "explanation": "'Unlike many other services, we use only natural cleaning products' — điểm khác biệt là sản phẩm tự nhiên."
+        },
+        {
+          "id": "p4-12-3",
+          "question": "How can new customers receive a discount?",
+          "options": [
+            "By visiting a store",
+            "By signing up for a weekly plan",
+            "By referring a friend",
+            "By booking before Friday"
+          ],
+          "answer": 1,
+          "explanation": "'new customers who sign up for a weekly cleaning plan will receive their first visit at half price'."
+        }
+      ],
+      "translation": "Speaker: Bạn quá bận để giữ nhà cửa sạch sẽ? Hãy để Sparkline Home Cleaning lo cho bạn. Hơn mười lăm năm qua, đội ngũ nhân viên được đào tạo của chúng tôi đã giúp các gia đình khắp Ridgefield có ngôi nhà sạch bóng mà không phải động tay.\nSpeaker: Khác với nhiều dịch vụ khác, chúng tôi chỉ dùng sản phẩm tẩy rửa tự nhiên, an toàn cho trẻ em và thú cưng. Và vì chúng tôi mang theo toàn bộ dụng cụ, bạn không cần chuẩn bị gì cả. Chỉ cần cho chúng tôi biết khi nào đến.\nSpeaker: Chỉ trong tháng này, khách hàng mới đăng ký gói dọn dẹp hằng tuần sẽ được giảm nửa giá cho lần đầu tiên. Để đặt lịch tư vấn miễn phí, hãy truy cập trang web hoặc gọi cho chúng tôi bất kỳ ngày nào trong tuần. Sparkline Home Cleaning — vì bạn xứng đáng trở về một ngôi nhà sạch sẽ."
+    },
+    {
+      "id": "p4-13",
+      "title": "A new expense reporting app",
+      "type": "meeting excerpt",
+      "speakers": [
+        {
+          "name": "Speaker",
+          "voice": "female"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Speaker",
+          "text": "Before we finish today's meeting, I want to mention a change to how we handle travel expenses. Starting next month, we'll stop using paper forms. Instead, you'll submit all your receipts through a new mobile app called ExpenseTrack. You just take a photo of each receipt, and the app fills in the amount and the date automatically."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "I know some of you are worried about learning yet another program. But I tried it myself last week, and it took me less than five minutes to submit my entire trip to Denver."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "The finance department will hold two short training sessions next Tuesday, one in the morning and one in the afternoon. Please sign up for one of them on the sheet by the door before you leave today."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p4-13-1",
+          "question": "What change is the speaker announcing?",
+          "options": [
+            "A new travel policy",
+            "A different bank",
+            "A new way to submit expenses",
+            "A larger travel budget"
+          ],
+          "answer": 2,
+          "explanation": "Từ tháng sau sẽ bỏ mẫu giấy và nộp hóa đơn qua ứng dụng ExpenseTrack — cách mới để nộp chi phí."
+        },
+        {
+          "id": "p4-13-2",
+          "question": "Why does the speaker say, \"it took me less than five minutes to submit my entire trip to Denver\"?",
+          "options": [
+            "To complain about a business trip",
+            "To recommend a hotel in Denver",
+            "To explain why she was late",
+            "To reassure listeners that the app is easy to use"
+          ],
+          "answer": 3,
+          "explanation": "Ngay trước đó cô nói 'some of you are worried about learning yet another program' → câu này nhằm trấn an rằng ứng dụng dễ dùng."
+        },
+        {
+          "id": "p4-13-3",
+          "question": "What are listeners asked to do before they leave?",
+          "options": [
+            "Sign up for a training session",
+            "Download an app",
+            "Submit their receipts",
+            "Speak with the finance department"
+          ],
+          "answer": 0,
+          "explanation": "'Please sign up for one of them on the sheet by the door before you leave today' — đăng ký buổi đào tạo."
+        }
+      ],
+      "translation": "Speaker: Trước khi kết thúc cuộc họp hôm nay, tôi muốn nói về một thay đổi trong cách xử lý chi phí công tác. Từ tháng sau, chúng ta sẽ ngừng dùng mẫu giấy. Thay vào đó, các bạn sẽ nộp tất cả hóa đơn qua một ứng dụng di động mới tên là ExpenseTrack. Bạn chỉ cần chụp ảnh từng hóa đơn, ứng dụng sẽ tự động điền số tiền và ngày.\nSpeaker: Tôi biết một số bạn lo lắng về việc phải học thêm một chương trình nữa. Nhưng tuần trước tôi đã tự dùng thử, và tôi mất chưa đến năm phút để nộp toàn bộ chi phí chuyến đi Denver.\nSpeaker: Phòng tài chính sẽ tổ chức hai buổi đào tạo ngắn vào thứ Ba tới, một buổi sáng và một buổi chiều. Vui lòng đăng ký một buổi vào tờ giấy cạnh cửa trước khi ra về hôm nay."
+    },
+    {
+      "id": "p4-14",
+      "title": "City bike-sharing program",
+      "type": "news report",
+      "speakers": [
+        {
+          "name": "Speaker",
+          "voice": "male"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Speaker",
+          "text": "In local news, the city of Westport will launch its first bike-sharing program next month. Starting on June first, residents and visitors will be able to rent bicycles from thirty stations located around the downtown area and along the riverfront."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Riders can pay for a single trip with a credit card at any station, or they can buy a monthly membership through the program's mobile app. According to the city's transportation director, Karen Holt, the program is designed to reduce traffic in the city center and give commuters a healthier way to get to work."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "To celebrate the launch, all rides will be free during the first weekend. The city is also asking residents to suggest locations for additional stations, and an online survey will be available on the city's Web site until the end of the month."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p4-14-1",
+          "question": "What is the news report mainly about?",
+          "options": [
+            "A new bus route",
+            "A bicycle rental program",
+            "A riverfront park",
+            "A road construction project"
+          ],
+          "answer": 1,
+          "explanation": "'the city of Westport will launch its first bike-sharing program' — chương trình thuê xe đạp."
+        },
+        {
+          "id": "p4-14-2",
+          "question": "According to Karen Holt, what is one purpose of the program?",
+          "options": [
+            "To attract tourists",
+            "To raise money for the city",
+            "To reduce traffic downtown",
+            "To promote local businesses"
+          ],
+          "answer": 2,
+          "explanation": "'designed to reduce traffic in the city center' — giảm ùn tắc ở trung tâm."
+        },
+        {
+          "id": "p4-14-3",
+          "question": "What are residents asked to do?",
+          "options": [
+            "Buy a membership",
+            "Attend a public meeting",
+            "Volunteer at an event",
+            "Suggest station locations"
+          ],
+          "answer": 3,
+          "explanation": "'asking residents to suggest locations for additional stations' — đề xuất vị trí trạm mới qua khảo sát trực tuyến."
+        }
+      ],
+      "translation": "Speaker: Tin địa phương: thành phố Westport sẽ ra mắt chương trình chia sẻ xe đạp đầu tiên vào tháng tới. Bắt đầu từ ngày một tháng Sáu, cư dân và du khách có thể thuê xe đạp tại ba mươi trạm ở khu trung tâm và dọc bờ sông.\nSpeaker: Người đi xe có thể trả tiền cho từng chuyến bằng thẻ tín dụng tại bất kỳ trạm nào, hoặc mua gói thành viên hằng tháng qua ứng dụng di động của chương trình. Theo giám đốc giao thông thành phố, bà Karen Holt, chương trình nhằm giảm ùn tắc ở trung tâm và mang lại cho người đi làm một cách di chuyển lành mạnh hơn.\nSpeaker: Để chào mừng sự kiện ra mắt, mọi chuyến đi sẽ miễn phí trong cuối tuần đầu tiên. Thành phố cũng mời cư dân đề xuất vị trí cho các trạm bổ sung, và một khảo sát trực tuyến sẽ có trên trang web thành phố đến cuối tháng."
+    },
+    {
+      "id": "p4-15",
+      "title": "Old Harbor walking tour",
+      "type": "tour guide talk",
+      "speakers": [
+        {
+          "name": "Speaker",
+          "voice": "female"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Speaker",
+          "text": "Good morning, everyone, and welcome to the Old Harbor walking tour. My name is Grace, and for the next ninety minutes, I'll be showing you some of the oldest buildings in Port Haven. Many of them were built more than two hundred years ago, when this was one of the busiest trading ports on the coast."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Our first stop will be the old customs house just across the street, which is now a maritime museum. After that, we'll walk along the waterfront to the lighthouse. The path there is a bit uneven, so please watch your step."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "You're welcome to take pictures throughout the tour, but please don't use the flash inside the museum, since it can damage the old paintings. And if you have any questions along the way, don't hesitate to ask."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p4-15-1",
+          "question": "How long will the tour last?",
+          "options": [
+            "Ninety minutes",
+            "Two hours",
+            "Forty-five minutes",
+            "Half a day"
+          ],
+          "answer": 0,
+          "explanation": "'for the next ninety minutes' — chín mươi phút. Con số 'two hundred' nói về tuổi của các tòa nhà (bẫy)."
+        },
+        {
+          "id": "p4-15-2",
+          "question": "What is the first stop of the tour?",
+          "options": [
+            "A lighthouse",
+            "A museum",
+            "A market",
+            "A shipyard"
+          ],
+          "answer": 1,
+          "explanation": "Điểm đầu tiên là tòa nhà hải quan cũ 'which is now a maritime museum'. Ngọn hải đăng là điểm thứ hai."
+        },
+        {
+          "id": "p4-15-3",
+          "question": "What are listeners asked not to do?",
+          "options": [
+            "Leave the group",
+            "Eat inside the museum",
+            "Use a camera flash indoors",
+            "Take pictures"
+          ],
+          "answer": 2,
+          "explanation": "'please don't use the flash inside the museum' — không dùng đèn flash trong nhà. Chụp ảnh thì được phép, nên (D) sai."
+        }
+      ],
+      "translation": "Speaker: Chào buổi sáng mọi người, chào mừng đến với chuyến đi bộ tham quan khu Cảng Cũ. Tôi tên là Grace, và trong chín mươi phút tới tôi sẽ đưa các bạn xem một số tòa nhà lâu đời nhất ở Port Haven. Nhiều tòa được xây hơn hai trăm năm trước, khi đây là một trong những cảng thương mại sầm uất nhất trên bờ biển.\nSpeaker: Điểm dừng đầu tiên là tòa nhà hải quan cũ ngay bên kia đường, nay là bảo tàng hàng hải. Sau đó, chúng ta sẽ đi bộ dọc bờ biển đến ngọn hải đăng. Đường đến đó hơi gồ ghề, nên xin hãy cẩn thận.\nSpeaker: Các bạn có thể chụp ảnh suốt chuyến tham quan, nhưng xin đừng dùng đèn flash trong bảo tàng vì nó có thể làm hỏng các bức tranh cổ. Và nếu có câu hỏi gì trên đường đi, đừng ngần ngại hỏi nhé."
+    },
+    {
+      "id": "p4-16",
+      "title": "Message about an office supply order",
+      "type": "voicemail",
+      "speakers": [
+        {
+          "name": "Speaker",
+          "voice": "male"
+        }
+      ],
+      "graphic": {
+        "title": "Order Form - Brightline Office Supply",
+        "text": "Item                      Quantity\nPrinter paper (boxes)     10\nBlack ink cartridges      6\nDesk organizers           4\nWhiteboard markers        12"
+      },
+      "script": [
+        {
+          "speaker": "Speaker",
+          "text": "Hi, Ms. Delgado. This is Patrick from Brightline Office Supply, calling about the order your company placed on Monday. Most of the items are ready to ship, but I'm afraid we've run out of the black ink cartridges you requested. We expect a new shipment from the manufacturer by next Thursday."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "I can either send the rest of your order today and ship the cartridges separately next week, or hold the entire order until everything is in stock. If you choose to receive two separate deliveries, there won't be any extra shipping charge."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Also, I noticed you ordered desk organizers. We're currently giving away a free set of file folders with every purchase of four or more, so I'll add them to your order unless you tell me otherwise. Please call me back when you have a moment."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p4-16-1",
+          "question": "Why is the speaker calling?",
+          "options": [
+            "To confirm a delivery address",
+            "To request a payment",
+            "To announce a price change",
+            "To report a problem with an order"
+          ],
+          "answer": 3,
+          "explanation": "Ông gọi để báo 'we've run out of the black ink cartridges you requested' — đơn hàng có vấn đề."
+        },
+        {
+          "id": "p4-16-2",
+          "question": "Look at the graphic. What quantity of the unavailable item did the listener order?",
+          "options": [
+            "6",
+            "10",
+            "4",
+            "12"
+          ],
+          "answer": 0,
+          "explanation": "Mặt hàng hết là hộp mực đen (black ink cartridges); theo mẫu đơn, số lượng đặt là 6."
+        },
+        {
+          "id": "p4-16-3",
+          "question": "What does the speaker offer to include?",
+          "options": [
+            "A discount coupon",
+            "Some free file folders",
+            "Express shipping",
+            "A product catalog"
+          ],
+          "answer": 1,
+          "explanation": "Vì khách đặt bốn khay sắp xếp bàn làm việc, ông sẽ thêm 'a free set of file folders'. Phí vận chuyển không tăng, nhưng không phải giao nhanh — (C) sai."
+        }
+      ],
+      "translation": "Speaker: Chào chị Delgado. Tôi là Patrick từ Brightline Office Supply, gọi về đơn hàng công ty chị đặt hôm thứ Hai. Hầu hết các mặt hàng đã sẵn sàng giao, nhưng rất tiếc chúng tôi đã hết hộp mực đen mà chị yêu cầu. Chúng tôi dự kiến nhận lô hàng mới từ nhà sản xuất trước thứ Năm tuần sau.\nSpeaker: Tôi có thể gửi phần còn lại của đơn hàng hôm nay và giao hộp mực riêng vào tuần sau, hoặc giữ toàn bộ đơn hàng cho đến khi đủ hàng. Nếu chị chọn nhận hai lần giao riêng, sẽ không tính thêm phí vận chuyển.\nSpeaker: Ngoài ra, tôi thấy chị có đặt khay sắp xếp bàn làm việc. Hiện chúng tôi đang tặng một bộ bìa hồ sơ miễn phí cho mỗi đơn mua từ bốn khay trở lên, nên tôi sẽ thêm vào đơn của chị nếu chị không có ý kiến khác. Vui lòng gọi lại cho tôi khi chị rảnh."
+    },
+    {
+      "id": "p4-17",
+      "title": "Small business podcast",
+      "type": "podcast",
+      "speakers": [
+        {
+          "name": "Speaker",
+          "voice": "female"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Speaker",
+          "text": "Welcome back to Main Street Matters, the podcast for small business owners. I'm your host, Olivia Chen. Today's episode is all about something many shop owners struggle with: getting customers to come back. Keeping an existing customer costs far less than finding a new one, yet many small businesses spend most of their marketing budget on attracting new shoppers."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "My guest today is Samuel Price, who owns three bookstores in the Portland area. Five years ago, Samuel started a simple loyalty program using paper cards, and he says it doubled the number of repeat customers within a year. He'll explain how he did it without spending much money at all."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "But first, a quick word from today's sponsor, Ledgerly, the accounting software designed for small businesses."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p4-17-1",
+          "question": "Who is the intended audience of the podcast?",
+          "options": [
+            "Book authors",
+            "Accountants",
+            "Small business owners",
+            "Marketing students"
+          ],
+          "answer": 2,
+          "explanation": "'the podcast for small business owners' — dành cho chủ doanh nghiệp nhỏ."
+        },
+        {
+          "id": "p4-17-2",
+          "question": "What does Samuel Price do?",
+          "options": [
+            "He writes books.",
+            "He develops software.",
+            "He teaches marketing.",
+            "He runs bookstores."
+          ],
+          "answer": 3,
+          "explanation": "'Samuel Price, who owns three bookstores' — ông điều hành các hiệu sách. (A) là bẫy liên tưởng book."
+        },
+        {
+          "id": "p4-17-3",
+          "question": "What will listeners hear next?",
+          "options": [
+            "An advertisement",
+            "An interview",
+            "A news update",
+            "A customer story"
+          ],
+          "answer": 0,
+          "explanation": "'But first, a quick word from today's sponsor' — tiếp theo là quảng cáo của nhà tài trợ, chưa phải phỏng vấn."
+        }
+      ],
+      "translation": "Speaker: Chào mừng các bạn trở lại với Main Street Matters, podcast dành cho chủ doanh nghiệp nhỏ. Tôi là người dẫn chương trình, Olivia Chen. Tập hôm nay nói về điều mà nhiều chủ cửa hàng gặp khó khăn: làm sao để khách hàng quay lại. Giữ chân một khách hàng hiện có tốn ít chi phí hơn nhiều so với tìm khách mới, vậy mà nhiều doanh nghiệp nhỏ lại dành phần lớn ngân sách tiếp thị để thu hút khách mới.\nSpeaker: Khách mời hôm nay là Samuel Price, chủ ba hiệu sách ở khu vực Portland. Năm năm trước, Samuel bắt đầu một chương trình khách hàng thân thiết đơn giản bằng thẻ giấy, và ông cho biết nó đã tăng gấp đôi số khách quay lại chỉ trong một năm. Ông sẽ giải thích cách ông làm điều đó mà hầu như không tốn bao nhiêu tiền.\nSpeaker: Nhưng trước tiên, xin dành ít phút cho nhà tài trợ hôm nay, Ledgerly, phần mềm kế toán được thiết kế cho doanh nghiệp nhỏ."
+    },
+    {
+      "id": "p4-18",
+      "title": "Employee of the Year award",
+      "type": "speech",
+      "speakers": [
+        {
+          "name": "Speaker",
+          "voice": "male"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Speaker",
+          "text": "Good evening, everyone, and thank you for coming to this year's Harmon Logistics awards dinner. It's my pleasure to present our Employee of the Year award to someone who has made a real difference to our company, Ms. Fatima Rahman from our customer service department."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "When Fatima joined us three years ago, customers often had to wait more than ten minutes on the phone before speaking to someone. Fatima designed a new scheduling system for our call center, and now the average wait time is under two minutes. Our customer satisfaction scores have never been higher."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "In addition to this award, Fatima will receive two extra vacation days and a gift certificate for the Riverside Spa. Fatima, please come up to the stage and say a few words."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p4-18-1",
+          "question": "What is the purpose of the speech?",
+          "options": [
+            "To introduce a new manager",
+            "To present an award",
+            "To announce a retirement",
+            "To welcome new employees"
+          ],
+          "answer": 1,
+          "explanation": "'It's my pleasure to present our Employee of the Year award' — trao giải."
+        },
+        {
+          "id": "p4-18-2",
+          "question": "What did Fatima Rahman do?",
+          "options": [
+            "She opened a new call center.",
+            "She trained new staff.",
+            "She reduced customer wait times.",
+            "She increased sales."
+          ],
+          "answer": 2,
+          "explanation": "Hệ thống lịch mới của cô giảm thời gian chờ từ hơn mười phút xuống dưới hai phút. Cô thiết kế hệ thống cho tổng đài, không mở tổng đài mới — (A) sai."
+        },
+        {
+          "id": "p4-18-3",
+          "question": "What will Fatima Rahman receive?",
+          "options": [
+            "A promotion",
+            "A cash bonus",
+            "A company car",
+            "Additional vacation days"
+          ],
+          "answer": 3,
+          "explanation": "'two extra vacation days and a gift certificate' — thêm ngày nghỉ phép."
+        }
+      ],
+      "translation": "Speaker: Chào buổi tối mọi người, cảm ơn các bạn đã đến dự tiệc trao giải năm nay của Harmon Logistics. Tôi rất vinh dự trao giải Nhân viên của năm cho một người đã tạo ra sự khác biệt thực sự cho công ty, cô Fatima Rahman từ bộ phận chăm sóc khách hàng.\nSpeaker: Khi Fatima gia nhập ba năm trước, khách hàng thường phải chờ điện thoại hơn mười phút mới được gặp nhân viên. Fatima đã thiết kế một hệ thống xếp lịch mới cho tổng đài, và giờ thời gian chờ trung bình dưới hai phút. Điểm hài lòng của khách hàng chưa bao giờ cao như vậy.\nSpeaker: Ngoài giải thưởng này, Fatima sẽ nhận thêm hai ngày nghỉ phép và một phiếu quà tặng của Riverside Spa. Fatima, mời cô lên sân khấu và nói vài lời."
+    },
+    {
+      "id": "p4-19",
+      "title": "Conference updates",
+      "type": "announcement",
+      "speakers": [
+        {
+          "name": "Speaker",
+          "voice": "female"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Speaker",
+          "text": "Good morning, and welcome to the second day of the Northeast Healthcare Technology Conference. Before the first session begins, I have a few updates. The workshop on patient data security, which was scheduled for Room B, has been moved to the main auditorium. Over two hundred people have registered for it."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Also, lunch today will be served on the outdoor terrace rather than in the dining hall. Please remember to pick up your lunch ticket at the registration desk before noon."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Finally, a reminder that this evening's networking reception starts at six thirty at the Harborview Hotel, which is about a fifteen-minute walk from here. Free shuttle buses will leave from the main entrance every twenty minutes, starting at six o'clock."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p4-19-1",
+          "question": "Where is the announcement being made?",
+          "options": [
+            "At a conference",
+            "At a hospital",
+            "At a hotel",
+            "At a medical clinic"
+          ],
+          "answer": 0,
+          "explanation": "'welcome to the second day of the Northeast Healthcare Technology Conference' — tại hội nghị. Khách sạn chỉ là nơi tổ chức tiệc tối (bẫy)."
+        },
+        {
+          "id": "p4-19-2",
+          "question": "Why does the speaker say, \"Over two hundred people have registered for it\"?",
+          "options": [
+            "To encourage early registration",
+            "To explain why a session was moved",
+            "To complain about a registration error",
+            "To thank the organizers"
+          ],
+          "answer": 1,
+          "explanation": "Ngay trước đó cô thông báo hội thảo chuyển từ Room B sang hội trường chính → số người đăng ký đông giải thích lý do phải đổi sang phòng lớn hơn."
+        },
+        {
+          "id": "p4-19-3",
+          "question": "What are listeners reminded to do before noon?",
+          "options": [
+            "Return their badges",
+            "Board a shuttle bus",
+            "Pick up a lunch ticket",
+            "Complete a survey"
+          ],
+          "answer": 2,
+          "explanation": "'pick up your lunch ticket at the registration desk before noon' — nhận phiếu ăn trưa."
+        }
+      ],
+      "translation": "Speaker: Chào buổi sáng, chào mừng quý vị đến với ngày thứ hai của Hội nghị Công nghệ Y tế Đông Bắc. Trước khi phiên đầu tiên bắt đầu, tôi có vài thông tin cập nhật. Hội thảo về bảo mật dữ liệu bệnh nhân, dự kiến ở Phòng B, đã được chuyển đến hội trường chính. Hơn hai trăm người đã đăng ký tham dự.\nSpeaker: Ngoài ra, bữa trưa hôm nay sẽ được phục vụ ở sân hiên ngoài trời thay vì phòng ăn. Xin nhớ nhận phiếu ăn trưa tại quầy đăng ký trước mười hai giờ trưa.\nSpeaker: Cuối cùng, xin nhắc rằng tiệc giao lưu tối nay bắt đầu lúc sáu giờ ba mươi tại khách sạn Harborview, cách đây khoảng mười lăm phút đi bộ. Xe đưa đón miễn phí sẽ khởi hành từ cổng chính hai mươi phút một chuyến, bắt đầu từ sáu giờ."
+    },
+    {
+      "id": "p4-20",
+      "title": "Instructions for marathon volunteers",
+      "type": "instructions",
+      "speakers": [
+        {
+          "name": "Speaker",
+          "voice": "male"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Speaker",
+          "text": "Thank you all for volunteering at this water station for the Clearwater City Marathon. The first runners should pass by here in about forty minutes, so let's go over a few things before they arrive."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Each of you will stand at one of the tables along the road. Fill the paper cups only halfway, so they don't spill when runners grab them. Hold the cups out at arm's length, and please stay behind the tables at all times. Runners move fast, and we don't want anyone to get hurt."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Empty cups will pile up on the road quickly. Volunteers wearing green vests will be responsible for picking them up between groups of runners. And remember, if a runner looks sick or needs medical help, call the number on the back of your badge right away."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p4-20-1",
+          "question": "Who most likely are the listeners?",
+          "options": [
+            "Professional athletes",
+            "Medical staff",
+            "Event organizers",
+            "Volunteers"
+          ],
+          "answer": 3,
+          "explanation": "'Thank you all for volunteering at this water station' — người nghe là tình nguyện viên."
+        },
+        {
+          "id": "p4-20-2",
+          "question": "What are listeners told to do with the paper cups?",
+          "options": [
+            "Fill them halfway",
+            "Wash them after use",
+            "Count them",
+            "Place them in boxes"
+          ],
+          "answer": 0,
+          "explanation": "'Fill the paper cups only halfway' — chỉ rót nửa cốc."
+        },
+        {
+          "id": "p4-20-3",
+          "question": "What should listeners do if a runner needs medical help?",
+          "options": [
+            "Find someone wearing a green vest",
+            "Call a phone number",
+            "Go to a medical tent",
+            "Give the runner water"
+          ],
+          "answer": 1,
+          "explanation": "'call the number on the back of your badge right away'. Người mặc áo xanh lá phụ trách nhặt cốc — (A) là bẫy."
+        }
+      ],
+      "translation": "Speaker: Cảm ơn tất cả các bạn đã tình nguyện tại trạm nước này của Giải Marathon Thành phố Clearwater. Những vận động viên đầu tiên sẽ chạy qua đây trong khoảng bốn mươi phút nữa, nên hãy cùng điểm qua vài điều trước khi họ đến.\nSpeaker: Mỗi bạn sẽ đứng ở một bàn dọc đường. Chỉ rót nước đầy nửa cốc giấy để không bị đổ khi vận động viên chộp lấy. Đưa cốc ra xa bằng một sải tay, và luôn đứng phía sau bàn. Vận động viên chạy rất nhanh, và chúng ta không muốn ai bị thương.\nSpeaker: Cốc rỗng sẽ chất đống trên đường rất nhanh. Các tình nguyện viên mặc áo gi lê xanh lá sẽ chịu trách nhiệm nhặt chúng giữa các nhóm vận động viên. Và hãy nhớ, nếu một vận động viên trông có vẻ mệt hoặc cần trợ giúp y tế, hãy gọi ngay số điện thoại ở mặt sau thẻ của bạn."
+    },
+    {
+      "id": "p4-21",
+      "title": "Furniture store anniversary sale",
+      "type": "radio advertisement",
+      "speakers": [
+        {
+          "name": "Speaker",
+          "voice": "female"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Speaker",
+          "text": "Is it time to give your living room a fresh new look? Then don't miss the anniversary sale at Oakridge Furniture, happening this weekend only. To celebrate twenty years in business, we're offering big savings on sofas, dining tables, and bedroom sets in all three of our stores."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Shoppers who spend more than one thousand dollars will receive free delivery and setup anywhere in the county. And the first fifty customers through our doors on Saturday morning will get a free decorative lamp."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Not sure what will fit your space? Our interior design team will be on hand all weekend to give free advice. Just bring a few photos of your room and its measurements. Oakridge Furniture, open Saturday and Sunday from nine in the morning until eight at night."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p4-21-1",
+          "question": "What is being celebrated?",
+          "options": [
+            "A store opening",
+            "A national holiday",
+            "A business anniversary",
+            "A new product line"
+          ],
+          "answer": 2,
+          "explanation": "'To celebrate twenty years in business' — kỷ niệm hai mươi năm kinh doanh."
+        },
+        {
+          "id": "p4-21-2",
+          "question": "What will the first fifty customers receive on Saturday?",
+          "options": [
+            "A gift card",
+            "A discount on sofas",
+            "Free delivery",
+            "A lamp"
+          ],
+          "answer": 3,
+          "explanation": "'the first fifty customers ... will get a free decorative lamp'. Giao hàng miễn phí dành cho người mua trên một nghìn đô la — (C) là bẫy."
+        },
+        {
+          "id": "p4-21-3",
+          "question": "Why should customers bring photos?",
+          "options": [
+            "To get design advice",
+            "To enter a contest",
+            "To receive a discount",
+            "To order custom furniture"
+          ],
+          "answer": 0,
+          "explanation": "Đội thiết kế nội thất tư vấn miễn phí: 'Just bring a few photos of your room and its measurements'."
+        }
+      ],
+      "translation": "Speaker: Đã đến lúc làm mới phòng khách của bạn? Vậy đừng bỏ lỡ đợt giảm giá kỷ niệm tại Oakridge Furniture, chỉ diễn ra cuối tuần này. Để kỷ niệm hai mươi năm kinh doanh, chúng tôi giảm giá lớn cho sofa, bàn ăn và bộ nội thất phòng ngủ tại cả ba cửa hàng.\nSpeaker: Khách hàng mua trên một nghìn đô la sẽ được giao hàng và lắp đặt miễn phí ở bất kỳ đâu trong hạt. Và năm mươi khách hàng đầu tiên vào cửa hàng sáng thứ Bảy sẽ nhận một chiếc đèn trang trí miễn phí.\nSpeaker: Không chắc món đồ nào vừa với không gian nhà bạn? Đội thiết kế nội thất của chúng tôi sẽ có mặt cả cuối tuần để tư vấn miễn phí. Chỉ cần mang theo vài tấm ảnh căn phòng và số đo của nó. Oakridge Furniture, mở cửa thứ Bảy và Chủ nhật từ chín giờ sáng đến tám giờ tối."
+    },
+    {
+      "id": "p4-22",
+      "title": "Changes to a workshop for new managers",
+      "type": "meeting excerpt",
+      "speakers": [
+        {
+          "name": "Speaker",
+          "voice": "male"
+        }
+      ],
+      "graphic": {
+        "title": "New Manager Workshop - Friday Agenda",
+        "text": "9:00    Welcome and Introductions\n10:00   Giving Effective Feedback\n11:00   Budget Planning Basics\n12:00   Lunch\n1:00    Leading Remote Teams"
+      },
+      "script": [
+        {
+          "speaker": "Speaker",
+          "text": "Hi, everyone. I just want to give you a quick update about Friday's workshop for new managers. As you can see on the agenda, the day starts with introductions at nine."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Unfortunately, the speaker for the budget planning session, Ms. Nakamura, has a scheduling conflict that day. Rather than cancel her session, we've asked her to record it as a video, and you'll be able to watch it online next week. That means we'll finish the morning an hour early, and lunch will start at eleven instead of twelve."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Also, the workshop has moved from the training room to Conference Room A, since the projector in the training room is being repaired. Please bring your laptops, because you'll be completing an online feedback form at the end of the day."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p4-22-1",
+          "question": "Who most likely are the listeners?",
+          "options": [
+            "Job applicants",
+            "New managers",
+            "Workshop speakers",
+            "Technical staff"
+          ],
+          "answer": 1,
+          "explanation": "Người nói cập nhật về 'Friday's workshop for new managers' cho những người sẽ tham dự — các quản lý mới."
+        },
+        {
+          "id": "p4-22-2",
+          "question": "Look at the graphic. Which time slot will be removed from Friday's workshop?",
+          "options": [
+            "9:00",
+            "10:00",
+            "11:00",
+            "1:00"
+          ],
+          "answer": 2,
+          "explanation": "Phiên lập kế hoạch ngân sách (Budget Planning Basics) sẽ được ghi hình xem trực tuyến thay vì diễn ra hôm thứ Sáu; theo lịch, phiên này lúc 11:00 — vì vậy bữa trưa dời lên lúc mười một giờ."
+        },
+        {
+          "id": "p4-22-3",
+          "question": "What are listeners asked to bring?",
+          "options": [
+            "Their identification badges",
+            "A printed agenda",
+            "Their own lunch",
+            "Their laptops"
+          ],
+          "answer": 3,
+          "explanation": "'Please bring your laptops' — để điền phiếu phản hồi trực tuyến cuối ngày."
+        }
+      ],
+      "translation": "Speaker: Chào mọi người. Tôi muốn cập nhật nhanh về buổi hội thảo dành cho quản lý mới vào thứ Sáu. Như các bạn thấy trên lịch trình, ngày làm việc bắt đầu với phần giới thiệu lúc chín giờ.\nSpeaker: Tiếc là diễn giả của phiên lập kế hoạch ngân sách, bà Nakamura, bị trùng lịch hôm đó. Thay vì hủy phiên của bà, chúng tôi đã đề nghị bà ghi hình lại, và các bạn có thể xem trực tuyến vào tuần sau. Điều đó có nghĩa là buổi sáng sẽ kết thúc sớm một tiếng, và bữa trưa bắt đầu lúc mười một giờ thay vì mười hai giờ.\nSpeaker: Ngoài ra, hội thảo đã chuyển từ phòng đào tạo sang Phòng họp A, vì máy chiếu ở phòng đào tạo đang được sửa. Vui lòng mang theo laptop, vì các bạn sẽ điền phiếu phản hồi trực tuyến vào cuối ngày."
+    },
+    {
+      "id": "p4-23",
+      "title": "Morning traffic update",
+      "type": "news report",
+      "speakers": [
+        {
+          "name": "Speaker",
+          "voice": "female"
+        }
+      ],
+      "script": [
+        {
+          "speaker": "Speaker",
+          "text": "This is Melissa Ford with your morning traffic update on WRKT Radio. If you're heading downtown on Highway Nine, expect delays of up to thirty minutes. A truck broke down in the left lane near the Elm Street exit about an hour ago, and crews are still working to move it."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Drivers are advised to take Route Twelve instead, which is moving smoothly this morning. If you take the train, there's good news. Starting today, the Green Line will run every eight minutes during rush hour instead of every twelve, thanks to the arrival of new trains."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Coming up after the break, we'll have the weekend weather forecast. It looks like the rain will finally clear up just in time for Saturday's food festival in Central Park."
+        }
+      ],
+      "questions": [
+        {
+          "id": "p4-23-1",
+          "question": "What has caused a delay on Highway Nine?",
+          "options": [
+            "A broken-down vehicle",
+            "Road construction",
+            "Heavy rain",
+            "A traffic signal problem"
+          ],
+          "answer": 0,
+          "explanation": "'A truck broke down in the left lane' — một xe tải bị hỏng. Mưa được nhắc trong phần thời tiết cuối tuần (bẫy)."
+        },
+        {
+          "id": "p4-23-2",
+          "question": "What change has been made to the Green Line?",
+          "options": [
+            "It has a new route.",
+            "Trains run more frequently.",
+            "Fares have been reduced.",
+            "It now stops at Central Park."
+          ],
+          "answer": 1,
+          "explanation": "'will run every eight minutes during rush hour instead of every twelve' — tàu chạy dày hơn."
+        },
+        {
+          "id": "p4-23-3",
+          "question": "What will listeners hear after the break?",
+          "options": [
+            "A sports update",
+            "An interview",
+            "A weather forecast",
+            "A traffic report"
+          ],
+          "answer": 2,
+          "explanation": "'Coming up after the break, we'll have the weekend weather forecast' — dự báo thời tiết."
+        }
+      ],
+      "translation": "Speaker: Tôi là Melissa Ford với bản tin giao thông buổi sáng trên đài WRKT. Nếu bạn đang vào trung tâm trên Xa lộ Chín, hãy chuẩn bị bị chậm đến ba mươi phút. Một xe tải bị hỏng ở làn trái gần lối ra phố Elm khoảng một giờ trước, và đội cứu hộ vẫn đang di dời nó.\nSpeaker: Tài xế nên đi Đường Mười Hai thay thế, sáng nay tuyến này lưu thông thông suốt. Nếu bạn đi tàu thì có tin vui. Bắt đầu từ hôm nay, tuyến Xanh Lá sẽ chạy tám phút một chuyến vào giờ cao điểm thay vì mười hai phút, nhờ có tàu mới.\nSpeaker: Sau giờ nghỉ, chúng tôi sẽ có dự báo thời tiết cuối tuần. Có vẻ trời sẽ hết mưa vừa kịp cho lễ hội ẩm thực thứ Bảy ở Công viên Trung tâm."
+    }
+  ]
+}

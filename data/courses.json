@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "slug": "english-foundation",
+    "title": "Tiếng Anh cho người mất gốc",
+    "description": "Xây lại nền tảng: chào hỏi, giới thiệu bản thân, gia đình.",
+    "levelId": 1,
+    "goalType": "GENERAL",
+    "sortOrder": 1,
+    "lessons": [
+      {
+        "id": 1,
+        "slug": "greetings-and-introductions",
+        "title": "Greetings and introductions",
+        "skill": "LISTENING",
+        "levelId": 1,
+        "summary": "Nghe đoạn hội thoại chào hỏi đơn giản giữa hai người mới gặp.",
+        "mediaType": "AUDIO",
+        "mediaUrl": "/media/lessons/greetings.wav",
+        "durationSeconds": 23,
+        "estimatedMinutes": 10,
+        "transcript": [
+          {
+            "startMs": 0,
+            "endMs": 4615,
+            "text": "Hi! I'm Anna. What's your name?",
+            "translation": "Chào! Mình là Anna. Bạn tên gì?"
+          },
+          {
+            "startMs": 4965,
+            "endMs": 9190,
+            "text": "Hello, Anna. My name is Nam.",
+            "translation": "Chào Anna. Mình tên là Nam."
+          },
+          {
+            "startMs": 9540,
+            "endMs": 14355,
+            "text": "Nice to meet you, Nam. Where are you from?",
+            "translation": "Rất vui được gặp bạn, Nam. Bạn đến từ đâu?"
+          },
+          {
+            "startMs": 14705,
+            "endMs": 18270,
+            "text": "I'm from Vietnam. And you?",
+            "translation": "Mình đến từ Việt Nam. Còn bạn?"
+          },
+          {
+            "startMs": 18620,
+            "endMs": 22730,
+            "text": "I'm from Canada. Nice to meet you too.",
+            "translation": "Mình đến từ Canada. Mình cũng rất vui được gặp bạn."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "slug": "alphabet-and-numbers",
+        "title": "The alphabet and numbers",
+        "skill": "VOCABULARY",
+        "levelId": 1,
+        "summary": "Bảng chữ cái, số đếm 1-100 và cách đánh vần tên.",
+        "content": "<h3>Numbers</h3><p>one, two, three, four, five, six, seven, eight, nine, ten ...</p>",
+        "mediaType": "NONE",
+        "estimatedMinutes": 15,
+        "transcript": []
+      },
+      {
+        "id": 3,
+        "slug": "introduce-yourself",
+        "title": "Speaking: Introduce yourself",
+        "skill": "SPEAKING",
+        "levelId": 1,
+        "summary": "Luyện nói câu giới thiệu bản thân và nhận chấm điểm phát âm.",
+        "content": "<p>Read aloud: <strong>Hello, my name is Lan. I am a student.</strong></p>",
+        "mediaType": "NONE",
+        "estimatedMinutes": 10,
+        "transcript": []
+      },
+      {
+        "id": 4,
+        "slug": "reading-my-family",
+        "title": "Reading: My family",
+        "skill": "READING",
+        "levelId": 1,
+        "summary": "Bài đọc ngắn về gia đình.",
+        "content": "<p>My name is Minh. I live in Da Nang with my family. There are four people in my family: my father, my mother, my sister and me. My father is a doctor. My mother is a teacher. My sister is ten years old. We love going to the beach on Sundays.</p>",
+        "mediaType": "NONE",
+        "estimatedMinutes": 10,
+        "transcript": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "everyday-communication",
+    "title": "Giao tiếp cơ bản hằng ngày",
+    "description": "Tự tin giao tiếp trong quán cà phê, thành phố, cuối tuần.",
+    "levelId": 2,
+    "goalType": "COMMUNICATION",
+    "sortOrder": 2,
+    "lessons": [
+      {
+        "id": 5,
+        "slug": "at-the-coffee-shop",
+        "title": "At the coffee shop",
+        "skill": "LISTENING",
+        "levelId": 2,
+        "summary": "Gọi đồ uống và thanh toán tại quán cà phê.",
+        "mediaType": "AUDIO",
+        "mediaUrl": "/media/lessons/coffee-shop.wav",
+        "durationSeconds": 23,
+        "estimatedMinutes": 10,
+        "transcript": [
+          {
+            "startMs": 0,
+            "endMs": 3865,
+            "text": "Good morning! What can I get for you?",
+            "translation": "Chào buổi sáng! Tôi có thể lấy gì cho bạn?"
+          },
+          {
+            "startMs": 4215,
+            "endMs": 7915,
+            "text": "Can I have a large iced latte, please?",
+            "translation": "Cho tôi một ly latte đá cỡ lớn nhé."
+          },
+          {
+            "startMs": 8265,
+            "endMs": 12240,
+            "text": "Sure. Would you like anything to eat?",
+            "translation": "Được ạ. Bạn có muốn ăn gì không?"
+          },
+          {
+            "startMs": 12590,
+            "endMs": 16510,
+            "text": "Yes, a chocolate muffin, please.",
+            "translation": "Có, một cái bánh muffin sô-cô-la."
+          },
+          {
+            "startMs": 16860,
+            "endMs": 19365,
+            "text": "That's six dollars fifty.",
+            "translation": "Tổng cộng sáu đô năm mươi xu."
+          },
+          {
+            "startMs": 19715,
+            "endMs": 22935,
+            "text": "Here you are. Thank you!",
+            "translation": "Gửi bạn. Cảm ơn nhé!"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "slug": "reading-a-day-in-the-city",
+        "title": "Reading: A day in the city",
+        "skill": "READING",
+        "levelId": 2,
+        "summary": "Đọc nhật ký một ngày khám phá thành phố.",
+        "content": "<p>Last Saturday, Linh took a bus to the city centre. First, she visited the old market and bought some souvenirs. Then she had lunch at a small restaurant near the river. In the afternoon, she went to a museum. It was crowded, but the exhibition was interesting. She got home at seven o'clock, tired but happy.</p>",
+        "mediaType": "NONE",
+        "estimatedMinutes": 12,
+        "transcript": []
+      },
+      {
+        "id": 7,
+        "slug": "writing-my-last-weekend",
+        "title": "Writing: My last weekend",
+        "skill": "WRITING",
+        "levelId": 2,
+        "summary": "Viết đoạn văn 80-120 từ kể về cuối tuần vừa rồi.",
+        "content": "<p>Write 80-120 words about your last weekend. Use the past simple tense.</p>",
+        "mediaType": "NONE",
+        "estimatedMinutes": 20,
+        "transcript": []
+      },
+      {
+        "id": 8,
+        "slug": "present-simple-vs-continuous",
+        "title": "Present simple vs present continuous",
+        "skill": "GRAMMAR",
+        "levelId": 2,
+        "summary": "Phân biệt thì hiện tại đơn và hiện tại tiếp diễn.",
+        "content": "<p><strong>Present simple</strong>: thói quen, sự thật (She <em>drinks</em> tea every day).</p><p><strong>Present continuous</strong>: đang diễn ra (She <em>is drinking</em> coffee now).</p>",
+        "mediaType": "NONE",
+        "estimatedMinutes": 15,
+        "transcript": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "intermediate-4-skills",
+    "title": "Tiếng Anh trung cấp 4 kỹ năng",
+    "description": "Phỏng vấn xin việc, làm việc từ xa, viết email công việc.",
+    "levelId": 3,
+    "goalType": "GENERAL",
+    "sortOrder": 3,
+    "lessons": [
+      {
+        "id": 9,
+        "slug": "a-job-interview",
+        "title": "A job interview",
+        "skill": "LISTENING",
+        "levelId": 3,
+        "summary": "Nghe đoạn phỏng vấn xin việc và học cách trả lời các câu hỏi thường gặp.",
+        "mediaType": "AUDIO",
+        "mediaUrl": "/media/lessons/job-interview.wav",
+        "durationSeconds": 44,
+        "estimatedMinutes": 15,
+        "transcript": [
+          {
+            "startMs": 0,
+            "endMs": 4510,
+            "text": "Good afternoon. Thank you for coming in today.",
+            "translation": "Chào buổi chiều. Cảm ơn bạn đã đến hôm nay."
+          },
+          {
+            "startMs": 4860,
+            "endMs": 9370,
+            "text": "Thank you for having me. I'm glad to be here.",
+            "translation": "Cảm ơn anh đã mời tôi. Tôi rất vui được có mặt ở đây."
+          },
+          {
+            "startMs": 9720,
+            "endMs": 12960,
+            "text": "Could you tell me a little about yourself?",
+            "translation": "Bạn có thể giới thiệu đôi chút về bản thân không?"
+          },
+          {
+            "startMs": 13310,
+            "endMs": 21435,
+            "text": "Sure. I graduated in marketing two years ago, and since then I have worked for a small tech company.",
+            "translation": "Vâng. Tôi tốt nghiệp ngành marketing hai năm trước và từ đó làm việc cho một công ty công nghệ nhỏ."
+          },
+          {
+            "startMs": 21785,
+            "endMs": 24490,
+            "text": "Why do you want to work for us?",
+            "translation": "Vì sao bạn muốn làm việc cho chúng tôi?"
+          },
+          {
+            "startMs": 24840,
+            "endMs": 31115,
+            "text": "I admire your products, and I want to grow in a larger, international team.",
+            "translation": "Tôi ngưỡng mộ các sản phẩm của công ty và muốn phát triển trong một đội ngũ lớn hơn, mang tính quốc tế."
+          },
+          {
+            "startMs": 31465,
+            "endMs": 34055,
+            "text": "What is your greatest strength?",
+            "translation": "Điểm mạnh lớn nhất của bạn là gì?"
+          },
+          {
+            "startMs": 34405,
+            "endMs": 38820,
+            "text": "I am a good listener, and I always meet my deadlines.",
+            "translation": "Tôi là người biết lắng nghe và luôn hoàn thành đúng hạn."
+          },
+          {
+            "startMs": 39170,
+            "endMs": 43835,
+            "text": "Great. We will contact you by the end of the week.",
+            "translation": "Tuyệt. Chúng tôi sẽ liên hệ với bạn trước cuối tuần."
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "slug": "reading-remote-work",
+        "title": "Reading: The rise of remote work",
+        "skill": "READING",
+        "levelId": 3,
+        "summary": "Ưu và nhược điểm của làm việc từ xa.",
+        "content": "<p>Since 2020, remote work has become a normal part of many people's lives. Employees save time on commuting and often feel more productive. However, some managers worry that teamwork and company culture suffer when people rarely meet in person. As a result, many companies now choose a hybrid model.</p>",
+        "mediaType": "NONE",
+        "estimatedMinutes": 15,
+        "transcript": []
+      },
+      {
+        "id": 11,
+        "slug": "writing-email-to-manager",
+        "title": "Writing: An email to your manager",
+        "skill": "WRITING",
+        "levelId": 3,
+        "summary": "Viết email xin nghỉ phép lịch sự.",
+        "content": "<p>Write an email (120-150 words) to your manager asking for two days off next week. Explain why and suggest how your work will be covered.</p>",
+        "mediaType": "NONE",
+        "estimatedMinutes": 20,
+        "transcript": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "advanced-english",
+    "title": "Tiếng Anh nâng cao",
+    "description": "Đọc hiểu bài báo học thuật, thảo luận các vấn đề xã hội.",
+    "levelId": 4,
+    "goalType": "GENERAL",
+    "sortOrder": 4,
+    "lessons": [
+      {
+        "id": 12,
+        "slug": "reading-climate-change-cities",
+        "title": "Reading: Climate change and cities",
+        "skill": "READING",
+        "levelId": 4,
+        "summary": "Bài đọc học thuật về tác động của biến đổi khí hậu lên đô thị.",
+        "content": "<p>Coastal cities are particularly vulnerable to rising sea levels. Urban planners are therefore exploring nature-based solutions, such as restoring wetlands, which can absorb storm surges while also improving biodiversity.</p>",
+        "mediaType": "NONE",
+        "estimatedMinutes": 20,
+        "transcript": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "toeic-650",
+    "title": "Luyện thi TOEIC 650+",
+    "description": "Chiến lược làm bài TOEIC Reading & Listening.",
+    "levelId": 5,
+    "goalType": "TOEIC",
+    "sortOrder": 5,
+    "lessons": [
+      {
+        "id": 13,
+        "slug": "toeic-part-5",
+        "title": "TOEIC Part 5: Incomplete sentences",
+        "skill": "GRAMMAR",
+        "levelId": 5,
+        "summary": "Chiến lược làm nhanh câu hỏi điền từ Part 5.",
+        "content": "<p>Tip: read the whole sentence, identify the word type needed (noun, verb, adjective, adverb) before looking at the options.</p>",
+        "mediaType": "NONE",
+        "estimatedMinutes": 20,
+        "transcript": []
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "ielts-6-5",
+    "title": "Luyện thi IELTS 6.5",
+    "description": "Làm quen cấu trúc bài thi IELTS Academic.",
+    "levelId": 5,
+    "goalType": "IELTS",
+    "sortOrder": 6,
+    "lessons": [
+      {
+        "id": 14,
+        "slug": "ielts-writing-task-2-intro",
+        "title": "IELTS Writing Task 2: Introduction",
+        "skill": "WRITING",
+        "levelId": 5,
+        "summary": "Cách viết mở bài cho IELTS Writing Task 2.",
+        "content": "<p>Paraphrase the question, then state your position clearly in one sentence.</p>",
+        "mediaType": "NONE",
+        "estimatedMinutes": 25,
+        "transcript": []
+      }
+    ]
+  }
+]

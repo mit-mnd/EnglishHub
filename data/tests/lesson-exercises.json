@@ -1,0 +1,465 @@
+[
+  {
+    "id": 3,
+    "title": "Luyện nói: Giới thiệu bản thân",
+    "description": "Nghe mẫu, thu âm và nhận điểm phát âm cho từng câu.",
+    "testType": "PRACTICE",
+    "lessonId": 3,
+    "levelId": 1,
+    "passingPercent": 60,
+    "questions": [
+      {
+        "id": 25,
+        "type": "SPEAKING",
+        "skill": "SPEAKING",
+        "levelId": 1,
+        "content": "Read the sentence aloud.",
+        "answerKey": "Hello, my name is Lan. I am a student.",
+        "difficulty": 1,
+        "points": 1
+      },
+      {
+        "id": 27,
+        "type": "SPEAKING",
+        "skill": "SPEAKING",
+        "levelId": 1,
+        "content": "Read the sentence aloud.",
+        "answerKey": "Nice to meet you.",
+        "difficulty": 1,
+        "points": 1
+      },
+      {
+        "id": 28,
+        "type": "SPEAKING",
+        "skill": "SPEAKING",
+        "levelId": 1,
+        "content": "Read the sentence aloud.",
+        "answerKey": "I am from Vietnam and I live in Hanoi.",
+        "difficulty": 1,
+        "points": 1
+      },
+      {
+        "id": 29,
+        "type": "SPEAKING",
+        "skill": "SPEAKING",
+        "levelId": 1,
+        "content": "Read the sentence aloud.",
+        "answerKey": "My favourite hobby is reading books.",
+        "difficulty": 1,
+        "points": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Luyện viết: Cuối tuần của tôi",
+    "description": "Chia động từ quá khứ đơn rồi viết đoạn văn 80-120 từ.",
+    "testType": "PRACTICE",
+    "lessonId": 7,
+    "levelId": 2,
+    "passingPercent": 60,
+    "questions": [
+      {
+        "id": 30,
+        "type": "FILL_BLANK",
+        "skill": "WRITING",
+        "levelId": 2,
+        "content": "Last Saturday I {{1}} (go) to the beach and {{2}} (swim) in the sea.",
+        "answerKey": "[[\"went\"],[\"swam\"]]",
+        "explanation": "go -> went, swim -> swam (động từ bất quy tắc).",
+        "difficulty": 2,
+        "points": 2
+      },
+      {
+        "id": 31,
+        "type": "FILL_BLANK",
+        "skill": "WRITING",
+        "levelId": 2,
+        "content": "We {{1}} (not / watch) TV last night because we were tired.",
+        "answerKey": "[[\"did not watch\",\"didn't watch\"]]",
+        "explanation": "Phủ định quá khứ đơn: did not + động từ nguyên mẫu.",
+        "difficulty": 2,
+        "points": 1
+      },
+      {
+        "id": 26,
+        "type": "ESSAY",
+        "skill": "WRITING",
+        "levelId": 2,
+        "content": "Write 80-120 words about your last weekend. Use the past simple.",
+        "answerKey": "{\"minWords\":80,\"maxWords\":120}",
+        "difficulty": 2,
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Viết email xin nghỉ phép",
+    "description": "Viết email 80-160 từ và nhận nhận xét tự động.",
+    "testType": "PRACTICE",
+    "lessonId": 11,
+    "levelId": 3,
+    "passingPercent": 60,
+    "questions": [
+      {
+        "id": 32,
+        "type": "ESSAY",
+        "skill": "WRITING",
+        "levelId": 3,
+        "content": "Write an email to your manager asking for two days off next week. Explain why and suggest how your work will be covered.",
+        "answerKey": "{\"minWords\":80,\"maxWords\":160}",
+        "difficulty": 3,
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Viết mở bài IELTS Task 2",
+    "description": "Viết đoạn mở bài 40-80 từ.",
+    "testType": "PRACTICE",
+    "lessonId": 14,
+    "levelId": 5,
+    "passingPercent": 60,
+    "questions": [
+      {
+        "id": 33,
+        "type": "ESSAY",
+        "skill": "WRITING",
+        "levelId": 5,
+        "content": "Write an introduction for this topic: \"Some people think university education should be free for everyone. To what extent do you agree or disagree?\"",
+        "answerKey": "{\"minWords\":40,\"maxWords\":80}",
+        "difficulty": 4,
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Quiz: TOEIC Part 5",
+    "description": "4 câu điền từ phong cách TOEIC.",
+    "testType": "LESSON_QUIZ",
+    "lessonId": 13,
+    "levelId": 5,
+    "passingPercent": 75,
+    "shuffleQuestions": true,
+    "questions": [
+      {
+        "id": 34,
+        "type": "SINGLE_CHOICE",
+        "skill": "GRAMMAR",
+        "levelId": 5,
+        "content": "Ms. Tran is responsible ___ training new employees.",
+        "explanation": "Cụm cố định: be responsible for + V-ing.",
+        "difficulty": 4,
+        "points": 1,
+        "options": [
+          {
+            "id": 94,
+            "content": "for",
+            "correct": true
+          },
+          {
+            "id": 95,
+            "content": "of"
+          },
+          {
+            "id": 96,
+            "content": "to"
+          },
+          {
+            "id": 97,
+            "content": "with"
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "type": "SINGLE_CHOICE",
+        "skill": "GRAMMAR",
+        "levelId": 5,
+        "content": "The conference has been ___ until next month because of the storm.",
+        "explanation": "Bị động thì hiện tại hoàn thành: has been + V3 (postponed).",
+        "difficulty": 4,
+        "points": 1,
+        "options": [
+          {
+            "id": 98,
+            "content": "postpone"
+          },
+          {
+            "id": 99,
+            "content": "postponed",
+            "correct": true
+          },
+          {
+            "id": 100,
+            "content": "postponing"
+          },
+          {
+            "id": 101,
+            "content": "postpones"
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "type": "SINGLE_CHOICE",
+        "skill": "GRAMMAR",
+        "levelId": 5,
+        "content": "Please read the instructions ___ before using the new machine.",
+        "explanation": "Bổ nghĩa cho động từ \"read\" cần trạng từ: carefully.",
+        "difficulty": 4,
+        "points": 1,
+        "options": [
+          {
+            "id": 102,
+            "content": "careful"
+          },
+          {
+            "id": 103,
+            "content": "care"
+          },
+          {
+            "id": 104,
+            "content": "carefully",
+            "correct": true
+          },
+          {
+            "id": 105,
+            "content": "caring"
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "type": "SINGLE_CHOICE",
+        "skill": "VOCABULARY",
+        "levelId": 5,
+        "content": "Our sales increased ___ 15% in the last quarter.",
+        "explanation": "\"increase by + mức thay đổi\".",
+        "difficulty": 4,
+        "points": 1,
+        "options": [
+          {
+            "id": 106,
+            "content": "by",
+            "correct": true
+          },
+          {
+            "id": 107,
+            "content": "at"
+          },
+          {
+            "id": 108,
+            "content": "on"
+          },
+          {
+            "id": 109,
+            "content": "in"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Quiz nghe hiểu: At the coffee shop",
+    "description": "Kiểm tra bạn đã nghe hiểu đoạn hội thoại chưa.",
+    "testType": "LESSON_QUIZ",
+    "lessonId": 5,
+    "levelId": 2,
+    "passingPercent": 50,
+    "questions": [
+      {
+        "id": 38,
+        "type": "SINGLE_CHOICE",
+        "skill": "LISTENING",
+        "levelId": 2,
+        "content": "What drink does the customer order?",
+        "explanation": "\"Can I have a large iced latte, please?\"",
+        "difficulty": 2,
+        "points": 1,
+        "options": [
+          {
+            "id": 110,
+            "content": "A hot tea"
+          },
+          {
+            "id": 111,
+            "content": "A large iced latte",
+            "correct": true
+          },
+          {
+            "id": 112,
+            "content": "A cappuccino"
+          },
+          {
+            "id": 113,
+            "content": "An orange juice"
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "type": "SINGLE_CHOICE",
+        "skill": "LISTENING",
+        "levelId": 2,
+        "content": "How much does the customer pay?",
+        "explanation": "\"That's six dollars fifty.\" = $6.50",
+        "difficulty": 2,
+        "points": 1,
+        "options": [
+          {
+            "id": 114,
+            "content": "$5.60"
+          },
+          {
+            "id": 115,
+            "content": "$16.50"
+          },
+          {
+            "id": 116,
+            "content": "$6.50",
+            "correct": true
+          },
+          {
+            "id": 117,
+            "content": "$6.15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Quiz: Present simple vs present continuous",
+    "description": "Củng cố kiến thức bài học.",
+    "testType": "LESSON_QUIZ",
+    "lessonId": 8,
+    "levelId": 2,
+    "durationMinutes": 10,
+    "passingPercent": 70,
+    "shuffleQuestions": true,
+    "questions": [
+      {
+        "id": 21,
+        "type": "FILL_BLANK",
+        "skill": "GRAMMAR",
+        "levelId": 2,
+        "content": "She usually {{1}} (drink) tea, but today she {{2}} (drink) coffee.",
+        "answerKey": "[[\"drinks\"],[\"is drinking\",\"'s drinking\"]]",
+        "explanation": "Thói quen -> hiện tại đơn; \"today\" + hành động tạm thời -> hiện tại tiếp diễn.",
+        "difficulty": 2,
+        "points": 2
+      },
+      {
+        "id": 22,
+        "type": "MATCHING",
+        "skill": "VOCABULARY",
+        "levelId": 2,
+        "content": "Match the adverbs of frequency with their meanings.",
+        "difficulty": 2,
+        "points": 2,
+        "options": [
+          {
+            "id": 85,
+            "content": "always",
+            "correct": true,
+            "matchText": "luôn luôn"
+          },
+          {
+            "id": 86,
+            "content": "usually",
+            "correct": true,
+            "matchText": "thường xuyên"
+          },
+          {
+            "id": 87,
+            "content": "sometimes",
+            "correct": true,
+            "matchText": "thỉnh thoảng"
+          },
+          {
+            "id": 88,
+            "content": "never",
+            "correct": true,
+            "matchText": "không bao giờ"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "type": "ORDERING",
+        "skill": "GRAMMAR",
+        "levelId": 2,
+        "content": "Put the words in the correct order.",
+        "explanation": "S + am/is/are + V-ing + O + trạng từ thời gian.",
+        "difficulty": 2,
+        "points": 1,
+        "options": [
+          {
+            "id": 89,
+            "content": "cooking",
+            "correct": true,
+            "correctOrder": 3
+          },
+          {
+            "id": 90,
+            "content": "now",
+            "correct": true,
+            "correctOrder": 5
+          },
+          {
+            "id": 91,
+            "content": "She",
+            "correct": true,
+            "correctOrder": 1
+          },
+          {
+            "id": 92,
+            "content": "dinner",
+            "correct": true,
+            "correctOrder": 4
+          },
+          {
+            "id": 93,
+            "content": "is",
+            "correct": true,
+            "correctOrder": 2
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "type": "SINGLE_CHOICE",
+        "skill": "GRAMMAR",
+        "levelId": 2,
+        "content": "Listen! The baby ___.",
+        "explanation": "\"Listen!\" báo hiệu hành động đang xảy ra.",
+        "difficulty": 2,
+        "points": 1,
+        "options": [
+          {
+            "id": 81,
+            "content": "cries"
+          },
+          {
+            "id": 82,
+            "content": "is crying",
+            "correct": true
+          },
+          {
+            "id": 83,
+            "content": "cry"
+          },
+          {
+            "id": 84,
+            "content": "cried"
+          }
+        ]
+      }
+    ]
+  }
+]

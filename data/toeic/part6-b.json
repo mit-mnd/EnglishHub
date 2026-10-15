@@ -1,0 +1,749 @@
+{
+  "part": 6,
+  "title": "Part 6 - Hoàn thành đoạn văn (bộ 2)",
+  "description": "Bộ đoạn văn thứ hai: đọc các đoạn văn và chọn từ, cụm từ hoặc câu thích hợp nhất để điền vào mỗi chỗ trống.",
+  "items": [
+    {
+      "id": "p6-13",
+      "type": "email",
+      "title": "Email: Changes to a catering order",
+      "text": "To: Anita Desai <adesai@lumencatering.com>\nFrom: Robert Kline <rkline@harwoodpartners.com>\nDate: March 3\nSubject: Order #5521\n\nDear Ms. Desai,\n\nThank you for confirming our catering order for the Harwood Partners client luncheon on March 14. I am writing to request a few changes. Since we sent the original order, the number of guests {{1}} from 40 to 55. Could you please adjust the quantities accordingly?\n\nIn addition, several of our guests follow a vegetarian diet. {{2}}, we would like to replace the chicken sandwiches with a selection of grilled vegetable wraps. {{3}} If so, please let me know the new total before Friday.\n\nFinally, we would appreciate it if your staff could arrive by 11:00 A.M. to set up. The luncheon will be held in our {{4}} conference room on the eighth floor.\n\nThank you for your help.\n\nRobert Kline\nOffice Manager, Harwood Partners",
+      "translation": "Đến: Anita Desai <adesai@lumencatering.com>\nTừ: Robert Kline <rkline@harwoodpartners.com>\nNgày: 3 tháng 3\nChủ đề: Đơn hàng #5521\n\nKính gửi bà Desai,\n\nCảm ơn bà đã xác nhận đơn đặt tiệc của chúng tôi cho bữa trưa tiếp khách của Harwood Partners vào ngày 14 tháng 3. Tôi viết thư này để đề nghị một vài thay đổi. Kể từ khi chúng tôi gửi đơn ban đầu, số lượng khách đã tăng từ 40 lên 55 người. Bà có thể vui lòng điều chỉnh số lượng cho phù hợp không?\n\nNgoài ra, một số khách của chúng tôi ăn chay. Vì lý do này, chúng tôi muốn thay bánh mì kẹp gà bằng các loại bánh cuộn rau nướng. Tôi hiểu rằng thay đổi này có thể ảnh hưởng đến giá. Nếu vậy, xin vui lòng báo cho tôi tổng số tiền mới trước thứ Sáu.\n\nCuối cùng, chúng tôi rất cảm kích nếu nhân viên của bà có thể đến trước 11 giờ sáng để chuẩn bị. Bữa trưa sẽ được tổ chức tại phòng họp chính của chúng tôi trên tầng tám.\n\nCảm ơn sự giúp đỡ của bà.\n\nRobert Kline\nQuản lý văn phòng, Harwood Partners",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "increase",
+            "will increase",
+            "has increased",
+            "increasing"
+          ],
+          "answer": 2,
+          "explanation": "Mệnh đề 'Since we sent the original order' (kể từ khi) đòi hỏi thì hiện tại hoàn thành ở mệnh đề chính → 'has increased'. 'increase' không hợp chủ ngữ số ít 'the number', 'will increase' mâu thuẫn với 'since', 'increasing' không làm động từ chính."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "Otherwise",
+            "In contrast",
+            "Even so",
+            "For this reason"
+          ],
+          "answer": 3,
+          "explanation": "Câu trước nêu lý do (khách ăn chay), câu sau là hệ quả (thay món gà bằng món rau) → 'For this reason'. 'Otherwise' (nếu không thì), 'In contrast' (ngược lại), 'Even so' (dù vậy) không thể hiện quan hệ nguyên nhân - kết quả."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "I understand that this change may affect the price.",
+            "Our office will be closed on March 14.",
+            "Please send the invoice to our accounting department.",
+            "The chicken sandwiches were very popular with our guests."
+          ],
+          "answer": 0,
+          "explanation": "Câu sau 'If so, please let me know the new total' cần một câu nêu khả năng giá thay đổi → 'I understand that this change may affect the price.' Câu về văn phòng đóng cửa ngày 14/3 mâu thuẫn với bữa trưa; câu về gửi hóa đơn và câu khen bánh gà không làm rõ 'If so' (nếu vậy) và mâu thuẫn với việc muốn bỏ món gà."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "mainly",
+            "maintain",
+            "main",
+            "mains"
+          ],
+          "answer": 2,
+          "explanation": "Giữa tính từ sở hữu 'our' và cụm danh từ 'conference room' cần tính từ → 'main' (chính). 'mainly' là trạng từ, 'maintain' là động từ, 'mains' là danh từ (đường ống/điện chính)."
+        }
+      ]
+    },
+    {
+      "id": "p6-14",
+      "type": "memo",
+      "title": "Memo: Move to the fifth floor",
+      "text": "To: All Accounting Staff\nFrom: Grace Lin, Operations Manager\nDate: May 9\nRe: Move to the fifth floor\n\nAs you know, the accounting department will move from the third floor to the fifth floor next month. The move is scheduled for the weekend of June 7-8 so that normal work {{1}} not be disrupted.\n\nBy Thursday, June 5, please pack the contents of your desk into the boxes {{2}} by the facilities team. Each box should be labeled with your name and new desk number. {{3}} Computers and phones will be disconnected and moved by the IT department, so you do not need to pack them.\n\nWhen you arrive on Monday, June 9, everything should be in place. {{4}}, if any of your belongings are missing or damaged, please report the problem to the front desk on the fifth floor immediately.\n\nThank you for your cooperation.",
+      "translation": "Gửi: Toàn thể nhân viên Phòng Kế toán\nTừ: Grace Lin, Quản lý vận hành\nNgày: 9 tháng 5\nV/v: Chuyển lên tầng năm\n\nNhư các bạn đã biết, phòng kế toán sẽ chuyển từ tầng ba lên tầng năm vào tháng tới. Việc chuyển dự kiến diễn ra vào cuối tuần ngày 7-8 tháng 6 để công việc bình thường sẽ không bị gián đoạn.\n\nTrước thứ Năm, ngày 5 tháng 6, vui lòng xếp đồ đạc trên bàn làm việc vào các thùng do nhóm cơ sở vật chất cung cấp. Mỗi thùng cần được dán nhãn với tên và số bàn mới của bạn. Số bàn được ghi trên sơ đồ tầng đính kèm bản ghi nhớ này. Máy tính và điện thoại sẽ do phòng IT ngắt kết nối và chuyển đi, vì vậy bạn không cần đóng gói chúng.\n\nKhi bạn đến vào thứ Hai, ngày 9 tháng 6, mọi thứ sẽ đã được sắp xếp xong. Tuy nhiên, nếu có đồ đạc nào bị thiếu hoặc hư hỏng, vui lòng báo ngay cho quầy lễ tân ở tầng năm.\n\nCảm ơn sự hợp tác của các bạn.",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "will",
+            "is",
+            "has",
+            "does"
+          ],
+          "answer": 0,
+          "explanation": "Sau chỗ trống là 'not be disrupted' (động từ nguyên mẫu 'be') → cần trợ động từ khuyết thiếu 'will'. 'is', 'has', 'does' không đi với 'not be'."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "providing",
+            "provides",
+            "provider",
+            "provided"
+          ],
+          "answer": 3,
+          "explanation": "Rút gọn mệnh đề quan hệ bị động: các thùng 'được cung cấp' bởi nhóm cơ sở vật chất ('by the facilities team') → 'provided'. 'providing' mang nghĩa chủ động, 'provides' cần chủ ngữ, 'provider' là danh từ."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "The fifth floor was renovated three years ago.",
+            "Please remember to take your laptop home every night.",
+            "The accounting department hired two new staff members last week.",
+            "Desk numbers are listed on the floor plan attached to this memo."
+          ],
+          "answer": 3,
+          "explanation": "Câu trước yêu cầu ghi 'new desk number' lên thùng → câu tiếp theo hợp lý nhất cho biết nhân viên tìm số bàn mới ở đâu. Thông tin cải tạo tầng năm, mang laptop về nhà hay tuyển người mới không liên quan đến việc dán nhãn."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "Therefore",
+            "Similarly",
+            "As a result",
+            "However"
+          ],
+          "answer": 3,
+          "explanation": "Câu trước nói mọi thứ 'should be in place', câu sau nêu trường hợp ngược lại (đồ bị thiếu/hỏng) → 'However'. 'Therefore', 'As a result' chỉ kết quả, 'Similarly' chỉ sự tương đồng, đều sai logic."
+        }
+      ]
+    },
+    {
+      "id": "p6-15",
+      "type": "notice",
+      "title": "Notice: New library hours and services",
+      "text": "Notice to Library Patrons\n\nStarting on October 1, the Westbrook Public Library will extend its weekday hours. The library will open at 8:00 A.M. and close at 9:00 P.M., Monday through Friday. Weekend hours will remain {{1}}.\n\nWe are also pleased to announce the installation of four self-checkout machines near the main entrance. These machines allow patrons to borrow books {{2}} waiting in line at the front desk. {{3}} Library staff will be available to show you how to use the machines during the first two weeks.\n\nIn addition, the library's online catalog can now be accessed 24 hours a day from home.\n\nThese improvements were made possible by a generous {{4}} from the Westbrook Community Foundation. We hope they will make the library more convenient for everyone.",
+      "translation": "Thông báo đến bạn đọc thư viện\n\nBắt đầu từ ngày 1 tháng 10, Thư viện Công cộng Westbrook sẽ kéo dài giờ mở cửa các ngày trong tuần. Thư viện sẽ mở cửa lúc 8 giờ sáng và đóng cửa lúc 9 giờ tối, từ thứ Hai đến thứ Sáu. Giờ mở cửa cuối tuần sẽ giữ nguyên.\n\nChúng tôi cũng vui mừng thông báo đã lắp đặt bốn máy tự mượn sách gần lối vào chính. Những máy này cho phép bạn đọc mượn sách mà không cần xếp hàng chờ ở quầy. Để sử dụng, bạn chỉ cần quét thẻ thư viện và từng cuốn sách muốn mượn. Nhân viên thư viện sẽ có mặt để hướng dẫn cách sử dụng máy trong hai tuần đầu tiên.\n\nNgoài ra, danh mục sách trực tuyến của thư viện giờ đây có thể được truy cập 24 giờ mỗi ngày từ nhà.\n\nNhững cải tiến này có được là nhờ một khoản tài trợ hào phóng từ Quỹ Cộng đồng Westbrook. Chúng tôi hy vọng chúng sẽ giúp thư viện trở nên thuận tiện hơn cho mọi người.",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "change",
+            "changes",
+            "unchanged",
+            "changeably"
+          ],
+          "answer": 2,
+          "explanation": "Sau động từ nối 'remain' cần tính từ → 'unchanged' (giữ nguyên). 'change', 'changes' là động từ/danh từ, 'changeably' là trạng từ."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "without",
+            "unless",
+            "instead",
+            "except"
+          ],
+          "answer": 0,
+          "explanation": "'without + V-ing' = mà không cần. 'unless' là liên từ cần mệnh đề, 'instead' phải đi với 'of', 'except' (ngoại trừ) sai nghĩa."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "To use one, simply scan your library card and each item you wish to borrow.",
+            "The library was founded more than a century ago.",
+            "Overdue fines have increased this year.",
+            "The front desk will be closed permanently next month."
+          ],
+          "answer": 0,
+          "explanation": "Câu sau nhắc đến việc nhân viên hướng dẫn 'how to use the machines' → câu cần điền mô tả cách dùng máy tự mượn. Lịch sử thư viện và tiền phạt không liên quan; việc quầy đóng cửa vĩnh viễn không được đề cập và không khớp mạch văn."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "donate",
+            "donation",
+            "donated",
+            "donating"
+          ],
+          "answer": 1,
+          "explanation": "Sau 'a generous' (mạo từ + tính từ) cần danh từ → 'donation' (khoản tài trợ). 'donate' là động từ, 'donated', 'donating' là phân từ."
+        }
+      ]
+    },
+    {
+      "id": "p6-16",
+      "type": "advertisement",
+      "title": "Advertisement: Lingua Bridge Academy",
+      "text": "Speak with Confidence at Lingua Bridge Academy\n\nDo you need to improve your English for work? Lingua Bridge Academy offers small-group business English courses {{1}} for busy professionals. Classes meet in the evenings and on Saturday mornings, so you can study without taking time off work. Each course runs for ten weeks, and you can choose from four levels, from beginner to advanced.\n\nOur instructors are all certified teachers with years of experience in the corporate world. They will help you prepare for meetings, write clear e-mails, and give {{2}} presentations. {{3}}\n\nNew students receive a free placement test to determine the right level. {{4}} you register before August 31, you will also receive 15 percent off your first course.\n\nVisit www.linguabridge.edu.vn or call 028-3821-7700 to book your placement test today.",
+      "translation": "Tự tin giao tiếp cùng Học viện Lingua Bridge\n\nBạn cần nâng cao tiếng Anh cho công việc? Học viện Lingua Bridge mở các khóa tiếng Anh thương mại theo nhóm nhỏ được thiết kế dành cho những người đi làm bận rộn. Các lớp học diễn ra vào buổi tối và sáng thứ Bảy, nên bạn có thể học mà không cần nghỉ làm. Mỗi khóa học kéo dài mười tuần, và bạn có thể chọn một trong bốn trình độ, từ sơ cấp đến nâng cao.\n\nGiảng viên của chúng tôi đều là giáo viên có chứng chỉ và nhiều năm kinh nghiệm trong môi trường doanh nghiệp. Họ sẽ giúp bạn chuẩn bị cho các cuộc họp, viết email rõ ràng và có những bài thuyết trình thuyết phục. Mỗi lớp giới hạn tám học viên, vì vậy ai cũng có nhiều cơ hội luyện nói.\n\nHọc viên mới được làm bài kiểm tra xếp lớp miễn phí để xác định trình độ phù hợp. Nếu bạn đăng ký trước ngày 31 tháng 8, bạn còn được giảm 15% học phí khóa đầu tiên.\n\nHãy truy cập www.linguabridge.edu.vn hoặc gọi 028-3821-7700 để đặt lịch kiểm tra xếp lớp ngay hôm nay.",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "designing",
+            "designed",
+            "design",
+            "designer"
+          ],
+          "answer": 1,
+          "explanation": "Rút gọn mệnh đề quan hệ bị động: các khóa học 'được thiết kế' dành cho người đi làm → 'designed'. 'designing' mang nghĩa chủ động (khóa học không tự thiết kế), 'design', 'designer' là danh từ/động từ, không bổ nghĩa cho 'courses' ở vị trí này."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "persuade",
+            "persuasion",
+            "persuasively",
+            "persuasive"
+          ],
+          "answer": 3,
+          "explanation": "Trước danh từ 'presentations' cần tính từ → 'persuasive' (thuyết phục). 'persuade' là động từ, 'persuasion' là danh từ, 'persuasively' là trạng từ."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "Each class is limited to eight students, so everyone gets plenty of speaking practice.",
+            "Our building has been closed for renovations since June.",
+            "Most of our students are retired and study for fun.",
+            "Textbooks for children's courses are sold separately."
+          ],
+          "answer": 0,
+          "explanation": "Đoạn văn quảng cáo khóa học nhóm nhỏ cho người đi làm → câu nói về sĩ số giới hạn tám người phù hợp nhất. Tòa nhà đóng cửa mâu thuẫn với việc đang tuyển sinh; học viên đã nghỉ hưu mâu thuẫn với 'busy professionals'; sách cho khóa trẻ em không liên quan."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "Unless",
+            "Although",
+            "Because of",
+            "If"
+          ],
+          "answer": 3,
+          "explanation": "Quan hệ điều kiện: đăng ký trước 31/8 thì được giảm giá → 'If'. 'Unless' (trừ khi) làm ngược nghĩa, 'Although' (mặc dù) sai logic, 'Because of' là giới từ không đi với mệnh đề."
+        }
+      ]
+    },
+    {
+      "id": "p6-17",
+      "type": "article",
+      "title": "Article: New ferry route in the Mekong Delta",
+      "text": "CAN THO (June 12) — Mekong Waterways announced on Monday that it will launch a new passenger ferry service between Can Tho and Ca Mau next month. The route, {{1}} will run twice daily, is expected to cut travel time between the two cities by nearly two hours.\n\nAccording to company spokesperson Le Thi Hoa, the ferries {{2}} with comfortable seating, free Wi-Fi, and a small café. \"We want to give travelers a faster and more relaxing alternative to the bus,\" she said.\n\nTickets will go on sale on June 20 through the company's Web site and at both ferry terminals. {{3}}\n\nLocal business owners have welcomed the news. Many believe the service will bring more tourists to the region. \"This is an {{4}} opportunity for hotels and restaurants along the river,\" said Tran Van Minh, president of the Can Tho Tourism Association.",
+      "translation": "CẦN THƠ (12 tháng 6) — Hôm thứ Hai, công ty Mekong Waterways thông báo sẽ khai trương tuyến phà chở khách mới giữa Cần Thơ và Cà Mau vào tháng tới. Tuyến này, sẽ chạy hai chuyến mỗi ngày, dự kiến rút ngắn thời gian di chuyển giữa hai thành phố gần hai tiếng.\n\nTheo người phát ngôn của công ty, bà Lê Thị Hoa, các chuyến phà sẽ được trang bị ghế ngồi thoải mái, Wi-Fi miễn phí và một quán cà phê nhỏ. \"Chúng tôi muốn mang đến cho hành khách một lựa chọn nhanh hơn và thư thái hơn so với xe buýt,\" bà nói.\n\nVé sẽ được mở bán từ ngày 20 tháng 6 trên trang web của công ty và tại cả hai bến phà. Giá vé ưu đãi 250.000 đồng sẽ được áp dụng trong tháng đầu tiên.\n\nCác chủ doanh nghiệp địa phương hoan nghênh tin này. Nhiều người tin rằng dịch vụ sẽ thu hút thêm khách du lịch đến khu vực. \"Đây là một cơ hội thú vị cho các khách sạn và nhà hàng dọc bờ sông,\" ông Trần Văn Minh, chủ tịch Hiệp hội Du lịch Cần Thơ, cho biết.",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "that",
+            "what",
+            "which",
+            "where"
+          ],
+          "answer": 2,
+          "explanation": "Mệnh đề quan hệ không xác định (giữa hai dấu phẩy) bổ nghĩa cho 'The route' và thiếu chủ ngữ → 'which'. 'that' không dùng sau dấu phẩy, 'what' không bổ nghĩa cho danh từ, 'where' cần mệnh đề đầy đủ."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "equipped",
+            "will be equipped",
+            "have equipped",
+            "equipping"
+          ],
+          "answer": 1,
+          "explanation": "Các chuyến phà 'được trang bị' (bị động) và dịch vụ chưa bắt đầu (next month) → 'will be equipped'. 'equipped' đứng một mình khiến câu thiếu động từ chính, 'have equipped' là chủ động, 'equipping' không làm động từ chính."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "The bus service between the two cities was canceled last year.",
+            "Ms. Le has worked for the company since 2010.",
+            "The ferries were built more than 40 years ago.",
+            "An introductory fare of 250,000 dong will be offered during the first month."
+          ],
+          "answer": 3,
+          "explanation": "Câu trước nói về việc bán vé → câu tiếp theo về giá vé ưu đãi là hợp lý. Xe buýt bị hủy mâu thuẫn với câu trích dẫn về 'alternative to the bus'; thông tin về bà Lê và tuổi đời phà không liên quan đến việc bán vé."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "excited",
+            "exciting",
+            "excite",
+            "excitement"
+          ],
+          "answer": 1,
+          "explanation": "Bổ nghĩa cho danh từ chỉ vật 'opportunity' (gây hứng thú) dùng tính từ đuôi -ing → 'exciting'. 'excited' mô tả cảm xúc của người, 'excite' là động từ, 'excitement' là danh từ."
+        }
+      ]
+    },
+    {
+      "id": "p6-18",
+      "type": "letter",
+      "title": "Letter: Membership renewal reminder",
+      "text": "Dear Mr. Okafor,\n\nYour membership in the Pacific Association of Engineers {{1}} on November 30. To continue enjoying member benefits without interruption, please renew before that date. The annual membership fee for the coming year will remain unchanged at 120 dollars.\n\nAs a member, you have access to our online library of technical journals, discounted registration for our annual conference, and our monthly newsletter. {{2}}, members can attend regional networking events at no cost.\n\nRenewing is simple. Just log in to your account at www.pae-members.org and select \"Renew Membership.\" {{3}} If you prefer, you may also mail a check using the enclosed form.\n\nIf you have already renewed your membership, please disregard this letter. We value your continued {{4}} and look forward to serving you in the coming year.\n\nSincerely,\n\nDiana Morales\nMembership Coordinator",
+      "translation": "Kính gửi ông Okafor,\n\nTư cách hội viên của ông tại Hiệp hội Kỹ sư Thái Bình Dương sẽ hết hạn vào ngày 30 tháng 11. Để tiếp tục hưởng các quyền lợi hội viên mà không bị gián đoạn, xin vui lòng gia hạn trước ngày đó. Phí hội viên hằng năm cho năm tới sẽ được giữ nguyên ở mức 120 đô la.\n\nLà hội viên, ông được truy cập thư viện trực tuyến các tạp chí kỹ thuật, được giảm phí đăng ký hội nghị thường niên và nhận bản tin hàng tháng. Ngoài ra, hội viên có thể tham dự miễn phí các sự kiện giao lưu khu vực.\n\nViệc gia hạn rất đơn giản. Ông chỉ cần đăng nhập vào tài khoản tại www.pae-members.org và chọn \"Renew Membership\". Quá trình này mất chưa đến năm phút. Nếu muốn, ông cũng có thể gửi séc qua bưu điện bằng mẫu đơn đính kèm.\n\nNếu ông đã gia hạn tư cách hội viên, xin vui lòng bỏ qua thư này. Chúng tôi trân trọng sự ủng hộ liên tục của ông và mong được phục vụ ông trong năm tới.\n\nTrân trọng,\n\nDiana Morales\nĐiều phối viên Hội viên",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "will end",
+            "ended",
+            "has ended",
+            "ending"
+          ],
+          "answer": 0,
+          "explanation": "Người viết đề nghị gia hạn 'before that date' → ngày 30/11 còn ở tương lai → 'will end'. 'ended', 'has ended' chỉ việc đã xảy ra; 'ending' không làm động từ chính."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "Instead",
+            "However",
+            "Otherwise",
+            "In addition"
+          ],
+          "answer": 3,
+          "explanation": "Câu sau bổ sung thêm một quyền lợi nữa cho hội viên → 'In addition' (ngoài ra). 'Instead' (thay vào đó), 'However' (tuy nhiên), 'Otherwise' (nếu không thì) sai logic."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "The process takes less than five minutes.",
+            "The conference was held in Singapore last year.",
+            "Your account was closed last month.",
+            "Our office is located on the third floor."
+          ],
+          "answer": 0,
+          "explanation": "Câu trước mở đầu 'Renewing is simple' và mô tả cách gia hạn trực tuyến → câu nói quá trình mất chưa tới năm phút củng cố ý 'đơn giản'. Tài khoản bị đóng mâu thuẫn với việc đăng nhập để gia hạn; thông tin hội nghị và địa chỉ văn phòng không liên quan."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "supporter",
+            "supportive",
+            "support",
+            "supported"
+          ],
+          "answer": 2,
+          "explanation": "Sau tính từ 'continued' (và tính từ sở hữu 'your') cần danh từ chỉ sự việc → 'support' (sự ủng hộ). 'supporter' chỉ người, sai nghĩa với 'value your continued'; 'supportive' là tính từ, 'supported' là phân từ."
+        }
+      ]
+    },
+    {
+      "id": "p6-19",
+      "type": "instructions",
+      "title": "Instructions: Using your in-room safe",
+      "text": "Using Your In-Room Safe\n\nFor your convenience, each guest room at the Seaview Hotel is equipped with an electronic safe. Please follow these steps to use it.\n\n1. Open the safe door and place your valuables inside.\n2. Enter a four-digit code of your choice, and then press the \"Lock\" button. The door will lock {{1}}.\n3. To open the safe, enter the same code. {{2}} you enter an incorrect code three times, the safe will lock for 15 minutes.\n\n{{3}} Please do not use your birth date or other numbers that others could easily guess.\n\nIf you forget your code, contact the front desk. For security reasons, a staff member will ask you to show photo identification {{4}} opening the safe for you.\n\nThe hotel is not responsible for any items left in the room outside the safe.",
+      "translation": "Hướng dẫn sử dụng két sắt trong phòng\n\nĐể thuận tiện cho quý khách, mỗi phòng tại khách sạn Seaview đều được trang bị một két sắt điện tử. Vui lòng làm theo các bước sau để sử dụng.\n\n1. Mở cửa két và đặt đồ có giá trị vào trong.\n2. Nhập mã bốn chữ số tùy chọn, sau đó nhấn nút \"Lock\". Cửa két sẽ tự động khóa.\n3. Để mở két, nhập lại đúng mã đó. Nếu quý khách nhập sai mã ba lần, két sẽ bị khóa trong 15 phút.\n\nChúng tôi khuyên quý khách chọn một mã mà mình sẽ không quên. Vui lòng không dùng ngày sinh hoặc những dãy số khác mà người khác dễ đoán.\n\nNếu quên mã, xin liên hệ quầy lễ tân. Vì lý do an ninh, nhân viên sẽ yêu cầu quý khách xuất trình giấy tờ tùy thân có ảnh trước khi mở két giúp quý khách.\n\nKhách sạn không chịu trách nhiệm đối với bất kỳ đồ vật nào để trong phòng mà không cất trong két.",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "automatic",
+            "automate",
+            "automatically",
+            "automation"
+          ],
+          "answer": 2,
+          "explanation": "Bổ nghĩa cho động từ 'will lock' cần trạng từ → 'automatically'. 'automatic' là tính từ, 'automate' là động từ, 'automation' là danh từ."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "Unless",
+            "If",
+            "Although",
+            "Whether"
+          ],
+          "answer": 1,
+          "explanation": "Quan hệ điều kiện: nhập sai ba lần thì két bị khóa → 'If'. 'Unless' (trừ khi) làm ngược nghĩa, 'Although' (mặc dù) sai logic, 'Whether' phải đi với 'or' khi nối mệnh đề trạng ngữ."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "We recommend choosing a code that you will not forget.",
+            "Room service is available 24 hours a day.",
+            "Checkout time is 12 noon.",
+            "Breakfast is served in the lobby from 6 A.M."
+          ],
+          "answer": 0,
+          "explanation": "Câu tiếp theo khuyên không dùng ngày sinh làm mã → câu cần điền phải nói về việc chọn mã. Các câu về dịch vụ phòng, giờ trả phòng, bữa sáng không liên quan đến két sắt."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "during",
+            "since",
+            "until",
+            "before"
+          ],
+          "answer": 3,
+          "explanation": "Nhân viên kiểm tra giấy tờ trước khi mở két → 'before + V-ing'. 'during' cần danh từ, 'since' dùng với thì hoàn thành, 'until' (cho đến khi) sai nghĩa."
+        }
+      ]
+    },
+    {
+      "id": "p6-20",
+      "type": "email",
+      "title": "Email: Your first day at Brightline Design",
+      "text": "To: Minh Pham\nFrom: Sarah Collins\nDate: July 1\nSubject: Your first day\n\nDear Minh,\n\nWe are delighted to welcome you {{1}} Brightline Design as our new junior graphic designer.\n\nYour first day is Monday, July 7. Please come to the reception area on the second floor at 9:00 A.M., where I will meet you. In the morning, you will complete some paperwork with the human resources department and receive your ID badge. {{2}}, you will join the design team for lunch.\n\nIn the afternoon, Jake Ortiz, our senior designer, will give you a tour of the office and help you set up your workstation. {{3}}\n\nOur dress code is {{4}} casual, so there is no need to wear a suit. If you have any questions before Monday, feel free to call me at 555-0142.\n\nBest regards,\n\nSarah Collins\nHR Coordinator",
+      "translation": "Đến: Minh Phạm\nTừ: Sarah Collins\nNgày: 1 tháng 7\nChủ đề: Ngày làm việc đầu tiên của bạn\n\nMinh thân mến,\n\nChúng tôi rất vui được chào đón bạn đến với Brightline Design với vai trò nhà thiết kế đồ họa sơ cấp mới.\n\nNgày làm việc đầu tiên của bạn là thứ Hai, ngày 7 tháng 7. Vui lòng đến khu vực lễ tân ở tầng hai lúc 9 giờ sáng, tôi sẽ gặp bạn ở đó. Buổi sáng, bạn sẽ hoàn tất một số giấy tờ với phòng nhân sự và nhận thẻ nhân viên. Sau đó, bạn sẽ ăn trưa cùng nhóm thiết kế.\n\nBuổi chiều, Jake Ortiz, nhà thiết kế cấp cao của chúng tôi, sẽ dẫn bạn tham quan văn phòng và giúp bạn thiết lập chỗ làm việc. Anh ấy cũng sẽ giải thích các công cụ phần mềm mà nhóm sử dụng hằng ngày.\n\nQuy định trang phục của chúng tôi khá thoải mái, vì vậy bạn không cần mặc vest. Nếu có câu hỏi nào trước thứ Hai, cứ thoải mái gọi cho tôi theo số 555-0142.\n\nTrân trọng,\n\nSarah Collins\nĐiều phối viên Nhân sự",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "at",
+            "for",
+            "to",
+            "with"
+          ],
+          "answer": 2,
+          "explanation": "Cấu trúc 'welcome somebody to + nơi chốn/tổ chức' (chào đón ai đến với). 'at', 'for', 'with' không dùng với 'welcome you' theo nghĩa này."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "Before",
+            "Afterward",
+            "Instead",
+            "Nevertheless"
+          ],
+          "answer": 1,
+          "explanation": "Các hoạt động được kể theo trình tự: làm giấy tờ buổi sáng, sau đó ăn trưa → 'Afterward' (sau đó). 'Before' không đứng một mình đầu câu với nghĩa này, 'Instead' (thay vào đó) và 'Nevertheless' (tuy nhiên) sai logic."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "Please submit your résumé to us by Friday.",
+            "He will also explain the software tools that the team uses every day.",
+            "The office will be closed all day on Monday.",
+            "Parking fees in the area will increase next year."
+          ],
+          "answer": 1,
+          "explanation": "Câu trước nói Jake sẽ hướng dẫn và giúp thiết lập chỗ làm → câu bổ sung việc anh ấy giải thích công cụ phần mềm là hợp lý ('He' = Jake). Nộp hồ sơ mâu thuẫn vì Minh đã được tuyển; văn phòng đóng cửa thứ Hai mâu thuẫn với ngày làm đầu tiên; phí đỗ xe không liên quan."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "fairly",
+            "fair",
+            "fairness",
+            "fairer"
+          ],
+          "answer": 0,
+          "explanation": "Trước tính từ 'casual' cần trạng từ bổ nghĩa → 'fairly' (khá). 'fair', 'fairer' là tính từ, 'fairness' là danh từ."
+        }
+      ]
+    },
+    {
+      "id": "p6-21",
+      "type": "memo",
+      "title": "Memo: New recycling program",
+      "text": "To: All Employees\nFrom: Daniel Reyes, Facilities Manager\nDate: April 2\nSubject: New recycling program\n\nBeginning next Monday, Corwin Industries will launch a new recycling program in all of its offices. Blue bins for paper and green bins for plastic and glass {{1}} next to every printer and in each kitchen area.\n\nPlease make sure that items are clean and placed in the correct bin. Food waste should not be put in either bin {{2}} it can contaminate the recyclable materials. {{3}}\n\nThe program is part of our goal to cut the amount of waste we send to landfills by half within two years. We are {{4}} that, with everyone's help, we can reach this target ahead of schedule.\n\nIf you have suggestions for improving the program, please send them to me at extension 318.",
+      "translation": "Gửi: Toàn thể nhân viên\nTừ: Daniel Reyes, Quản lý Cơ sở vật chất\nNgày: 2 tháng 4\nChủ đề: Chương trình tái chế mới\n\nBắt đầu từ thứ Hai tới, Corwin Industries sẽ triển khai chương trình tái chế mới tại tất cả các văn phòng. Thùng màu xanh dương dành cho giấy và thùng màu xanh lá dành cho nhựa và thủy tinh sẽ được đặt cạnh mỗi máy in và tại mỗi khu vực bếp.\n\nVui lòng đảm bảo các vật dụng sạch sẽ và được bỏ vào đúng thùng. Không được bỏ rác thực phẩm vào thùng nào trong hai loại thùng này vì nó có thể làm bẩn các vật liệu tái chế. Một thùng riêng cho thức ăn thừa sẽ được đặt tại mỗi khu vực bếp.\n\nChương trình này là một phần trong mục tiêu giảm một nửa lượng rác thải chúng ta đưa đến bãi chôn lấp trong vòng hai năm. Chúng tôi tin tưởng rằng, với sự giúp đỡ của mọi người, chúng ta có thể đạt mục tiêu này sớm hơn kế hoạch.\n\nNếu bạn có đề xuất cải thiện chương trình, vui lòng gửi cho tôi qua số máy lẻ 318.",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "will place",
+            "placing",
+            "will be placed",
+            "have placed"
+          ],
+          "answer": 2,
+          "explanation": "Thùng rác 'được đặt' (bị động) và chương trình bắt đầu từ thứ Hai tới → 'will be placed'. 'will place', 'have placed' là chủ động (thùng không tự đặt), 'placing' không làm động từ chính."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "although",
+            "so that",
+            "because",
+            "unless"
+          ],
+          "answer": 2,
+          "explanation": "Mệnh đề sau giải thích lý do không được bỏ rác thực phẩm → 'because'. 'although' (mặc dù), 'so that' (để mà), 'unless' (trừ khi) sai logic."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "The kitchen will be closed for renovations next month.",
+            "All printers will be replaced next year.",
+            "A separate container for food scraps will be provided in each kitchen.",
+            "Employees may now work from home on Fridays."
+          ],
+          "answer": 2,
+          "explanation": "Câu trước nói không được bỏ rác thực phẩm vào thùng tái chế → câu cho biết nơi bỏ thức ăn thừa là hợp lý. Việc đóng cửa bếp, thay máy in hay làm việc tại nhà không liên quan đến việc phân loại rác."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "confident",
+            "confidence",
+            "confidently",
+            "confide"
+          ],
+          "answer": 0,
+          "explanation": "Sau 'We are' và trước mệnh đề 'that ...' cần tính từ → 'confident that' (tin tưởng rằng). 'confidence' là danh từ, 'confidently' là trạng từ, 'confide' là động từ."
+        }
+      ]
+    },
+    {
+      "id": "p6-22",
+      "type": "notice",
+      "title": "Notice: Water supply interruption",
+      "text": "NOTICE TO RESIDENTS OF PARKVIEW TOWERS\n\nPlease be advised that the water supply to the building will be shut off on Wednesday, September 18, from 10:00 A.M. to 3:00 P.M. During this time, workers will replace the main water pipe, {{1}} has been leaking for several weeks.\n\nWe recommend that residents store enough water for drinking and cooking {{2}} the work begins. {{3}} After the water is turned back on, it may appear slightly cloudy for a short time. This is normal, and the water will be safe to use.\n\nWe apologize for any inconvenience this may cause. If the work is not completed as scheduled, we will post an {{4}} on the bulletin board in the lobby.\n\nThank you for your patience.\n\nParkview Towers Building Management",
+      "translation": "THÔNG BÁO ĐẾN CƯ DÂN TÒA NHÀ PARKVIEW TOWERS\n\nXin lưu ý rằng nguồn cấp nước của tòa nhà sẽ bị ngắt vào thứ Tư, ngày 18 tháng 9, từ 10 giờ sáng đến 3 giờ chiều. Trong thời gian này, công nhân sẽ thay đường ống nước chính, vốn đã bị rò rỉ trong vài tuần nay.\n\nChúng tôi khuyên cư dân trữ đủ nước để uống và nấu ăn trước khi công việc bắt đầu. Nước đóng chai cũng sẽ được phát miễn phí tại sảnh. Sau khi nước được mở lại, nước có thể hơi đục trong thời gian ngắn. Đây là hiện tượng bình thường và nước vẫn an toàn để sử dụng.\n\nChúng tôi xin lỗi vì mọi bất tiện có thể gây ra. Nếu công việc không hoàn thành đúng kế hoạch, chúng tôi sẽ đăng thông tin cập nhật trên bảng tin ở sảnh.\n\nCảm ơn sự kiên nhẫn của quý cư dân.\n\nBan Quản lý Tòa nhà Parkview Towers",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "who",
+            "what",
+            "where",
+            "which"
+          ],
+          "answer": 3,
+          "explanation": "Mệnh đề quan hệ không xác định bổ nghĩa cho vật 'the main water pipe' và thiếu chủ ngữ → 'which'. 'who' chỉ người, 'what' không bổ nghĩa cho danh từ, 'where' cần mệnh đề đầy đủ."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "before",
+            "after",
+            "while",
+            "once"
+          ],
+          "answer": 0,
+          "explanation": "Cư dân cần trữ nước trước khi việc cắt nước bắt đầu → 'before'. 'after', 'once' (một khi) và 'while' (trong khi) khiến việc trữ nước diễn ra khi đã mất nước, không hợp lý."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "The swimming pool will reopen next summer.",
+            "Bottled water will also be available free of charge in the lobby.",
+            "Rent payments are due on the first of each month.",
+            "The building was painted last year."
+          ],
+          "answer": 1,
+          "explanation": "Đoạn văn bàn về việc chuẩn bị nước khi bị cắt nước → câu về nước đóng chai miễn phí là hợp lý. Hồ bơi, tiền thuê nhà, sơn tòa nhà đều không liên quan."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "updated",
+            "updating",
+            "update",
+            "updates"
+          ],
+          "answer": 2,
+          "explanation": "Sau mạo từ 'an' cần danh từ số ít → 'update' (thông tin cập nhật). 'updates' là số nhiều, không đi với 'an'; 'updated', 'updating' là phân từ."
+        }
+      ]
+    },
+    {
+      "id": "p6-23",
+      "type": "advertisement",
+      "title": "Advertisement: HomeNest Furniture grand opening",
+      "text": "Grand Opening at HomeNest Furniture!\n\nHomeNest Furniture is opening its newest store at 45 Nguyen Hue Boulevard on Saturday, November 2. To celebrate, we are offering {{1}} discounts of up to 40 percent on sofas, dining sets, and office chairs.\n\nThe first 100 customers on opening day will also receive a free set of cushions. {{2}}\n\nOur new showroom is the {{3}} in the city, with more than 2,000 square meters of display space. Our design consultants will be on hand to help you choose furniture that fits both your style and your budget.\n\nCan't make it to the store? {{4}} our entire collection online at www.homenest.vn and enjoy free delivery on orders over 5 million dong.\n\nHomeNest Furniture — Making every house a home.",
+      "translation": "Khai trương cửa hàng HomeNest Furniture!\n\nHomeNest Furniture sẽ khai trương cửa hàng mới nhất tại số 45 đại lộ Nguyễn Huệ vào thứ Bảy, ngày 2 tháng 11. Để chào mừng, chúng tôi giảm giá đặc biệt lên đến 40% cho sofa, bộ bàn ăn và ghế văn phòng.\n\n100 khách hàng đầu tiên trong ngày khai trương còn được tặng một bộ gối tựa miễn phí. Cửa mở lúc 9 giờ sáng, vì vậy hãy nhớ đến sớm.\n\nPhòng trưng bày mới của chúng tôi là lớn nhất thành phố, với hơn 2.000 mét vuông không gian trưng bày. Các chuyên viên tư vấn thiết kế sẽ có mặt để giúp bạn chọn đồ nội thất phù hợp với cả phong cách lẫn ngân sách của bạn.\n\nKhông thể đến cửa hàng? Hãy xem toàn bộ bộ sưu tập của chúng tôi trực tuyến tại www.homenest.vn và được miễn phí giao hàng cho đơn từ 5 triệu đồng.\n\nHomeNest Furniture — Biến mỗi ngôi nhà thành tổ ấm.",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "specially",
+            "specialize",
+            "specialty",
+            "special"
+          ],
+          "answer": 3,
+          "explanation": "Trước danh từ 'discounts' cần tính từ → 'special'. 'specially' là trạng từ, 'specialize' là động từ, 'specialty' là danh từ."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "Our store has been closed since last year.",
+            "Doors open at 9:00 A.M., so be sure to arrive early.",
+            "Delivery fees have recently increased.",
+            "Several of our employees have left the company."
+          ],
+          "answer": 1,
+          "explanation": "Câu trước nói 100 khách đầu tiên được tặng quà → lời nhắc giờ mở cửa và đến sớm là hợp lý. Cửa hàng đóng cửa mâu thuẫn với sự kiện khai trương; phí giao hàng tăng mâu thuẫn với 'free delivery'; việc nhân viên nghỉ việc không phù hợp với quảng cáo."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "larger",
+            "largest",
+            "large",
+            "largely"
+          ],
+          "answer": 1,
+          "explanation": "'the ... in the city' là cấu trúc so sánh nhất → 'largest'. 'larger' là so sánh hơn (cần 'than'), 'large' không đi với 'the ... in the city' trong ngữ cảnh này, 'largely' là trạng từ."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "Browsing",
+            "Browse",
+            "Browsed",
+            "To browse"
+          ],
+          "answer": 1,
+          "explanation": "Câu mệnh lệnh mời khách xem hàng trực tuyến, nối với 'and enjoy' (cũng ở dạng mệnh lệnh) → động từ nguyên mẫu 'Browse'. 'Browsing', 'Browsed', 'To browse' khiến câu thiếu động từ chính."
+        }
+      ]
+    },
+    {
+      "id": "p6-24",
+      "type": "article",
+      "title": "Article: Farmers market moves to a larger site",
+      "text": "HAI PHONG (August 5) — The Saturday farmers market in Tam Bac Park is moving to a larger location. Starting on September 6, the market will be held at the Riverside Exhibition Grounds, about one kilometer north of its current site.\n\nThe market has grown {{1}} since it first opened three years ago. It began with just 15 vendors but now has more than 60. {{2}}, many shoppers have complained about crowded walkways and limited parking.\n\n\"The new site gives us room to grow,\" said market organizer Vu Thanh Lam. \"It also has a parking lot that can hold 300 vehicles.\" {{3}}\n\nVendors are pleased with the change. Pham Thu Trang, who sells organic vegetables, said she expects her sales to increase. \"More space means more customers can shop {{4}} feeling rushed,\" she explained.",
+      "translation": "HẢI PHÒNG (5 tháng 8) — Chợ nông sản ngày thứ Bảy ở công viên Tam Bạc sẽ chuyển đến địa điểm rộng hơn. Bắt đầu từ ngày 6 tháng 9, chợ sẽ được tổ chức tại Khu triển lãm Riverside, cách địa điểm hiện tại khoảng một cây số về phía bắc.\n\nChợ đã phát triển nhanh chóng kể từ khi mở cửa ba năm trước. Ban đầu chợ chỉ có 15 người bán nhưng nay đã có hơn 60. Kết quả là nhiều người mua phàn nàn về lối đi đông đúc và chỗ đỗ xe hạn chế.\n\n\"Địa điểm mới cho chúng tôi không gian để phát triển,\" ông Vũ Thanh Lâm, người tổ chức chợ, cho biết. \"Nơi đó còn có bãi đỗ xe chứa được 300 phương tiện.\" Ông Vũ cho biết thêm rằng sẽ có xe buýt đưa đón từ công viên Tam Bạc đến địa điểm mới.\n\nNhững người bán hàng hài lòng với sự thay đổi này. Bà Phạm Thu Trang, người bán rau hữu cơ, cho biết bà kỳ vọng doanh số sẽ tăng. \"Nhiều không gian hơn nghĩa là nhiều khách hàng có thể mua sắm mà không cảm thấy vội vã,\" bà giải thích.",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "rapid",
+            "rapidity",
+            "more rapid",
+            "rapidly"
+          ],
+          "answer": 3,
+          "explanation": "Bổ nghĩa cho động từ 'has grown' cần trạng từ → 'rapidly'. 'rapid', 'more rapid' là tính từ, 'rapidity' là danh từ."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "Nevertheless",
+            "As a result",
+            "For instance",
+            "In contrast"
+          ],
+          "answer": 1,
+          "explanation": "Số người bán tăng mạnh dẫn đến hệ quả là lối đi đông đúc, thiếu chỗ đỗ xe → 'As a result'. 'Nevertheless' (tuy nhiên), 'In contrast' (ngược lại) diễn tả đối lập; 'For instance' (ví dụ) không phù hợp."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "The market first opened with more than 100 vendors.",
+            "Mr. Vu added that shuttle buses will run from Tam Bac Park to the new site.",
+            "Parking at the new site will be very limited.",
+            "Vendors will no longer be allowed to sell vegetables."
+          ],
+          "answer": 1,
+          "explanation": "Đoạn này trích lời ông Vũ về tiện ích của địa điểm mới → câu bổ sung về xe buýt đưa đón là hợp lý. 'more than 100 vendors' mâu thuẫn với 15 người bán ban đầu; chỗ đỗ xe hạn chế mâu thuẫn với bãi 300 xe; cấm bán rau mâu thuẫn với bà Trang bán rau hữu cơ."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "without",
+            "unless",
+            "despite",
+            "instead"
+          ],
+          "answer": 0,
+          "explanation": "'without + V-ing' = mà không. 'unless' là liên từ cần mệnh đề, 'despite feeling rushed' (dù cảm thấy vội) sai logic, 'instead' cần 'of'."
+        }
+      ]
+    },
+    {
+      "id": "p6-25",
+      "type": "letter",
+      "title": "Letter: Job offer from Trident Logistics",
+      "text": "Dear Ms. Vo,\n\nOn behalf of Trident Logistics, I am pleased to offer you the position of Warehouse Supervisor at our Binh Duong facility. Your experience in inventory management and your strong leadership skills {{1}} our hiring committee.\n\nAs discussed during your interview, your starting salary will be 25 million dong per month. You will also be eligible for health insurance and 15 days of paid leave per year. {{2}}\n\nPlease {{3}} your acceptance of this offer by signing the enclosed contract and returning it to me by March 20. Once we receive it, we will contact you to arrange your training schedule.\n\nWe are confident that you will make a valuable contribution to our team. {{4}} you have any questions about the terms of the offer, please do not hesitate to call me.\n\nSincerely,\n\nKevin Lau\nHuman Resources Manager",
+      "translation": "Kính gửi bà Võ,\n\nThay mặt Trident Logistics, tôi vui mừng mời bà đảm nhận vị trí Giám sát Kho tại cơ sở Bình Dương của chúng tôi. Kinh nghiệm quản lý hàng tồn kho và kỹ năng lãnh đạo vững vàng của bà đã gây ấn tượng với hội đồng tuyển dụng.\n\nNhư đã trao đổi trong buổi phỏng vấn, mức lương khởi điểm của bà sẽ là 25 triệu đồng mỗi tháng. Bà cũng sẽ được hưởng bảo hiểm y tế và 15 ngày nghỉ phép có lương mỗi năm. Chi tiết về các phúc lợi này được giải thích trong sổ tay nhân viên đính kèm.\n\nVui lòng xác nhận việc chấp nhận lời mời này bằng cách ký hợp đồng đính kèm và gửi lại cho tôi trước ngày 20 tháng 3. Khi nhận được, chúng tôi sẽ liên hệ với bà để sắp xếp lịch đào tạo.\n\nChúng tôi tin rằng bà sẽ có những đóng góp quý giá cho đội ngũ. Nếu bà có bất kỳ câu hỏi nào về các điều khoản của lời mời, xin đừng ngần ngại gọi cho tôi.\n\nTrân trọng,\n\nKevin Lau\nTrưởng phòng Nhân sự",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "impressive",
+            "impression",
+            "impressed",
+            "impressively"
+          ],
+          "answer": 2,
+          "explanation": "Chủ ngữ 'Your experience ... and your ... skills' cần động từ chính, tân ngữ là 'our hiring committee' → 'impressed' (đã gây ấn tượng với). 'impressive' là tính từ, 'impression' là danh từ, 'impressively' là trạng từ — đều không làm động từ."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "Unfortunately, we have decided to offer the position to another candidate.",
+            "Your interview has been scheduled for next week.",
+            "Further details about these benefits are explained in the enclosed handbook.",
+            "The warehouse will close permanently in March."
+          ],
+          "answer": 2,
+          "explanation": "Câu trước liệt kê phúc lợi → câu nói chi tiết phúc lợi có trong sổ tay đính kèm là hợp lý. Trao vị trí cho người khác mâu thuẫn với thư mời làm việc; phỏng vấn tuần sau mâu thuẫn với 'As discussed during your interview'; kho đóng cửa mâu thuẫn với việc tuyển giám sát kho."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "decline",
+            "postpone",
+            "reject",
+            "confirm"
+          ],
+          "answer": 3,
+          "explanation": "Ký và gửi lại hợp đồng là cách 'xác nhận' việc chấp nhận lời mời → 'confirm'. 'decline', 'reject' (từ chối) mâu thuẫn với 'acceptance'; 'postpone' (hoãn) không hợp lý với việc ký hợp đồng trước hạn."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "Whether",
+            "Unless",
+            "Despite",
+            "If"
+          ],
+          "answer": 3,
+          "explanation": "Quan hệ điều kiện: nếu có câu hỏi thì hãy gọi → 'If'. 'Whether' cần 'or', 'Unless' (trừ khi) làm ngược nghĩa, 'Despite' là giới từ không đi với mệnh đề."
+        }
+      ]
+    },
+    {
+      "id": "p6-26",
+      "type": "instructions",
+      "title": "Instructions: Returning an online purchase",
+      "text": "How to Return an Item Purchased Online\n\nItems bought from the Corvella online store may be returned within 30 days of delivery. To be {{1}} for a refund, items must be unused and in their original packaging.\n\nTo start a return, log in to your account and go to \"My Orders.\" Select the item you wish to return and choose a reason from the list. {{2}} Print this label and attach it to the package.\n\nYou may drop off the package at any Speedline Post office. {{3}} the item reaches our warehouse, it will be inspected by our staff. Refunds are usually processed within five business days and will be issued to the original payment method.\n\nPlease note that sale items and gift cards cannot be returned. For more information, {{4}} our Frequently Asked Questions page.",
+      "translation": "Cách trả lại sản phẩm mua trực tuyến\n\nSản phẩm mua từ cửa hàng trực tuyến Corvella có thể được trả lại trong vòng 30 ngày kể từ ngày giao. Để đủ điều kiện hoàn tiền, sản phẩm phải chưa qua sử dụng và còn nguyên bao bì gốc.\n\nĐể bắt đầu trả hàng, hãy đăng nhập vào tài khoản và vào mục \"My Orders\". Chọn sản phẩm bạn muốn trả và chọn lý do trong danh sách. Sau đó, một nhãn vận chuyển trả trước sẽ được gửi đến địa chỉ email của bạn. Hãy in nhãn này và dán lên gói hàng.\n\nBạn có thể gửi gói hàng tại bất kỳ bưu cục Speedline Post nào. Khi sản phẩm đến kho của chúng tôi, nhân viên sẽ kiểm tra sản phẩm. Việc hoàn tiền thường được xử lý trong vòng năm ngày làm việc và sẽ được hoàn về phương thức thanh toán ban đầu.\n\nXin lưu ý rằng hàng giảm giá và thẻ quà tặng không được trả lại. Để biết thêm thông tin, hãy truy cập trang Câu hỏi thường gặp của chúng tôi.",
+      "questions": [
+        {
+          "blank": 1,
+          "options": [
+            "eligibility",
+            "eligible",
+            "eligibly",
+            "eligibilities"
+          ],
+          "answer": 1,
+          "explanation": "Sau 'To be' và trước 'for' cần tính từ → 'eligible for' (đủ điều kiện để). 'eligibility', 'eligibilities' là danh từ, 'eligibly' là trạng từ."
+        },
+        {
+          "blank": 2,
+          "options": [
+            "A prepaid shipping label will then be sent to your e-mail address.",
+            "Our stores are open seven days a week.",
+            "Gift cards make an excellent present for any occasion.",
+            "Delivery usually takes three to five days."
+          ],
+          "answer": 0,
+          "explanation": "Câu sau nói 'Print this label' → câu cần điền phải giới thiệu nhãn vận chuyển. Các câu về giờ mở cửa, thẻ quà tặng, thời gian giao hàng không nhắc đến nhãn nên 'this label' không có gì để chỉ đến."
+        },
+        {
+          "blank": 3,
+          "options": [
+            "Unless",
+            "Although",
+            "Once",
+            "So that"
+          ],
+          "answer": 2,
+          "explanation": "Trình tự thời gian: khi hàng đến kho thì được kiểm tra → 'Once' (một khi, khi). 'Unless' (trừ khi), 'Although' (mặc dù), 'So that' (để mà) sai logic."
+        },
+        {
+          "blank": 4,
+          "options": [
+            "visit",
+            "visiting",
+            "visited",
+            "visits"
+          ],
+          "answer": 0,
+          "explanation": "Câu mệnh lệnh hướng dẫn người đọc → động từ nguyên mẫu 'visit'. 'visiting', 'visited', 'visits' khiến câu thiếu chủ ngữ hoặc động từ chính hợp lệ."
+        }
+      ]
+    }
+  ]
+}

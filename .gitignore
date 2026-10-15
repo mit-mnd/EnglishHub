@@ -1,0 +1,24 @@
+node_modules/
+dist/
+coverage/
+*.log
+*.local
+
+# Mã nguồn bản cũ (Spring Boot + SQL Server) - giữ để tham khảo, có thể xóa
+# _archive/
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+
+.vercel
+
+# Deploy / công cụ cục bộ
+.vercel/
+.claude/
+
+# Sản phẩm build & file tải lên của bản cũ
+_archive/backend-springboot/target/
+_archive/backend-springboot/uploads/

@@ -1,0 +1,2553 @@
+[
+  {
+    "id": 1,
+    "slug": "greetings",
+    "name": "Chào hỏi & làm quen",
+    "description": "Dùng khi gặp gỡ, chào hỏi người quen hoặc bắt chuyện làm quen với người mới.",
+    "category": "daily",
+    "levelId": 1,
+    "patterns": [
+      {
+        "id": 101,
+        "pattern": "How's it going?",
+        "meaning": "Dạo này thế nào?",
+        "example": "Hey Mike! How's it going?",
+        "exampleTranslation": "Chào Mike! Dạo này thế nào?",
+        "note": "Thân mật; thường đáp lại 'Pretty good, thanks!' chứ không kể chi tiết.",
+        "formality": "informal"
+      },
+      {
+        "id": 102,
+        "pattern": "How have you been?",
+        "meaning": "Dạo này bạn thế nào? (lâu không gặp)",
+        "example": "It's been a while! How have you been?",
+        "exampleTranslation": "Lâu rồi không gặp! Dạo này bạn thế nào?",
+        "note": "Dùng khi đã lâu không gặp; thì hiện tại hoàn thành.",
+        "formality": "neutral"
+      },
+      {
+        "id": 103,
+        "pattern": "Not bad, thanks. And you?",
+        "meaning": "Cũng ổn, cảm ơn. Còn bạn?",
+        "example": "Not bad, thanks. And you? Busy with work?",
+        "exampleTranslation": "Cũng ổn, cảm ơn. Còn bạn? Bận việc không?",
+        "note": "Câu đáp phổ biến; nhớ hỏi lại để giữ phép lịch sự.",
+        "formality": "neutral"
+      },
+      {
+        "id": 104,
+        "pattern": "Nice to meet you, ___.",
+        "meaning": "Rất vui được gặp bạn, ___.",
+        "example": "Nice to meet you, Linh. I've heard a lot about you.",
+        "exampleTranslation": "Rất vui được gặp bạn, Linh. Tôi đã nghe nói nhiều về bạn.",
+        "note": "Chỉ dùng lần gặp đầu tiên; lần sau dùng 'Nice to see you'.",
+        "formality": "neutral"
+      },
+      {
+        "id": 105,
+        "pattern": "Nice to meet you too.",
+        "meaning": "Tôi cũng rất vui được gặp bạn.",
+        "example": "\"Nice to meet you.\" \"Nice to meet you too.\"",
+        "exampleTranslation": "\"Rất vui được gặp bạn.\" \"Tôi cũng rất vui được gặp bạn.\"",
+        "note": "Cách đáp lại chuẩn; nhấn giọng vào 'you'.",
+        "formality": "neutral"
+      },
+      {
+        "id": 106,
+        "pattern": "Long time no see!",
+        "meaning": "Lâu quá không gặp!",
+        "example": "Long time no see! You look great.",
+        "exampleTranslation": "Lâu quá không gặp! Trông bạn tuyệt lắm.",
+        "note": "Rất thân mật, chỉ dùng với bạn bè.",
+        "formality": "informal"
+      },
+      {
+        "id": 107,
+        "pattern": "Good to see you again.",
+        "meaning": "Rất vui được gặp lại bạn.",
+        "example": "Good to see you again, Mr. Tanaka.",
+        "exampleTranslation": "Rất vui được gặp lại ông, ông Tanaka.",
+        "formality": "neutral"
+      },
+      {
+        "id": 108,
+        "pattern": "I don't think we've met. I'm ___.",
+        "meaning": "Hình như chúng ta chưa gặp nhau. Tôi là ___.",
+        "example": "I don't think we've met. I'm Hoa, from the marketing team.",
+        "exampleTranslation": "Hình như chúng ta chưa gặp nhau. Tôi là Hoa, ở nhóm marketing.",
+        "note": "Cách tự nhiên để chủ động làm quen ở sự kiện, công ty.",
+        "formality": "neutral"
+      },
+      {
+        "id": 109,
+        "pattern": "Let me introduce you to ___.",
+        "meaning": "Để tôi giới thiệu bạn với ___.",
+        "example": "Let me introduce you to my colleague, David.",
+        "exampleTranslation": "Để tôi giới thiệu bạn với đồng nghiệp của tôi, David.",
+        "note": "Thân mật hơn: 'This is ___.'",
+        "formality": "formal"
+      },
+      {
+        "id": 110,
+        "pattern": "What's new with you?",
+        "meaning": "Có gì mới không?",
+        "example": "So, what's new with you these days?",
+        "exampleTranslation": "Thế dạo này bạn có gì mới không?",
+        "note": "Có thể đáp 'Not much' (Không có gì nhiều).",
+        "formality": "informal"
+      },
+      {
+        "id": 111,
+        "pattern": "It was nice talking to you.",
+        "meaning": "Rất vui được nói chuyện với bạn.",
+        "example": "It was nice talking to you. Let's keep in touch.",
+        "exampleTranslation": "Rất vui được nói chuyện với bạn. Giữ liên lạc nhé.",
+        "note": "Dùng khi kết thúc cuộc trò chuyện một cách lịch sự.",
+        "formality": "neutral"
+      },
+      {
+        "id": 112,
+        "pattern": "See you around. / Take care.",
+        "meaning": "Hẹn gặp lại. / Bảo trọng nhé.",
+        "example": "I have to go now. See you around! Take care.",
+        "exampleTranslation": "Giờ mình phải đi rồi. Hẹn gặp lại! Bảo trọng nhé.",
+        "note": "Lời chào tạm biệt thân mật.",
+        "formality": "informal"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "self-introduction",
+    "name": "Giới thiệu bản thân",
+    "description": "Dùng khi giới thiệu tên, quê quán, công việc, sở thích của bản thân với người khác.",
+    "category": "daily",
+    "levelId": 1,
+    "patterns": [
+      {
+        "id": 201,
+        "pattern": "My name is ___, but you can call me ___.",
+        "meaning": "Tên tôi là ___, nhưng bạn có thể gọi tôi là ___.",
+        "example": "My name is Nguyen Thanh Tung, but you can call me Tony.",
+        "exampleTranslation": "Tên tôi là Nguyễn Thanh Tùng, nhưng bạn có thể gọi tôi là Tony.",
+        "note": "Hữu ích khi tên tiếng Việt khó phát âm với người nước ngoài.",
+        "formality": "neutral"
+      },
+      {
+        "id": 202,
+        "pattern": "I'm from ___.",
+        "meaning": "Tôi đến từ ___.",
+        "example": "I'm from Da Nang, a coastal city in central Vietnam.",
+        "exampleTranslation": "Tôi đến từ Đà Nẵng, một thành phố biển ở miền Trung Việt Nam.",
+        "note": "Hỏi lại: 'Where are you from?'",
+        "formality": "neutral"
+      },
+      {
+        "id": 203,
+        "pattern": "I grew up in ___.",
+        "meaning": "Tôi lớn lên ở ___.",
+        "example": "I was born in Hue, but I grew up in Ho Chi Minh City.",
+        "exampleTranslation": "Tôi sinh ra ở Huế, nhưng lớn lên ở TP. Hồ Chí Minh.",
+        "formality": "neutral"
+      },
+      {
+        "id": 204,
+        "pattern": "I work as a/an ___ at ___.",
+        "meaning": "Tôi làm ___ tại ___.",
+        "example": "I work as an accountant at a logistics company.",
+        "exampleTranslation": "Tôi làm kế toán tại một công ty logistics.",
+        "note": "Nhớ dùng mạo từ a/an trước nghề nghiệp.",
+        "formality": "neutral"
+      },
+      {
+        "id": 205,
+        "pattern": "I'm currently studying ___ at ___.",
+        "meaning": "Hiện tôi đang học ___ tại ___.",
+        "example": "I'm currently studying computer science at Hanoi University of Science and Technology.",
+        "exampleTranslation": "Hiện tôi đang học khoa học máy tính tại Đại học Bách khoa Hà Nội.",
+        "formality": "neutral"
+      },
+      {
+        "id": 206,
+        "pattern": "I'm in charge of ___.",
+        "meaning": "Tôi phụ trách ___.",
+        "example": "I'm in charge of customer accounts in the northern region.",
+        "exampleTranslation": "Tôi phụ trách các tài khoản khách hàng ở khu vực phía Bắc.",
+        "note": "Dùng để nói rõ trách nhiệm công việc.",
+        "formality": "neutral"
+      },
+      {
+        "id": 207,
+        "pattern": "In my free time, I like to ___.",
+        "meaning": "Lúc rảnh, tôi thích ___.",
+        "example": "In my free time, I like to go jogging and read novels.",
+        "exampleTranslation": "Lúc rảnh, tôi thích chạy bộ và đọc tiểu thuyết.",
+        "formality": "neutral"
+      },
+      {
+        "id": 208,
+        "pattern": "I'm really into ___.",
+        "meaning": "Tôi rất mê ___.",
+        "example": "I'm really into photography these days.",
+        "exampleTranslation": "Dạo này tôi rất mê chụp ảnh.",
+        "note": "Thân mật; sau 'into' dùng danh từ hoặc V-ing.",
+        "formality": "informal"
+      },
+      {
+        "id": 209,
+        "pattern": "I've been ___ for ___ years.",
+        "meaning": "Tôi đã ___ được ___ năm.",
+        "example": "I've been working in sales for five years.",
+        "exampleTranslation": "Tôi đã làm bán hàng được năm năm.",
+        "note": "Hiện tại hoàn thành tiếp diễn diễn tả việc vẫn đang tiếp tục.",
+        "formality": "neutral"
+      },
+      {
+        "id": 210,
+        "pattern": "I'm learning English because ___.",
+        "meaning": "Tôi học tiếng Anh vì ___.",
+        "example": "I'm learning English because I want to work for an international company.",
+        "exampleTranslation": "Tôi học tiếng Anh vì tôi muốn làm việc cho một công ty quốc tế.",
+        "formality": "neutral"
+      },
+      {
+        "id": 211,
+        "pattern": "What do you do?",
+        "meaning": "Bạn làm nghề gì?",
+        "example": "So, what do you do, Anna?",
+        "exampleTranslation": "Vậy bạn làm nghề gì, Anna?",
+        "note": "Câu hỏi về nghề nghiệp, không phải 'đang làm gì'.",
+        "formality": "neutral"
+      },
+      {
+        "id": 212,
+        "pattern": "A little bit about myself: ___.",
+        "meaning": "Đôi nét về bản thân tôi: ___.",
+        "example": "A little bit about myself: I'm 25, I love traveling, and I'm a big football fan.",
+        "exampleTranslation": "Đôi nét về bản thân tôi: tôi 25 tuổi, thích du lịch và là một fan bóng đá cuồng nhiệt.",
+        "note": "Mở đầu phần giới thiệu trong lớp học, buổi gặp mặt.",
+        "formality": "neutral"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "small-talk",
+    "name": "Trò chuyện xã giao",
+    "description": "Dùng để bắt chuyện, duy trì cuộc nói chuyện nhẹ nhàng về thời tiết, cuối tuần, sở thích.",
+    "category": "daily",
+    "levelId": 2,
+    "patterns": [
+      {
+        "id": 301,
+        "pattern": "Lovely weather today, isn't it?",
+        "meaning": "Hôm nay thời tiết đẹp nhỉ?",
+        "example": "Lovely weather today, isn't it? Perfect for a walk.",
+        "exampleTranslation": "Hôm nay thời tiết đẹp nhỉ? Thật hợp để đi dạo.",
+        "note": "Câu hỏi đuôi giúp mời người kia đáp lại.",
+        "formality": "neutral"
+      },
+      {
+        "id": 302,
+        "pattern": "Did you do anything fun over the weekend?",
+        "meaning": "Cuối tuần bạn có làm gì vui không?",
+        "example": "Did you do anything fun over the weekend? I went camping.",
+        "exampleTranslation": "Cuối tuần bạn có làm gì vui không? Mình đi cắm trại.",
+        "note": "Câu bắt chuyện phổ biến vào thứ Hai.",
+        "formality": "neutral"
+      },
+      {
+        "id": 303,
+        "pattern": "Any plans for ___?",
+        "meaning": "Bạn có kế hoạch gì cho ___ không?",
+        "example": "Any plans for the holiday?",
+        "exampleTranslation": "Bạn có kế hoạch gì cho kỳ nghỉ không?",
+        "note": "Dạng rút gọn của 'Do you have any plans for...?'",
+        "formality": "informal"
+      },
+      {
+        "id": 304,
+        "pattern": "How do you know ___?",
+        "meaning": "Bạn quen ___ như thế nào?",
+        "example": "How do you know the bride?",
+        "exampleTranslation": "Bạn quen cô dâu như thế nào?",
+        "note": "Hay dùng ở tiệc, đám cưới.",
+        "formality": "neutral"
+      },
+      {
+        "id": 305,
+        "pattern": "Have you been to ___ before?",
+        "meaning": "Bạn đã từng đến ___ chưa?",
+        "example": "Have you been to this restaurant before?",
+        "exampleTranslation": "Bạn đã từng đến nhà hàng này chưa?",
+        "formality": "neutral"
+      },
+      {
+        "id": 306,
+        "pattern": "That sounds ___!",
+        "meaning": "Nghe ___ quá!",
+        "example": "You went diving in Nha Trang? That sounds amazing!",
+        "exampleTranslation": "Bạn đi lặn ở Nha Trang à? Nghe tuyệt quá!",
+        "note": "Phản hồi thể hiện sự quan tâm: fun, great, tough...",
+        "formality": "neutral"
+      },
+      {
+        "id": 307,
+        "pattern": "Oh, really? Tell me more.",
+        "meaning": "Ồ, thật à? Kể thêm đi.",
+        "example": "Oh, really? Tell me more. How did you get started?",
+        "exampleTranslation": "Ồ, thật à? Kể thêm đi. Bạn bắt đầu thế nào?",
+        "note": "Khuyến khích người kia nói tiếp.",
+        "formality": "informal"
+      },
+      {
+        "id": 308,
+        "pattern": "I know what you mean.",
+        "meaning": "Tôi hiểu ý bạn.",
+        "example": "I know what you mean. Traffic here is terrible in the morning.",
+        "exampleTranslation": "Tôi hiểu ý bạn. Giao thông ở đây buổi sáng rất tệ.",
+        "note": "Thể hiện sự đồng cảm.",
+        "formality": "neutral"
+      },
+      {
+        "id": 309,
+        "pattern": "Same here.",
+        "meaning": "Tôi cũng vậy.",
+        "example": "\"I'm so tired today.\" \"Same here.\"",
+        "exampleTranslation": "\"Hôm nay mình mệt quá.\" \"Mình cũng vậy.\"",
+        "note": "Thân mật; trang trọng hơn: 'So am I / So do I'.",
+        "formality": "informal"
+      },
+      {
+        "id": 310,
+        "pattern": "By the way, ___",
+        "meaning": "Nhân tiện, ___",
+        "example": "By the way, have you tried the new coffee shop downstairs?",
+        "exampleTranslation": "Nhân tiện, bạn đã thử quán cà phê mới ở dưới nhà chưa?",
+        "note": "Dùng để chuyển chủ đề tự nhiên.",
+        "formality": "neutral"
+      },
+      {
+        "id": 311,
+        "pattern": "Are you enjoying ___?",
+        "meaning": "Bạn có thích ___ không?",
+        "example": "Are you enjoying the conference so far?",
+        "exampleTranslation": "Đến giờ bạn có thấy hội nghị hay không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 312,
+        "pattern": "Well, I'd better let you go.",
+        "meaning": "Thôi, tôi không làm phiền bạn nữa.",
+        "example": "Well, I'd better let you go. It was great chatting!",
+        "exampleTranslation": "Thôi, mình không làm phiền bạn nữa. Nói chuyện vui lắm!",
+        "note": "Cách khéo léo để kết thúc cuộc trò chuyện.",
+        "formality": "neutral"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "asking-directions",
+    "name": "Hỏi & chỉ đường",
+    "description": "Dùng khi hỏi đường đến một địa điểm hoặc chỉ đường cho người khác.",
+    "category": "daily",
+    "levelId": 1,
+    "patterns": [
+      {
+        "id": 401,
+        "pattern": "Excuse me, could you tell me how to get to ___?",
+        "meaning": "Xin lỗi, bạn có thể chỉ tôi cách đến ___ không?",
+        "example": "Excuse me, could you tell me how to get to the train station?",
+        "exampleTranslation": "Xin lỗi, bạn có thể chỉ tôi cách đến ga tàu không?",
+        "note": "Lịch sự hơn 'Where is...?'",
+        "formality": "formal"
+      },
+      {
+        "id": 402,
+        "pattern": "Is there a/an ___ near here?",
+        "meaning": "Gần đây có ___ không?",
+        "example": "Is there an ATM near here?",
+        "exampleTranslation": "Gần đây có cây ATM không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 403,
+        "pattern": "How far is it to ___?",
+        "meaning": "Đến ___ bao xa?",
+        "example": "How far is it to the museum from here?",
+        "exampleTranslation": "Từ đây đến bảo tàng bao xa?",
+        "note": "Đáp: 'It's about 10 minutes on foot.'",
+        "formality": "neutral"
+      },
+      {
+        "id": 404,
+        "pattern": "Go straight ahead for ___.",
+        "meaning": "Đi thẳng khoảng ___.",
+        "example": "Go straight ahead for about two blocks.",
+        "exampleTranslation": "Đi thẳng khoảng hai dãy nhà.",
+        "formality": "neutral"
+      },
+      {
+        "id": 405,
+        "pattern": "Turn left/right at ___.",
+        "meaning": "Rẽ trái/phải ở ___.",
+        "example": "Turn left at the second traffic light.",
+        "exampleTranslation": "Rẽ trái ở đèn giao thông thứ hai.",
+        "note": "Dùng 'at' trước điểm rẽ (corner, intersection, light).",
+        "formality": "neutral"
+      },
+      {
+        "id": 406,
+        "pattern": "It's on your left/right.",
+        "meaning": "Nó ở bên tay trái/phải của bạn.",
+        "example": "Walk past the bank, and the pharmacy is on your right.",
+        "exampleTranslation": "Đi qua ngân hàng, hiệu thuốc nằm bên tay phải bạn.",
+        "formality": "neutral"
+      },
+      {
+        "id": 407,
+        "pattern": "It's next to / opposite / between ___.",
+        "meaning": "Nó ở bên cạnh / đối diện / giữa ___.",
+        "example": "The post office is opposite the park.",
+        "exampleTranslation": "Bưu điện ở đối diện công viên.",
+        "note": "Giới từ chỉ vị trí rất hay gặp trong TOEIC Part 1.",
+        "formality": "neutral"
+      },
+      {
+        "id": 408,
+        "pattern": "You can't miss it.",
+        "meaning": "Bạn không thể không thấy đâu.",
+        "example": "It's a big red building. You can't miss it.",
+        "exampleTranslation": "Đó là một tòa nhà lớn màu đỏ. Bạn chắc chắn sẽ thấy.",
+        "note": "Dùng để trấn an người hỏi đường.",
+        "formality": "informal"
+      },
+      {
+        "id": 409,
+        "pattern": "Which way is ___?",
+        "meaning": "___ ở hướng nào?",
+        "example": "Sorry, which way is the exit?",
+        "exampleTranslation": "Xin lỗi, lối ra ở hướng nào?",
+        "note": "Ngắn gọn, dùng trong nhà ga, trung tâm thương mại.",
+        "formality": "neutral"
+      },
+      {
+        "id": 410,
+        "pattern": "Could you show me on the map?",
+        "meaning": "Bạn có thể chỉ cho tôi trên bản đồ không?",
+        "example": "I'm a bit lost. Could you show me on the map?",
+        "exampleTranslation": "Tôi hơi lạc đường. Bạn có thể chỉ cho tôi trên bản đồ không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 411,
+        "pattern": "Sorry, I'm not from around here.",
+        "meaning": "Xin lỗi, tôi không phải người ở đây.",
+        "example": "Sorry, I'm not from around here. You could ask at the hotel.",
+        "exampleTranslation": "Xin lỗi, tôi không phải người ở đây. Bạn thử hỏi ở khách sạn xem.",
+        "note": "Cách từ chối lịch sự khi không biết đường.",
+        "formality": "neutral"
+      },
+      {
+        "id": 412,
+        "pattern": "Am I going the right way to ___?",
+        "meaning": "Tôi đi thế này có đúng đường đến ___ không?",
+        "example": "Am I going the right way to the Old Quarter?",
+        "exampleTranslation": "Tôi đi thế này có đúng đường đến Phố Cổ không?",
+        "formality": "neutral"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "shopping",
+    "name": "Mua sắm & trả giá",
+    "description": "Dùng khi đi mua sắm, hỏi giá, thử đồ, trả giá và thanh toán.",
+    "category": "daily",
+    "levelId": 2,
+    "patterns": [
+      {
+        "id": 501,
+        "pattern": "I'm just looking, thanks.",
+        "meaning": "Tôi chỉ xem thôi, cảm ơn.",
+        "example": "\"Can I help you?\" \"I'm just looking, thanks.\"",
+        "exampleTranslation": "\"Tôi giúp gì được cho anh?\" \"Tôi chỉ xem thôi, cảm ơn.\"",
+        "note": "Từ chối nhân viên bán hàng một cách lịch sự.",
+        "formality": "neutral"
+      },
+      {
+        "id": 502,
+        "pattern": "How much is/are ___?",
+        "meaning": "___ giá bao nhiêu?",
+        "example": "How much are these sunglasses?",
+        "exampleTranslation": "Cặp kính râm này giá bao nhiêu?",
+        "note": "Dùng 'is' cho số ít, 'are' cho số nhiều.",
+        "formality": "neutral"
+      },
+      {
+        "id": 503,
+        "pattern": "Do you have this in ___?",
+        "meaning": "Cái này có ___ không?",
+        "example": "Do you have this in a larger size?",
+        "exampleTranslation": "Cái này có cỡ lớn hơn không?",
+        "note": "Dùng hỏi về size, màu sắc: in blue, in medium...",
+        "formality": "neutral"
+      },
+      {
+        "id": 504,
+        "pattern": "Can I try this on?",
+        "meaning": "Tôi có thể thử cái này không?",
+        "example": "Can I try this on? Where's the fitting room?",
+        "exampleTranslation": "Tôi thử cái này được không? Phòng thử đồ ở đâu?",
+        "note": "'Try on' dùng cho quần áo, giày dép.",
+        "formality": "neutral"
+      },
+      {
+        "id": 505,
+        "pattern": "It's a bit too ___ for me.",
+        "meaning": "Nó hơi ___ quá với tôi.",
+        "example": "It's a bit too tight for me.",
+        "exampleTranslation": "Nó hơi chật quá với tôi.",
+        "formality": "neutral"
+      },
+      {
+        "id": 506,
+        "pattern": "Is there any discount on ___?",
+        "meaning": "___ có được giảm giá không?",
+        "example": "Is there any discount on this jacket?",
+        "exampleTranslation": "Áo khoác này có được giảm giá không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 507,
+        "pattern": "Could you do a better price?",
+        "meaning": "Bạn có thể bớt giá được không?",
+        "example": "It's a little expensive. Could you do a better price?",
+        "exampleTranslation": "Hơi đắt một chút. Bạn bớt giá được không?",
+        "note": "Dùng khi trả giá ở chợ, cửa hàng nhỏ.",
+        "formality": "informal"
+      },
+      {
+        "id": 508,
+        "pattern": "I'll give you ___ for it.",
+        "meaning": "Tôi trả ___ cho món này.",
+        "example": "I'll give you 200,000 dong for it.",
+        "exampleTranslation": "Tôi trả 200.000 đồng cho món này nhé.",
+        "note": "Đưa ra giá đề nghị khi mặc cả.",
+        "formality": "informal"
+      },
+      {
+        "id": 509,
+        "pattern": "I'll take it.",
+        "meaning": "Tôi lấy cái này.",
+        "example": "Okay, that's a fair price. I'll take it.",
+        "exampleTranslation": "Được, giá hợp lý đấy. Tôi lấy cái này.",
+        "note": "Dùng 'will' khi quyết định ngay lúc nói.",
+        "formality": "neutral"
+      },
+      {
+        "id": 510,
+        "pattern": "Do you accept ___?",
+        "meaning": "Bạn có nhận ___ không?",
+        "example": "Do you accept credit cards or only cash?",
+        "exampleTranslation": "Bạn có nhận thẻ tín dụng không hay chỉ tiền mặt?",
+        "formality": "neutral"
+      },
+      {
+        "id": 511,
+        "pattern": "Could I get a receipt, please?",
+        "meaning": "Cho tôi xin hóa đơn được không?",
+        "example": "Could I get a receipt, please? I may need to return it.",
+        "exampleTranslation": "Cho tôi xin hóa đơn được không? Có thể tôi sẽ cần đổi trả.",
+        "formality": "neutral"
+      },
+      {
+        "id": 512,
+        "pattern": "I'd like to return/exchange this.",
+        "meaning": "Tôi muốn trả lại/đổi món này.",
+        "example": "I'd like to exchange this shirt for a smaller one.",
+        "exampleTranslation": "Tôi muốn đổi chiếc áo sơ mi này lấy cỡ nhỏ hơn.",
+        "note": "'Exchange A for B' = đổi A lấy B.",
+        "formality": "neutral"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "restaurant",
+    "name": "Ở nhà hàng, quán cà phê",
+    "description": "Dùng khi đặt bàn, gọi món, yêu cầu phục vụ và thanh toán ở nhà hàng, quán cà phê.",
+    "category": "daily",
+    "levelId": 2,
+    "patterns": [
+      {
+        "id": 601,
+        "pattern": "I'd like to book a table for ___.",
+        "meaning": "Tôi muốn đặt bàn cho ___.",
+        "example": "I'd like to book a table for four at 7 p.m. tonight.",
+        "exampleTranslation": "Tôi muốn đặt bàn cho bốn người lúc 7 giờ tối nay.",
+        "note": "Cũng nói 'make a reservation'.",
+        "formality": "neutral"
+      },
+      {
+        "id": 602,
+        "pattern": "A table for ___, please.",
+        "meaning": "Cho tôi một bàn ___ người.",
+        "example": "Hi, a table for two, please.",
+        "exampleTranslation": "Chào anh, cho tôi một bàn hai người.",
+        "note": "Dùng khi đến quán mà chưa đặt trước.",
+        "formality": "neutral"
+      },
+      {
+        "id": 603,
+        "pattern": "Could we see the menu, please?",
+        "meaning": "Cho chúng tôi xem thực đơn được không?",
+        "example": "Excuse me, could we see the menu, please?",
+        "exampleTranslation": "Xin lỗi, cho chúng tôi xem thực đơn được không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 604,
+        "pattern": "What do you recommend?",
+        "meaning": "Bạn gợi ý món gì?",
+        "example": "It's our first time here. What do you recommend?",
+        "exampleTranslation": "Đây là lần đầu chúng tôi đến. Bạn gợi ý món gì?",
+        "formality": "neutral"
+      },
+      {
+        "id": 605,
+        "pattern": "I'll have ___, please.",
+        "meaning": "Cho tôi ___.",
+        "example": "I'll have the grilled salmon, please.",
+        "exampleTranslation": "Cho tôi món cá hồi nướng.",
+        "note": "Cách gọi món tự nhiên nhất; tránh nói 'I want...'.",
+        "formality": "neutral"
+      },
+      {
+        "id": 606,
+        "pattern": "Could I get ___ without ___?",
+        "meaning": "Cho tôi ___ không có ___ được không?",
+        "example": "Could I get the salad without onions?",
+        "exampleTranslation": "Cho tôi món salad không có hành được không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 607,
+        "pattern": "I'm allergic to ___.",
+        "meaning": "Tôi bị dị ứng với ___.",
+        "example": "I'm allergic to peanuts. Does this dish contain any?",
+        "exampleTranslation": "Tôi bị dị ứng với đậu phộng. Món này có không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 608,
+        "pattern": "Are you ready to order?",
+        "meaning": "Quý khách đã sẵn sàng gọi món chưa?",
+        "example": "Good evening. Are you ready to order?",
+        "exampleTranslation": "Chào buổi tối. Quý khách đã sẵn sàng gọi món chưa?",
+        "note": "Câu của nhân viên; đáp 'We need a few more minutes.' nếu chưa.",
+        "formality": "neutral"
+      },
+      {
+        "id": 609,
+        "pattern": "Excuse me, this isn't what I ordered.",
+        "meaning": "Xin lỗi, đây không phải món tôi gọi.",
+        "example": "Excuse me, this isn't what I ordered. I asked for the chicken.",
+        "exampleTranslation": "Xin lỗi, đây không phải món tôi gọi. Tôi gọi món gà.",
+        "formality": "neutral"
+      },
+      {
+        "id": 610,
+        "pattern": "Could we have the bill, please?",
+        "meaning": "Cho chúng tôi thanh toán.",
+        "example": "Could we have the bill, please? We're in a bit of a hurry.",
+        "exampleTranslation": "Cho chúng tôi thanh toán nhé. Chúng tôi hơi vội.",
+        "note": "Anh-Anh: bill; Anh-Mỹ: check.",
+        "formality": "neutral"
+      },
+      {
+        "id": 611,
+        "pattern": "Is service included?",
+        "meaning": "Đã bao gồm phí phục vụ chưa?",
+        "example": "Is service included, or should we leave a tip?",
+        "exampleTranslation": "Đã bao gồm phí phục vụ chưa, hay chúng tôi nên để lại tiền boa?",
+        "formality": "neutral"
+      },
+      {
+        "id": 612,
+        "pattern": "For here or to go?",
+        "meaning": "Dùng tại chỗ hay mang đi?",
+        "example": "\"A latte, please.\" \"For here or to go?\" \"To go, please.\"",
+        "exampleTranslation": "\"Cho tôi một ly latte.\" \"Dùng tại chỗ hay mang đi?\" \"Mang đi.\"",
+        "note": "Anh-Anh: 'Eat in or take away?'",
+        "formality": "informal"
+      },
+      {
+        "id": 613,
+        "pattern": "Let's split the bill.",
+        "meaning": "Chia tiền nhé.",
+        "example": "Let's split the bill this time.",
+        "exampleTranslation": "Lần này chia tiền nhé.",
+        "note": "'It's on me' = để tôi trả.",
+        "formality": "informal"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "travel-hotel",
+    "name": "Du lịch & khách sạn",
+    "description": "Dùng khi đặt phòng, nhận/trả phòng, yêu cầu dịch vụ và hỏi thông tin du lịch.",
+    "category": "daily",
+    "levelId": 2,
+    "patterns": [
+      {
+        "id": 701,
+        "pattern": "I have a reservation under the name ___.",
+        "meaning": "Tôi đã đặt phòng dưới tên ___.",
+        "example": "Hi, I have a reservation under the name Pham Minh Anh.",
+        "exampleTranslation": "Chào anh, tôi đã đặt phòng dưới tên Phạm Minh Anh.",
+        "note": "Câu mở đầu khi check-in.",
+        "formality": "neutral"
+      },
+      {
+        "id": 702,
+        "pattern": "I'd like to check in/out, please.",
+        "meaning": "Tôi muốn nhận/trả phòng.",
+        "example": "Good morning. I'd like to check out, please. Room 512.",
+        "exampleTranslation": "Chào buổi sáng. Tôi muốn trả phòng. Phòng 512.",
+        "formality": "neutral"
+      },
+      {
+        "id": 703,
+        "pattern": "Do you have any rooms available for ___?",
+        "meaning": "Bạn còn phòng trống cho ___ không?",
+        "example": "Do you have any rooms available for this Friday night?",
+        "exampleTranslation": "Bạn còn phòng trống cho tối thứ Sáu này không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 704,
+        "pattern": "What time is check-out?",
+        "meaning": "Mấy giờ phải trả phòng?",
+        "example": "What time is check-out? Can I leave my luggage here afterward?",
+        "exampleTranslation": "Mấy giờ phải trả phòng? Sau đó tôi có thể gửi hành lý ở đây không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 705,
+        "pattern": "Is breakfast included?",
+        "meaning": "Có bao gồm bữa sáng không?",
+        "example": "Is breakfast included in the room rate?",
+        "exampleTranslation": "Giá phòng có bao gồm bữa sáng không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 706,
+        "pattern": "Could I have a late check-out?",
+        "meaning": "Tôi có thể trả phòng muộn được không?",
+        "example": "My flight is in the evening. Could I have a late check-out?",
+        "exampleTranslation": "Chuyến bay của tôi vào buổi tối. Tôi trả phòng muộn được không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 707,
+        "pattern": "The ___ in my room isn't working.",
+        "meaning": "___ trong phòng tôi bị hỏng.",
+        "example": "The air conditioner in my room isn't working.",
+        "exampleTranslation": "Máy lạnh trong phòng tôi bị hỏng.",
+        "formality": "neutral"
+      },
+      {
+        "id": 708,
+        "pattern": "Could you send someone up to ___?",
+        "meaning": "Bạn có thể cử người lên ___ không?",
+        "example": "Could you send someone up to fix the shower?",
+        "exampleTranslation": "Bạn có thể cử người lên sửa vòi sen không?",
+        "formality": "formal"
+      },
+      {
+        "id": 709,
+        "pattern": "Could I get some extra ___?",
+        "meaning": "Cho tôi thêm ___ được không?",
+        "example": "Could I get some extra towels and a pillow?",
+        "exampleTranslation": "Cho tôi thêm vài cái khăn tắm và một cái gối được không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 710,
+        "pattern": "What's the Wi-Fi password?",
+        "meaning": "Mật khẩu Wi-Fi là gì?",
+        "example": "Sorry, what's the Wi-Fi password?",
+        "exampleTranslation": "Xin lỗi, mật khẩu Wi-Fi là gì?",
+        "formality": "informal"
+      },
+      {
+        "id": 711,
+        "pattern": "What are some must-see places around here?",
+        "meaning": "Quanh đây có địa điểm nào nhất định phải đến?",
+        "example": "What are some must-see places around here for a first-time visitor?",
+        "exampleTranslation": "Quanh đây có những địa điểm nào mà người lần đầu đến nhất định phải ghé?",
+        "note": "'Must-see' = không thể bỏ qua.",
+        "formality": "neutral"
+      },
+      {
+        "id": 712,
+        "pattern": "Could you call a taxi for me?",
+        "meaning": "Bạn gọi giúp tôi một chiếc taxi được không?",
+        "example": "Could you call a taxi for me? I'm going to the airport.",
+        "exampleTranslation": "Bạn gọi giúp tôi một chiếc taxi được không? Tôi ra sân bay.",
+        "formality": "neutral"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "airport",
+    "name": "Ở sân bay",
+    "description": "Dùng khi làm thủ tục, gửi hành lý, qua an ninh, nhập cảnh và xử lý sự cố chuyến bay.",
+    "category": "daily",
+    "levelId": 2,
+    "patterns": [
+      {
+        "id": 801,
+        "pattern": "Where is the check-in counter for ___?",
+        "meaning": "Quầy làm thủ tục của ___ ở đâu?",
+        "example": "Where is the check-in counter for Vietnam Airlines?",
+        "exampleTranslation": "Quầy làm thủ tục của Vietnam Airlines ở đâu?",
+        "formality": "neutral"
+      },
+      {
+        "id": 802,
+        "pattern": "I'd like a window/aisle seat, please.",
+        "meaning": "Cho tôi ghế cạnh cửa sổ/lối đi.",
+        "example": "If possible, I'd like an aisle seat, please.",
+        "exampleTranslation": "Nếu được, cho tôi ghế cạnh lối đi.",
+        "formality": "neutral"
+      },
+      {
+        "id": 803,
+        "pattern": "How many bags can I check in?",
+        "meaning": "Tôi được ký gửi bao nhiêu kiện hành lý?",
+        "example": "How many bags can I check in on this ticket?",
+        "exampleTranslation": "Với vé này tôi được ký gửi bao nhiêu kiện hành lý?",
+        "note": "Hành lý xách tay: carry-on baggage.",
+        "formality": "neutral"
+      },
+      {
+        "id": 804,
+        "pattern": "My bag is overweight. How much is the extra fee?",
+        "meaning": "Hành lý của tôi quá cân. Phí phụ trội là bao nhiêu?",
+        "example": "My bag is overweight. How much is the extra fee?",
+        "exampleTranslation": "Hành lý của tôi quá cân. Phí phụ trội là bao nhiêu?",
+        "formality": "neutral"
+      },
+      {
+        "id": 805,
+        "pattern": "Which gate does flight ___ leave from?",
+        "meaning": "Chuyến bay ___ khởi hành ở cửa nào?",
+        "example": "Which gate does flight VN245 leave from?",
+        "exampleTranslation": "Chuyến bay VN245 khởi hành ở cửa nào?",
+        "formality": "neutral"
+      },
+      {
+        "id": 806,
+        "pattern": "Is the flight on time?",
+        "meaning": "Chuyến bay có đúng giờ không?",
+        "example": "Is the flight to Singapore on time?",
+        "exampleTranslation": "Chuyến bay đi Singapore có đúng giờ không?",
+        "note": "Trái nghĩa: delayed (bị hoãn), cancelled (bị hủy).",
+        "formality": "neutral"
+      },
+      {
+        "id": 807,
+        "pattern": "My flight has been delayed/cancelled.",
+        "meaning": "Chuyến bay của tôi bị hoãn/hủy.",
+        "example": "My flight has been cancelled. Can you rebook me on the next one?",
+        "exampleTranslation": "Chuyến bay của tôi bị hủy. Bạn có thể đổi cho tôi sang chuyến tiếp theo không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 808,
+        "pattern": "I'm here on ___.",
+        "meaning": "Tôi đến đây để ___.",
+        "example": "I'm here on business for a week.",
+        "exampleTranslation": "Tôi đến đây công tác một tuần.",
+        "note": "Trả lời nhân viên nhập cảnh: on business / on vacation.",
+        "formality": "neutral"
+      },
+      {
+        "id": 809,
+        "pattern": "I'll be staying at ___.",
+        "meaning": "Tôi sẽ ở tại ___.",
+        "example": "I'll be staying at the Grand Hotel near the city center.",
+        "exampleTranslation": "Tôi sẽ ở tại khách sạn Grand gần trung tâm thành phố.",
+        "formality": "neutral"
+      },
+      {
+        "id": 810,
+        "pattern": "I have nothing to declare.",
+        "meaning": "Tôi không có gì cần khai báo.",
+        "example": "No, I have nothing to declare.",
+        "exampleTranslation": "Không, tôi không có gì cần khai báo.",
+        "note": "Dùng ở hải quan.",
+        "formality": "formal"
+      },
+      {
+        "id": 811,
+        "pattern": "My luggage didn't arrive.",
+        "meaning": "Hành lý của tôi không đến.",
+        "example": "Excuse me, my luggage didn't arrive. Where can I report it?",
+        "exampleTranslation": "Xin lỗi, hành lý của tôi không đến. Tôi có thể báo ở đâu?",
+        "note": "Quầy xử lý: lost and found / baggage services.",
+        "formality": "neutral"
+      },
+      {
+        "id": 812,
+        "pattern": "Do I need to take ___ out of my bag?",
+        "meaning": "Tôi có cần lấy ___ ra khỏi túi không?",
+        "example": "Do I need to take my laptop out of my bag?",
+        "exampleTranslation": "Tôi có cần lấy laptop ra khỏi túi không?",
+        "note": "Hay dùng khi qua cửa an ninh.",
+        "formality": "neutral"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "health",
+    "name": "Đi khám bệnh, sức khỏe",
+    "description": "Dùng khi mô tả triệu chứng, đặt lịch khám, nói chuyện với bác sĩ, dược sĩ.",
+    "category": "daily",
+    "levelId": 2,
+    "patterns": [
+      {
+        "id": 901,
+        "pattern": "I'd like to make an appointment with ___.",
+        "meaning": "Tôi muốn đặt lịch khám với ___.",
+        "example": "I'd like to make an appointment with Dr. Lee for tomorrow.",
+        "exampleTranslation": "Tôi muốn đặt lịch khám với bác sĩ Lee vào ngày mai.",
+        "formality": "neutral"
+      },
+      {
+        "id": 902,
+        "pattern": "I've got a ___.",
+        "meaning": "Tôi bị ___.",
+        "example": "I've got a headache and a sore throat.",
+        "exampleTranslation": "Tôi bị đau đầu và đau họng.",
+        "note": "Thường đi với: cold, fever, cough, stomachache.",
+        "formality": "neutral"
+      },
+      {
+        "id": 903,
+        "pattern": "I've been feeling ___ since ___.",
+        "meaning": "Tôi cảm thấy ___ từ ___.",
+        "example": "I've been feeling dizzy since yesterday morning.",
+        "exampleTranslation": "Tôi cảm thấy chóng mặt từ sáng hôm qua.",
+        "formality": "neutral"
+      },
+      {
+        "id": 904,
+        "pattern": "It hurts when I ___.",
+        "meaning": "Tôi đau khi ___.",
+        "example": "It hurts when I bend my knee.",
+        "exampleTranslation": "Tôi đau khi gập đầu gối.",
+        "formality": "neutral"
+      },
+      {
+        "id": 905,
+        "pattern": "My ___ hurts.",
+        "meaning": "___ của tôi bị đau.",
+        "example": "My lower back hurts after sitting all day.",
+        "exampleTranslation": "Lưng dưới của tôi bị đau sau khi ngồi cả ngày.",
+        "formality": "neutral"
+      },
+      {
+        "id": 906,
+        "pattern": "What seems to be the problem?",
+        "meaning": "Bạn bị làm sao?",
+        "example": "Come in and sit down. What seems to be the problem?",
+        "exampleTranslation": "Mời vào ngồi. Bạn bị làm sao?",
+        "note": "Câu bác sĩ hay hỏi.",
+        "formality": "formal"
+      },
+      {
+        "id": 907,
+        "pattern": "How often should I take ___?",
+        "meaning": "Tôi nên uống ___ bao lâu một lần?",
+        "example": "How often should I take this medicine?",
+        "exampleTranslation": "Tôi nên uống thuốc này bao lâu một lần?",
+        "note": "Đáp: 'Twice a day after meals.'",
+        "formality": "neutral"
+      },
+      {
+        "id": 908,
+        "pattern": "Do I need a prescription for ___?",
+        "meaning": "Mua ___ có cần đơn thuốc không?",
+        "example": "Do I need a prescription for these antibiotics?",
+        "exampleTranslation": "Mua thuốc kháng sinh này có cần đơn không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 909,
+        "pattern": "Is it serious?",
+        "meaning": "Có nghiêm trọng không?",
+        "example": "Is it serious, doctor? Do I need any tests?",
+        "exampleTranslation": "Có nghiêm trọng không bác sĩ? Tôi có cần làm xét nghiệm không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 910,
+        "pattern": "I'm not feeling well today.",
+        "meaning": "Hôm nay tôi không được khỏe.",
+        "example": "I'm not feeling well today, so I'll work from home.",
+        "exampleTranslation": "Hôm nay tôi không được khỏe nên sẽ làm việc ở nhà.",
+        "note": "Cách lịch sự nói mình ốm.",
+        "formality": "neutral"
+      },
+      {
+        "id": 911,
+        "pattern": "Get well soon!",
+        "meaning": "Chúc mau khỏe!",
+        "example": "Sorry to hear you're sick. Get well soon!",
+        "exampleTranslation": "Tiếc quá khi nghe bạn ốm. Chúc mau khỏe nhé!",
+        "formality": "informal"
+      },
+      {
+        "id": 912,
+        "pattern": "You should get some rest.",
+        "meaning": "Bạn nên nghỉ ngơi đi.",
+        "example": "You look exhausted. You should get some rest.",
+        "exampleTranslation": "Trông bạn kiệt sức rồi. Bạn nên nghỉ ngơi đi.",
+        "note": "Lời khuyên với 'should'.",
+        "formality": "neutral"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "making-plans",
+    "name": "Hẹn gặp & lên kế hoạch",
+    "description": "Dùng khi rủ rê, hẹn thời gian địa điểm, xác nhận, dời hoặc hủy hẹn.",
+    "category": "daily",
+    "levelId": 2,
+    "patterns": [
+      {
+        "id": 1001,
+        "pattern": "Are you free on ___?",
+        "meaning": "Bạn có rảnh vào ___ không?",
+        "example": "Are you free on Saturday afternoon?",
+        "exampleTranslation": "Chiều thứ Bảy bạn có rảnh không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 1002,
+        "pattern": "Do you want to ___?",
+        "meaning": "Bạn có muốn ___ không?",
+        "example": "Do you want to grab a coffee after work?",
+        "exampleTranslation": "Bạn có muốn đi uống cà phê sau giờ làm không?",
+        "note": "Thân mật; 'grab' = ăn/uống nhanh.",
+        "formality": "informal"
+      },
+      {
+        "id": 1003,
+        "pattern": "How about ___?",
+        "meaning": "Hay là ___ nhé?",
+        "example": "How about meeting at the mall at 3?",
+        "exampleTranslation": "Hay là gặp nhau ở trung tâm thương mại lúc 3 giờ nhé?",
+        "note": "Sau 'How about' dùng V-ing hoặc danh từ.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1004,
+        "pattern": "What time works for you?",
+        "meaning": "Mấy giờ thì tiện cho bạn?",
+        "example": "I'm flexible this week. What time works for you?",
+        "exampleTranslation": "Tuần này mình linh hoạt. Mấy giờ thì tiện cho bạn?",
+        "formality": "neutral"
+      },
+      {
+        "id": 1005,
+        "pattern": "___ works for me.",
+        "meaning": "___ thì được với tôi.",
+        "example": "Thursday at 10 works for me.",
+        "exampleTranslation": "Thứ Năm lúc 10 giờ thì được với tôi.",
+        "note": "Cách đồng ý lịch hẹn gọn gàng.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1006,
+        "pattern": "I'm afraid I can't make it ___.",
+        "meaning": "E là tôi không đến được ___.",
+        "example": "I'm afraid I can't make it tonight. Something came up.",
+        "exampleTranslation": "E là tối nay tôi không đến được. Có việc đột xuất.",
+        "note": "'Make it' = đến được, kịp.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1007,
+        "pattern": "Can we reschedule for ___?",
+        "meaning": "Chúng ta dời sang ___ được không?",
+        "example": "Can we reschedule for next Monday?",
+        "exampleTranslation": "Chúng ta dời sang thứ Hai tuần sau được không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 1008,
+        "pattern": "Let's meet at ___.",
+        "meaning": "Gặp nhau ở ___ nhé.",
+        "example": "Let's meet at the entrance of the cinema.",
+        "exampleTranslation": "Gặp nhau ở lối vào rạp chiếu phim nhé.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1009,
+        "pattern": "Count me in!",
+        "meaning": "Cho tôi tham gia với!",
+        "example": "A picnic on Sunday? Count me in!",
+        "exampleTranslation": "Dã ngoại chủ nhật à? Cho mình tham gia với!",
+        "note": "Ngược lại: 'Count me out.'",
+        "formality": "informal"
+      },
+      {
+        "id": 1010,
+        "pattern": "I'll let you know by ___.",
+        "meaning": "Tôi sẽ báo bạn trước ___.",
+        "example": "I'm not sure yet. I'll let you know by Friday.",
+        "exampleTranslation": "Mình chưa chắc. Mình sẽ báo bạn trước thứ Sáu.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1011,
+        "pattern": "Just to confirm, we're meeting ___.",
+        "meaning": "Xác nhận lại nhé, chúng ta gặp nhau ___.",
+        "example": "Just to confirm, we're meeting at 7 at Pho 24, right?",
+        "exampleTranslation": "Xác nhận lại nhé, mình gặp lúc 7 giờ ở Phở 24 đúng không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 1012,
+        "pattern": "Maybe some other time.",
+        "meaning": "Để dịp khác nhé.",
+        "example": "Thanks for inviting me, but I'm busy. Maybe some other time.",
+        "exampleTranslation": "Cảm ơn đã mời, nhưng mình bận. Để dịp khác nhé.",
+        "note": "Từ chối nhẹ nhàng.",
+        "formality": "informal"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "opinions",
+    "name": "Nêu ý kiến, đồng ý & phản đối",
+    "description": "Dùng khi bày tỏ quan điểm, đồng tình hoặc phản đối một cách lịch sự.",
+    "category": "daily",
+    "levelId": 3,
+    "patterns": [
+      {
+        "id": 1101,
+        "pattern": "In my opinion, ___.",
+        "meaning": "Theo ý kiến của tôi, ___.",
+        "example": "In my opinion, public transport should be free for students.",
+        "exampleTranslation": "Theo ý kiến của tôi, phương tiện công cộng nên miễn phí cho sinh viên.",
+        "note": "Không nói 'According to me'.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1102,
+        "pattern": "As far as I'm concerned, ___.",
+        "meaning": "Theo tôi thấy, ___.",
+        "example": "As far as I'm concerned, the price is too high.",
+        "exampleTranslation": "Theo tôi thấy, giá quá cao.",
+        "note": "Trang trọng hơn 'I think'.",
+        "formality": "formal"
+      },
+      {
+        "id": 1103,
+        "pattern": "I'm not sure, but I think ___.",
+        "meaning": "Tôi không chắc, nhưng tôi nghĩ ___.",
+        "example": "I'm not sure, but I think the store closes at nine.",
+        "exampleTranslation": "Tôi không chắc, nhưng tôi nghĩ cửa hàng đóng cửa lúc chín giờ.",
+        "note": "Giảm độ chắc chắn khi nêu ý kiến.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1104,
+        "pattern": "I totally agree with you.",
+        "meaning": "Tôi hoàn toàn đồng ý với bạn.",
+        "example": "I totally agree with you. We need more parks in the city.",
+        "exampleTranslation": "Tôi hoàn toàn đồng ý với bạn. Thành phố cần thêm công viên.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1105,
+        "pattern": "That's a good point.",
+        "meaning": "Đó là một ý hay.",
+        "example": "That's a good point. I hadn't thought of that.",
+        "exampleTranslation": "Đó là một ý hay. Tôi chưa nghĩ đến điều đó.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1106,
+        "pattern": "I see what you mean, but ___.",
+        "meaning": "Tôi hiểu ý bạn, nhưng ___.",
+        "example": "I see what you mean, but it might be too expensive.",
+        "exampleTranslation": "Tôi hiểu ý bạn, nhưng có thể nó quá đắt.",
+        "note": "Phản đối nhẹ nhàng: ghi nhận trước rồi mới nêu ý khác.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1107,
+        "pattern": "I'm afraid I disagree.",
+        "meaning": "E là tôi không đồng ý.",
+        "example": "I'm afraid I disagree. The data shows a different trend.",
+        "exampleTranslation": "E là tôi không đồng ý. Dữ liệu cho thấy một xu hướng khác.",
+        "note": "'I'm afraid' làm lời phản đối mềm hơn.",
+        "formality": "formal"
+      },
+      {
+        "id": 1108,
+        "pattern": "I couldn't agree more.",
+        "meaning": "Tôi hoàn toàn đồng ý.",
+        "example": "\"Remote work saves so much time.\" \"I couldn't agree more.\"",
+        "exampleTranslation": "\"Làm việc từ xa tiết kiệm rất nhiều thời gian.\" \"Tôi hoàn toàn đồng ý.\"",
+        "note": "Mang nghĩa đồng ý tuyệt đối, không phải phủ định.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1109,
+        "pattern": "Not necessarily.",
+        "meaning": "Chưa chắc đâu.",
+        "example": "\"Expensive phones are always better.\" \"Not necessarily.\"",
+        "exampleTranslation": "\"Điện thoại đắt luôn tốt hơn.\" \"Chưa chắc đâu.\"",
+        "formality": "neutral"
+      },
+      {
+        "id": 1110,
+        "pattern": "What do you think about ___?",
+        "meaning": "Bạn nghĩ sao về ___?",
+        "example": "What do you think about the new office layout?",
+        "exampleTranslation": "Bạn nghĩ sao về cách bố trí văn phòng mới?",
+        "formality": "neutral"
+      },
+      {
+        "id": 1111,
+        "pattern": "It depends on ___.",
+        "meaning": "Còn tùy vào ___.",
+        "example": "It depends on how much time we have.",
+        "exampleTranslation": "Còn tùy vào việc chúng ta có bao nhiêu thời gian.",
+        "note": "Không nói 'It depends of'.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1112,
+        "pattern": "On the one hand ___; on the other hand ___.",
+        "meaning": "Một mặt ___; mặt khác ___.",
+        "example": "On the one hand, city life is convenient; on the other hand, it's very stressful.",
+        "exampleTranslation": "Một mặt, cuộc sống thành phố tiện lợi; mặt khác, nó rất căng thẳng.",
+        "note": "Dùng để cân nhắc hai mặt của vấn đề; hữu ích trong bài viết.",
+        "formality": "formal"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "requests-offers",
+    "name": "Nhờ vả, đề nghị, mời",
+    "description": "Dùng khi nhờ ai đó giúp, đề nghị giúp đỡ, mời mọc và cách nhận lời hoặc từ chối.",
+    "category": "daily",
+    "levelId": 2,
+    "patterns": [
+      {
+        "id": 1201,
+        "pattern": "Could you do me a favor?",
+        "meaning": "Bạn giúp tôi một việc được không?",
+        "example": "Could you do me a favor and water my plants this weekend?",
+        "exampleTranslation": "Bạn giúp mình tưới cây cuối tuần này được không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 1202,
+        "pattern": "Would you mind ___ing?",
+        "meaning": "Bạn có phiền ___ không?",
+        "example": "Would you mind closing the window?",
+        "exampleTranslation": "Bạn có phiền đóng cửa sổ không?",
+        "note": "Sau 'mind' dùng V-ing. Đồng ý thì đáp 'Not at all' (không phiền).",
+        "formality": "formal"
+      },
+      {
+        "id": 1203,
+        "pattern": "Do you think you could ___?",
+        "meaning": "Bạn nghĩ bạn có thể ___ không?",
+        "example": "Do you think you could lend me your charger for a minute?",
+        "exampleTranslation": "Bạn cho mình mượn sạc một lát được không?",
+        "note": "Lịch sự, gián tiếp hơn 'Can you...?'",
+        "formality": "neutral"
+      },
+      {
+        "id": 1204,
+        "pattern": "Can I give you a hand?",
+        "meaning": "Tôi giúp bạn một tay nhé?",
+        "example": "Those boxes look heavy. Can I give you a hand?",
+        "exampleTranslation": "Mấy cái thùng đó trông nặng quá. Mình giúp bạn một tay nhé?",
+        "formality": "informal"
+      },
+      {
+        "id": 1205,
+        "pattern": "Would you like me to ___?",
+        "meaning": "Bạn có muốn tôi ___ không?",
+        "example": "Would you like me to pick you up from the station?",
+        "exampleTranslation": "Bạn có muốn tôi đón bạn ở ga không?",
+        "note": "Đề nghị giúp đỡ lịch sự.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1206,
+        "pattern": "Let me ___ for you.",
+        "meaning": "Để tôi ___ giúp bạn.",
+        "example": "Let me carry that bag for you.",
+        "exampleTranslation": "Để tôi xách cái túi đó giúp bạn.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1207,
+        "pattern": "Would you like to ___?",
+        "meaning": "Bạn có muốn ___ không?",
+        "example": "Would you like to join us for dinner on Friday?",
+        "exampleTranslation": "Bạn có muốn đi ăn tối với chúng tôi vào thứ Sáu không?",
+        "note": "Lời mời lịch sự; khác 'Do you like...?' (có thích không).",
+        "formality": "neutral"
+      },
+      {
+        "id": 1208,
+        "pattern": "I'd love to.",
+        "meaning": "Tôi rất sẵn lòng.",
+        "example": "\"Would you like to come to my party?\" \"I'd love to!\"",
+        "exampleTranslation": "\"Bạn có muốn đến bữa tiệc của mình không?\" \"Mình rất muốn!\"",
+        "note": "Nhận lời mời một cách nhiệt tình.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1209,
+        "pattern": "I'd love to, but ___.",
+        "meaning": "Tôi rất muốn, nhưng ___.",
+        "example": "I'd love to, but I have to work late tonight.",
+        "exampleTranslation": "Tôi rất muốn, nhưng tối nay tôi phải làm muộn.",
+        "note": "Từ chối lịch sự kèm lý do.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1210,
+        "pattern": "Thanks, but I can manage.",
+        "meaning": "Cảm ơn, nhưng tôi tự làm được.",
+        "example": "Thanks, but I can manage. It's not that heavy.",
+        "exampleTranslation": "Cảm ơn, nhưng tôi tự làm được. Nó không nặng lắm đâu.",
+        "note": "Từ chối sự giúp đỡ mà không làm người kia phật ý.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1211,
+        "pattern": "Sure, no problem.",
+        "meaning": "Chắc chắn rồi, không vấn đề gì.",
+        "example": "\"Can you send me the photos?\" \"Sure, no problem.\"",
+        "exampleTranslation": "\"Bạn gửi mình mấy tấm ảnh được không?\" \"Được chứ, không vấn đề gì.\"",
+        "formality": "informal"
+      },
+      {
+        "id": 1212,
+        "pattern": "Help yourself to ___.",
+        "meaning": "Cứ tự nhiên dùng ___.",
+        "example": "Help yourself to some fruit and drinks.",
+        "exampleTranslation": "Cứ tự nhiên dùng trái cây và đồ uống nhé.",
+        "note": "Dùng khi mời khách tự lấy đồ ăn.",
+        "formality": "neutral"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "apologies-complaints",
+    "name": "Xin lỗi & phàn nàn",
+    "description": "Dùng khi xin lỗi, đáp lại lời xin lỗi và phàn nàn một cách lịch sự nhưng rõ ràng.",
+    "category": "daily",
+    "levelId": 3,
+    "patterns": [
+      {
+        "id": 1301,
+        "pattern": "I'm so sorry for ___.",
+        "meaning": "Tôi rất xin lỗi vì ___.",
+        "example": "I'm so sorry for being late. The traffic was awful.",
+        "exampleTranslation": "Tôi rất xin lỗi vì đến muộn. Giao thông tệ quá.",
+        "note": "Sau 'for' dùng V-ing hoặc danh từ.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1302,
+        "pattern": "I apologize for ___.",
+        "meaning": "Tôi xin lỗi vì ___.",
+        "example": "I apologize for the inconvenience.",
+        "exampleTranslation": "Tôi xin lỗi vì sự bất tiện này.",
+        "note": "Trang trọng, hay dùng trong công việc.",
+        "formality": "formal"
+      },
+      {
+        "id": 1303,
+        "pattern": "It was my fault.",
+        "meaning": "Đó là lỗi của tôi.",
+        "example": "It was my fault. I gave you the wrong address.",
+        "exampleTranslation": "Đó là lỗi của tôi. Tôi đã đưa bạn sai địa chỉ.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1304,
+        "pattern": "I didn't mean to ___.",
+        "meaning": "Tôi không cố ý ___.",
+        "example": "I didn't mean to hurt your feelings.",
+        "exampleTranslation": "Tôi không cố ý làm bạn tổn thương.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1305,
+        "pattern": "It won't happen again.",
+        "meaning": "Chuyện này sẽ không lặp lại nữa.",
+        "example": "I'm sorry I missed the deadline. It won't happen again.",
+        "exampleTranslation": "Tôi xin lỗi vì đã trễ hạn. Chuyện này sẽ không lặp lại nữa.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1306,
+        "pattern": "Don't worry about it. / No worries.",
+        "meaning": "Đừng bận tâm. / Không sao đâu.",
+        "example": "\"Sorry I spilled your coffee.\" \"No worries, it happens.\"",
+        "exampleTranslation": "\"Xin lỗi mình làm đổ cà phê của bạn.\" \"Không sao đâu, chuyện thường mà.\"",
+        "note": "Đáp lại lời xin lỗi; 'No worries' thân mật hơn.",
+        "formality": "informal"
+      },
+      {
+        "id": 1307,
+        "pattern": "That's all right.",
+        "meaning": "Không sao đâu.",
+        "example": "\"I'm sorry for the delay.\" \"That's all right.\"",
+        "exampleTranslation": "\"Xin lỗi vì sự chậm trễ.\" \"Không sao đâu.\"",
+        "formality": "neutral"
+      },
+      {
+        "id": 1308,
+        "pattern": "I'm afraid there's a problem with ___.",
+        "meaning": "E là có vấn đề với ___.",
+        "example": "I'm afraid there's a problem with my order.",
+        "exampleTranslation": "E là có vấn đề với đơn hàng của tôi.",
+        "note": "Mở đầu lời phàn nàn lịch sự.",
+        "formality": "formal"
+      },
+      {
+        "id": 1309,
+        "pattern": "I'd like to make a complaint about ___.",
+        "meaning": "Tôi muốn khiếu nại về ___.",
+        "example": "I'd like to make a complaint about the noise from the room next door.",
+        "exampleTranslation": "Tôi muốn khiếu nại về tiếng ồn từ phòng bên cạnh.",
+        "formality": "formal"
+      },
+      {
+        "id": 1310,
+        "pattern": "This is not what I expected.",
+        "meaning": "Điều này không như tôi mong đợi.",
+        "example": "Honestly, this is not what I expected from a five-star hotel.",
+        "exampleTranslation": "Thật lòng mà nói, đây không phải điều tôi mong đợi từ một khách sạn năm sao.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1311,
+        "pattern": "I've been waiting for ___.",
+        "meaning": "Tôi đã đợi ___ rồi.",
+        "example": "I've been waiting for over forty minutes.",
+        "exampleTranslation": "Tôi đã đợi hơn bốn mươi phút rồi.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1312,
+        "pattern": "Could you look into it, please?",
+        "meaning": "Bạn có thể kiểm tra giúp tôi được không?",
+        "example": "The charge on my bill is wrong. Could you look into it, please?",
+        "exampleTranslation": "Khoản phí trên hóa đơn của tôi bị sai. Bạn kiểm tra giúp tôi được không?",
+        "note": "'Look into' = xem xét, điều tra.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1313,
+        "pattern": "I'd appreciate it if you could ___.",
+        "meaning": "Tôi sẽ rất cảm kích nếu bạn có thể ___.",
+        "example": "I'd appreciate it if you could refund the difference.",
+        "exampleTranslation": "Tôi sẽ rất cảm kích nếu bạn có thể hoàn lại khoản chênh lệch.",
+        "note": "Yêu cầu khéo léo nhưng kiên quyết.",
+        "formality": "formal"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "job-interview",
+    "name": "Phỏng vấn xin việc",
+    "description": "Dùng khi trả lời và đặt câu hỏi trong buổi phỏng vấn xin việc.",
+    "category": "work",
+    "levelId": 3,
+    "patterns": [
+      {
+        "id": 1401,
+        "pattern": "Thank you for having me.",
+        "meaning": "Cảm ơn quý công ty đã mời tôi đến.",
+        "example": "Thank you for having me. I'm excited to learn more about the role.",
+        "exampleTranslation": "Cảm ơn quý công ty đã mời tôi. Tôi rất mong được tìm hiểu thêm về vị trí này.",
+        "note": "Câu mở đầu lịch sự khi bắt đầu phỏng vấn.",
+        "formality": "formal"
+      },
+      {
+        "id": 1402,
+        "pattern": "I have ___ years of experience in ___.",
+        "meaning": "Tôi có ___ năm kinh nghiệm trong ___.",
+        "example": "I have three years of experience in digital marketing.",
+        "exampleTranslation": "Tôi có ba năm kinh nghiệm trong lĩnh vực marketing số.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1403,
+        "pattern": "In my current role, I'm responsible for ___.",
+        "meaning": "Ở vị trí hiện tại, tôi chịu trách nhiệm ___.",
+        "example": "In my current role, I'm responsible for managing a team of five.",
+        "exampleTranslation": "Ở vị trí hiện tại, tôi chịu trách nhiệm quản lý một nhóm năm người.",
+        "formality": "formal"
+      },
+      {
+        "id": 1404,
+        "pattern": "My greatest strength is ___.",
+        "meaning": "Điểm mạnh lớn nhất của tôi là ___.",
+        "example": "My greatest strength is my ability to stay calm under pressure.",
+        "exampleTranslation": "Điểm mạnh lớn nhất của tôi là khả năng giữ bình tĩnh dưới áp lực.",
+        "note": "Nên kèm một ví dụ cụ thể.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1405,
+        "pattern": "One area I'm working on is ___.",
+        "meaning": "Một điểm tôi đang cải thiện là ___.",
+        "example": "One area I'm working on is public speaking, so I joined a presentation club.",
+        "exampleTranslation": "Một điểm tôi đang cải thiện là nói trước đám đông, nên tôi đã tham gia một câu lạc bộ thuyết trình.",
+        "note": "Cách khéo léo trả lời câu hỏi về điểm yếu.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1406,
+        "pattern": "I'm particularly interested in this position because ___.",
+        "meaning": "Tôi đặc biệt quan tâm đến vị trí này vì ___.",
+        "example": "I'm particularly interested in this position because it combines data analysis and teamwork.",
+        "exampleTranslation": "Tôi đặc biệt quan tâm đến vị trí này vì nó kết hợp phân tích dữ liệu và làm việc nhóm.",
+        "formality": "formal"
+      },
+      {
+        "id": 1407,
+        "pattern": "I successfully ___, which resulted in ___.",
+        "meaning": "Tôi đã ___ thành công, mang lại ___.",
+        "example": "I successfully redesigned our checkout process, which resulted in a 15% increase in sales.",
+        "exampleTranslation": "Tôi đã thiết kế lại thành công quy trình thanh toán, giúp doanh số tăng 15%.",
+        "note": "Nêu thành tích có số liệu cụ thể sẽ thuyết phục hơn.",
+        "formality": "formal"
+      },
+      {
+        "id": 1408,
+        "pattern": "I'm looking for an opportunity to ___.",
+        "meaning": "Tôi đang tìm kiếm cơ hội để ___.",
+        "example": "I'm looking for an opportunity to grow into a leadership role.",
+        "exampleTranslation": "Tôi đang tìm kiếm cơ hội để phát triển lên vị trí lãnh đạo.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1409,
+        "pattern": "In five years, I see myself ___.",
+        "meaning": "Trong năm năm tới, tôi thấy mình ___.",
+        "example": "In five years, I see myself leading a product team.",
+        "exampleTranslation": "Trong năm năm tới, tôi thấy mình sẽ dẫn dắt một nhóm sản phẩm.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1410,
+        "pattern": "That's a great question. Let me think for a moment.",
+        "meaning": "Câu hỏi hay. Cho tôi suy nghĩ một chút.",
+        "example": "That's a great question. Let me think for a moment.",
+        "exampleTranslation": "Câu hỏi hay. Cho tôi suy nghĩ một chút.",
+        "note": "Giúp bạn có thời gian suy nghĩ mà không bị lúng túng.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1411,
+        "pattern": "Could you tell me more about ___?",
+        "meaning": "Anh/chị có thể cho tôi biết thêm về ___ không?",
+        "example": "Could you tell me more about the team I'd be working with?",
+        "exampleTranslation": "Anh/chị có thể cho tôi biết thêm về nhóm tôi sẽ làm việc cùng không?",
+        "note": "Câu hỏi ngược lại nhà tuyển dụng ở cuối buổi.",
+        "formality": "formal"
+      },
+      {
+        "id": 1412,
+        "pattern": "What are the next steps in the hiring process?",
+        "meaning": "Các bước tiếp theo của quá trình tuyển dụng là gì?",
+        "example": "Thank you for your time. What are the next steps in the hiring process?",
+        "exampleTranslation": "Cảm ơn anh/chị đã dành thời gian. Các bước tiếp theo của quá trình tuyển dụng là gì?",
+        "formality": "formal"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "phone-calls",
+    "name": "Gọi điện thoại công việc",
+    "description": "Dùng khi gọi và nhận điện thoại công việc, chuyển máy, để lại lời nhắn.",
+    "category": "work",
+    "levelId": 3,
+    "patterns": [
+      {
+        "id": 1501,
+        "pattern": "Hello, this is ___ from ___.",
+        "meaning": "Xin chào, tôi là ___ từ ___.",
+        "example": "Hello, this is Mai from ABC Logistics.",
+        "exampleTranslation": "Xin chào, tôi là Mai từ công ty ABC Logistics.",
+        "note": "Trên điện thoại dùng 'This is...' chứ không dùng 'I am...'.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1502,
+        "pattern": "Could I speak to ___, please?",
+        "meaning": "Cho tôi nói chuyện với ___ được không?",
+        "example": "Could I speak to Mr. Johnson, please?",
+        "exampleTranslation": "Cho tôi nói chuyện với ông Johnson được không?",
+        "formality": "formal"
+      },
+      {
+        "id": 1503,
+        "pattern": "I'm calling about ___.",
+        "meaning": "Tôi gọi về việc ___.",
+        "example": "I'm calling about the invoice you sent last week.",
+        "exampleTranslation": "Tôi gọi về hóa đơn anh gửi tuần trước.",
+        "note": "Nêu mục đích cuộc gọi ngay từ đầu.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1504,
+        "pattern": "Hold on a moment, please.",
+        "meaning": "Xin vui lòng chờ một chút.",
+        "example": "Hold on a moment, please. I'll check if she's available.",
+        "exampleTranslation": "Xin vui lòng chờ một chút. Tôi sẽ kiểm tra xem cô ấy có rảnh không.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1505,
+        "pattern": "I'll put you through.",
+        "meaning": "Tôi sẽ nối máy cho anh/chị.",
+        "example": "Thank you. I'll put you through to the sales department.",
+        "exampleTranslation": "Cảm ơn. Tôi sẽ nối máy cho anh sang phòng kinh doanh.",
+        "note": "'Put through' = chuyển máy.",
+        "formality": "formal"
+      },
+      {
+        "id": 1506,
+        "pattern": "I'm afraid ___ is not available right now.",
+        "meaning": "E là ___ không thể nghe máy lúc này.",
+        "example": "I'm afraid Ms. Park is not available right now. She's in a meeting.",
+        "exampleTranslation": "E là chị Park không thể nghe máy lúc này. Chị ấy đang họp.",
+        "formality": "formal"
+      },
+      {
+        "id": 1507,
+        "pattern": "Would you like to leave a message?",
+        "meaning": "Anh/chị có muốn để lại lời nhắn không?",
+        "example": "Would you like to leave a message, or should I ask him to call you back?",
+        "exampleTranslation": "Anh có muốn để lại lời nhắn không, hay tôi nhờ anh ấy gọi lại?",
+        "formality": "formal"
+      },
+      {
+        "id": 1508,
+        "pattern": "Could you ask him/her to call me back?",
+        "meaning": "Anh/chị có thể nhờ anh ấy/cô ấy gọi lại cho tôi không?",
+        "example": "Could you ask her to call me back? My number is 0912 345 678.",
+        "exampleTranslation": "Chị có thể nhờ cô ấy gọi lại cho tôi không? Số của tôi là 0912 345 678.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1509,
+        "pattern": "Sorry, could you repeat that?",
+        "meaning": "Xin lỗi, anh/chị có thể nhắc lại không?",
+        "example": "Sorry, could you repeat that? The line is a bit noisy.",
+        "exampleTranslation": "Xin lỗi, anh nhắc lại được không? Đường truyền hơi ồn.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1510,
+        "pattern": "Could you spell that for me?",
+        "meaning": "Anh/chị có thể đánh vần giúp tôi không?",
+        "example": "Could you spell your last name for me?",
+        "exampleTranslation": "Anh có thể đánh vần họ của anh giúp tôi không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 1511,
+        "pattern": "You're breaking up.",
+        "meaning": "Tín hiệu của bạn bị ngắt quãng.",
+        "example": "Sorry, you're breaking up. Can I call you back?",
+        "exampleTranslation": "Xin lỗi, tín hiệu của anh bị ngắt quãng. Tôi gọi lại cho anh nhé?",
+        "formality": "informal"
+      },
+      {
+        "id": 1512,
+        "pattern": "Thanks for calling. Have a nice day.",
+        "meaning": "Cảm ơn đã gọi. Chúc một ngày tốt lành.",
+        "example": "I'll send you the details by email. Thanks for calling. Have a nice day.",
+        "exampleTranslation": "Tôi sẽ gửi chi tiết qua email. Cảm ơn đã gọi. Chúc anh một ngày tốt lành.",
+        "note": "Kết thúc cuộc gọi lịch sự.",
+        "formality": "neutral"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "meetings",
+    "name": "Họp & thảo luận",
+    "description": "Dùng khi mở đầu, điều phối, đóng góp ý kiến và kết thúc cuộc họp.",
+    "category": "work",
+    "levelId": 3,
+    "patterns": [
+      {
+        "id": 1601,
+        "pattern": "Let's get started, shall we?",
+        "meaning": "Chúng ta bắt đầu nhé?",
+        "example": "It's ten o'clock. Let's get started, shall we?",
+        "exampleTranslation": "Đã mười giờ rồi. Chúng ta bắt đầu nhé?",
+        "formality": "neutral"
+      },
+      {
+        "id": 1602,
+        "pattern": "The purpose of today's meeting is to ___.",
+        "meaning": "Mục đích của cuộc họp hôm nay là ___.",
+        "example": "The purpose of today's meeting is to review the Q3 budget.",
+        "exampleTranslation": "Mục đích của cuộc họp hôm nay là rà soát ngân sách quý 3.",
+        "formality": "formal"
+      },
+      {
+        "id": 1603,
+        "pattern": "Let's move on to the next item.",
+        "meaning": "Chúng ta chuyển sang mục tiếp theo.",
+        "example": "Okay, let's move on to the next item on the agenda.",
+        "exampleTranslation": "Được rồi, chúng ta chuyển sang mục tiếp theo trong chương trình họp.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1604,
+        "pattern": "Could I add something here?",
+        "meaning": "Tôi có thể bổ sung một chút không?",
+        "example": "Could I add something here? The client also asked for a discount.",
+        "exampleTranslation": "Tôi có thể bổ sung một chút không? Khách hàng cũng đã yêu cầu giảm giá.",
+        "note": "Cách xin phát biểu lịch sự.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1605,
+        "pattern": "Sorry to interrupt, but ___.",
+        "meaning": "Xin lỗi vì ngắt lời, nhưng ___.",
+        "example": "Sorry to interrupt, but I think we're running out of time.",
+        "exampleTranslation": "Xin lỗi vì ngắt lời, nhưng tôi nghĩ chúng ta sắp hết giờ.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1606,
+        "pattern": "What's your take on ___?",
+        "meaning": "Bạn nhìn nhận ___ thế nào?",
+        "example": "Minh, what's your take on the new proposal?",
+        "exampleTranslation": "Minh, bạn nhìn nhận đề xuất mới thế nào?",
+        "note": "Hỏi ý kiến người khác, tự nhiên trong môi trường công sở.",
+        "formality": "informal"
+      },
+      {
+        "id": 1607,
+        "pattern": "If I understand correctly, ___.",
+        "meaning": "Nếu tôi hiểu đúng thì ___.",
+        "example": "If I understand correctly, the launch will be delayed by two weeks.",
+        "exampleTranslation": "Nếu tôi hiểu đúng thì việc ra mắt sẽ bị lùi hai tuần.",
+        "note": "Dùng để xác nhận lại thông tin.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1608,
+        "pattern": "Let's get back to the main point.",
+        "meaning": "Chúng ta quay lại vấn đề chính nhé.",
+        "example": "That's interesting, but let's get back to the main point.",
+        "exampleTranslation": "Điều đó thú vị, nhưng chúng ta quay lại vấn đề chính nhé.",
+        "note": "Dùng khi cuộc họp đi lạc đề.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1609,
+        "pattern": "Who's going to take care of ___?",
+        "meaning": "Ai sẽ phụ trách ___?",
+        "example": "Who's going to take care of booking the venue?",
+        "exampleTranslation": "Ai sẽ phụ trách việc đặt địa điểm?",
+        "note": "Dùng khi phân công nhiệm vụ.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1610,
+        "pattern": "Let's table this for now.",
+        "meaning": "Tạm gác vấn đề này lại.",
+        "example": "We don't have enough data. Let's table this for now.",
+        "exampleTranslation": "Chúng ta chưa đủ dữ liệu. Tạm gác vấn đề này lại.",
+        "note": "Ở Anh-Mỹ 'table' = hoãn thảo luận.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1611,
+        "pattern": "To sum up, ___.",
+        "meaning": "Tóm lại, ___.",
+        "example": "To sum up, we've agreed to increase the marketing budget by 10%.",
+        "exampleTranslation": "Tóm lại, chúng ta đã thống nhất tăng ngân sách marketing thêm 10%.",
+        "formality": "formal"
+      },
+      {
+        "id": 1612,
+        "pattern": "Let's wrap it up here.",
+        "meaning": "Chúng ta kết thúc ở đây nhé.",
+        "example": "Great discussion, everyone. Let's wrap it up here.",
+        "exampleTranslation": "Cuộc thảo luận rất tốt, mọi người. Chúng ta kết thúc ở đây nhé.",
+        "formality": "informal"
+      },
+      {
+        "id": 1613,
+        "pattern": "I'll send out the minutes by ___.",
+        "meaning": "Tôi sẽ gửi biên bản họp trước ___.",
+        "example": "I'll send out the minutes by the end of the day.",
+        "exampleTranslation": "Tôi sẽ gửi biên bản họp trước cuối ngày.",
+        "note": "'Minutes' = biên bản cuộc họp.",
+        "formality": "formal"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "presentations",
+    "name": "Thuyết trình",
+    "description": "Dùng khi mở đầu, chuyển ý, trình bày số liệu, kết luận và trả lời câu hỏi trong bài thuyết trình.",
+    "category": "work",
+    "levelId": 4,
+    "patterns": [
+      {
+        "id": 1701,
+        "pattern": "Good morning, everyone. Today I'm going to talk about ___.",
+        "meaning": "Chào buổi sáng mọi người. Hôm nay tôi sẽ nói về ___.",
+        "example": "Good morning, everyone. Today I'm going to talk about our new pricing strategy.",
+        "exampleTranslation": "Chào buổi sáng mọi người. Hôm nay tôi sẽ nói về chiến lược giá mới của chúng ta.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1702,
+        "pattern": "My presentation is divided into ___ parts.",
+        "meaning": "Bài thuyết trình của tôi gồm ___ phần.",
+        "example": "My presentation is divided into three parts.",
+        "exampleTranslation": "Bài thuyết trình của tôi gồm ba phần.",
+        "note": "Giúp khán giả nắm cấu trúc ngay từ đầu.",
+        "formality": "formal"
+      },
+      {
+        "id": 1703,
+        "pattern": "First of all, ___.",
+        "meaning": "Trước hết, ___.",
+        "example": "First of all, let's look at the current market situation.",
+        "exampleTranslation": "Trước hết, chúng ta hãy xem tình hình thị trường hiện tại.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1704,
+        "pattern": "This brings me to my next point.",
+        "meaning": "Điều này dẫn tôi đến ý tiếp theo.",
+        "example": "Costs have risen sharply. This brings me to my next point: efficiency.",
+        "exampleTranslation": "Chi phí tăng mạnh. Điều này dẫn tôi đến ý tiếp theo: hiệu quả.",
+        "note": "Câu chuyển ý mượt mà.",
+        "formality": "formal"
+      },
+      {
+        "id": 1705,
+        "pattern": "As you can see from this chart, ___.",
+        "meaning": "Như các bạn thấy trên biểu đồ này, ___.",
+        "example": "As you can see from this chart, sales peaked in December.",
+        "exampleTranslation": "Như các bạn thấy trên biểu đồ này, doanh số đạt đỉnh vào tháng 12.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1706,
+        "pattern": "___ rose/fell sharply from ___ to ___.",
+        "meaning": "___ tăng/giảm mạnh từ ___ đến ___.",
+        "example": "Profits rose sharply from 2 million to 3.5 million dollars.",
+        "exampleTranslation": "Lợi nhuận tăng mạnh từ 2 triệu lên 3,5 triệu đô la.",
+        "note": "Động từ mô tả xu hướng: increase, decline, remain stable.",
+        "formality": "formal"
+      },
+      {
+        "id": 1707,
+        "pattern": "I'd like to draw your attention to ___.",
+        "meaning": "Tôi muốn các bạn chú ý đến ___.",
+        "example": "I'd like to draw your attention to the figures in red.",
+        "exampleTranslation": "Tôi muốn các bạn chú ý đến các con số màu đỏ.",
+        "formality": "formal"
+      },
+      {
+        "id": 1708,
+        "pattern": "Let me give you an example.",
+        "meaning": "Để tôi đưa ra một ví dụ.",
+        "example": "Let me give you an example. Last year, one client saved 20% on shipping.",
+        "exampleTranslation": "Để tôi đưa ra một ví dụ. Năm ngoái, một khách hàng đã tiết kiệm 20% chi phí vận chuyển.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1709,
+        "pattern": "To summarize the main points, ___.",
+        "meaning": "Để tóm tắt các ý chính, ___.",
+        "example": "To summarize the main points, we need to cut costs and expand online sales.",
+        "exampleTranslation": "Để tóm tắt các ý chính, chúng ta cần cắt giảm chi phí và mở rộng bán hàng trực tuyến.",
+        "formality": "formal"
+      },
+      {
+        "id": 1710,
+        "pattern": "Thank you for your attention.",
+        "meaning": "Cảm ơn các bạn đã lắng nghe.",
+        "example": "That's all from me. Thank you for your attention.",
+        "exampleTranslation": "Phần của tôi đến đây là hết. Cảm ơn các bạn đã lắng nghe.",
+        "formality": "formal"
+      },
+      {
+        "id": 1711,
+        "pattern": "I'd be happy to take any questions.",
+        "meaning": "Tôi sẵn lòng trả lời câu hỏi.",
+        "example": "I'd be happy to take any questions now.",
+        "exampleTranslation": "Bây giờ tôi sẵn lòng trả lời các câu hỏi.",
+        "formality": "formal"
+      },
+      {
+        "id": 1712,
+        "pattern": "That's a good question. ___",
+        "meaning": "Đó là một câu hỏi hay. ___",
+        "example": "That's a good question. The short answer is yes, but it depends on the budget.",
+        "exampleTranslation": "Đó là một câu hỏi hay. Câu trả lời ngắn gọn là có, nhưng còn tùy ngân sách.",
+        "note": "Mua thời gian và ghi nhận người hỏi.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1713,
+        "pattern": "I'm not sure about that, but I'll find out and get back to you.",
+        "meaning": "Tôi không chắc về điều đó, nhưng tôi sẽ tìm hiểu và phản hồi lại bạn.",
+        "example": "I'm not sure about that, but I'll find out and get back to you by email.",
+        "exampleTranslation": "Tôi không chắc về điều đó, nhưng tôi sẽ tìm hiểu và phản hồi lại bạn qua email.",
+        "note": "Thừa nhận không biết một cách chuyên nghiệp.",
+        "formality": "neutral"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "emails",
+    "name": "Viết email công việc",
+    "description": "Dùng khi viết email công việc: mở đầu, nêu mục đích, đính kèm, yêu cầu và kết thư.",
+    "category": "work",
+    "levelId": 3,
+    "patterns": [
+      {
+        "id": 1801,
+        "pattern": "Dear ___,",
+        "meaning": "Kính gửi ___,",
+        "example": "Dear Ms. Nguyen,",
+        "exampleTranslation": "Kính gửi chị Nguyễn,",
+        "note": "Dùng họ + danh xưng; nếu không biết tên: 'Dear Sir or Madam'.",
+        "formality": "formal"
+      },
+      {
+        "id": 1802,
+        "pattern": "I hope this email finds you well.",
+        "meaning": "Hy vọng anh/chị vẫn khỏe.",
+        "example": "Dear Mr. Smith, I hope this email finds you well.",
+        "exampleTranslation": "Kính gửi ông Smith, hy vọng ông vẫn khỏe.",
+        "note": "Câu mở đầu lịch sự, không bắt buộc.",
+        "formality": "formal"
+      },
+      {
+        "id": 1803,
+        "pattern": "I'm writing to ___.",
+        "meaning": "Tôi viết email này để ___.",
+        "example": "I'm writing to confirm our meeting on Tuesday.",
+        "exampleTranslation": "Tôi viết email này để xác nhận cuộc họp vào thứ Ba.",
+        "note": "Nêu mục đích ngay câu đầu.",
+        "formality": "formal"
+      },
+      {
+        "id": 1804,
+        "pattern": "Following our conversation ___, ___.",
+        "meaning": "Tiếp theo cuộc trao đổi ___, ___.",
+        "example": "Following our conversation yesterday, I've attached the revised quote.",
+        "exampleTranslation": "Tiếp theo cuộc trao đổi hôm qua, tôi đã đính kèm bảng báo giá đã chỉnh sửa.",
+        "formality": "formal"
+      },
+      {
+        "id": 1805,
+        "pattern": "Please find attached ___.",
+        "meaning": "Vui lòng xem ___ đính kèm.",
+        "example": "Please find attached the contract for your review.",
+        "exampleTranslation": "Vui lòng xem hợp đồng đính kèm để anh/chị xem xét.",
+        "note": "Thân mật hơn: 'I've attached ___.'",
+        "formality": "formal"
+      },
+      {
+        "id": 1806,
+        "pattern": "Could you please ___ by ___?",
+        "meaning": "Anh/chị vui lòng ___ trước ___ được không?",
+        "example": "Could you please send me the report by Friday?",
+        "exampleTranslation": "Anh/chị vui lòng gửi tôi báo cáo trước thứ Sáu được không?",
+        "formality": "formal"
+      },
+      {
+        "id": 1807,
+        "pattern": "I would be grateful if you could ___.",
+        "meaning": "Tôi sẽ rất biết ơn nếu anh/chị có thể ___.",
+        "example": "I would be grateful if you could review the document before our call.",
+        "exampleTranslation": "Tôi sẽ rất biết ơn nếu anh/chị có thể xem tài liệu trước cuộc gọi của chúng ta.",
+        "note": "Rất trang trọng, dùng với đối tác, cấp trên.",
+        "formality": "formal"
+      },
+      {
+        "id": 1808,
+        "pattern": "Just a quick reminder that ___.",
+        "meaning": "Xin nhắc nhanh rằng ___.",
+        "example": "Just a quick reminder that the deadline is this Thursday.",
+        "exampleTranslation": "Xin nhắc nhanh rằng hạn chót là thứ Năm này.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1809,
+        "pattern": "Sorry for the late reply.",
+        "meaning": "Xin lỗi vì phản hồi muộn.",
+        "example": "Sorry for the late reply. I've been out of the office.",
+        "exampleTranslation": "Xin lỗi vì phản hồi muộn. Tôi vừa đi công tác.",
+        "note": "Trang trọng hơn: 'I apologize for the delayed response.'",
+        "formality": "neutral"
+      },
+      {
+        "id": 1810,
+        "pattern": "Thank you for your prompt reply.",
+        "meaning": "Cảm ơn anh/chị đã phản hồi nhanh chóng.",
+        "example": "Thank you for your prompt reply. That's very helpful.",
+        "exampleTranslation": "Cảm ơn anh/chị đã phản hồi nhanh chóng. Điều đó rất hữu ích.",
+        "formality": "formal"
+      },
+      {
+        "id": 1811,
+        "pattern": "Please let me know if you have any questions.",
+        "meaning": "Vui lòng cho tôi biết nếu anh/chị có thắc mắc.",
+        "example": "Please let me know if you have any questions about the schedule.",
+        "exampleTranslation": "Vui lòng cho tôi biết nếu anh/chị có thắc mắc gì về lịch trình.",
+        "note": "Câu kết phổ biến.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1812,
+        "pattern": "I look forward to ___ing.",
+        "meaning": "Tôi mong ___.",
+        "example": "I look forward to hearing from you.",
+        "exampleTranslation": "Tôi mong nhận được phản hồi từ anh/chị.",
+        "note": "Sau 'look forward to' dùng V-ing, không dùng động từ nguyên mẫu.",
+        "formality": "formal"
+      },
+      {
+        "id": 1813,
+        "pattern": "Best regards, / Kind regards,",
+        "meaning": "Trân trọng,",
+        "example": "Best regards, Tran Van Nam",
+        "exampleTranslation": "Trân trọng, Trần Văn Nam",
+        "note": "Lời kết thư chuẩn trong email công việc.",
+        "formality": "formal"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "negotiation",
+    "name": "Đàm phán & thương lượng",
+    "description": "Dùng khi đưa ra đề nghị, mặc cả điều kiện, nhượng bộ và chốt thỏa thuận trong kinh doanh.",
+    "category": "work",
+    "levelId": 4,
+    "patterns": [
+      {
+        "id": 1901,
+        "pattern": "What we're looking for is ___.",
+        "meaning": "Điều chúng tôi mong muốn là ___.",
+        "example": "What we're looking for is a long-term partnership.",
+        "exampleTranslation": "Điều chúng tôi mong muốn là một quan hệ hợp tác lâu dài.",
+        "note": "Nêu rõ mục tiêu ngay từ đầu.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1902,
+        "pattern": "We're prepared to offer ___.",
+        "meaning": "Chúng tôi sẵn sàng đưa ra ___.",
+        "example": "We're prepared to offer a 5% discount on orders over 1,000 units.",
+        "exampleTranslation": "Chúng tôi sẵn sàng giảm 5% cho đơn hàng trên 1.000 sản phẩm.",
+        "formality": "formal"
+      },
+      {
+        "id": 1903,
+        "pattern": "Would you be willing to ___?",
+        "meaning": "Quý vị có sẵn lòng ___ không?",
+        "example": "Would you be willing to extend the payment terms to 60 days?",
+        "exampleTranslation": "Quý vị có sẵn lòng kéo dài thời hạn thanh toán lên 60 ngày không?",
+        "formality": "formal"
+      },
+      {
+        "id": 1904,
+        "pattern": "If you ___, we could ___.",
+        "meaning": "Nếu quý vị ___, chúng tôi có thể ___.",
+        "example": "If you increase the order volume, we could lower the unit price.",
+        "exampleTranslation": "Nếu quý vị tăng số lượng đặt hàng, chúng tôi có thể giảm đơn giá.",
+        "note": "Câu điều kiện để trao đổi nhượng bộ.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1905,
+        "pattern": "That's a bit higher than we expected.",
+        "meaning": "Mức đó hơi cao hơn chúng tôi dự kiến.",
+        "example": "That's a bit higher than we expected. Is there any flexibility?",
+        "exampleTranslation": "Mức đó hơi cao hơn chúng tôi dự kiến. Có thể linh hoạt hơn không?",
+        "note": "Phản đối giá một cách mềm mỏng.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1906,
+        "pattern": "Is there any room for ___?",
+        "meaning": "Có khả năng ___ không?",
+        "example": "Is there any room for negotiation on the delivery date?",
+        "exampleTranslation": "Ngày giao hàng có thể thương lượng được không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 1907,
+        "pattern": "I'm afraid we can't accept ___.",
+        "meaning": "E là chúng tôi không thể chấp nhận ___.",
+        "example": "I'm afraid we can't accept those terms.",
+        "exampleTranslation": "E là chúng tôi không thể chấp nhận những điều khoản đó.",
+        "formality": "formal"
+      },
+      {
+        "id": 1908,
+        "pattern": "Let's try to find a compromise.",
+        "meaning": "Hãy cố gắng tìm một phương án dung hòa.",
+        "example": "We're still far apart. Let's try to find a compromise.",
+        "exampleTranslation": "Chúng ta vẫn còn cách xa nhau. Hãy cố gắng tìm một phương án dung hòa.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1909,
+        "pattern": "How about meeting halfway at ___?",
+        "meaning": "Hay là mỗi bên nhượng một nửa, ở mức ___?",
+        "example": "How about meeting halfway at 12 dollars per unit?",
+        "exampleTranslation": "Hay là mỗi bên nhượng một nửa, ở mức 12 đô la mỗi sản phẩm?",
+        "note": "'Meet halfway' = nhượng bộ đôi bên.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1910,
+        "pattern": "I'll need to check with ___.",
+        "meaning": "Tôi cần hỏi ý kiến ___.",
+        "example": "I'll need to check with my manager before I can agree.",
+        "exampleTranslation": "Tôi cần hỏi ý kiến quản lý trước khi đồng ý.",
+        "note": "Kéo dài thời gian, tránh quyết định vội.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1911,
+        "pattern": "We have a deal.",
+        "meaning": "Chúng ta đã thỏa thuận xong.",
+        "example": "Great, we have a deal. I'll prepare the contract.",
+        "exampleTranslation": "Tuyệt, chúng ta đã thỏa thuận xong. Tôi sẽ chuẩn bị hợp đồng.",
+        "formality": "neutral"
+      },
+      {
+        "id": 1912,
+        "pattern": "Let me just summarize what we've agreed on.",
+        "meaning": "Để tôi tóm tắt những gì chúng ta đã thống nhất.",
+        "example": "Before we finish, let me just summarize what we've agreed on.",
+        "exampleTranslation": "Trước khi kết thúc, để tôi tóm tắt những gì chúng ta đã thống nhất.",
+        "note": "Tránh hiểu lầm sau đàm phán.",
+        "formality": "formal"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "customer-service",
+    "name": "Chăm sóc khách hàng",
+    "description": "Dùng khi hỗ trợ khách hàng, tiếp nhận yêu cầu, xử lý khiếu nại và đưa ra giải pháp.",
+    "category": "work",
+    "levelId": 3,
+    "patterns": [
+      {
+        "id": 2001,
+        "pattern": "How may I help you today?",
+        "meaning": "Hôm nay tôi có thể giúp gì cho quý khách?",
+        "example": "Thank you for calling Sunrise Bank. How may I help you today?",
+        "exampleTranslation": "Cảm ơn quý khách đã gọi đến ngân hàng Sunrise. Hôm nay tôi có thể giúp gì cho quý khách?",
+        "note": "'May' trang trọng hơn 'can'.",
+        "formality": "formal"
+      },
+      {
+        "id": 2002,
+        "pattern": "Could I have your ___, please?",
+        "meaning": "Quý khách vui lòng cho tôi xin ___?",
+        "example": "Could I have your order number, please?",
+        "exampleTranslation": "Quý khách vui lòng cho tôi xin mã đơn hàng?",
+        "formality": "formal"
+      },
+      {
+        "id": 2003,
+        "pattern": "I understand how frustrating that must be.",
+        "meaning": "Tôi hiểu điều đó hẳn rất khó chịu.",
+        "example": "I understand how frustrating that must be. Let me see what I can do.",
+        "exampleTranslation": "Tôi hiểu điều đó hẳn rất khó chịu. Để tôi xem tôi có thể làm gì.",
+        "note": "Thể hiện sự đồng cảm trước khi giải quyết.",
+        "formality": "formal"
+      },
+      {
+        "id": 2004,
+        "pattern": "I'm sorry to hear that.",
+        "meaning": "Tôi rất tiếc khi nghe điều đó.",
+        "example": "I'm sorry to hear that your package arrived damaged.",
+        "exampleTranslation": "Tôi rất tiếc khi nghe kiện hàng của quý khách bị hư hỏng.",
+        "formality": "neutral"
+      },
+      {
+        "id": 2005,
+        "pattern": "Let me check that for you.",
+        "meaning": "Để tôi kiểm tra giúp quý khách.",
+        "example": "Let me check that for you. It'll just take a moment.",
+        "exampleTranslation": "Để tôi kiểm tra giúp quý khách. Chỉ mất một chút thôi.",
+        "formality": "neutral"
+      },
+      {
+        "id": 2006,
+        "pattern": "Thank you for your patience.",
+        "meaning": "Cảm ơn quý khách đã kiên nhẫn chờ đợi.",
+        "example": "Thank you for your patience. I've found your booking.",
+        "exampleTranslation": "Cảm ơn quý khách đã kiên nhẫn chờ đợi. Tôi đã tìm thấy đặt chỗ của quý khách.",
+        "note": "Thay cho 'Sorry for the wait'.",
+        "formality": "formal"
+      },
+      {
+        "id": 2007,
+        "pattern": "What I can do is ___.",
+        "meaning": "Điều tôi có thể làm là ___.",
+        "example": "What I can do is send you a replacement free of charge.",
+        "exampleTranslation": "Điều tôi có thể làm là gửi cho quý khách sản phẩm thay thế miễn phí.",
+        "note": "Tập trung vào giải pháp thay vì nói 'I can't'.",
+        "formality": "neutral"
+      },
+      {
+        "id": 2008,
+        "pattern": "We'll ___ within ___.",
+        "meaning": "Chúng tôi sẽ ___ trong vòng ___.",
+        "example": "We'll process your refund within five business days.",
+        "exampleTranslation": "Chúng tôi sẽ xử lý hoàn tiền cho quý khách trong vòng năm ngày làm việc.",
+        "formality": "neutral"
+      },
+      {
+        "id": 2009,
+        "pattern": "I'll transfer you to ___.",
+        "meaning": "Tôi sẽ chuyển máy cho quý khách đến ___.",
+        "example": "I'll transfer you to our technical support team.",
+        "exampleTranslation": "Tôi sẽ chuyển máy cho quý khách đến bộ phận hỗ trợ kỹ thuật.",
+        "formality": "neutral"
+      },
+      {
+        "id": 2010,
+        "pattern": "Is there anything else I can help you with?",
+        "meaning": "Quý khách còn cần tôi hỗ trợ gì nữa không?",
+        "example": "Your issue has been resolved. Is there anything else I can help you with?",
+        "exampleTranslation": "Vấn đề của quý khách đã được giải quyết. Quý khách còn cần tôi hỗ trợ gì nữa không?",
+        "note": "Câu kết chuẩn trong chăm sóc khách hàng.",
+        "formality": "formal"
+      },
+      {
+        "id": 2011,
+        "pattern": "We apologize for any inconvenience this may have caused.",
+        "meaning": "Chúng tôi xin lỗi vì mọi bất tiện có thể đã gây ra.",
+        "example": "Your order was delayed due to a system error. We apologize for any inconvenience this may have caused.",
+        "exampleTranslation": "Đơn hàng của quý khách bị chậm do lỗi hệ thống. Chúng tôi xin lỗi vì mọi bất tiện có thể đã gây ra.",
+        "note": "Thường dùng trong email, thông báo.",
+        "formality": "formal"
+      },
+      {
+        "id": 2012,
+        "pattern": "Please don't hesitate to contact us if ___.",
+        "meaning": "Xin đừng ngần ngại liên hệ với chúng tôi nếu ___.",
+        "example": "Please don't hesitate to contact us if you need further assistance.",
+        "exampleTranslation": "Xin đừng ngần ngại liên hệ với chúng tôi nếu quý khách cần hỗ trợ thêm.",
+        "formality": "formal"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "office-daily",
+    "name": "Giao tiếp nơi công sở",
+    "description": "Dùng trong giao tiếp hằng ngày với đồng nghiệp: hỏi tiến độ, nhờ giúp, xin nghỉ, cập nhật công việc.",
+    "category": "work",
+    "levelId": 2,
+    "patterns": [
+      {
+        "id": 2101,
+        "pattern": "Do you have a minute?",
+        "meaning": "Bạn có rảnh một phút không?",
+        "example": "Hi Lan, do you have a minute? I need your advice on something.",
+        "exampleTranslation": "Chào Lan, bạn có rảnh một phút không? Mình cần bạn góp ý một chuyện.",
+        "formality": "neutral"
+      },
+      {
+        "id": 2102,
+        "pattern": "How's ___ coming along?",
+        "meaning": "___ tiến triển thế nào rồi?",
+        "example": "How's the new website coming along?",
+        "exampleTranslation": "Trang web mới tiến triển thế nào rồi?",
+        "note": "Hỏi tiến độ công việc một cách nhẹ nhàng.",
+        "formality": "neutral"
+      },
+      {
+        "id": 2103,
+        "pattern": "I'm almost done with ___.",
+        "meaning": "Tôi gần xong ___ rồi.",
+        "example": "I'm almost done with the sales report.",
+        "exampleTranslation": "Tôi gần xong báo cáo doanh số rồi.",
+        "formality": "neutral"
+      },
+      {
+        "id": 2104,
+        "pattern": "I'm swamped with ___.",
+        "meaning": "Tôi đang ngập đầu với ___.",
+        "example": "Sorry, I'm swamped with work this week.",
+        "exampleTranslation": "Xin lỗi, tuần này mình đang ngập đầu với công việc.",
+        "note": "Thân mật; nghĩa là rất bận.",
+        "formality": "informal"
+      },
+      {
+        "id": 2105,
+        "pattern": "Could you give me a hand with ___?",
+        "meaning": "Bạn giúp tôi ___ được không?",
+        "example": "Could you give me a hand with these slides?",
+        "exampleTranslation": "Bạn giúp mình làm mấy slide này được không?",
+        "formality": "neutral"
+      },
+      {
+        "id": 2106,
+        "pattern": "Can I run something by you?",
+        "meaning": "Tôi hỏi ý kiến bạn chút được không?",
+        "example": "Can I run something by you before I send it to the boss?",
+        "exampleTranslation": "Mình hỏi ý kiến bạn chút được không trước khi gửi sếp?",
+        "note": "'Run sth by sb' = hỏi ý kiến ai về việc gì.",
+        "formality": "informal"
+      },
+      {
+        "id": 2107,
+        "pattern": "I'll get back to you on that.",
+        "meaning": "Tôi sẽ trả lời bạn về việc đó sau.",
+        "example": "Good question. I'll get back to you on that this afternoon.",
+        "exampleTranslation": "Câu hỏi hay. Chiều nay tôi sẽ trả lời bạn về việc đó.",
+        "formality": "neutral"
+      },
+      {
+        "id": 2108,
+        "pattern": "I'd like to request ___ off.",
+        "meaning": "Tôi muốn xin nghỉ ___.",
+        "example": "I'd like to request next Friday off for a family event.",
+        "exampleTranslation": "Tôi muốn xin nghỉ thứ Sáu tuần sau vì có việc gia đình.",
+        "formality": "formal"
+      },
+      {
+        "id": 2109,
+        "pattern": "I'm working from home today.",
+        "meaning": "Hôm nay tôi làm việc ở nhà.",
+        "example": "Just a heads-up: I'm working from home today, but I'm online.",
+        "exampleTranslation": "Báo trước: hôm nay mình làm việc ở nhà, nhưng vẫn trực tuyến.",
+        "note": "'Heads-up' = báo trước, lưu ý.",
+        "formality": "neutral"
+      },
+      {
+        "id": 2110,
+        "pattern": "Let me know if you need anything.",
+        "meaning": "Cần gì cứ báo tôi nhé.",
+        "example": "I've shared the folder with you. Let me know if you need anything.",
+        "exampleTranslation": "Mình đã chia sẻ thư mục với bạn rồi. Cần gì cứ báo mình nhé.",
+        "formality": "neutral"
+      },
+      {
+        "id": 2111,
+        "pattern": "Could you keep me in the loop?",
+        "meaning": "Bạn cập nhật cho tôi tình hình nhé?",
+        "example": "I can't attend the meeting. Could you keep me in the loop?",
+        "exampleTranslation": "Mình không dự họp được. Bạn cập nhật tình hình cho mình nhé?",
+        "note": "'In the loop' = được cập nhật thông tin.",
+        "formality": "informal"
+      },
+      {
+        "id": 2112,
+        "pattern": "Great job on ___!",
+        "meaning": "Bạn làm ___ rất tốt!",
+        "example": "Great job on the presentation yesterday!",
+        "exampleTranslation": "Bài thuyết trình hôm qua bạn làm rất tốt!",
+        "note": "Khen ngợi đồng nghiệp.",
+        "formality": "informal"
+      },
+      {
+        "id": 2113,
+        "pattern": "I'm heading out. See you tomorrow.",
+        "meaning": "Tôi về đây. Mai gặp lại.",
+        "example": "I'm heading out. See you tomorrow, everyone.",
+        "exampleTranslation": "Mình về đây. Mai gặp lại mọi người nhé.",
+        "formality": "informal"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "toeic-speaking-writing",
+    "name": "Mẫu câu cho TOEIC Speaking & Writing",
+    "description": "Dùng để mô tả tranh, trả lời câu hỏi, nêu ý kiến và viết email/bài luận trong bài thi TOEIC Speaking & Writing.",
+    "category": "toeic",
+    "levelId": 4,
+    "patterns": [
+      {
+        "id": 2201,
+        "pattern": "This picture was taken in/at ___.",
+        "meaning": "Bức ảnh này được chụp ở ___.",
+        "example": "This picture was taken at a busy outdoor market.",
+        "exampleTranslation": "Bức ảnh này được chụp ở một khu chợ ngoài trời đông đúc.",
+        "note": "Câu mở đầu cho phần mô tả tranh (Speaking Q3–4).",
+        "formality": "neutral"
+      },
+      {
+        "id": 2202,
+        "pattern": "In the foreground/background, I can see ___.",
+        "meaning": "Ở tiền cảnh/hậu cảnh, tôi thấy ___.",
+        "example": "In the foreground, I can see a woman holding a shopping bag.",
+        "exampleTranslation": "Ở tiền cảnh, tôi thấy một người phụ nữ đang cầm túi mua sắm.",
+        "note": "Mô tả theo bố cục giúp bài nói mạch lạc.",
+        "formality": "neutral"
+      },
+      {
+        "id": 2203,
+        "pattern": "It looks like ___.",
+        "meaning": "Có vẻ như ___.",
+        "example": "It looks like they're discussing a project.",
+        "exampleTranslation": "Có vẻ như họ đang thảo luận một dự án.",
+        "note": "Dùng để suy đoán; sau 'like' là mệnh đề hoặc danh từ.",
+        "formality": "neutral"
+      },
+      {
+        "id": 2204,
+        "pattern": "Overall, the atmosphere seems ___.",
+        "meaning": "Nhìn chung, bầu không khí có vẻ ___.",
+        "example": "Overall, the atmosphere seems relaxed and friendly.",
+        "exampleTranslation": "Nhìn chung, bầu không khí có vẻ thoải mái và thân thiện.",
+        "note": "Câu kết phần mô tả tranh.",
+        "formality": "neutral"
+      },
+      {
+        "id": 2205,
+        "pattern": "I would say ___, because ___.",
+        "meaning": "Tôi cho rằng ___, vì ___.",
+        "example": "I would say I go to the movies about once a month, because I'm usually busy.",
+        "exampleTranslation": "Tôi cho rằng tôi đi xem phim khoảng một tháng một lần, vì tôi thường bận.",
+        "note": "Trả lời ngắn có lý do cho Speaking Q5–7.",
+        "formality": "neutral"
+      },
+      {
+        "id": 2206,
+        "pattern": "According to the schedule, ___.",
+        "meaning": "Theo lịch trình, ___.",
+        "example": "According to the schedule, the workshop will begin at 9:30 in Room B.",
+        "exampleTranslation": "Theo lịch trình, buổi hội thảo sẽ bắt đầu lúc 9:30 tại phòng B.",
+        "note": "Trả lời câu hỏi dựa trên thông tin cho sẵn (Q8–10).",
+        "formality": "formal"
+      },
+      {
+        "id": 2207,
+        "pattern": "I'm afraid ___, but ___.",
+        "meaning": "E là ___, nhưng ___.",
+        "example": "I'm afraid the session has been cancelled, but you can attend the one on Friday.",
+        "exampleTranslation": "E là buổi đó đã bị hủy, nhưng anh có thể tham dự buổi vào thứ Sáu.",
+        "note": "Báo tin không như mong đợi kèm phương án thay thế.",
+        "formality": "formal"
+      },
+      {
+        "id": 2208,
+        "pattern": "I strongly believe that ___.",
+        "meaning": "Tôi tin chắc rằng ___.",
+        "example": "I strongly believe that companies should offer flexible working hours.",
+        "exampleTranslation": "Tôi tin chắc rằng các công ty nên cho phép giờ làm việc linh hoạt.",
+        "note": "Mở đầu phần nêu quan điểm (Speaking Q11, Writing Q8).",
+        "formality": "formal"
+      },
+      {
+        "id": 2209,
+        "pattern": "There are two main reasons for this. First, ___. Second, ___.",
+        "meaning": "Có hai lý do chính. Thứ nhất, ___. Thứ hai, ___.",
+        "example": "There are two main reasons for this. First, it saves time. Second, it reduces stress.",
+        "exampleTranslation": "Có hai lý do chính. Thứ nhất, nó tiết kiệm thời gian. Thứ hai, nó giảm căng thẳng.",
+        "note": "Khung bố cục rõ ràng giúp đạt điểm cao.",
+        "formality": "formal"
+      },
+      {
+        "id": 2210,
+        "pattern": "For example, when I ___, ___.",
+        "meaning": "Ví dụ, khi tôi ___, ___.",
+        "example": "For example, when I worked at a hotel, I learned to solve problems quickly.",
+        "exampleTranslation": "Ví dụ, khi tôi làm việc ở khách sạn, tôi đã học được cách giải quyết vấn đề nhanh chóng.",
+        "note": "Ví dụ từ trải nghiệm cá nhân làm lập luận thuyết phục hơn.",
+        "formality": "neutral"
+      },
+      {
+        "id": 2211,
+        "pattern": "Admittedly, ___. However, ___.",
+        "meaning": "Phải thừa nhận rằng ___. Tuy nhiên, ___.",
+        "example": "Admittedly, online courses lack face-to-face contact. However, they are far more convenient.",
+        "exampleTranslation": "Phải thừa nhận rằng các khóa học trực tuyến thiếu tương tác trực tiếp. Tuy nhiên, chúng tiện lợi hơn nhiều.",
+        "note": "Thừa nhận ý kiến trái chiều rồi phản bác; nâng điểm bài luận.",
+        "formality": "formal"
+      },
+      {
+        "id": 2212,
+        "pattern": "For these reasons, I am convinced that ___.",
+        "meaning": "Vì những lý do này, tôi tin chắc rằng ___.",
+        "example": "For these reasons, I am convinced that teamwork is more effective than working alone.",
+        "exampleTranslation": "Vì những lý do này, tôi tin chắc rằng làm việc nhóm hiệu quả hơn làm việc một mình.",
+        "note": "Câu kết luận cho bài luận nêu quan điểm.",
+        "formality": "formal"
+      },
+      {
+        "id": 2213,
+        "pattern": "I am writing in response to your email regarding ___.",
+        "meaning": "Tôi viết thư này để phản hồi email của anh/chị về ___.",
+        "example": "I am writing in response to your email regarding the delayed shipment.",
+        "exampleTranslation": "Tôi viết thư này để phản hồi email của anh/chị về lô hàng bị chậm.",
+        "note": "Mở đầu chuẩn cho Writing Q6–7 (trả lời email).",
+        "formality": "formal"
+      },
+      {
+        "id": 2214,
+        "pattern": "The picture shows ___ ___ing ___.",
+        "meaning": "Bức tranh cho thấy ___ đang ___ ___.",
+        "example": "The picture shows a man repairing a bicycle.",
+        "exampleTranslation": "Bức tranh cho thấy một người đàn ông đang sửa xe đạp.",
+        "note": "Writing Q1–5: viết một câu dùng đúng hai từ cho sẵn; dạng V-ing rất an toàn.",
+        "formality": "neutral"
+      }
+    ]
+  }
+]

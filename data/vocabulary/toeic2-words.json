@@ -1,0 +1,5275 @@
+[
+  {
+    "id": 1401,
+    "headword": "procurement",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/prəˈkjʊəmənt/",
+    "phoneticUs": "/proʊˈkjʊrmənt/",
+    "meaningVi": "việc thu mua, mua sắm (của doanh nghiệp)",
+    "definitionEn": "the process of buying goods or services for an organization",
+    "example": "All procurement requests above $5,000 must be approved by the finance director.",
+    "exampleTranslation": "Mọi yêu cầu thu mua trên 5.000 đô la phải được giám đốc tài chính phê duyệt.",
+    "levelId": 5,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1402,
+    "headword": "requisition",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌrekwɪˈzɪʃn/",
+    "phoneticUs": "/ˌrekwɪˈzɪʃn/",
+    "meaningVi": "phiếu yêu cầu (cấp vật tư, mua hàng)",
+    "definitionEn": "an official written request for supplies or equipment",
+    "example": "Please fill out a requisition before ordering new laptops for your team.",
+    "exampleTranslation": "Vui lòng điền phiếu yêu cầu trước khi đặt mua máy tính xách tay mới cho nhóm của bạn.",
+    "levelId": 5,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1403,
+    "headword": "purchase order",
+    "partOfSpeech": "phrase",
+    "meaningVi": "đơn đặt hàng (chính thức)",
+    "definitionEn": "an official document a buyer sends to a seller to order goods",
+    "example": "The supplier will not ship anything until it receives a signed purchase order.",
+    "exampleTranslation": "Nhà cung cấp sẽ không giao hàng cho đến khi nhận được đơn đặt hàng có chữ ký.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1404,
+    "headword": "quotation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kwəʊˈteɪʃn/",
+    "phoneticUs": "/kwoʊˈteɪʃn/",
+    "meaningVi": "bảng báo giá",
+    "definitionEn": "a written statement of how much a job or goods will cost",
+    "example": "We asked three printing companies for a quotation on the new catalogs.",
+    "exampleTranslation": "Chúng tôi đã yêu cầu ba công ty in gửi báo giá cho bộ catalô mới.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1405,
+    "headword": "bid",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/bɪd/",
+    "phoneticUs": "/bɪd/",
+    "meaningVi": "hồ sơ dự thầu, giá chào thầu",
+    "definitionEn": "an offer to do work or supply goods for a stated price",
+    "example": "Our company submitted the lowest bid for the office cleaning contract.",
+    "exampleTranslation": "Công ty chúng tôi đã nộp giá chào thầu thấp nhất cho hợp đồng dọn dẹp văn phòng.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1406,
+    "headword": "tender",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtendə/",
+    "phoneticUs": "/ˈtendər/",
+    "meaningVi": "cuộc đấu thầu, hồ sơ mời thầu",
+    "definitionEn": "a formal process in which companies are invited to offer a price for a job",
+    "example": "The city council has issued a tender for the construction of a new library.",
+    "exampleTranslation": "Hội đồng thành phố đã phát hành hồ sơ mời thầu xây dựng thư viện mới.",
+    "levelId": 5,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1407,
+    "headword": "procure",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/prəˈkjʊə/",
+    "phoneticUs": "/proʊˈkjʊr/",
+    "meaningVi": "thu mua, tìm mua được",
+    "definitionEn": "to obtain something, especially with effort",
+    "example": "The purchasing team managed to procure enough steel before prices rose.",
+    "exampleTranslation": "Bộ phận mua hàng đã thu mua đủ thép trước khi giá tăng.",
+    "levelId": 5,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1408,
+    "headword": "wholesale",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈhəʊlseɪl/",
+    "phoneticUs": "/ˈhoʊlseɪl/",
+    "meaningVi": "(thuộc) bán buôn, bán sỉ",
+    "definitionEn": "relating to selling goods in large amounts to shops rather than to the public",
+    "example": "Restaurants can buy vegetables at wholesale prices from the central market.",
+    "exampleTranslation": "Các nhà hàng có thể mua rau với giá bán sỉ tại chợ đầu mối.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1409,
+    "headword": "wholesaler",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhəʊlseɪlə/",
+    "phoneticUs": "/ˈhoʊlseɪlər/",
+    "meaningVi": "nhà bán buôn, nhà bán sỉ",
+    "definitionEn": "a person or company that sells goods in large quantities to stores",
+    "example": "The bookstore gets most of its stock from a regional wholesaler.",
+    "exampleTranslation": "Hiệu sách lấy phần lớn hàng từ một nhà bán sỉ trong khu vực.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1410,
+    "headword": "volume discount",
+    "partOfSpeech": "phrase",
+    "meaningVi": "chiết khấu theo số lượng",
+    "definitionEn": "a lower price per unit offered when a customer buys a large amount",
+    "example": "If we order more than 500 units, the vendor will give us a volume discount.",
+    "exampleTranslation": "Nếu chúng ta đặt hơn 500 sản phẩm, nhà cung cấp sẽ chiết khấu theo số lượng.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1411,
+    "headword": "lead time",
+    "partOfSpeech": "phrase",
+    "meaningVi": "thời gian chờ (từ lúc đặt đến lúc nhận hàng)",
+    "definitionEn": "the time between placing an order and receiving the goods",
+    "example": "The lead time for custom furniture is usually six to eight weeks.",
+    "exampleTranslation": "Thời gian chờ đối với đồ nội thất đặt riêng thường là sáu đến tám tuần.",
+    "levelId": 5,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1412,
+    "headword": "stock up on",
+    "partOfSpeech": "phrase",
+    "meaningVi": "tích trữ, mua dự trữ",
+    "definitionEn": "to buy a large quantity of something for future use",
+    "example": "The store stocked up on fans before the summer heat arrived.",
+    "exampleTranslation": "Cửa hàng đã tích trữ quạt trước khi mùa hè nóng bức đến.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1413,
+    "headword": "replenish",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/rɪˈplenɪʃ/",
+    "phoneticUs": "/rɪˈplenɪʃ/",
+    "meaningVi": "bổ sung, làm đầy lại (hàng hóa)",
+    "definitionEn": "to fill something up again or bring it back to its earlier level",
+    "example": "Shelves are replenished every night after the store closes.",
+    "exampleTranslation": "Các kệ hàng được bổ sung mỗi tối sau khi cửa hàng đóng cửa.",
+    "levelId": 5,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1414,
+    "headword": "sourcing",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɔːsɪŋ/",
+    "phoneticUs": "/ˈsɔːrsɪŋ/",
+    "meaningVi": "việc tìm nguồn cung ứng",
+    "definitionEn": "the process of finding suppliers of goods or materials",
+    "example": "Ethical sourcing has become a priority for many clothing brands.",
+    "exampleTranslation": "Tìm nguồn cung ứng có trách nhiệm đã trở thành ưu tiên của nhiều thương hiệu thời trang.",
+    "levelId": 5,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1415,
+    "headword": "negotiable",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/nɪˈɡəʊʃiəbl/",
+    "phoneticUs": "/nɪˈɡoʊʃiəbl/",
+    "meaningVi": "có thể thương lượng",
+    "definitionEn": "able to be changed or agreed through discussion",
+    "example": "The delivery fee is negotiable for long-term customers.",
+    "exampleTranslation": "Phí giao hàng có thể thương lượng đối với khách hàng lâu năm.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1416,
+    "headword": "estimate",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈestɪmət/",
+    "phoneticUs": "/ˈestɪmət/",
+    "meaningVi": "bản ước tính, dự toán",
+    "definitionEn": "an approximate calculation of the cost or size of something",
+    "example": "The contractor gave us a rough estimate of the total cost.",
+    "exampleTranslation": "Nhà thầu đã đưa cho chúng tôi một bản ước tính sơ bộ về tổng chi phí.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1417,
+    "headword": "itemize",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈaɪtəmaɪz/",
+    "phoneticUs": "/ˈaɪtəmaɪz/",
+    "meaningVi": "liệt kê chi tiết từng khoản",
+    "definitionEn": "to list things separately, especially costs on a bill",
+    "example": "Could you itemize the charges so that we can check each one?",
+    "exampleTranslation": "Anh có thể liệt kê chi tiết từng khoản phí để chúng tôi kiểm tra không?",
+    "levelId": 5,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1418,
+    "headword": "unit price",
+    "partOfSpeech": "phrase",
+    "meaningVi": "đơn giá",
+    "definitionEn": "the price of a single item",
+    "example": "The unit price drops significantly when you buy in larger quantities.",
+    "exampleTranslation": "Đơn giá giảm đáng kể khi bạn mua với số lượng lớn hơn.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1419,
+    "headword": "supply chain",
+    "partOfSpeech": "phrase",
+    "meaningVi": "chuỗi cung ứng",
+    "definitionEn": "the series of companies and steps involved in making and delivering a product",
+    "example": "The storm caused serious disruptions across the entire supply chain.",
+    "exampleTranslation": "Cơn bão đã gây gián đoạn nghiêm trọng trên toàn bộ chuỗi cung ứng.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1420,
+    "headword": "out of stock",
+    "partOfSpeech": "phrase",
+    "meaningVi": "hết hàng",
+    "definitionEn": "not currently available in a store or warehouse",
+    "example": "The printer cartridges you ordered are out of stock until next Monday.",
+    "exampleTranslation": "Hộp mực máy in bạn đặt hiện đã hết hàng cho đến thứ Hai tới.",
+    "levelId": 3,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1421,
+    "headword": "surplus",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɜːpləs/",
+    "phoneticUs": "/ˈsɜːrpləs/",
+    "meaningVi": "sự dư thừa, lượng dư",
+    "definitionEn": "an amount that is more than what is needed",
+    "example": "The factory sold its surplus of packaging materials to a local business.",
+    "exampleTranslation": "Nhà máy đã bán lượng vật liệu đóng gói dư thừa cho một doanh nghiệp địa phương.",
+    "levelId": 5,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1422,
+    "headword": "shortage",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈʃɔːtɪdʒ/",
+    "phoneticUs": "/ˈʃɔːrtɪdʒ/",
+    "meaningVi": "sự thiếu hụt",
+    "definitionEn": "a situation in which there is not enough of something",
+    "example": "A shortage of microchips has delayed production of the new model.",
+    "exampleTranslation": "Tình trạng thiếu chip đã làm chậm việc sản xuất mẫu mới.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1423,
+    "headword": "consignment",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kənˈsaɪnmənt/",
+    "phoneticUs": "/kənˈsaɪnmənt/",
+    "meaningVi": "lô hàng (gửi đi)",
+    "definitionEn": "a quantity of goods sent to a buyer at one time",
+    "example": "The second consignment of office chairs arrived damaged.",
+    "exampleTranslation": "Lô ghế văn phòng thứ hai đến nơi trong tình trạng hư hỏng.",
+    "levelId": 5,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1424,
+    "headword": "fulfill",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/fʊlˈfɪl/",
+    "phoneticUs": "/fʊlˈfɪl/",
+    "meaningVi": "thực hiện, đáp ứng (đơn hàng, yêu cầu)",
+    "definitionEn": "to do or provide what is required or ordered",
+    "example": "We can fulfill orders within 24 hours of receiving payment.",
+    "exampleTranslation": "Chúng tôi có thể hoàn tất đơn hàng trong vòng 24 giờ sau khi nhận được thanh toán.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1425,
+    "headword": "preferred",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/prɪˈfɜːd/",
+    "phoneticUs": "/prɪˈfɜːrd/",
+    "meaningVi": "được ưu tiên, được ưa chuộng hơn",
+    "definitionEn": "chosen or liked more than others",
+    "example": "Staff should book flights through our preferred travel agency.",
+    "exampleTranslation": "Nhân viên nên đặt vé máy bay qua đại lý du lịch được ưu tiên của công ty.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1426,
+    "headword": "cost-effective",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌkɒst ɪˈfektɪv/",
+    "phoneticUs": "/ˌkɔːst ɪˈfektɪv/",
+    "meaningVi": "hiệu quả về chi phí",
+    "definitionEn": "giving good results for the money spent",
+    "example": "Leasing the equipment is more cost-effective than buying it outright.",
+    "exampleTranslation": "Thuê thiết bị hiệu quả về chi phí hơn là mua đứt.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1427,
+    "headword": "reorder",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/riˈɔːdə/",
+    "phoneticUs": "/riˈɔːrdər/",
+    "meaningVi": "đặt hàng lại",
+    "definitionEn": "to order more of something that has been used or sold",
+    "example": "The system automatically reorders paper when stock falls below 20 boxes.",
+    "exampleTranslation": "Hệ thống tự động đặt hàng lại giấy khi lượng tồn dưới 20 thùng.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1428,
+    "headword": "backlog",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbæklɒɡ/",
+    "phoneticUs": "/ˈbæklɔːɡ/",
+    "meaningVi": "lượng công việc/đơn hàng tồn đọng",
+    "definitionEn": "an amount of work or orders that has not yet been dealt with",
+    "example": "The new staff members helped us clear the backlog of orders.",
+    "exampleTranslation": "Các nhân viên mới đã giúp chúng tôi giải quyết lượng đơn hàng tồn đọng.",
+    "levelId": 5,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1429,
+    "headword": "discontinue",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˌdɪskənˈtɪnjuː/",
+    "phoneticUs": "/ˌdɪskənˈtɪnjuː/",
+    "meaningVi": "ngừng sản xuất, ngừng cung cấp",
+    "definitionEn": "to stop making or offering a product or service",
+    "example": "The manufacturer has discontinued this model, so spare parts are hard to find.",
+    "exampleTranslation": "Nhà sản xuất đã ngừng sản xuất mẫu này nên rất khó tìm phụ tùng thay thế.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1430,
+    "headword": "competitive pricing",
+    "partOfSpeech": "phrase",
+    "meaningVi": "giá cả cạnh tranh",
+    "definitionEn": "prices that are similar to or lower than those of other sellers",
+    "example": "We chose this supplier because of its competitive pricing and reliable delivery.",
+    "exampleTranslation": "Chúng tôi chọn nhà cung cấp này vì giá cả cạnh tranh và giao hàng đáng tin cậy.",
+    "levelId": 4,
+    "topics": [
+      "purchasing-procurement"
+    ]
+  },
+  {
+    "id": 1431,
+    "headword": "accounting",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/əˈkaʊntɪŋ/",
+    "phoneticUs": "/əˈkaʊntɪŋ/",
+    "meaningVi": "kế toán, công tác kế toán",
+    "definitionEn": "the work of keeping and checking the financial records of a business",
+    "example": "Please send all travel receipts to the accounting department by Friday.",
+    "exampleTranslation": "Vui lòng gửi tất cả hóa đơn công tác cho phòng kế toán trước thứ Sáu.",
+    "levelId": 3,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1432,
+    "headword": "bookkeeping",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbʊkkiːpɪŋ/",
+    "phoneticUs": "/ˈbʊkkiːpɪŋ/",
+    "meaningVi": "việc ghi sổ sách kế toán",
+    "definitionEn": "the job of recording the money a business receives and spends",
+    "example": "Many small shops hire a part-time assistant to handle bookkeeping.",
+    "exampleTranslation": "Nhiều cửa hàng nhỏ thuê trợ lý bán thời gian để lo việc ghi sổ sách.",
+    "levelId": 4,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1433,
+    "headword": "ledger",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈledʒə/",
+    "phoneticUs": "/ˈledʒər/",
+    "meaningVi": "sổ cái",
+    "definitionEn": "a book or file in which a company records its financial transactions",
+    "example": "Every payment must be entered in the general ledger on the same day.",
+    "exampleTranslation": "Mọi khoản thanh toán phải được ghi vào sổ cái ngay trong ngày.",
+    "levelId": 5,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1434,
+    "headword": "reconcile",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈrekənsaɪl/",
+    "phoneticUs": "/ˈrekənsaɪl/",
+    "meaningVi": "đối chiếu, khớp (số liệu)",
+    "definitionEn": "to compare two sets of records to make sure they agree",
+    "example": "The accountant reconciles the bank statements at the end of each month.",
+    "exampleTranslation": "Kế toán đối chiếu sao kê ngân hàng vào cuối mỗi tháng.",
+    "levelId": 5,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1435,
+    "headword": "allocate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈæləkeɪt/",
+    "phoneticUs": "/ˈæləkeɪt/",
+    "meaningVi": "phân bổ",
+    "definitionEn": "to give an amount of money or resources for a particular purpose",
+    "example": "The board allocated an extra $20,000 to staff training this year.",
+    "exampleTranslation": "Hội đồng quản trị đã phân bổ thêm 20.000 đô la cho đào tạo nhân viên năm nay.",
+    "levelId": 4,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1436,
+    "headword": "allocation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌæləˈkeɪʃn/",
+    "phoneticUs": "/ˌæləˈkeɪʃn/",
+    "meaningVi": "sự phân bổ, khoản được phân bổ",
+    "definitionEn": "an amount of money or resources given for a particular purpose",
+    "example": "Each department will receive its budget allocation in January.",
+    "exampleTranslation": "Mỗi phòng ban sẽ nhận khoản ngân sách được phân bổ vào tháng Một.",
+    "levelId": 5,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1437,
+    "headword": "expense",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪkˈspens/",
+    "phoneticUs": "/ɪkˈspens/",
+    "meaningVi": "chi phí, khoản chi",
+    "definitionEn": "money spent on something, especially for work",
+    "example": "Hotel and meal costs are considered business expenses.",
+    "exampleTranslation": "Chi phí khách sạn và ăn uống được xem là chi phí công tác.",
+    "levelId": 3,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1438,
+    "headword": "expense report",
+    "partOfSpeech": "phrase",
+    "meaningVi": "báo cáo chi phí",
+    "definitionEn": "a document listing money an employee spent for work so it can be repaid",
+    "example": "Attach your receipts to the expense report before submitting it.",
+    "exampleTranslation": "Hãy đính kèm hóa đơn vào báo cáo chi phí trước khi nộp.",
+    "levelId": 4,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1439,
+    "headword": "depreciation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dɪˌpriːʃiˈeɪʃn/",
+    "phoneticUs": "/dɪˌpriːʃiˈeɪʃn/",
+    "meaningVi": "sự khấu hao, sự giảm giá trị",
+    "definitionEn": "a decrease in the value of an asset over time",
+    "example": "The depreciation of our delivery vans is recorded every year.",
+    "exampleTranslation": "Khấu hao của các xe giao hàng được ghi nhận hằng năm.",
+    "levelId": 5,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1440,
+    "headword": "overhead",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈəʊvəhed/",
+    "phoneticUs": "/ˈoʊvərhed/",
+    "meaningVi": "chi phí chung (điện, thuê mặt bằng...)",
+    "definitionEn": "regular business costs such as rent and electricity",
+    "example": "Moving to a smaller office will help us reduce overhead.",
+    "exampleTranslation": "Chuyển đến văn phòng nhỏ hơn sẽ giúp chúng ta giảm chi phí chung.",
+    "levelId": 5,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1441,
+    "headword": "accrue",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/əˈkruː/",
+    "phoneticUs": "/əˈkruː/",
+    "meaningVi": "tích lũy, dồn lại (lãi, nợ, ngày phép)",
+    "definitionEn": "to increase or build up gradually over a period of time",
+    "example": "Interest accrues on the unpaid balance at a rate of 2% per month.",
+    "exampleTranslation": "Lãi được tích lũy trên số dư chưa thanh toán với mức 2% mỗi tháng.",
+    "levelId": 5,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1442,
+    "headword": "balance sheet",
+    "partOfSpeech": "phrase",
+    "meaningVi": "bảng cân đối kế toán",
+    "definitionEn": "a financial statement showing what a company owns and owes at a given time",
+    "example": "Investors studied the balance sheet carefully before making an offer.",
+    "exampleTranslation": "Các nhà đầu tư đã xem kỹ bảng cân đối kế toán trước khi đưa ra đề nghị.",
+    "levelId": 5,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1443,
+    "headword": "auditor",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɔːdɪtə/",
+    "phoneticUs": "/ˈɔːdɪtər/",
+    "meaningVi": "kiểm toán viên",
+    "definitionEn": "a person whose job is to officially examine financial records",
+    "example": "External auditors will visit our office next week.",
+    "exampleTranslation": "Các kiểm toán viên độc lập sẽ đến văn phòng chúng ta vào tuần tới.",
+    "levelId": 4,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1444,
+    "headword": "tax return",
+    "partOfSpeech": "phrase",
+    "meaningVi": "tờ khai thuế",
+    "definitionEn": "an official form on which a person or company reports income for tax purposes",
+    "example": "The firm helps freelancers prepare their annual tax returns.",
+    "exampleTranslation": "Công ty giúp những người làm tự do chuẩn bị tờ khai thuế hằng năm.",
+    "levelId": 4,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1445,
+    "headword": "deduct",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/dɪˈdʌkt/",
+    "phoneticUs": "/dɪˈdʌkt/",
+    "meaningVi": "khấu trừ, trừ đi",
+    "definitionEn": "to take away an amount from a total",
+    "example": "Insurance contributions are deducted from your monthly salary.",
+    "exampleTranslation": "Các khoản đóng bảo hiểm được khấu trừ vào lương hằng tháng của bạn.",
+    "levelId": 4,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1446,
+    "headword": "deduction",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dɪˈdʌkʃn/",
+    "phoneticUs": "/dɪˈdʌkʃn/",
+    "meaningVi": "khoản khấu trừ",
+    "definitionEn": "an amount taken away from a total, such as from pay or taxable income",
+    "example": "Your payslip shows all deductions for tax and pension.",
+    "exampleTranslation": "Phiếu lương của bạn thể hiện tất cả các khoản khấu trừ thuế và lương hưu.",
+    "levelId": 4,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1447,
+    "headword": "accounts receivable",
+    "partOfSpeech": "phrase",
+    "meaningVi": "các khoản phải thu",
+    "definitionEn": "money that customers owe to a company",
+    "example": "Accounts receivable increased because several clients paid late.",
+    "exampleTranslation": "Các khoản phải thu tăng lên vì một số khách hàng thanh toán trễ.",
+    "levelId": 5,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1448,
+    "headword": "accounts payable",
+    "partOfSpeech": "phrase",
+    "meaningVi": "các khoản phải trả",
+    "definitionEn": "money that a company owes to its suppliers",
+    "example": "The accounts payable team processes supplier invoices twice a week.",
+    "exampleTranslation": "Nhóm phụ trách các khoản phải trả xử lý hóa đơn của nhà cung cấp hai lần mỗi tuần.",
+    "levelId": 5,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1449,
+    "headword": "net",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/net/",
+    "phoneticUs": "/net/",
+    "meaningVi": "ròng, thực (sau khi trừ chi phí)",
+    "definitionEn": "remaining after costs or taxes have been taken away",
+    "example": "The company reported a net profit of $3 million last quarter.",
+    "exampleTranslation": "Công ty báo cáo lợi nhuận ròng 3 triệu đô la trong quý trước.",
+    "levelId": 4,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1450,
+    "headword": "gross",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ɡrəʊs/",
+    "phoneticUs": "/ɡroʊs/",
+    "meaningVi": "gộp, tổng (trước khi trừ chi phí)",
+    "definitionEn": "total, before anything such as tax has been taken away",
+    "example": "Her gross salary is higher than the amount she actually takes home.",
+    "exampleTranslation": "Lương gộp của cô ấy cao hơn số tiền cô thực nhận.",
+    "levelId": 4,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1451,
+    "headword": "profitable",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈprɒfɪtəbl/",
+    "phoneticUs": "/ˈprɑːfɪtəbl/",
+    "meaningVi": "có lãi, sinh lời",
+    "definitionEn": "making a profit",
+    "example": "The new branch became profitable within its first year.",
+    "exampleTranslation": "Chi nhánh mới đã có lãi ngay trong năm đầu tiên.",
+    "levelId": 4,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1452,
+    "headword": "profitability",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌprɒfɪtəˈbɪləti/",
+    "phoneticUs": "/ˌprɑːfɪtəˈbɪləti/",
+    "meaningVi": "khả năng sinh lời",
+    "definitionEn": "the degree to which a business makes a profit",
+    "example": "Cutting waste has greatly improved the factory's profitability.",
+    "exampleTranslation": "Việc cắt giảm lãng phí đã cải thiện đáng kể khả năng sinh lời của nhà máy.",
+    "levelId": 5,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1453,
+    "headword": "margin",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmɑːdʒɪn/",
+    "phoneticUs": "/ˈmɑːrdʒɪn/",
+    "meaningVi": "biên lợi nhuận",
+    "definitionEn": "the difference between the cost of something and the price it is sold for",
+    "example": "Rising material costs have reduced our profit margin.",
+    "exampleTranslation": "Chi phí nguyên liệu tăng đã làm giảm biên lợi nhuận của chúng tôi.",
+    "levelId": 5,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1454,
+    "headword": "projection",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/prəˈdʒekʃn/",
+    "phoneticUs": "/prəˈdʒekʃn/",
+    "meaningVi": "dự báo, dự phóng",
+    "definitionEn": "an estimate of a future amount based on current information",
+    "example": "Sales projections for next year look very promising.",
+    "exampleTranslation": "Dự báo doanh số cho năm tới có vẻ rất khả quan.",
+    "levelId": 5,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1455,
+    "headword": "discrepancy",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dɪˈskrepənsi/",
+    "phoneticUs": "/dɪˈskrepənsi/",
+    "meaningVi": "sự chênh lệch, sai lệch",
+    "definitionEn": "a difference between things that should be the same",
+    "example": "There is a discrepancy between the invoice and the delivery note.",
+    "exampleTranslation": "Có sự sai lệch giữa hóa đơn và phiếu giao hàng.",
+    "levelId": 5,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1456,
+    "headword": "reimbursement",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌriːɪmˈbɜːsmənt/",
+    "phoneticUs": "/ˌriːɪmˈbɜːrsmənt/",
+    "meaningVi": "sự hoàn trả (chi phí)",
+    "definitionEn": "the act of paying back money that someone has spent",
+    "example": "Requests for reimbursement must include original receipts.",
+    "exampleTranslation": "Yêu cầu hoàn trả chi phí phải kèm theo hóa đơn gốc.",
+    "levelId": 4,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1457,
+    "headword": "spreadsheet",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈspredʃiːt/",
+    "phoneticUs": "/ˈspredʃiːt/",
+    "meaningVi": "bảng tính",
+    "definitionEn": "a computer program or document that arranges numbers in rows and columns",
+    "example": "I have updated the budget spreadsheet with the latest figures.",
+    "exampleTranslation": "Tôi đã cập nhật bảng tính ngân sách với số liệu mới nhất.",
+    "levelId": 3,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1458,
+    "headword": "over budget",
+    "partOfSpeech": "phrase",
+    "meaningVi": "vượt ngân sách",
+    "definitionEn": "costing more than the amount of money planned",
+    "example": "The marketing event went over budget because of extra venue fees.",
+    "exampleTranslation": "Sự kiện marketing bị vượt ngân sách do phát sinh phí địa điểm.",
+    "levelId": 4,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1459,
+    "headword": "break even",
+    "partOfSpeech": "phrase",
+    "meaningVi": "hòa vốn",
+    "definitionEn": "to earn exactly as much money as you spend, with no profit or loss",
+    "example": "The new café expects to break even within eighteen months.",
+    "exampleTranslation": "Quán cà phê mới dự kiến hòa vốn trong vòng mười tám tháng.",
+    "levelId": 4,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1460,
+    "headword": "fiscal year",
+    "partOfSpeech": "phrase",
+    "meaningVi": "năm tài chính",
+    "definitionEn": "a 12-month period used by a company or government for accounting",
+    "example": "Our fiscal year begins on April 1 and ends on March 31.",
+    "exampleTranslation": "Năm tài chính của chúng tôi bắt đầu từ ngày 1 tháng 4 và kết thúc vào ngày 31 tháng 3.",
+    "levelId": 4,
+    "topics": [
+      "accounting-budgeting"
+    ]
+  },
+  {
+    "id": 1461,
+    "headword": "merger",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmɜːdʒə/",
+    "phoneticUs": "/ˈmɜːrdʒər/",
+    "meaningVi": "sự sáp nhập",
+    "definitionEn": "the joining of two or more companies into one",
+    "example": "The merger of the two airlines will create the largest carrier in the region.",
+    "exampleTranslation": "Việc sáp nhập hai hãng hàng không sẽ tạo ra hãng lớn nhất khu vực.",
+    "levelId": 4,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1462,
+    "headword": "acquisition",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌækwɪˈzɪʃn/",
+    "phoneticUs": "/ˌækwɪˈzɪʃn/",
+    "meaningVi": "sự mua lại, thâu tóm (công ty)",
+    "definitionEn": "the act of buying another company",
+    "example": "The acquisition of a local software firm gave us access to new technology.",
+    "exampleTranslation": "Việc mua lại một công ty phần mềm địa phương giúp chúng tôi tiếp cận công nghệ mới.",
+    "levelId": 5,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1463,
+    "headword": "acquire",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/əˈkwaɪə/",
+    "phoneticUs": "/əˈkwaɪər/",
+    "meaningVi": "mua lại, giành được",
+    "definitionEn": "to buy or obtain something, such as a company",
+    "example": "The retailer plans to acquire two smaller chains next year.",
+    "exampleTranslation": "Nhà bán lẻ dự định mua lại hai chuỗi cửa hàng nhỏ hơn vào năm tới.",
+    "levelId": 4,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1464,
+    "headword": "subsidiary",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/səbˈsɪdiəri/",
+    "phoneticUs": "/səbˈsɪdieri/",
+    "meaningVi": "công ty con",
+    "definitionEn": "a company that is owned or controlled by a larger company",
+    "example": "The firm operates subsidiaries in Vietnam, Thailand and Malaysia.",
+    "exampleTranslation": "Công ty có các công ty con ở Việt Nam, Thái Lan và Malaysia.",
+    "levelId": 5,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1465,
+    "headword": "headquarters",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌhedˈkwɔːtəz/",
+    "phoneticUs": "/ˈhedkwɔːrtərz/",
+    "meaningVi": "trụ sở chính",
+    "definitionEn": "the main office of a company or organization",
+    "example": "Our headquarters will move to a larger building in the city center.",
+    "exampleTranslation": "Trụ sở chính của chúng tôi sẽ chuyển đến một tòa nhà lớn hơn ở trung tâm thành phố.",
+    "levelId": 3,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1466,
+    "headword": "restructure",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˌriːˈstrʌktʃə/",
+    "phoneticUs": "/ˌriːˈstrʌktʃər/",
+    "meaningVi": "tái cấu trúc",
+    "definitionEn": "to organize a company or system in a new way",
+    "example": "Management decided to restructure the sales division to cut costs.",
+    "exampleTranslation": "Ban quản lý quyết định tái cấu trúc bộ phận kinh doanh để cắt giảm chi phí.",
+    "levelId": 5,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1467,
+    "headword": "streamline",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈstriːmlaɪn/",
+    "phoneticUs": "/ˈstriːmlaɪn/",
+    "meaningVi": "tinh gọn, hợp lý hóa",
+    "definitionEn": "to make a system or process simpler and more efficient",
+    "example": "The new software will streamline the approval process.",
+    "exampleTranslation": "Phần mềm mới sẽ giúp tinh gọn quy trình phê duyệt.",
+    "levelId": 5,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1468,
+    "headword": "expand",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪkˈspænd/",
+    "phoneticUs": "/ɪkˈspænd/",
+    "meaningVi": "mở rộng",
+    "definitionEn": "to become or make something larger",
+    "example": "The bakery hopes to expand into three more cities.",
+    "exampleTranslation": "Tiệm bánh hy vọng mở rộng sang thêm ba thành phố nữa.",
+    "levelId": 3,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1469,
+    "headword": "expansion",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪkˈspænʃn/",
+    "phoneticUs": "/ɪkˈspænʃn/",
+    "meaningVi": "sự mở rộng",
+    "definitionEn": "the process of increasing in size or reach",
+    "example": "Overseas expansion is a key part of our five-year plan.",
+    "exampleTranslation": "Mở rộng ra nước ngoài là phần quan trọng trong kế hoạch năm năm của chúng tôi.",
+    "levelId": 4,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1470,
+    "headword": "diversify",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/daɪˈvɜːsɪfaɪ/",
+    "phoneticUs": "/daɪˈvɜːrsɪfaɪ/",
+    "meaningVi": "đa dạng hóa",
+    "definitionEn": "to start producing different products or entering new markets",
+    "example": "The company diversified into healthcare products to reduce risk.",
+    "exampleTranslation": "Công ty đã đa dạng hóa sang các sản phẩm chăm sóc sức khỏe để giảm rủi ro.",
+    "levelId": 5,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1471,
+    "headword": "initiative",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪˈnɪʃətɪv/",
+    "phoneticUs": "/ɪˈnɪʃətɪv/",
+    "meaningVi": "sáng kiến, chương trình mới",
+    "definitionEn": "a new plan or action designed to achieve a goal",
+    "example": "The recycling initiative was suggested by a junior employee.",
+    "exampleTranslation": "Sáng kiến tái chế được đề xuất bởi một nhân viên mới vào nghề.",
+    "levelId": 4,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1472,
+    "headword": "objective",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/əbˈdʒektɪv/",
+    "phoneticUs": "/əbˈdʒektɪv/",
+    "meaningVi": "mục tiêu",
+    "definitionEn": "something that you plan to achieve",
+    "example": "Our main objective this year is to increase customer retention.",
+    "exampleTranslation": "Mục tiêu chính của chúng tôi năm nay là tăng tỷ lệ giữ chân khách hàng.",
+    "levelId": 4,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1473,
+    "headword": "long-term",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌlɒŋ ˈtɜːm/",
+    "phoneticUs": "/ˌlɔːŋ ˈtɜːrm/",
+    "meaningVi": "dài hạn",
+    "definitionEn": "continuing for or relating to a long period of time",
+    "example": "The CEO presented the long-term vision for the company.",
+    "exampleTranslation": "Giám đốc điều hành đã trình bày tầm nhìn dài hạn của công ty.",
+    "levelId": 3,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1474,
+    "headword": "outsource",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈaʊtsɔːs/",
+    "phoneticUs": "/ˈaʊtsɔːrs/",
+    "meaningVi": "thuê ngoài, gia công bên ngoài",
+    "definitionEn": "to pay an outside company to do work instead of doing it within the company",
+    "example": "We outsource our payroll processing to a specialist firm.",
+    "exampleTranslation": "Chúng tôi thuê một công ty chuyên môn bên ngoài xử lý bảng lương.",
+    "levelId": 5,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1475,
+    "headword": "stakeholder",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsteɪkhəʊldə/",
+    "phoneticUs": "/ˈsteɪkhoʊldər/",
+    "meaningVi": "bên liên quan",
+    "definitionEn": "a person or group that has an interest in a business and its success",
+    "example": "All stakeholders were invited to comment on the proposal.",
+    "exampleTranslation": "Tất cả các bên liên quan đều được mời góp ý cho đề xuất.",
+    "levelId": 5,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1476,
+    "headword": "competitive",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/kəmˈpetətɪv/",
+    "phoneticUs": "/kəmˈpetətɪv/",
+    "meaningVi": "cạnh tranh, có tính cạnh tranh",
+    "definitionEn": "trying hard to be better than others; able to compete well",
+    "example": "The smartphone market is extremely competitive.",
+    "exampleTranslation": "Thị trường điện thoại thông minh cạnh tranh vô cùng khốc liệt.",
+    "levelId": 4,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1477,
+    "headword": "efficiency",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪˈfɪʃnsi/",
+    "phoneticUs": "/ɪˈfɪʃnsi/",
+    "meaningVi": "hiệu quả, năng suất",
+    "definitionEn": "the quality of doing something well without wasting time or money",
+    "example": "Automation has greatly increased the efficiency of our warehouse.",
+    "exampleTranslation": "Tự động hóa đã làm tăng đáng kể hiệu quả hoạt động của kho hàng.",
+    "levelId": 4,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1478,
+    "headword": "efficient",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ɪˈfɪʃnt/",
+    "phoneticUs": "/ɪˈfɪʃnt/",
+    "meaningVi": "hiệu quả, năng suất",
+    "definitionEn": "working well without wasting time, money or energy",
+    "example": "The new scheduling system is much more efficient than the old one.",
+    "exampleTranslation": "Hệ thống lên lịch mới hiệu quả hơn nhiều so với hệ thống cũ.",
+    "levelId": 4,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1479,
+    "headword": "efficiently",
+    "partOfSpeech": "adverb",
+    "phoneticUk": "/ɪˈfɪʃntli/",
+    "phoneticUs": "/ɪˈfɪʃntli/",
+    "meaningVi": "một cách hiệu quả",
+    "definitionEn": "in a way that does not waste time, money or energy",
+    "example": "The team worked efficiently to finish the report ahead of schedule.",
+    "exampleTranslation": "Nhóm đã làm việc hiệu quả để hoàn thành báo cáo trước thời hạn.",
+    "levelId": 4,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1480,
+    "headword": "implement",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈɪmplɪment/",
+    "phoneticUs": "/ˈɪmplɪment/",
+    "meaningVi": "triển khai, thực hiện",
+    "definitionEn": "to put a plan or system into action",
+    "example": "The new customer service policy will be implemented next month.",
+    "exampleTranslation": "Chính sách chăm sóc khách hàng mới sẽ được triển khai vào tháng tới.",
+    "levelId": 4,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1481,
+    "headword": "implementation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌɪmplɪmenˈteɪʃn/",
+    "phoneticUs": "/ˌɪmplɪmenˈteɪʃn/",
+    "meaningVi": "sự triển khai, thực hiện",
+    "definitionEn": "the process of putting a plan or system into action",
+    "example": "Full implementation of the plan will take about two years.",
+    "exampleTranslation": "Việc triển khai toàn bộ kế hoạch sẽ mất khoảng hai năm.",
+    "levelId": 5,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1482,
+    "headword": "feasible",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈfiːzəbl/",
+    "phoneticUs": "/ˈfiːzəbl/",
+    "meaningVi": "khả thi",
+    "definitionEn": "possible and likely to be achieved",
+    "example": "Opening a branch in every province is not feasible right now.",
+    "exampleTranslation": "Mở chi nhánh ở mọi tỉnh hiện tại là không khả thi.",
+    "levelId": 5,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1483,
+    "headword": "feasibility study",
+    "partOfSpeech": "phrase",
+    "meaningVi": "nghiên cứu khả thi",
+    "definitionEn": "a study done to decide whether a plan is practical and likely to succeed",
+    "example": "A feasibility study will be carried out before the new plant is built.",
+    "exampleTranslation": "Một nghiên cứu khả thi sẽ được thực hiện trước khi xây nhà máy mới.",
+    "levelId": 5,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1484,
+    "headword": "mission statement",
+    "partOfSpeech": "phrase",
+    "meaningVi": "tuyên bố sứ mệnh",
+    "definitionEn": "a short written description of an organization's aims and values",
+    "example": "Our mission statement focuses on quality and customer trust.",
+    "exampleTranslation": "Tuyên bố sứ mệnh của chúng tôi tập trung vào chất lượng và niềm tin của khách hàng.",
+    "levelId": 4,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1485,
+    "headword": "consolidate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kənˈsɒlɪdeɪt/",
+    "phoneticUs": "/kənˈsɑːlɪdeɪt/",
+    "meaningVi": "hợp nhất, củng cố",
+    "definitionEn": "to combine several things into one, or to make a position stronger",
+    "example": "The bank will consolidate its two downtown branches into one.",
+    "exampleTranslation": "Ngân hàng sẽ hợp nhất hai chi nhánh ở trung tâm thành một.",
+    "levelId": 5,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1486,
+    "headword": "joint venture",
+    "partOfSpeech": "phrase",
+    "meaningVi": "liên doanh",
+    "definitionEn": "a business project set up by two or more companies working together",
+    "example": "The two firms formed a joint venture to build electric buses.",
+    "exampleTranslation": "Hai công ty đã thành lập liên doanh để sản xuất xe buýt điện.",
+    "levelId": 5,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1487,
+    "headword": "partnership",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpɑːtnəʃɪp/",
+    "phoneticUs": "/ˈpɑːrtnərʃɪp/",
+    "meaningVi": "quan hệ đối tác",
+    "definitionEn": "a relationship in which two or more organizations work together",
+    "example": "We are proud to announce a new partnership with a leading university.",
+    "exampleTranslation": "Chúng tôi tự hào thông báo mối quan hệ đối tác mới với một trường đại học hàng đầu.",
+    "levelId": 4,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1488,
+    "headword": "benchmark",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbentʃmɑːk/",
+    "phoneticUs": "/ˈbentʃmɑːrk/",
+    "meaningVi": "tiêu chuẩn so sánh, chuẩn mực",
+    "definitionEn": "a standard used for comparing the quality or performance of something",
+    "example": "Their customer service is a benchmark for the whole industry.",
+    "exampleTranslation": "Dịch vụ khách hàng của họ là chuẩn mực cho cả ngành.",
+    "levelId": 5,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1489,
+    "headword": "prioritize",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/praɪˈɒrətaɪz/",
+    "phoneticUs": "/praɪˈɔːrətaɪz/",
+    "meaningVi": "ưu tiên",
+    "definitionEn": "to decide which things are most important and deal with them first",
+    "example": "Managers should prioritize projects that bring the highest returns.",
+    "exampleTranslation": "Các quản lý nên ưu tiên những dự án mang lại lợi nhuận cao nhất.",
+    "levelId": 4,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1490,
+    "headword": "in the long run",
+    "partOfSpeech": "phrase",
+    "meaningVi": "về lâu dài",
+    "definitionEn": "over a long period of time in the future",
+    "example": "Investing in staff training will save money in the long run.",
+    "exampleTranslation": "Đầu tư vào đào tạo nhân viên sẽ giúp tiết kiệm tiền về lâu dài.",
+    "levelId": 4,
+    "topics": [
+      "corporate-strategy"
+    ]
+  },
+  {
+    "id": 1491,
+    "headword": "advertisement",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ədˈvɜːtɪsmənt/",
+    "phoneticUs": "/ˌædvərˈtaɪzmənt/",
+    "meaningVi": "quảng cáo, mẩu quảng cáo",
+    "definitionEn": "a notice, picture or film that tries to persuade people to buy something",
+    "example": "We placed an advertisement in the weekend edition of the newspaper.",
+    "exampleTranslation": "Chúng tôi đã đăng một mẩu quảng cáo trên số báo cuối tuần.",
+    "levelId": 3,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1492,
+    "headword": "billboard",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbɪlbɔːd/",
+    "phoneticUs": "/ˈbɪlbɔːrd/",
+    "meaningVi": "biển quảng cáo lớn (ngoài trời)",
+    "definitionEn": "a large outdoor board for displaying advertisements",
+    "example": "The new billboard near the highway exit has attracted a lot of attention.",
+    "exampleTranslation": "Biển quảng cáo mới gần lối ra đường cao tốc đã thu hút nhiều sự chú ý.",
+    "levelId": 4,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1493,
+    "headword": "press release",
+    "partOfSpeech": "phrase",
+    "meaningVi": "thông cáo báo chí",
+    "definitionEn": "an official statement given to journalists by an organization",
+    "example": "The company issued a press release announcing its new CEO.",
+    "exampleTranslation": "Công ty đã phát hành thông cáo báo chí công bố giám đốc điều hành mới.",
+    "levelId": 4,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1494,
+    "headword": "publicize",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈpʌblɪsaɪz/",
+    "phoneticUs": "/ˈpʌblɪsaɪz/",
+    "meaningVi": "quảng bá, công bố rộng rãi",
+    "definitionEn": "to make information about something known to the public",
+    "example": "The museum used social media to publicize its new exhibit.",
+    "exampleTranslation": "Bảo tàng đã dùng mạng xã hội để quảng bá triển lãm mới.",
+    "levelId": 4,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1495,
+    "headword": "circulation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌsɜːkjəˈleɪʃn/",
+    "phoneticUs": "/ˌsɜːrkjəˈleɪʃn/",
+    "meaningVi": "số lượng phát hành (báo, tạp chí)",
+    "definitionEn": "the number of copies of a newspaper or magazine sold regularly",
+    "example": "The magazine has a monthly circulation of over 200,000 copies.",
+    "exampleTranslation": "Tạp chí có số lượng phát hành hơn 200.000 bản mỗi tháng.",
+    "levelId": 5,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1496,
+    "headword": "subscriber",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/səbˈskraɪbə/",
+    "phoneticUs": "/səbˈskraɪbər/",
+    "meaningVi": "người đăng ký, thuê bao",
+    "definitionEn": "a person who pays to receive a publication or service regularly",
+    "example": "Subscribers will receive the digital edition one day early.",
+    "exampleTranslation": "Người đăng ký sẽ nhận được ấn bản điện tử sớm một ngày.",
+    "levelId": 4,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1497,
+    "headword": "subscription",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/səbˈskrɪpʃn/",
+    "phoneticUs": "/səbˈskrɪpʃn/",
+    "meaningVi": "sự đăng ký (dài hạn), phí thuê bao",
+    "definitionEn": "an arrangement to receive something regularly by paying in advance",
+    "example": "You can cancel your subscription at any time without a fee.",
+    "exampleTranslation": "Bạn có thể hủy đăng ký bất cứ lúc nào mà không mất phí.",
+    "levelId": 4,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1498,
+    "headword": "audience",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɔːdiəns/",
+    "phoneticUs": "/ˈɔːdiəns/",
+    "meaningVi": "khán giả, công chúng",
+    "definitionEn": "the people who watch, read or listen to something",
+    "example": "The advertisement was designed to appeal to a younger audience.",
+    "exampleTranslation": "Quảng cáo được thiết kế để thu hút khán giả trẻ hơn.",
+    "levelId": 3,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1499,
+    "headword": "broadcast",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈbrɔːdkɑːst/",
+    "phoneticUs": "/ˈbrɔːdkæst/",
+    "meaningVi": "phát sóng",
+    "definitionEn": "to send out a program on television or radio",
+    "example": "The awards ceremony will be broadcast live on Channel 5.",
+    "exampleTranslation": "Lễ trao giải sẽ được phát sóng trực tiếp trên Kênh 5.",
+    "levelId": 4,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1500,
+    "headword": "sponsor",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈspɒnsə/",
+    "phoneticUs": "/ˈspɑːnsər/",
+    "meaningVi": "tài trợ",
+    "definitionEn": "to pay for an event or program in exchange for advertising",
+    "example": "A local bank has agreed to sponsor the charity marathon.",
+    "exampleTranslation": "Một ngân hàng địa phương đã đồng ý tài trợ cho cuộc chạy marathon từ thiện.",
+    "levelId": 4,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1501,
+    "headword": "sponsorship",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈspɒnsəʃɪp/",
+    "phoneticUs": "/ˈspɑːnsərʃɪp/",
+    "meaningVi": "sự tài trợ",
+    "definitionEn": "financial support for an event or activity in exchange for advertising",
+    "example": "The festival relies heavily on corporate sponsorship.",
+    "exampleTranslation": "Lễ hội phụ thuộc nhiều vào sự tài trợ của các doanh nghiệp.",
+    "levelId": 5,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1502,
+    "headword": "endorsement",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪnˈdɔːsmənt/",
+    "phoneticUs": "/ɪnˈdɔːrsmənt/",
+    "meaningVi": "sự quảng bá/xác nhận (của người nổi tiếng)",
+    "definitionEn": "a public statement of support for a product, often by a famous person",
+    "example": "The athlete earns more from endorsements than from competitions.",
+    "exampleTranslation": "Vận động viên này kiếm được từ hợp đồng quảng bá nhiều hơn từ thi đấu.",
+    "levelId": 5,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1503,
+    "headword": "editorial",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌedɪˈtɔːriəl/",
+    "phoneticUs": "/ˌedɪˈtɔːriəl/",
+    "meaningVi": "bài xã luận",
+    "definitionEn": "a newspaper article that gives the opinion of the editor",
+    "example": "The editorial criticized the city's plan to raise parking fees.",
+    "exampleTranslation": "Bài xã luận chỉ trích kế hoạch tăng phí đỗ xe của thành phố.",
+    "levelId": 5,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1504,
+    "headword": "headline",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhedlaɪn/",
+    "phoneticUs": "/ˈhedlaɪn/",
+    "meaningVi": "tiêu đề (bài báo)",
+    "definitionEn": "the title of a newspaper story printed in large letters",
+    "example": "The product launch made headlines in several business magazines.",
+    "exampleTranslation": "Sự kiện ra mắt sản phẩm đã lên tiêu đề của nhiều tạp chí kinh doanh.",
+    "levelId": 3,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1505,
+    "headword": "journalist",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdʒɜːnəlɪst/",
+    "phoneticUs": "/ˈdʒɜːrnəlɪst/",
+    "meaningVi": "nhà báo",
+    "definitionEn": "a person who writes news stories for newspapers, websites or TV",
+    "example": "Several journalists asked questions about the company's expansion plans.",
+    "exampleTranslation": "Một số nhà báo đặt câu hỏi về kế hoạch mở rộng của công ty.",
+    "levelId": 3,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1506,
+    "headword": "publisher",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpʌblɪʃə/",
+    "phoneticUs": "/ˈpʌblɪʃər/",
+    "meaningVi": "nhà xuất bản",
+    "definitionEn": "a company that prepares and sells books, magazines or newspapers",
+    "example": "The publisher plans to release the cookbook in both print and digital formats.",
+    "exampleTranslation": "Nhà xuất bản dự định phát hành cuốn sách nấu ăn ở cả dạng in và điện tử.",
+    "levelId": 4,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1507,
+    "headword": "publication",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌpʌblɪˈkeɪʃn/",
+    "phoneticUs": "/ˌpʌblɪˈkeɪʃn/",
+    "meaningVi": "ấn phẩm; sự xuất bản",
+    "definitionEn": "a book, magazine or newspaper; the act of printing and releasing it",
+    "example": "The article was accepted for publication in a trade journal.",
+    "exampleTranslation": "Bài viết đã được chấp nhận đăng trên một tạp chí chuyên ngành.",
+    "levelId": 4,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1508,
+    "headword": "flyer",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈflaɪə/",
+    "phoneticUs": "/ˈflaɪər/",
+    "meaningVi": "tờ rơi",
+    "definitionEn": "a small printed sheet advertising a product or event",
+    "example": "Volunteers handed out flyers for the store's grand opening.",
+    "exampleTranslation": "Các tình nguyện viên phát tờ rơi cho lễ khai trương cửa hàng.",
+    "levelId": 3,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1509,
+    "headword": "banner",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbænə/",
+    "phoneticUs": "/ˈbænər/",
+    "meaningVi": "băng rôn; banner quảng cáo",
+    "definitionEn": "a long sign or an online advertisement across the top of a page",
+    "example": "A large banner welcomed visitors at the entrance.",
+    "exampleTranslation": "Một băng rôn lớn chào đón khách tham quan ở lối vào.",
+    "levelId": 3,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1510,
+    "headword": "catchy",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈkætʃi/",
+    "phoneticUs": "/ˈkætʃi/",
+    "meaningVi": "dễ nhớ, bắt tai",
+    "definitionEn": "pleasing and easy to remember",
+    "example": "The agency came up with a catchy jingle for the radio ad.",
+    "exampleTranslation": "Công ty quảng cáo đã nghĩ ra một đoạn nhạc hiệu bắt tai cho quảng cáo trên radio.",
+    "levelId": 4,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1511,
+    "headword": "persuasive",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/pəˈsweɪsɪv/",
+    "phoneticUs": "/pərˈsweɪsɪv/",
+    "meaningVi": "có sức thuyết phục",
+    "definitionEn": "able to make people believe or do something",
+    "example": "Her presentation was so persuasive that the client signed immediately.",
+    "exampleTranslation": "Bài thuyết trình của cô ấy thuyết phục đến mức khách hàng ký ngay lập tức.",
+    "levelId": 4,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1512,
+    "headword": "eye-catching",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈaɪ kætʃɪŋ/",
+    "phoneticUs": "/ˈaɪ kætʃɪŋ/",
+    "meaningVi": "bắt mắt, thu hút ánh nhìn",
+    "definitionEn": "immediately noticeable because it is attractive or unusual",
+    "example": "The packaging uses eye-catching colors to stand out on the shelf.",
+    "exampleTranslation": "Bao bì sử dụng màu sắc bắt mắt để nổi bật trên kệ hàng.",
+    "levelId": 4,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1513,
+    "headword": "commercial break",
+    "partOfSpeech": "phrase",
+    "meaningVi": "thời gian quảng cáo xen giữa chương trình",
+    "definitionEn": "a short pause during a TV or radio program when advertisements are shown",
+    "example": "Our new ad will air during the commercial break of the evening news.",
+    "exampleTranslation": "Quảng cáo mới của chúng tôi sẽ phát trong giờ quảng cáo của bản tin buổi tối.",
+    "levelId": 4,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1514,
+    "headword": "target audience",
+    "partOfSpeech": "phrase",
+    "meaningVi": "đối tượng mục tiêu",
+    "definitionEn": "the particular group of people that an advertisement is aimed at",
+    "example": "The target audience for this campaign is working parents.",
+    "exampleTranslation": "Đối tượng mục tiêu của chiến dịch này là các bậc cha mẹ đi làm.",
+    "levelId": 4,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1515,
+    "headword": "exposure",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪkˈspəʊʒə/",
+    "phoneticUs": "/ɪkˈspoʊʒər/",
+    "meaningVi": "sự xuất hiện trước công chúng, độ phủ sóng",
+    "definitionEn": "the attention that something gets from the media or public",
+    "example": "Appearing on the TV show gave the small brand national exposure.",
+    "exampleTranslation": "Xuất hiện trên chương trình truyền hình đã giúp thương hiệu nhỏ được biết đến trên toàn quốc.",
+    "levelId": 5,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1516,
+    "headword": "visibility",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌvɪzəˈbɪləti/",
+    "phoneticUs": "/ˌvɪzəˈbɪləti/",
+    "meaningVi": "mức độ nhận diện, hiện diện",
+    "definitionEn": "the degree to which something is noticed by the public",
+    "example": "Sponsoring local events increases our brand visibility.",
+    "exampleTranslation": "Tài trợ các sự kiện địa phương giúp tăng mức độ nhận diện thương hiệu.",
+    "levelId": 5,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1517,
+    "headword": "testimonial",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌtestɪˈməʊniəl/",
+    "phoneticUs": "/ˌtestɪˈmoʊniəl/",
+    "meaningVi": "lời chứng thực (của khách hàng)",
+    "definitionEn": "a written statement from a customer praising a product or service",
+    "example": "Our website features testimonials from satisfied clients.",
+    "exampleTranslation": "Trang web của chúng tôi có đăng lời chứng thực từ những khách hàng hài lòng.",
+    "levelId": 5,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1518,
+    "headword": "press conference",
+    "partOfSpeech": "phrase",
+    "meaningVi": "buổi họp báo",
+    "definitionEn": "a meeting at which someone answers questions from journalists",
+    "example": "The mayor will hold a press conference about the new bridge tomorrow.",
+    "exampleTranslation": "Thị trưởng sẽ tổ chức họp báo về cây cầu mới vào ngày mai.",
+    "levelId": 4,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1519,
+    "headword": "columnist",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkɒləmnɪst/",
+    "phoneticUs": "/ˈkɑːləmnɪst/",
+    "meaningVi": "người phụ trách chuyên mục",
+    "definitionEn": "a journalist who regularly writes a particular section of a newspaper",
+    "example": "The technology columnist reviewed our app in Sunday's paper.",
+    "exampleTranslation": "Người phụ trách chuyên mục công nghệ đã đánh giá ứng dụng của chúng tôi trên báo Chủ nhật.",
+    "levelId": 5,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1520,
+    "headword": "influencer",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɪnfluənsə/",
+    "phoneticUs": "/ˈɪnfluənsər/",
+    "meaningVi": "người có ảnh hưởng (trên mạng xã hội)",
+    "definitionEn": "a person who promotes products to many followers on social media",
+    "example": "The cosmetics brand partnered with several influencers to promote its new line.",
+    "exampleTranslation": "Thương hiệu mỹ phẩm đã hợp tác với nhiều người có ảnh hưởng để quảng bá dòng sản phẩm mới.",
+    "levelId": 4,
+    "topics": [
+      "advertising-media"
+    ]
+  },
+  {
+    "id": 1521,
+    "headword": "research and development",
+    "partOfSpeech": "phrase",
+    "meaningVi": "nghiên cứu và phát triển (R&D)",
+    "definitionEn": "work done by a company to create new products and improve existing ones",
+    "example": "The firm spends ten percent of its revenue on research and development.",
+    "exampleTranslation": "Công ty chi mười phần trăm doanh thu cho nghiên cứu và phát triển.",
+    "levelId": 4,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1522,
+    "headword": "laboratory",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ləˈbɒrətri/",
+    "phoneticUs": "/ˈlæbrətɔːri/",
+    "meaningVi": "phòng thí nghiệm",
+    "definitionEn": "a room or building used for scientific experiments",
+    "example": "Visitors are not allowed to enter the laboratory without protective clothing.",
+    "exampleTranslation": "Khách tham quan không được vào phòng thí nghiệm nếu không mặc đồ bảo hộ.",
+    "levelId": 3,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1523,
+    "headword": "prototype",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈprəʊtətaɪp/",
+    "phoneticUs": "/ˈproʊtətaɪp/",
+    "meaningVi": "nguyên mẫu, mẫu thử đầu tiên",
+    "definitionEn": "the first model of a product, used for testing before production",
+    "example": "Engineers are testing a prototype of the new vacuum cleaner.",
+    "exampleTranslation": "Các kỹ sư đang thử nghiệm nguyên mẫu của chiếc máy hút bụi mới.",
+    "levelId": 5,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1524,
+    "headword": "experiment",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪkˈsperɪmənt/",
+    "phoneticUs": "/ɪkˈsperɪmənt/",
+    "meaningVi": "thí nghiệm",
+    "definitionEn": "a scientific test done to discover or prove something",
+    "example": "The results of the experiment were published last month.",
+    "exampleTranslation": "Kết quả của thí nghiệm đã được công bố vào tháng trước.",
+    "levelId": 3,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1525,
+    "headword": "hypothesis",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/haɪˈpɒθəsɪs/",
+    "phoneticUs": "/haɪˈpɑːθəsɪs/",
+    "meaningVi": "giả thuyết",
+    "definitionEn": "an idea that has not yet been proven and needs to be tested",
+    "example": "The data supported the team's original hypothesis.",
+    "exampleTranslation": "Dữ liệu đã ủng hộ giả thuyết ban đầu của nhóm.",
+    "levelId": 5,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1526,
+    "headword": "analyze",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈænəlaɪz/",
+    "phoneticUs": "/ˈænəlaɪz/",
+    "meaningVi": "phân tích",
+    "definitionEn": "to examine something carefully in order to understand it",
+    "example": "Our analysts will analyze the survey results this week.",
+    "exampleTranslation": "Các chuyên viên phân tích sẽ phân tích kết quả khảo sát trong tuần này.",
+    "levelId": 4,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1527,
+    "headword": "analysis",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/əˈnæləsɪs/",
+    "phoneticUs": "/əˈnæləsɪs/",
+    "meaningVi": "sự phân tích, bản phân tích",
+    "definitionEn": "a careful examination of something to understand it",
+    "example": "A detailed analysis of customer complaints is attached.",
+    "exampleTranslation": "Bản phân tích chi tiết về khiếu nại của khách hàng được đính kèm.",
+    "levelId": 4,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1528,
+    "headword": "findings",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfaɪndɪŋz/",
+    "phoneticUs": "/ˈfaɪndɪŋz/",
+    "meaningVi": "kết quả nghiên cứu, phát hiện",
+    "definitionEn": "the information discovered as the result of a study",
+    "example": "The researchers will present their findings at the conference.",
+    "exampleTranslation": "Các nhà nghiên cứu sẽ trình bày kết quả nghiên cứu tại hội nghị.",
+    "levelId": 4,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1529,
+    "headword": "patent",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpætnt/",
+    "phoneticUs": "/ˈpætnt/",
+    "meaningVi": "bằng sáng chế",
+    "definitionEn": "an official right to be the only one who makes or sells an invention",
+    "example": "The company holds a patent on this battery design.",
+    "exampleTranslation": "Công ty nắm giữ bằng sáng chế cho thiết kế pin này.",
+    "levelId": 5,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1530,
+    "headword": "innovation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌɪnəˈveɪʃn/",
+    "phoneticUs": "/ˌɪnəˈveɪʃn/",
+    "meaningVi": "sự đổi mới, cải tiến",
+    "definitionEn": "a new idea, method or product",
+    "example": "Innovation is the key to staying ahead of competitors.",
+    "exampleTranslation": "Đổi mới là chìa khóa để luôn đi trước các đối thủ.",
+    "levelId": 4,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1531,
+    "headword": "innovative",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈɪnəveɪtɪv/",
+    "phoneticUs": "/ˈɪnəveɪtɪv/",
+    "meaningVi": "đổi mới, sáng tạo",
+    "definitionEn": "using new ideas or methods",
+    "example": "The startup won an award for its innovative water filter.",
+    "exampleTranslation": "Công ty khởi nghiệp đã giành giải thưởng nhờ máy lọc nước sáng tạo.",
+    "levelId": 4,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1532,
+    "headword": "breakthrough",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbreɪkθruː/",
+    "phoneticUs": "/ˈbreɪkθruː/",
+    "meaningVi": "bước đột phá",
+    "definitionEn": "an important discovery or development",
+    "example": "Scientists made a breakthrough in battery technology last year.",
+    "exampleTranslation": "Các nhà khoa học đã tạo ra bước đột phá về công nghệ pin vào năm ngoái.",
+    "levelId": 5,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1533,
+    "headword": "pilot program",
+    "partOfSpeech": "phrase",
+    "meaningVi": "chương trình thí điểm",
+    "definitionEn": "a small trial of a plan before it is used more widely",
+    "example": "The four-day work week began as a pilot program in one department.",
+    "exampleTranslation": "Tuần làm việc bốn ngày được bắt đầu dưới dạng chương trình thí điểm ở một phòng ban.",
+    "levelId": 5,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1534,
+    "headword": "trial",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtraɪəl/",
+    "phoneticUs": "/ˈtraɪəl/",
+    "meaningVi": "sự thử nghiệm, dùng thử",
+    "definitionEn": "a test of how well something works",
+    "example": "The new medicine is currently in clinical trials.",
+    "exampleTranslation": "Loại thuốc mới hiện đang trong giai đoạn thử nghiệm lâm sàng.",
+    "levelId": 4,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1535,
+    "headword": "questionnaire",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌkwestʃəˈneə/",
+    "phoneticUs": "/ˌkwestʃəˈner/",
+    "meaningVi": "bảng câu hỏi",
+    "definitionEn": "a written set of questions used to collect information",
+    "example": "Please complete the short questionnaire at the end of the session.",
+    "exampleTranslation": "Vui lòng hoàn thành bảng câu hỏi ngắn ở cuối buổi.",
+    "levelId": 4,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1536,
+    "headword": "respondent",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/rɪˈspɒndənt/",
+    "phoneticUs": "/rɪˈspɑːndənt/",
+    "meaningVi": "người trả lời (khảo sát)",
+    "definitionEn": "a person who answers a survey or questionnaire",
+    "example": "Over 60 percent of respondents said they prefer shopping online.",
+    "exampleTranslation": "Hơn 60 phần trăm người trả lời cho biết họ thích mua sắm trực tuyến.",
+    "levelId": 5,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1537,
+    "headword": "conduct",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kənˈdʌkt/",
+    "phoneticUs": "/kənˈdʌkt/",
+    "meaningVi": "tiến hành, thực hiện",
+    "definitionEn": "to organize and carry out an activity",
+    "example": "The marketing team conducted a survey of 1,000 shoppers.",
+    "exampleTranslation": "Nhóm marketing đã tiến hành khảo sát 1.000 người mua sắm.",
+    "levelId": 4,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1538,
+    "headword": "methodology",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌmeθəˈdɒlədʒi/",
+    "phoneticUs": "/ˌmeθəˈdɑːlədʒi/",
+    "meaningVi": "phương pháp luận, phương pháp nghiên cứu",
+    "definitionEn": "the set of methods used in a particular study or activity",
+    "example": "The report explains the methodology used to collect the data.",
+    "exampleTranslation": "Báo cáo giải thích phương pháp được sử dụng để thu thập dữ liệu.",
+    "levelId": 5,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1539,
+    "headword": "refine",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/rɪˈfaɪn/",
+    "phoneticUs": "/rɪˈfaɪn/",
+    "meaningVi": "cải tiến, tinh chỉnh",
+    "definitionEn": "to improve something by making small changes",
+    "example": "We refined the design based on feedback from test users.",
+    "exampleTranslation": "Chúng tôi đã tinh chỉnh thiết kế dựa trên phản hồi của người dùng thử.",
+    "levelId": 5,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1540,
+    "headword": "modify",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈmɒdɪfaɪ/",
+    "phoneticUs": "/ˈmɑːdɪfaɪ/",
+    "meaningVi": "điều chỉnh, sửa đổi",
+    "definitionEn": "to change something slightly to improve it",
+    "example": "The engineers modified the engine to use less fuel.",
+    "exampleTranslation": "Các kỹ sư đã điều chỉnh động cơ để tiêu thụ ít nhiên liệu hơn.",
+    "levelId": 4,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1541,
+    "headword": "modification",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌmɒdɪfɪˈkeɪʃn/",
+    "phoneticUs": "/ˌmɑːdɪfɪˈkeɪʃn/",
+    "meaningVi": "sự điều chỉnh, sửa đổi",
+    "definitionEn": "a small change made to something",
+    "example": "A few modifications were made to the original plan.",
+    "exampleTranslation": "Một vài điều chỉnh đã được thực hiện đối với kế hoạch ban đầu.",
+    "levelId": 5,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1542,
+    "headword": "enhance",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪnˈhɑːns/",
+    "phoneticUs": "/ɪnˈhæns/",
+    "meaningVi": "nâng cao, cải thiện",
+    "definitionEn": "to improve the quality or value of something",
+    "example": "The update enhances the camera's performance in low light.",
+    "exampleTranslation": "Bản cập nhật cải thiện hiệu suất của máy ảnh trong điều kiện thiếu sáng.",
+    "levelId": 4,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1543,
+    "headword": "cutting-edge",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌkʌtɪŋ ˈedʒ/",
+    "phoneticUs": "/ˌkʌtɪŋ ˈedʒ/",
+    "meaningVi": "tiên tiến nhất, hiện đại nhất",
+    "definitionEn": "using the newest and most advanced methods",
+    "example": "The hospital uses cutting-edge equipment for diagnosis.",
+    "exampleTranslation": "Bệnh viện sử dụng thiết bị chẩn đoán tiên tiến nhất.",
+    "levelId": 5,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1544,
+    "headword": "state-of-the-art",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌsteɪt əv ði ˈɑːt/",
+    "phoneticUs": "/ˌsteɪt əv ði ˈɑːrt/",
+    "meaningVi": "tối tân, hiện đại nhất",
+    "definitionEn": "using the most modern technology available",
+    "example": "The new research center has state-of-the-art laboratories.",
+    "exampleTranslation": "Trung tâm nghiên cứu mới có các phòng thí nghiệm tối tân.",
+    "levelId": 4,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1545,
+    "headword": "researcher",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/rɪˈsɜːtʃə/",
+    "phoneticUs": "/ˈriːsɜːrtʃər/",
+    "meaningVi": "nhà nghiên cứu",
+    "definitionEn": "a person who studies a subject in detail to discover new facts",
+    "example": "A team of researchers has developed a cheaper type of solar panel.",
+    "exampleTranslation": "Một nhóm nhà nghiên cứu đã phát triển loại tấm pin mặt trời rẻ hơn.",
+    "levelId": 3,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1546,
+    "headword": "grant",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɡrɑːnt/",
+    "phoneticUs": "/ɡrænt/",
+    "meaningVi": "khoản tài trợ, trợ cấp",
+    "definitionEn": "money given by a government or organization for a particular purpose",
+    "example": "The university received a government grant to study clean energy.",
+    "exampleTranslation": "Trường đại học đã nhận được khoản tài trợ của chính phủ để nghiên cứu năng lượng sạch.",
+    "levelId": 4,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1547,
+    "headword": "collaborate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kəˈlæbəreɪt/",
+    "phoneticUs": "/kəˈlæbəreɪt/",
+    "meaningVi": "hợp tác, cộng tác",
+    "definitionEn": "to work together with someone to produce something",
+    "example": "Our engineers collaborate closely with the design team.",
+    "exampleTranslation": "Các kỹ sư của chúng tôi hợp tác chặt chẽ với nhóm thiết kế.",
+    "levelId": 4,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1548,
+    "headword": "collaboration",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kəˌlæbəˈreɪʃn/",
+    "phoneticUs": "/kəˌlæbəˈreɪʃn/",
+    "meaningVi": "sự hợp tác",
+    "definitionEn": "the act of working together with others",
+    "example": "The new vaccine was developed in collaboration with two universities.",
+    "exampleTranslation": "Vắc-xin mới được phát triển nhờ sự hợp tác với hai trường đại học.",
+    "levelId": 4,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1549,
+    "headword": "preliminary",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/prɪˈlɪmɪnəri/",
+    "phoneticUs": "/prɪˈlɪmɪneri/",
+    "meaningVi": "sơ bộ, ban đầu",
+    "definitionEn": "coming before the main part of something",
+    "example": "Preliminary results suggest that the new material is very strong.",
+    "exampleTranslation": "Kết quả sơ bộ cho thấy vật liệu mới rất bền.",
+    "levelId": 5,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1550,
+    "headword": "obsolete",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈɒbsəliːt/",
+    "phoneticUs": "/ˌɑːbsəˈliːt/",
+    "meaningVi": "lỗi thời, không còn dùng",
+    "definitionEn": "no longer used because something newer has been invented",
+    "example": "Much of our old testing equipment is now obsolete.",
+    "exampleTranslation": "Phần lớn thiết bị thử nghiệm cũ của chúng tôi giờ đã lỗi thời.",
+    "levelId": 5,
+    "topics": [
+      "research-development"
+    ]
+  },
+  {
+    "id": 1551,
+    "headword": "contractor",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kənˈtræktə/",
+    "phoneticUs": "/ˈkɑːntræktər/",
+    "meaningVi": "nhà thầu",
+    "definitionEn": "a person or company paid to do work, especially building work",
+    "example": "The contractor promised to finish the roof before the rainy season.",
+    "exampleTranslation": "Nhà thầu hứa sẽ hoàn thành phần mái trước mùa mưa.",
+    "levelId": 4,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1552,
+    "headword": "subcontractor",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌsʌbkənˈtræktə/",
+    "phoneticUs": "/ˌsʌbˈkɑːntræktər/",
+    "meaningVi": "nhà thầu phụ",
+    "definitionEn": "a company hired by the main contractor to do part of a job",
+    "example": "The electrical work was handled by a subcontractor.",
+    "exampleTranslation": "Phần việc điện do một nhà thầu phụ đảm nhận.",
+    "levelId": 5,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1553,
+    "headword": "blueprint",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbluːprɪnt/",
+    "phoneticUs": "/ˈbluːprɪnt/",
+    "meaningVi": "bản thiết kế, bản vẽ kỹ thuật",
+    "definitionEn": "a detailed technical drawing of a building or machine",
+    "example": "The architect reviewed the blueprints with the building owner.",
+    "exampleTranslation": "Kiến trúc sư đã xem lại bản thiết kế cùng với chủ tòa nhà.",
+    "levelId": 5,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1554,
+    "headword": "scaffolding",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈskæfəldɪŋ/",
+    "phoneticUs": "/ˈskæfəldɪŋ/",
+    "meaningVi": "giàn giáo",
+    "definitionEn": "a temporary frame of poles and boards used by workers on buildings",
+    "example": "Pedestrians should not walk under the scaffolding.",
+    "exampleTranslation": "Người đi bộ không nên đi bên dưới giàn giáo.",
+    "levelId": 5,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1555,
+    "headword": "foundation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/faʊnˈdeɪʃn/",
+    "phoneticUs": "/faʊnˈdeɪʃn/",
+    "meaningVi": "móng (nhà)",
+    "definitionEn": "the solid base under the ground that supports a building",
+    "example": "Workers are pouring concrete for the foundation this week.",
+    "exampleTranslation": "Công nhân đang đổ bê tông móng trong tuần này.",
+    "levelId": 4,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1556,
+    "headword": "carpenter",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkɑːpəntə/",
+    "phoneticUs": "/ˈkɑːrpəntər/",
+    "meaningVi": "thợ mộc",
+    "definitionEn": "a person who makes and repairs wooden objects and structures",
+    "example": "We hired a carpenter to build shelves in the storage room.",
+    "exampleTranslation": "Chúng tôi thuê một thợ mộc đóng kệ trong phòng kho.",
+    "levelId": 3,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1557,
+    "headword": "electrician",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪˌlekˈtrɪʃn/",
+    "phoneticUs": "/ɪˌlekˈtrɪʃn/",
+    "meaningVi": "thợ điện",
+    "definitionEn": "a person whose job is to install and repair electrical equipment",
+    "example": "An electrician is coming to fix the lights in the lobby.",
+    "exampleTranslation": "Một thợ điện sẽ đến sửa đèn ở sảnh.",
+    "levelId": 3,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1558,
+    "headword": "crew",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kruː/",
+    "phoneticUs": "/kruː/",
+    "meaningVi": "đội, tổ (công nhân)",
+    "definitionEn": "a group of people who work together on a job",
+    "example": "A road crew is repairing the potholes on Main Street.",
+    "exampleTranslation": "Một đội công nhân đường bộ đang sửa các ổ gà trên phố Main.",
+    "levelId": 3,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1559,
+    "headword": "construction site",
+    "partOfSpeech": "phrase",
+    "meaningVi": "công trường xây dựng",
+    "definitionEn": "a place where a building is being built",
+    "example": "Hard hats must be worn at all times on the construction site.",
+    "exampleTranslation": "Phải đội mũ bảo hộ mọi lúc tại công trường xây dựng.",
+    "levelId": 3,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1560,
+    "headword": "ladder",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlædə/",
+    "phoneticUs": "/ˈlædər/",
+    "meaningVi": "cái thang",
+    "definitionEn": "a piece of equipment with steps used for climbing up and down",
+    "example": "A worker is standing on a ladder to paint the ceiling.",
+    "exampleTranslation": "Một công nhân đang đứng trên thang để sơn trần nhà.",
+    "levelId": 3,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1561,
+    "headword": "wiring",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈwaɪərɪŋ/",
+    "phoneticUs": "/ˈwaɪərɪŋ/",
+    "meaningVi": "hệ thống dây điện",
+    "definitionEn": "the system of electrical wires in a building or machine",
+    "example": "The old wiring must be replaced before the inspection.",
+    "exampleTranslation": "Hệ thống dây điện cũ phải được thay trước đợt kiểm tra.",
+    "levelId": 4,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1562,
+    "headword": "plumbing",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈplʌmɪŋ/",
+    "phoneticUs": "/ˈplʌmɪŋ/",
+    "meaningVi": "hệ thống ống nước",
+    "definitionEn": "the system of water pipes in a building",
+    "example": "The restaurant closed for a day because of plumbing problems.",
+    "exampleTranslation": "Nhà hàng đóng cửa một ngày vì sự cố đường ống nước.",
+    "levelId": 4,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1563,
+    "headword": "leak",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/liːk/",
+    "phoneticUs": "/liːk/",
+    "meaningVi": "chỗ rò rỉ, sự rò rỉ",
+    "definitionEn": "a hole or crack through which liquid or gas escapes",
+    "example": "Please report any leak in the ceiling to building maintenance.",
+    "exampleTranslation": "Vui lòng báo mọi chỗ rò rỉ trên trần cho bộ phận bảo trì tòa nhà.",
+    "levelId": 3,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1564,
+    "headword": "ventilation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌventɪˈleɪʃn/",
+    "phoneticUs": "/ˌventɪˈleɪʃn/",
+    "meaningVi": "sự thông gió, hệ thống thông gió",
+    "definitionEn": "the system that allows fresh air to move through a room or building",
+    "example": "Poor ventilation in the basement causes the walls to become damp.",
+    "exampleTranslation": "Hệ thống thông gió kém ở tầng hầm khiến tường bị ẩm.",
+    "levelId": 5,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1565,
+    "headword": "insulation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌɪnsjuˈleɪʃn/",
+    "phoneticUs": "/ˌɪnsəˈleɪʃn/",
+    "meaningVi": "vật liệu cách nhiệt, sự cách nhiệt",
+    "definitionEn": "material used to stop heat, cold or sound from passing through",
+    "example": "Better insulation will lower our heating costs in winter.",
+    "exampleTranslation": "Lớp cách nhiệt tốt hơn sẽ giảm chi phí sưởi ấm vào mùa đông.",
+    "levelId": 5,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1566,
+    "headword": "durable",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈdjʊərəbl/",
+    "phoneticUs": "/ˈdʊrəbl/",
+    "meaningVi": "bền, lâu hỏng",
+    "definitionEn": "able to last a long time without breaking",
+    "example": "The floors are made of durable materials that are easy to clean.",
+    "exampleTranslation": "Sàn nhà được làm từ vật liệu bền và dễ lau chùi.",
+    "levelId": 4,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1567,
+    "headword": "sturdy",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈstɜːdi/",
+    "phoneticUs": "/ˈstɜːrdi/",
+    "meaningVi": "chắc chắn, vững chãi",
+    "definitionEn": "strong and not easily damaged",
+    "example": "Make sure the ladder is sturdy before you climb it.",
+    "exampleTranslation": "Hãy chắc chắn chiếc thang vững chãi trước khi bạn trèo lên.",
+    "levelId": 4,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1568,
+    "headword": "structural",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈstrʌktʃərəl/",
+    "phoneticUs": "/ˈstrʌktʃərəl/",
+    "meaningVi": "(thuộc) kết cấu",
+    "definitionEn": "relating to the main parts that hold a building together",
+    "example": "Engineers found no structural damage after the earthquake.",
+    "exampleTranslation": "Các kỹ sư không phát hiện hư hại kết cấu nào sau trận động đất.",
+    "levelId": 5,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1569,
+    "headword": "building permit",
+    "partOfSpeech": "phrase",
+    "meaningVi": "giấy phép xây dựng",
+    "definitionEn": "an official document that allows someone to build or change a structure",
+    "example": "Work cannot start until the city issues a building permit.",
+    "exampleTranslation": "Không thể khởi công cho đến khi thành phố cấp giấy phép xây dựng.",
+    "levelId": 4,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1570,
+    "headword": "building code",
+    "partOfSpeech": "phrase",
+    "meaningVi": "quy chuẩn xây dựng",
+    "definitionEn": "official rules about how buildings must be designed and built",
+    "example": "The new stairs do not meet the local building code.",
+    "exampleTranslation": "Cầu thang mới không đáp ứng quy chuẩn xây dựng địa phương.",
+    "levelId": 5,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1571,
+    "headword": "demolish",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/dɪˈmɒlɪʃ/",
+    "phoneticUs": "/dɪˈmɑːlɪʃ/",
+    "meaningVi": "phá dỡ",
+    "definitionEn": "to completely destroy a building",
+    "example": "The old warehouse will be demolished to make room for apartments.",
+    "exampleTranslation": "Nhà kho cũ sẽ bị phá dỡ để lấy chỗ xây căn hộ.",
+    "levelId": 5,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1572,
+    "headword": "restore",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/rɪˈstɔː/",
+    "phoneticUs": "/rɪˈstɔːr/",
+    "meaningVi": "khôi phục, phục hồi",
+    "definitionEn": "to repair something old so that it looks or works as it did originally",
+    "example": "The historic theater was carefully restored over three years.",
+    "exampleTranslation": "Nhà hát lịch sử đã được phục hồi cẩn thận trong ba năm.",
+    "levelId": 4,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1573,
+    "headword": "refurbish",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˌriːˈfɜːbɪʃ/",
+    "phoneticUs": "/ˌriːˈfɜːrbɪʃ/",
+    "meaningVi": "tân trang, sửa sang lại",
+    "definitionEn": "to clean, repair and decorate a building or room to make it like new",
+    "example": "The hotel lobby is being refurbished and will reopen in May.",
+    "exampleTranslation": "Sảnh khách sạn đang được tân trang và sẽ mở cửa lại vào tháng Năm.",
+    "levelId": 5,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1574,
+    "headword": "renovation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌrenəˈveɪʃn/",
+    "phoneticUs": "/ˌrenəˈveɪʃn/",
+    "meaningVi": "sự cải tạo, sửa chữa",
+    "definitionEn": "the work of repairing and improving a building",
+    "example": "The cafeteria is closed for renovation until further notice.",
+    "exampleTranslation": "Căng tin đóng cửa để cải tạo cho đến khi có thông báo mới.",
+    "levelId": 4,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1575,
+    "headword": "inspect",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪnˈspekt/",
+    "phoneticUs": "/ɪnˈspekt/",
+    "meaningVi": "kiểm tra, thanh tra",
+    "definitionEn": "to look at something carefully to check its condition",
+    "example": "Fire alarms are inspected every six months.",
+    "exampleTranslation": "Hệ thống báo cháy được kiểm tra sáu tháng một lần.",
+    "levelId": 4,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1576,
+    "headword": "hazard",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhæzəd/",
+    "phoneticUs": "/ˈhæzərd/",
+    "meaningVi": "mối nguy hiểm",
+    "definitionEn": "something that could be dangerous or cause damage",
+    "example": "Loose cables on the floor are a safety hazard.",
+    "exampleTranslation": "Dây cáp lỏng lẻo trên sàn là mối nguy hiểm về an toàn.",
+    "levelId": 4,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1577,
+    "headword": "protective gear",
+    "partOfSpeech": "phrase",
+    "meaningVi": "đồ bảo hộ",
+    "definitionEn": "special clothing and equipment worn to prevent injury",
+    "example": "All visitors must wear protective gear in the work area.",
+    "exampleTranslation": "Tất cả khách tham quan phải mặc đồ bảo hộ trong khu vực làm việc.",
+    "levelId": 4,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1578,
+    "headword": "handyman",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhændimæn/",
+    "phoneticUs": "/ˈhændimæn/",
+    "meaningVi": "thợ sửa chữa vặt",
+    "definitionEn": "a person who is skilled at doing small repairs in a building",
+    "example": "The building manager called a handyman to fix the broken door handle.",
+    "exampleTranslation": "Quản lý tòa nhà đã gọi thợ sửa chữa vặt đến sửa tay nắm cửa bị hỏng.",
+    "levelId": 4,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1579,
+    "headword": "faulty",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈfɔːlti/",
+    "phoneticUs": "/ˈfɔːlti/",
+    "meaningVi": "bị lỗi, hỏng",
+    "definitionEn": "not working correctly or made badly",
+    "example": "A faulty switch caused the lights to flicker.",
+    "exampleTranslation": "Một công tắc bị lỗi khiến đèn nhấp nháy.",
+    "levelId": 4,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1580,
+    "headword": "overhaul",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈəʊvəhɔːl/",
+    "phoneticUs": "/ˈoʊvərhɔːl/",
+    "meaningVi": "sự đại tu, sửa chữa toàn bộ",
+    "definitionEn": "a thorough examination and repair of a machine or system",
+    "example": "The heating system needs a complete overhaul before winter.",
+    "exampleTranslation": "Hệ thống sưởi cần được đại tu toàn bộ trước mùa đông.",
+    "levelId": 5,
+    "topics": [
+      "construction-maintenance"
+    ]
+  },
+  {
+    "id": 1581,
+    "headword": "courier",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkʊriə/",
+    "phoneticUs": "/ˈkʊriər/",
+    "meaningVi": "người/dịch vụ chuyển phát",
+    "definitionEn": "a person or company that delivers documents and packages quickly",
+    "example": "The contract was sent to the client by courier this morning.",
+    "exampleTranslation": "Hợp đồng đã được gửi cho khách hàng qua dịch vụ chuyển phát sáng nay.",
+    "levelId": 4,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1582,
+    "headword": "tracking number",
+    "partOfSpeech": "phrase",
+    "meaningVi": "mã vận đơn, mã theo dõi",
+    "definitionEn": "a code that lets you follow the progress of a package online",
+    "example": "Enter your tracking number on our website to see where your parcel is.",
+    "exampleTranslation": "Nhập mã vận đơn trên trang web của chúng tôi để biết bưu kiện đang ở đâu.",
+    "levelId": 3,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1583,
+    "headword": "parcel",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpɑːsl/",
+    "phoneticUs": "/ˈpɑːrsl/",
+    "meaningVi": "bưu kiện, gói hàng",
+    "definitionEn": "something wrapped in paper or packed in a box to be sent by mail",
+    "example": "A parcel arrived for you while you were at lunch.",
+    "exampleTranslation": "Có một bưu kiện gửi đến cho bạn khi bạn đi ăn trưa.",
+    "levelId": 3,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1584,
+    "headword": "carrier",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkæriə/",
+    "phoneticUs": "/ˈkæriər/",
+    "meaningVi": "hãng vận chuyển",
+    "definitionEn": "a company that transports goods or people",
+    "example": "We switched to a different carrier to reduce delivery times.",
+    "exampleTranslation": "Chúng tôi đã chuyển sang hãng vận chuyển khác để rút ngắn thời gian giao hàng.",
+    "levelId": 4,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1585,
+    "headword": "shipping label",
+    "partOfSpeech": "phrase",
+    "meaningVi": "nhãn gửi hàng",
+    "definitionEn": "a sticker on a package showing the address and delivery details",
+    "example": "Print the shipping label and attach it to the top of the box.",
+    "exampleTranslation": "Hãy in nhãn gửi hàng và dán lên mặt trên của thùng.",
+    "levelId": 3,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1586,
+    "headword": "declare",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/dɪˈkleə/",
+    "phoneticUs": "/dɪˈkler/",
+    "meaningVi": "khai báo (hải quan)",
+    "definitionEn": "to officially state goods you are bringing into a country",
+    "example": "Travelers must declare any cash over $10,000.",
+    "exampleTranslation": "Hành khách phải khai báo số tiền mặt trên 10.000 đô la.",
+    "levelId": 4,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1587,
+    "headword": "declaration",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌdekləˈreɪʃn/",
+    "phoneticUs": "/ˌdekləˈreɪʃn/",
+    "meaningVi": "tờ khai",
+    "definitionEn": "an official written statement, such as a customs form",
+    "example": "An accurate customs declaration helps avoid delays at the border.",
+    "exampleTranslation": "Tờ khai hải quan chính xác giúp tránh chậm trễ tại cửa khẩu.",
+    "levelId": 4,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1588,
+    "headword": "duty",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈdjuːti/",
+    "phoneticUs": "/ˈduːti/",
+    "meaningVi": "thuế (nhập khẩu)",
+    "definitionEn": "a tax paid on goods brought into a country",
+    "example": "Import duty on electronics was reduced last year.",
+    "exampleTranslation": "Thuế nhập khẩu đối với hàng điện tử đã được giảm vào năm ngoái.",
+    "levelId": 4,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1589,
+    "headword": "tariff",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtærɪf/",
+    "phoneticUs": "/ˈtærɪf/",
+    "meaningVi": "thuế quan, biểu thuế",
+    "definitionEn": "a tax on goods coming into or going out of a country",
+    "example": "New tariffs have made imported steel more expensive.",
+    "exampleTranslation": "Các mức thuế quan mới khiến thép nhập khẩu đắt hơn.",
+    "levelId": 5,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1590,
+    "headword": "import",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪmˈpɔːt/",
+    "phoneticUs": "/ɪmˈpɔːrt/",
+    "meaningVi": "nhập khẩu",
+    "definitionEn": "to bring goods into a country from another country",
+    "example": "The company imports coffee beans from Brazil and Ethiopia.",
+    "exampleTranslation": "Công ty nhập khẩu hạt cà phê từ Brazil và Ethiopia.",
+    "levelId": 3,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1591,
+    "headword": "export",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪkˈspɔːt/",
+    "phoneticUs": "/ɪkˈspɔːrt/",
+    "meaningVi": "xuất khẩu",
+    "definitionEn": "to send goods to another country to be sold",
+    "example": "Vietnam exports large amounts of rice and seafood.",
+    "exampleTranslation": "Việt Nam xuất khẩu một lượng lớn gạo và hải sản.",
+    "levelId": 3,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1592,
+    "headword": "exporter",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ekˈspɔːtə/",
+    "phoneticUs": "/ekˈspɔːrtər/",
+    "meaningVi": "nhà xuất khẩu",
+    "definitionEn": "a person or company that sells goods to other countries",
+    "example": "The country is one of the world's largest exporters of coffee.",
+    "exampleTranslation": "Đất nước này là một trong những nhà xuất khẩu cà phê lớn nhất thế giới.",
+    "levelId": 4,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1593,
+    "headword": "clearance",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈklɪərəns/",
+    "phoneticUs": "/ˈklɪrəns/",
+    "meaningVi": "sự thông quan, giấy phép",
+    "definitionEn": "official permission for goods to leave or enter a place",
+    "example": "The shipment is waiting for customs clearance at the port.",
+    "exampleTranslation": "Lô hàng đang chờ thông quan tại cảng.",
+    "levelId": 5,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1594,
+    "headword": "bill of lading",
+    "partOfSpeech": "phrase",
+    "meaningVi": "vận đơn đường biển",
+    "definitionEn": "a document listing goods being shipped, given by the carrier to the sender",
+    "example": "Check that the bill of lading matches the items in the container.",
+    "exampleTranslation": "Hãy kiểm tra xem vận đơn có khớp với hàng trong container không.",
+    "levelId": 5,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1595,
+    "headword": "container",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kənˈteɪnə/",
+    "phoneticUs": "/kənˈteɪnər/",
+    "meaningVi": "công-te-nơ, thùng chứa",
+    "definitionEn": "a large metal box used for transporting goods by ship, train or truck",
+    "example": "Three containers of furniture will arrive at the port on Thursday.",
+    "exampleTranslation": "Ba công-te-nơ đồ nội thất sẽ cập cảng vào thứ Năm.",
+    "levelId": 3,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1596,
+    "headword": "port",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pɔːt/",
+    "phoneticUs": "/pɔːrt/",
+    "meaningVi": "cảng",
+    "definitionEn": "a town or area where ships load and unload goods",
+    "example": "The port handles more than two million containers a year.",
+    "exampleTranslation": "Cảng xử lý hơn hai triệu công-te-nơ mỗi năm.",
+    "levelId": 3,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1597,
+    "headword": "vessel",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈvesl/",
+    "phoneticUs": "/ˈvesl/",
+    "meaningVi": "tàu thủy (lớn)",
+    "definitionEn": "a large ship or boat",
+    "example": "The cargo vessel was delayed by bad weather at sea.",
+    "exampleTranslation": "Tàu chở hàng bị chậm do thời tiết xấu trên biển.",
+    "levelId": 5,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1598,
+    "headword": "dock",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dɒk/",
+    "phoneticUs": "/dɑːk/",
+    "meaningVi": "bến tàu; khu bốc dỡ hàng",
+    "definitionEn": "an area where ships are loaded and unloaded; a platform where trucks load",
+    "example": "Trucks are lined up at the loading dock behind the warehouse.",
+    "exampleTranslation": "Xe tải đang xếp hàng tại khu bốc dỡ phía sau nhà kho.",
+    "levelId": 4,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1599,
+    "headword": "load",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ləʊd/",
+    "phoneticUs": "/loʊd/",
+    "meaningVi": "chất hàng, xếp hàng lên",
+    "definitionEn": "to put goods onto a vehicle or ship",
+    "example": "Workers are loading boxes onto the truck.",
+    "exampleTranslation": "Công nhân đang chất các thùng hàng lên xe tải.",
+    "levelId": 3,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1600,
+    "headword": "unload",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ʌnˈləʊd/",
+    "phoneticUs": "/ʌnˈloʊd/",
+    "meaningVi": "dỡ hàng",
+    "definitionEn": "to remove goods from a vehicle or ship",
+    "example": "It took four hours to unload the ship.",
+    "exampleTranslation": "Mất bốn tiếng để dỡ hàng khỏi con tàu.",
+    "levelId": 3,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1601,
+    "headword": "fragile",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈfrædʒaɪl/",
+    "phoneticUs": "/ˈfrædʒl/",
+    "meaningVi": "dễ vỡ",
+    "definitionEn": "easily broken or damaged",
+    "example": "Please mark the box as fragile because it contains glassware.",
+    "exampleTranslation": "Vui lòng ghi chú thùng hàng là dễ vỡ vì bên trong có đồ thủy tinh.",
+    "levelId": 3,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1602,
+    "headword": "perishable",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈperɪʃəbl/",
+    "phoneticUs": "/ˈperɪʃəbl/",
+    "meaningVi": "dễ hỏng, mau hư (thực phẩm)",
+    "definitionEn": "likely to go bad quickly",
+    "example": "Perishable goods must be shipped in refrigerated trucks.",
+    "exampleTranslation": "Hàng dễ hỏng phải được vận chuyển bằng xe tải đông lạnh.",
+    "levelId": 5,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1603,
+    "headword": "in transit",
+    "partOfSpeech": "phrase",
+    "meaningVi": "đang trên đường vận chuyển",
+    "definitionEn": "in the process of being moved from one place to another",
+    "example": "Your order is currently in transit and should arrive tomorrow.",
+    "exampleTranslation": "Đơn hàng của bạn đang trên đường vận chuyển và dự kiến đến vào ngày mai.",
+    "levelId": 4,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1604,
+    "headword": "estimated time of arrival",
+    "partOfSpeech": "phrase",
+    "meaningVi": "thời gian dự kiến đến (ETA)",
+    "definitionEn": "the time when a vehicle or delivery is expected to arrive",
+    "example": "The estimated time of arrival for the shipment is 3 P.M.",
+    "exampleTranslation": "Thời gian dự kiến đến của lô hàng là 3 giờ chiều.",
+    "levelId": 4,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1605,
+    "headword": "postage",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpəʊstɪdʒ/",
+    "phoneticUs": "/ˈpoʊstɪdʒ/",
+    "meaningVi": "bưu phí",
+    "definitionEn": "the cost of sending a letter or package by mail",
+    "example": "Postage for international packages has gone up again.",
+    "exampleTranslation": "Bưu phí cho bưu kiện quốc tế lại tăng lên.",
+    "levelId": 4,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1606,
+    "headword": "expedited",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈekspədaɪtɪd/",
+    "phoneticUs": "/ˈekspədaɪtɪd/",
+    "meaningVi": "(được) chuyển nhanh, hỏa tốc",
+    "definitionEn": "processed or delivered faster than usual",
+    "example": "Expedited shipping is available for an additional fee.",
+    "exampleTranslation": "Dịch vụ giao hàng hỏa tốc có sẵn với một khoản phí bổ sung.",
+    "levelId": 5,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1607,
+    "headword": "overnight",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌəʊvəˈnaɪt/",
+    "phoneticUs": "/ˌoʊvərˈnaɪt/",
+    "meaningVi": "qua đêm, giao trong ngày hôm sau",
+    "definitionEn": "happening during the night or delivered by the next day",
+    "example": "We sent the samples by overnight delivery so they arrive before the meeting.",
+    "exampleTranslation": "Chúng tôi gửi mẫu bằng dịch vụ giao qua đêm để kịp trước cuộc họp.",
+    "levelId": 4,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1608,
+    "headword": "prohibited",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/prəˈhɪbɪtɪd/",
+    "phoneticUs": "/proʊˈhɪbɪtɪd/",
+    "meaningVi": "bị cấm",
+    "definitionEn": "not allowed by law or rules",
+    "example": "Batteries are prohibited items in checked baggage on some routes.",
+    "exampleTranslation": "Pin là vật phẩm bị cấm trong hành lý ký gửi trên một số tuyến bay.",
+    "levelId": 4,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1609,
+    "headword": "customs broker",
+    "partOfSpeech": "phrase",
+    "meaningVi": "đại lý hải quan",
+    "definitionEn": "a person or company paid to handle customs paperwork for importers",
+    "example": "We hired a customs broker to deal with the import documents.",
+    "exampleTranslation": "Chúng tôi đã thuê một đại lý hải quan để xử lý giấy tờ nhập khẩu.",
+    "levelId": 5,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1610,
+    "headword": "proof of delivery",
+    "partOfSpeech": "phrase",
+    "meaningVi": "bằng chứng giao hàng",
+    "definitionEn": "a document or signature confirming that goods were received",
+    "example": "The driver asked the receptionist to sign as proof of delivery.",
+    "exampleTranslation": "Tài xế yêu cầu lễ tân ký nhận làm bằng chứng giao hàng.",
+    "levelId": 5,
+    "topics": [
+      "shipping-customs"
+    ]
+  },
+  {
+    "id": 1611,
+    "headword": "renewable",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/rɪˈnjuːəbl/",
+    "phoneticUs": "/rɪˈnuːəbl/",
+    "meaningVi": "có thể tái tạo",
+    "definitionEn": "able to be replaced naturally, such as energy from the sun or wind",
+    "example": "The factory gets half of its power from renewable sources.",
+    "exampleTranslation": "Nhà máy lấy một nửa lượng điện từ các nguồn tái tạo.",
+    "levelId": 4,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1612,
+    "headword": "solar",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈsəʊlə/",
+    "phoneticUs": "/ˈsoʊlər/",
+    "meaningVi": "(thuộc) mặt trời",
+    "definitionEn": "relating to or using energy from the sun",
+    "example": "Solar panels were installed on the roof of the warehouse.",
+    "exampleTranslation": "Các tấm pin mặt trời đã được lắp đặt trên mái nhà kho.",
+    "levelId": 3,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1613,
+    "headword": "turbine",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtɜːbaɪn/",
+    "phoneticUs": "/ˈtɜːrbaɪn/",
+    "meaningVi": "tua-bin",
+    "definitionEn": "a machine with blades that turn to produce power",
+    "example": "Each wind turbine can supply electricity to about 1,000 homes.",
+    "exampleTranslation": "Mỗi tua-bin gió có thể cung cấp điện cho khoảng 1.000 hộ gia đình.",
+    "levelId": 5,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1614,
+    "headword": "emission",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/iˈmɪʃn/",
+    "phoneticUs": "/iˈmɪʃn/",
+    "meaningVi": "khí thải, sự phát thải",
+    "definitionEn": "gas or other substances sent into the air",
+    "example": "The city aims to cut carbon emissions by 30 percent.",
+    "exampleTranslation": "Thành phố đặt mục tiêu cắt giảm 30 phần trăm lượng khí thải các-bon.",
+    "levelId": 5,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1615,
+    "headword": "carbon footprint",
+    "partOfSpeech": "phrase",
+    "meaningVi": "dấu chân các-bon",
+    "definitionEn": "the amount of carbon dioxide produced by a person or organization's activities",
+    "example": "Video meetings help reduce our carbon footprint from business travel.",
+    "exampleTranslation": "Họp trực tuyến giúp giảm dấu chân các-bon từ việc đi công tác.",
+    "levelId": 5,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1616,
+    "headword": "recycle",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˌriːˈsaɪkl/",
+    "phoneticUs": "/ˌriːˈsaɪkl/",
+    "meaningVi": "tái chế",
+    "definitionEn": "to treat used materials so they can be used again",
+    "example": "Please recycle paper and plastic bottles in the bins provided.",
+    "exampleTranslation": "Vui lòng tái chế giấy và chai nhựa vào các thùng được bố trí sẵn.",
+    "levelId": 3,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1617,
+    "headword": "recycling",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌriːˈsaɪklɪŋ/",
+    "phoneticUs": "/ˌriːˈsaɪklɪŋ/",
+    "meaningVi": "việc tái chế",
+    "definitionEn": "the process of treating used materials so they can be used again",
+    "example": "The office recycling program has reduced our waste by half.",
+    "exampleTranslation": "Chương trình tái chế của văn phòng đã giảm một nửa lượng rác thải.",
+    "levelId": 3,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1618,
+    "headword": "conserve",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kənˈsɜːv/",
+    "phoneticUs": "/kənˈsɜːrv/",
+    "meaningVi": "tiết kiệm, bảo tồn",
+    "definitionEn": "to use something carefully so that it lasts longer",
+    "example": "Employees are asked to conserve energy by turning off unused lights.",
+    "exampleTranslation": "Nhân viên được yêu cầu tiết kiệm năng lượng bằng cách tắt đèn khi không dùng.",
+    "levelId": 4,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1619,
+    "headword": "conservation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌkɒnsəˈveɪʃn/",
+    "phoneticUs": "/ˌkɑːnsərˈveɪʃn/",
+    "meaningVi": "sự bảo tồn, tiết kiệm (tài nguyên)",
+    "definitionEn": "the protection of nature or careful use of resources",
+    "example": "The hotel has introduced a water conservation plan.",
+    "exampleTranslation": "Khách sạn đã áp dụng kế hoạch tiết kiệm nước.",
+    "levelId": 4,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1620,
+    "headword": "energy-efficient",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈenədʒi ɪˌfɪʃnt/",
+    "phoneticUs": "/ˈenərdʒi ɪˌfɪʃnt/",
+    "meaningVi": "tiết kiệm năng lượng",
+    "definitionEn": "using little energy to work well",
+    "example": "Replacing old bulbs with energy-efficient ones lowered our electricity bill.",
+    "exampleTranslation": "Thay bóng đèn cũ bằng bóng tiết kiệm năng lượng đã giảm hóa đơn tiền điện.",
+    "levelId": 4,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1621,
+    "headword": "consumption",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kənˈsʌmpʃn/",
+    "phoneticUs": "/kənˈsʌmpʃn/",
+    "meaningVi": "sự tiêu thụ, mức tiêu thụ",
+    "definitionEn": "the amount of energy, food or materials used",
+    "example": "Fuel consumption fell after we upgraded our delivery vehicles.",
+    "exampleTranslation": "Mức tiêu thụ nhiên liệu đã giảm sau khi chúng tôi nâng cấp xe giao hàng.",
+    "levelId": 4,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1622,
+    "headword": "consume",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kənˈsjuːm/",
+    "phoneticUs": "/kənˈsuːm/",
+    "meaningVi": "tiêu thụ",
+    "definitionEn": "to use energy, fuel or time",
+    "example": "Older air conditioners consume far more electricity than new models.",
+    "exampleTranslation": "Máy điều hòa đời cũ tiêu thụ nhiều điện hơn hẳn các mẫu mới.",
+    "levelId": 4,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1623,
+    "headword": "sustainable",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/səˈsteɪnəbl/",
+    "phoneticUs": "/səˈsteɪnəbl/",
+    "meaningVi": "bền vững",
+    "definitionEn": "able to continue without harming the environment",
+    "example": "The company uses only sustainable wood in its furniture.",
+    "exampleTranslation": "Công ty chỉ sử dụng gỗ có nguồn gốc bền vững cho đồ nội thất.",
+    "levelId": 4,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1624,
+    "headword": "sustainability",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/səˌsteɪnəˈbɪləti/",
+    "phoneticUs": "/səˌsteɪnəˈbɪləti/",
+    "meaningVi": "tính bền vững",
+    "definitionEn": "the ability to continue without damaging the environment",
+    "example": "Sustainability is now a central part of our business strategy.",
+    "exampleTranslation": "Tính bền vững hiện là một phần trọng tâm trong chiến lược kinh doanh của chúng tôi.",
+    "levelId": 5,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1625,
+    "headword": "eco-friendly",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌiːkəʊ ˈfrendli/",
+    "phoneticUs": "/ˌiːkoʊ ˈfrendli/",
+    "meaningVi": "thân thiện với môi trường",
+    "definitionEn": "not harmful to the environment",
+    "example": "Customers increasingly prefer eco-friendly packaging.",
+    "exampleTranslation": "Khách hàng ngày càng ưa chuộng bao bì thân thiện với môi trường.",
+    "levelId": 3,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1626,
+    "headword": "waste",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/weɪst/",
+    "phoneticUs": "/weɪst/",
+    "meaningVi": "rác thải, chất thải; sự lãng phí",
+    "definitionEn": "materials that are no longer wanted; using something badly",
+    "example": "The factory has reduced its waste by reusing packaging materials.",
+    "exampleTranslation": "Nhà máy đã giảm lượng chất thải bằng cách tái sử dụng vật liệu đóng gói.",
+    "levelId": 3,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1627,
+    "headword": "landfill",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlændfɪl/",
+    "phoneticUs": "/ˈlændfɪl/",
+    "meaningVi": "bãi chôn lấp rác",
+    "definitionEn": "a place where waste is buried under the ground",
+    "example": "Most of the old electronics end up in a landfill.",
+    "exampleTranslation": "Phần lớn đồ điện tử cũ cuối cùng bị đưa ra bãi chôn lấp.",
+    "levelId": 5,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1628,
+    "headword": "disposal",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dɪˈspəʊzl/",
+    "phoneticUs": "/dɪˈspoʊzl/",
+    "meaningVi": "sự xử lý, vứt bỏ (rác thải)",
+    "definitionEn": "the act of getting rid of something",
+    "example": "The safe disposal of chemicals is strictly regulated.",
+    "exampleTranslation": "Việc xử lý hóa chất an toàn được quy định nghiêm ngặt.",
+    "levelId": 5,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1629,
+    "headword": "dispose of",
+    "partOfSpeech": "phrase",
+    "meaningVi": "vứt bỏ, xử lý",
+    "definitionEn": "to get rid of something, especially in a careful way",
+    "example": "Please dispose of used batteries in the special container.",
+    "exampleTranslation": "Vui lòng bỏ pin đã qua sử dụng vào thùng chứa riêng.",
+    "levelId": 4,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1630,
+    "headword": "fuel",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfjuːəl/",
+    "phoneticUs": "/ˈfjuːəl/",
+    "meaningVi": "nhiên liệu",
+    "definitionEn": "a substance such as gas or coal that is burned to produce energy",
+    "example": "Rising fuel prices have increased our shipping costs.",
+    "exampleTranslation": "Giá nhiên liệu tăng đã làm tăng chi phí vận chuyển của chúng tôi.",
+    "levelId": 3,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1631,
+    "headword": "power grid",
+    "partOfSpeech": "phrase",
+    "meaningVi": "lưới điện",
+    "definitionEn": "the network that carries electricity from power stations to users",
+    "example": "Extra solar power is sold back to the power grid.",
+    "exampleTranslation": "Lượng điện mặt trời dư được bán lại cho lưới điện.",
+    "levelId": 5,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1632,
+    "headword": "contaminate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kənˈtæmɪneɪt/",
+    "phoneticUs": "/kənˈtæmɪneɪt/",
+    "meaningVi": "làm ô nhiễm, làm nhiễm bẩn",
+    "definitionEn": "to make something dirty or harmful by adding a dangerous substance",
+    "example": "Chemicals from the factory contaminated the nearby river.",
+    "exampleTranslation": "Hóa chất từ nhà máy đã làm ô nhiễm con sông gần đó.",
+    "levelId": 5,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1633,
+    "headword": "hazardous",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈhæzədəs/",
+    "phoneticUs": "/ˈhæzərdəs/",
+    "meaningVi": "độc hại, nguy hiểm",
+    "definitionEn": "dangerous, especially to health or the environment",
+    "example": "Hazardous materials must be stored in locked cabinets.",
+    "exampleTranslation": "Vật liệu độc hại phải được cất trong tủ có khóa.",
+    "levelId": 5,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1634,
+    "headword": "habitat",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhæbɪtæt/",
+    "phoneticUs": "/ˈhæbɪtæt/",
+    "meaningVi": "môi trường sống (của động thực vật)",
+    "definitionEn": "the natural home of an animal or plant",
+    "example": "The new road may destroy the habitat of rare birds.",
+    "exampleTranslation": "Con đường mới có thể phá hủy môi trường sống của các loài chim quý hiếm.",
+    "levelId": 4,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1635,
+    "headword": "climate",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈklaɪmət/",
+    "phoneticUs": "/ˈklaɪmət/",
+    "meaningVi": "khí hậu",
+    "definitionEn": "the usual weather conditions of an area over a long time",
+    "example": "Climate change is affecting crop production around the world.",
+    "exampleTranslation": "Biến đổi khí hậu đang ảnh hưởng đến sản lượng cây trồng trên toàn thế giới.",
+    "levelId": 3,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1636,
+    "headword": "preserve",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/prɪˈzɜːv/",
+    "phoneticUs": "/prɪˈzɜːrv/",
+    "meaningVi": "bảo tồn, giữ gìn",
+    "definitionEn": "to keep something in its original state or protect it from harm",
+    "example": "The park was created to preserve the local forest.",
+    "exampleTranslation": "Công viên được lập ra để bảo tồn khu rừng địa phương.",
+    "levelId": 4,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1637,
+    "headword": "greenhouse gas",
+    "partOfSpeech": "phrase",
+    "meaningVi": "khí nhà kính",
+    "definitionEn": "a gas, such as carbon dioxide, that traps heat in the atmosphere",
+    "example": "Cars and factories release large amounts of greenhouse gases.",
+    "exampleTranslation": "Ô tô và nhà máy thải ra lượng lớn khí nhà kính.",
+    "levelId": 5,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1638,
+    "headword": "biodegradable",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌbaɪəʊdɪˈɡreɪdəbl/",
+    "phoneticUs": "/ˌbaɪoʊdɪˈɡreɪdəbl/",
+    "meaningVi": "có thể phân hủy sinh học",
+    "definitionEn": "able to break down naturally without harming the environment",
+    "example": "The café now uses biodegradable cups and straws.",
+    "exampleTranslation": "Quán cà phê hiện dùng cốc và ống hút có thể phân hủy sinh học.",
+    "levelId": 5,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1639,
+    "headword": "reusable",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌriːˈjuːzəbl/",
+    "phoneticUs": "/ˌriːˈjuːzəbl/",
+    "meaningVi": "có thể tái sử dụng",
+    "definitionEn": "able to be used again",
+    "example": "Staff were given reusable water bottles to reduce plastic waste.",
+    "exampleTranslation": "Nhân viên được phát bình nước tái sử dụng để giảm rác thải nhựa.",
+    "levelId": 3,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1640,
+    "headword": "environmentally friendly",
+    "partOfSpeech": "phrase",
+    "meaningVi": "thân thiện với môi trường",
+    "definitionEn": "not harmful to the natural world",
+    "example": "The new building was designed to be environmentally friendly.",
+    "exampleTranslation": "Tòa nhà mới được thiết kế thân thiện với môi trường.",
+    "levelId": 4,
+    "topics": [
+      "energy-environment"
+    ]
+  },
+  {
+    "id": 1641,
+    "headword": "convention",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kənˈvenʃn/",
+    "phoneticUs": "/kənˈvenʃn/",
+    "meaningVi": "hội nghị lớn, đại hội",
+    "definitionEn": "a large formal meeting of people from the same profession or organization",
+    "example": "The annual sales convention will be held in Da Nang this year.",
+    "exampleTranslation": "Hội nghị bán hàng thường niên năm nay sẽ được tổ chức tại Đà Nẵng.",
+    "levelId": 4,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1642,
+    "headword": "organizer",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɔːɡənaɪzə/",
+    "phoneticUs": "/ˈɔːrɡənaɪzər/",
+    "meaningVi": "người/ban tổ chức",
+    "definitionEn": "a person who arranges an event",
+    "example": "The organizers expect more than 2,000 visitors on opening day.",
+    "exampleTranslation": "Ban tổ chức dự kiến có hơn 2.000 khách tham quan trong ngày khai mạc.",
+    "levelId": 3,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1643,
+    "headword": "coordinate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kəʊˈɔːdɪneɪt/",
+    "phoneticUs": "/koʊˈɔːrdɪneɪt/",
+    "meaningVi": "điều phối, phối hợp",
+    "definitionEn": "to organize the different parts of an activity so they work well together",
+    "example": "Ms. Tran will coordinate the travel arrangements for all speakers.",
+    "exampleTranslation": "Bà Trần sẽ điều phối việc sắp xếp đi lại cho tất cả các diễn giả.",
+    "levelId": 4,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1644,
+    "headword": "coordinator",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kəʊˈɔːdɪneɪtə/",
+    "phoneticUs": "/koʊˈɔːrdɪneɪtər/",
+    "meaningVi": "điều phối viên",
+    "definitionEn": "a person who organizes the different parts of an activity",
+    "example": "Please contact the event coordinator if you need a parking pass.",
+    "exampleTranslation": "Vui lòng liên hệ điều phối viên sự kiện nếu bạn cần thẻ đỗ xe.",
+    "levelId": 4,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1645,
+    "headword": "host",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/həʊst/",
+    "phoneticUs": "/hoʊst/",
+    "meaningVi": "đăng cai, tổ chức",
+    "definitionEn": "to organize an event and act as the person or place receiving guests",
+    "example": "Our company will host a dinner for visiting clients.",
+    "exampleTranslation": "Công ty chúng tôi sẽ tổ chức bữa tối đón tiếp các khách hàng đến thăm.",
+    "levelId": 3,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1646,
+    "headword": "panel",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpænl/",
+    "phoneticUs": "/ˈpænl/",
+    "meaningVi": "nhóm chuyên gia thảo luận, hội đồng",
+    "definitionEn": "a group of people who discuss a topic or make decisions in public",
+    "example": "A panel of experts will discuss the future of online retail.",
+    "exampleTranslation": "Một nhóm chuyên gia sẽ thảo luận về tương lai của bán lẻ trực tuyến.",
+    "levelId": 4,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1647,
+    "headword": "panelist",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈpænəlɪst/",
+    "phoneticUs": "/ˈpænəlɪst/",
+    "meaningVi": "thành viên tham gia thảo luận",
+    "definitionEn": "a person who is a member of a discussion panel",
+    "example": "Each panelist will speak for five minutes before taking questions.",
+    "exampleTranslation": "Mỗi thành viên thảo luận sẽ phát biểu năm phút trước khi trả lời câu hỏi.",
+    "levelId": 5,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1648,
+    "headword": "exhibitor",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪɡˈzɪbɪtə/",
+    "phoneticUs": "/ɪɡˈzɪbɪtər/",
+    "meaningVi": "đơn vị trưng bày, nhà triển lãm",
+    "definitionEn": "a person or company that shows products at an exhibition",
+    "example": "Exhibitors may begin setting up their stands at 7 A.M.",
+    "exampleTranslation": "Các đơn vị trưng bày có thể bắt đầu dựng gian hàng lúc 7 giờ sáng.",
+    "levelId": 5,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1649,
+    "headword": "booth",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/buːð/",
+    "phoneticUs": "/buːθ/",
+    "meaningVi": "gian hàng, quầy",
+    "definitionEn": "a small area at a fair where a company displays its products",
+    "example": "Visit our booth to try a free sample of our new drink.",
+    "exampleTranslation": "Hãy ghé gian hàng của chúng tôi để dùng thử miễn phí đồ uống mới.",
+    "levelId": 4,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1650,
+    "headword": "trade show",
+    "partOfSpeech": "phrase",
+    "meaningVi": "hội chợ thương mại",
+    "definitionEn": "a large event where companies display and promote their products",
+    "example": "We met several potential distributors at the trade show.",
+    "exampleTranslation": "Chúng tôi đã gặp một số nhà phân phối tiềm năng tại hội chợ thương mại.",
+    "levelId": 4,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1651,
+    "headword": "admission",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ədˈmɪʃn/",
+    "phoneticUs": "/ədˈmɪʃn/",
+    "meaningVi": "sự vào cửa; phí vào cửa",
+    "definitionEn": "permission to enter a place, or the cost of entering",
+    "example": "Admission to the exhibition is free for registered members.",
+    "exampleTranslation": "Hội viên đã đăng ký được vào cửa triển lãm miễn phí.",
+    "levelId": 4,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1652,
+    "headword": "badge",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/bædʒ/",
+    "phoneticUs": "/bædʒ/",
+    "meaningVi": "thẻ đeo, phù hiệu",
+    "definitionEn": "a small card or sign showing a person's name or role",
+    "example": "Attendees must wear their badges at all times inside the hall.",
+    "exampleTranslation": "Người tham dự phải đeo thẻ mọi lúc khi ở trong hội trường.",
+    "levelId": 3,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1653,
+    "headword": "session",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈseʃn/",
+    "phoneticUs": "/ˈseʃn/",
+    "meaningVi": "phiên (họp, hội thảo)",
+    "definitionEn": "a period of time used for a particular activity",
+    "example": "The afternoon session will focus on digital marketing.",
+    "exampleTranslation": "Phiên buổi chiều sẽ tập trung vào marketing kỹ thuật số.",
+    "levelId": 3,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1654,
+    "headword": "breakout session",
+    "partOfSpeech": "phrase",
+    "meaningVi": "phiên thảo luận nhóm nhỏ",
+    "definitionEn": "a smaller group meeting held during a larger conference",
+    "example": "Participants can choose from four breakout sessions after lunch.",
+    "exampleTranslation": "Người tham gia có thể chọn một trong bốn phiên thảo luận nhóm sau bữa trưa.",
+    "levelId": 5,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1655,
+    "headword": "reception",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/rɪˈsepʃn/",
+    "phoneticUs": "/rɪˈsepʃn/",
+    "meaningVi": "tiệc chiêu đãi",
+    "definitionEn": "a formal party to welcome someone or celebrate something",
+    "example": "A welcome reception will be held in the hotel garden at 6 P.M.",
+    "exampleTranslation": "Tiệc chiêu đãi chào mừng sẽ được tổ chức tại vườn khách sạn lúc 6 giờ chiều.",
+    "levelId": 4,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1656,
+    "headword": "gala",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɡɑːlə/",
+    "phoneticUs": "/ˈɡeɪlə/",
+    "meaningVi": "buổi dạ tiệc, đêm gala",
+    "definitionEn": "a special public celebration or performance, often formal",
+    "example": "The charity gala raised over $50,000 for local schools.",
+    "exampleTranslation": "Đêm gala từ thiện đã quyên góp hơn 50.000 đô la cho các trường học địa phương.",
+    "levelId": 5,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1657,
+    "headword": "luncheon",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlʌntʃən/",
+    "phoneticUs": "/ˈlʌntʃən/",
+    "meaningVi": "bữa tiệc trưa (trang trọng)",
+    "definitionEn": "a formal lunch, often for a special occasion",
+    "example": "The retirement luncheon for Mr. Kim is scheduled for Friday.",
+    "exampleTranslation": "Bữa tiệc trưa chia tay nghỉ hưu của ông Kim được lên lịch vào thứ Sáu.",
+    "levelId": 5,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1658,
+    "headword": "RSVP",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˌɑːr es viː ˈpiː/",
+    "phoneticUs": "/ˌɑːr es viː ˈpiː/",
+    "meaningVi": "hồi đáp lời mời (có tham dự hay không)",
+    "definitionEn": "to reply to an invitation saying whether you will attend",
+    "example": "Please RSVP by June 10 so we can confirm the number of guests.",
+    "exampleTranslation": "Vui lòng hồi đáp trước ngày 10 tháng 6 để chúng tôi xác nhận số lượng khách.",
+    "levelId": 4,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1659,
+    "headword": "invitation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌɪnvɪˈteɪʃn/",
+    "phoneticUs": "/ˌɪnvɪˈteɪʃn/",
+    "meaningVi": "lời mời, thiệp mời",
+    "definitionEn": "a written or spoken request asking someone to come to an event",
+    "example": "We sent invitations to all our major clients last week.",
+    "exampleTranslation": "Tuần trước chúng tôi đã gửi thiệp mời đến tất cả khách hàng lớn.",
+    "levelId": 3,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1660,
+    "headword": "attendance",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/əˈtendəns/",
+    "phoneticUs": "/əˈtendəns/",
+    "meaningVi": "sự tham dự; số người tham dự",
+    "definitionEn": "the act of being present at an event, or the number of people present",
+    "example": "Attendance at this year's forum was higher than expected.",
+    "exampleTranslation": "Số người tham dự diễn đàn năm nay cao hơn dự kiến.",
+    "levelId": 4,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1661,
+    "headword": "turnout",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtɜːnaʊt/",
+    "phoneticUs": "/ˈtɜːrnaʊt/",
+    "meaningVi": "số người đến dự",
+    "definitionEn": "the number of people who come to an event",
+    "example": "Despite the rain, there was a good turnout for the opening ceremony.",
+    "exampleTranslation": "Dù trời mưa, lễ khai mạc vẫn có đông người đến dự.",
+    "levelId": 5,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1662,
+    "headword": "address",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/əˈdres/",
+    "phoneticUs": "/əˈdres/",
+    "meaningVi": "phát biểu trước (đám đông)",
+    "definitionEn": "to give a formal speech to a group of people",
+    "example": "The minister will address the conference on Tuesday morning.",
+    "exampleTranslation": "Bộ trưởng sẽ phát biểu tại hội nghị vào sáng thứ Ba.",
+    "levelId": 5,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1663,
+    "headword": "remarks",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/rɪˈmɑːks/",
+    "phoneticUs": "/rɪˈmɑːrks/",
+    "meaningVi": "bài phát biểu ngắn, lời phát biểu",
+    "definitionEn": "things that someone says, especially a short speech",
+    "example": "The director will begin with a few opening remarks.",
+    "exampleTranslation": "Giám đốc sẽ bắt đầu bằng vài lời phát biểu khai mạc.",
+    "levelId": 4,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1664,
+    "headword": "award ceremony",
+    "partOfSpeech": "phrase",
+    "meaningVi": "lễ trao giải",
+    "definitionEn": "a formal event at which prizes are given",
+    "example": "The award ceremony honored employees with outstanding service.",
+    "exampleTranslation": "Lễ trao giải vinh danh những nhân viên có thành tích phục vụ xuất sắc.",
+    "levelId": 4,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1665,
+    "headword": "networking",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈnetwɜːkɪŋ/",
+    "phoneticUs": "/ˈnetwɜːrkɪŋ/",
+    "meaningVi": "việc kết nối, giao lưu mở rộng quan hệ",
+    "definitionEn": "meeting people who might be useful to you in your work",
+    "example": "The evening reception is a great opportunity for networking.",
+    "exampleTranslation": "Buổi tiệc tối là cơ hội tuyệt vời để giao lưu kết nối.",
+    "levelId": 4,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1666,
+    "headword": "keynote speaker",
+    "partOfSpeech": "phrase",
+    "meaningVi": "diễn giả chính",
+    "definitionEn": "the main speaker at a conference, who gives the most important talk",
+    "example": "This year's keynote speaker is a well-known economist from Singapore.",
+    "exampleTranslation": "Diễn giả chính năm nay là một nhà kinh tế nổi tiếng đến từ Singapore.",
+    "levelId": 4,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1667,
+    "headword": "seating chart",
+    "partOfSpeech": "phrase",
+    "meaningVi": "sơ đồ chỗ ngồi",
+    "definitionEn": "a plan showing where each guest will sit at an event",
+    "example": "Please check the seating chart at the entrance to find your table.",
+    "exampleTranslation": "Vui lòng xem sơ đồ chỗ ngồi ở lối vào để tìm bàn của bạn.",
+    "levelId": 4,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1668,
+    "headword": "on-site",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌɒn ˈsaɪt/",
+    "phoneticUs": "/ˌɑːn ˈsaɪt/",
+    "meaningVi": "tại chỗ, tại địa điểm",
+    "definitionEn": "available or happening at the place of an event or work",
+    "example": "On-site registration opens at 8 A.M. in the main lobby.",
+    "exampleTranslation": "Đăng ký tại chỗ bắt đầu lúc 8 giờ sáng ở sảnh chính.",
+    "levelId": 4,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1669,
+    "headword": "moderator",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmɒdəreɪtə/",
+    "phoneticUs": "/ˈmɑːdəreɪtər/",
+    "meaningVi": "người điều phối (thảo luận)",
+    "definitionEn": "a person who guides a discussion and makes sure it runs smoothly",
+    "example": "The moderator asked each speaker to keep their answers brief.",
+    "exampleTranslation": "Người điều phối đề nghị mỗi diễn giả trả lời ngắn gọn.",
+    "levelId": 5,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1670,
+    "headword": "save the date",
+    "partOfSpeech": "phrase",
+    "meaningVi": "hãy dành thời gian (thông báo sớm ngày sự kiện)",
+    "definitionEn": "a notice asking people to keep a date free for a future event",
+    "example": "We sent a save the date email for the company anniversary dinner.",
+    "exampleTranslation": "Chúng tôi đã gửi email nhắc dành thời gian cho bữa tối kỷ niệm thành lập công ty.",
+    "levelId": 4,
+    "topics": [
+      "events-conferences"
+    ]
+  },
+  {
+    "id": 1671,
+    "headword": "firewall",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfaɪəwɔːl/",
+    "phoneticUs": "/ˈfaɪərwɔːl/",
+    "meaningVi": "tường lửa",
+    "definitionEn": "a system that protects a computer network from unauthorized access",
+    "example": "The IT team updated the firewall to block suspicious traffic.",
+    "exampleTranslation": "Đội IT đã cập nhật tường lửa để chặn lưu lượng đáng ngờ.",
+    "levelId": 5,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1672,
+    "headword": "malware",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈmælweə/",
+    "phoneticUs": "/ˈmælwer/",
+    "meaningVi": "phần mềm độc hại",
+    "definitionEn": "software designed to damage computers or steal information",
+    "example": "Do not open attachments from unknown senders, as they may contain malware.",
+    "exampleTranslation": "Đừng mở tệp đính kèm từ người gửi lạ vì có thể chứa phần mềm độc hại.",
+    "levelId": 5,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1673,
+    "headword": "authentication",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɔːˌθentɪˈkeɪʃn/",
+    "phoneticUs": "/ɔːˌθentɪˈkeɪʃn/",
+    "meaningVi": "sự xác thực",
+    "definitionEn": "the process of proving that a user is who they claim to be",
+    "example": "Two-step authentication is now required for all company accounts.",
+    "exampleTranslation": "Xác thực hai bước hiện là bắt buộc đối với mọi tài khoản công ty.",
+    "levelId": 5,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1674,
+    "headword": "authenticate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɔːˈθentɪkeɪt/",
+    "phoneticUs": "/ɔːˈθentɪkeɪt/",
+    "meaningVi": "xác thực",
+    "definitionEn": "to prove that someone or something is genuine",
+    "example": "Users must authenticate with a code sent to their phone.",
+    "exampleTranslation": "Người dùng phải xác thực bằng mã được gửi đến điện thoại.",
+    "levelId": 5,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1675,
+    "headword": "credentials",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/krəˈdenʃlz/",
+    "phoneticUs": "/krəˈdenʃlz/",
+    "meaningVi": "thông tin đăng nhập; giấy tờ chứng nhận",
+    "definitionEn": "a username and password, or documents proving identity or qualifications",
+    "example": "Never share your login credentials with anyone, even coworkers.",
+    "exampleTranslation": "Không bao giờ chia sẻ thông tin đăng nhập với bất kỳ ai, kể cả đồng nghiệp.",
+    "levelId": 5,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1676,
+    "headword": "backup",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbækʌp/",
+    "phoneticUs": "/ˈbækʌp/",
+    "meaningVi": "bản sao lưu",
+    "definitionEn": "a copy of computer files kept in case the original is lost",
+    "example": "The server makes an automatic backup of all files every night.",
+    "exampleTranslation": "Máy chủ tự động tạo bản sao lưu tất cả các tệp mỗi đêm.",
+    "levelId": 4,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1677,
+    "headword": "server",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈsɜːvə/",
+    "phoneticUs": "/ˈsɜːrvər/",
+    "meaningVi": "máy chủ",
+    "definitionEn": "a computer that stores data and provides services to other computers",
+    "example": "The website was down for an hour because of a server problem.",
+    "exampleTranslation": "Trang web bị gián đoạn một giờ do sự cố máy chủ.",
+    "levelId": 3,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1678,
+    "headword": "bandwidth",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbændwɪdθ/",
+    "phoneticUs": "/ˈbændwɪdθ/",
+    "meaningVi": "băng thông",
+    "definitionEn": "the amount of data that can be sent through a network at one time",
+    "example": "Video calls use a lot of bandwidth, so the connection may slow down.",
+    "exampleTranslation": "Cuộc gọi video tốn nhiều băng thông nên kết nối có thể chậm lại.",
+    "levelId": 5,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1679,
+    "headword": "storage",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈstɔːrɪdʒ/",
+    "phoneticUs": "/ˈstɔːrɪdʒ/",
+    "meaningVi": "dung lượng lưu trữ; sự lưu trữ",
+    "definitionEn": "space for keeping data or objects",
+    "example": "Each employee has 50 gigabytes of online storage.",
+    "exampleTranslation": "Mỗi nhân viên có 50 gigabyte dung lượng lưu trữ trực tuyến.",
+    "levelId": 3,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1680,
+    "headword": "cloud computing",
+    "partOfSpeech": "phrase",
+    "meaningVi": "điện toán đám mây",
+    "definitionEn": "the use of remote servers on the internet to store and process data",
+    "example": "Cloud computing allows staff to access files from anywhere.",
+    "exampleTranslation": "Điện toán đám mây cho phép nhân viên truy cập tệp từ bất cứ đâu.",
+    "levelId": 4,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1681,
+    "headword": "phishing",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈfɪʃɪŋ/",
+    "phoneticUs": "/ˈfɪʃɪŋ/",
+    "meaningVi": "lừa đảo qua mạng (giả mạo email)",
+    "definitionEn": "sending fake emails to trick people into giving away private information",
+    "example": "Report any suspected phishing emails to the help desk immediately.",
+    "exampleTranslation": "Hãy báo ngay cho bộ phận hỗ trợ bất kỳ email nghi lừa đảo nào.",
+    "levelId": 5,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1682,
+    "headword": "spam",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/spæm/",
+    "phoneticUs": "/spæm/",
+    "meaningVi": "thư rác",
+    "definitionEn": "unwanted emails, usually advertising, sent to many people",
+    "example": "The new filter moves most spam out of your inbox.",
+    "exampleTranslation": "Bộ lọc mới chuyển phần lớn thư rác ra khỏi hộp thư đến của bạn.",
+    "levelId": 3,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1683,
+    "headword": "encryption",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪnˈkrɪpʃn/",
+    "phoneticUs": "/ɪnˈkrɪpʃn/",
+    "meaningVi": "sự mã hóa",
+    "definitionEn": "the process of changing data into a code to protect it",
+    "example": "All customer data is protected by strong encryption.",
+    "exampleTranslation": "Toàn bộ dữ liệu khách hàng được bảo vệ bằng mã hóa mạnh.",
+    "levelId": 5,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1684,
+    "headword": "privacy",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈprɪvəsi/",
+    "phoneticUs": "/ˈpraɪvəsi/",
+    "meaningVi": "sự riêng tư, quyền riêng tư",
+    "definitionEn": "the right to keep personal information secret",
+    "example": "Please read our privacy policy before creating an account.",
+    "exampleTranslation": "Vui lòng đọc chính sách quyền riêng tư trước khi tạo tài khoản.",
+    "levelId": 4,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1685,
+    "headword": "unauthorized",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ʌnˈɔːθəraɪzd/",
+    "phoneticUs": "/ʌnˈɔːθəraɪzd/",
+    "meaningVi": "trái phép, không được phép",
+    "definitionEn": "without official permission",
+    "example": "Unauthorized access to the server room is strictly forbidden.",
+    "exampleTranslation": "Việc vào phòng máy chủ trái phép bị nghiêm cấm.",
+    "levelId": 4,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1686,
+    "headword": "permission",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pəˈmɪʃn/",
+    "phoneticUs": "/pərˈmɪʃn/",
+    "meaningVi": "sự cho phép, quyền truy cập",
+    "definitionEn": "the right to do something, given by someone in authority",
+    "example": "You need administrator permission to install new software.",
+    "exampleTranslation": "Bạn cần quyền quản trị viên để cài đặt phần mềm mới.",
+    "levelId": 3,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1687,
+    "headword": "administrator",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ədˈmɪnɪstreɪtə/",
+    "phoneticUs": "/ədˈmɪnɪstreɪtər/",
+    "meaningVi": "quản trị viên",
+    "definitionEn": "a person responsible for managing a computer system or organization",
+    "example": "Contact the system administrator if you are locked out of your account.",
+    "exampleTranslation": "Liên hệ quản trị viên hệ thống nếu bạn bị khóa tài khoản.",
+    "levelId": 4,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1688,
+    "headword": "log out",
+    "partOfSpeech": "phrase",
+    "meaningVi": "đăng xuất",
+    "definitionEn": "to end a session on a computer system or website",
+    "example": "Always log out of shared computers before leaving.",
+    "exampleTranslation": "Luôn đăng xuất khỏi máy tính dùng chung trước khi rời đi.",
+    "levelId": 3,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1689,
+    "headword": "reboot",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˌriːˈbuːt/",
+    "phoneticUs": "/ˌriːˈbuːt/",
+    "meaningVi": "khởi động lại (máy tính)",
+    "definitionEn": "to switch a computer off and on again",
+    "example": "Please reboot your laptop after the update has been installed.",
+    "exampleTranslation": "Vui lòng khởi động lại máy tính xách tay sau khi cài xong bản cập nhật.",
+    "levelId": 4,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1690,
+    "headword": "glitch",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɡlɪtʃ/",
+    "phoneticUs": "/ɡlɪtʃ/",
+    "meaningVi": "trục trặc nhỏ, lỗi",
+    "definitionEn": "a small problem that stops something from working properly",
+    "example": "A technical glitch delayed the start of the online seminar.",
+    "exampleTranslation": "Một trục trặc kỹ thuật đã làm chậm giờ bắt đầu hội thảo trực tuyến.",
+    "levelId": 4,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1691,
+    "headword": "crash",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/kræʃ/",
+    "phoneticUs": "/kræʃ/",
+    "meaningVi": "bị treo, ngừng hoạt động đột ngột (máy tính)",
+    "definitionEn": "to suddenly stop working",
+    "example": "My computer crashed before I could save the document.",
+    "exampleTranslation": "Máy tính của tôi bị treo trước khi tôi kịp lưu tài liệu.",
+    "levelId": 3,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1692,
+    "headword": "browser",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbraʊzə/",
+    "phoneticUs": "/ˈbraʊzər/",
+    "meaningVi": "trình duyệt web",
+    "definitionEn": "a program used to view websites",
+    "example": "The booking system works best in the latest version of your browser.",
+    "exampleTranslation": "Hệ thống đặt chỗ hoạt động tốt nhất trên phiên bản trình duyệt mới nhất.",
+    "levelId": 3,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1693,
+    "headword": "operating system",
+    "partOfSpeech": "phrase",
+    "meaningVi": "hệ điều hành",
+    "definitionEn": "the main software that controls how a computer works",
+    "example": "All office computers will be upgraded to the new operating system.",
+    "exampleTranslation": "Tất cả máy tính văn phòng sẽ được nâng cấp lên hệ điều hành mới.",
+    "levelId": 4,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1694,
+    "headword": "help desk",
+    "partOfSpeech": "phrase",
+    "meaningVi": "bộ phận hỗ trợ kỹ thuật",
+    "definitionEn": "a service that helps users solve computer problems",
+    "example": "Call the help desk at extension 200 if your email stops working.",
+    "exampleTranslation": "Hãy gọi bộ phận hỗ trợ theo số máy lẻ 200 nếu email của bạn ngừng hoạt động.",
+    "levelId": 3,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1695,
+    "headword": "vulnerability",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌvʌlnərəˈbɪləti/",
+    "phoneticUs": "/ˌvʌlnərəˈbɪləti/",
+    "meaningVi": "lỗ hổng (bảo mật)",
+    "definitionEn": "a weakness that allows a system to be attacked",
+    "example": "The software update fixes a serious security vulnerability.",
+    "exampleTranslation": "Bản cập nhật phần mềm khắc phục một lỗ hổng bảo mật nghiêm trọng.",
+    "levelId": 5,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1696,
+    "headword": "migrate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/maɪˈɡreɪt/",
+    "phoneticUs": "/ˈmaɪɡreɪt/",
+    "meaningVi": "chuyển đổi, di chuyển (dữ liệu, hệ thống)",
+    "definitionEn": "to move data or programs from one system to another",
+    "example": "We will migrate all customer records to the new platform this weekend.",
+    "exampleTranslation": "Chúng tôi sẽ chuyển toàn bộ hồ sơ khách hàng sang nền tảng mới vào cuối tuần này.",
+    "levelId": 5,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1697,
+    "headword": "sensitive",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈsensətɪv/",
+    "phoneticUs": "/ˈsensətɪv/",
+    "meaningVi": "nhạy cảm, cần bảo mật",
+    "definitionEn": "needing to be kept secret or handled carefully",
+    "example": "Sensitive documents must be shredded, not thrown away.",
+    "exampleTranslation": "Tài liệu nhạy cảm phải được hủy bằng máy, không được vứt đi.",
+    "levelId": 4,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1698,
+    "headword": "retrieve",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/rɪˈtriːv/",
+    "phoneticUs": "/rɪˈtriːv/",
+    "meaningVi": "truy xuất, lấy lại",
+    "definitionEn": "to find and get back information or an object",
+    "example": "The technician was able to retrieve the deleted files.",
+    "exampleTranslation": "Kỹ thuật viên đã khôi phục được các tệp bị xóa.",
+    "levelId": 5,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1699,
+    "headword": "update",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ʌpˈdeɪt/",
+    "phoneticUs": "/ʌpˈdeɪt/",
+    "meaningVi": "cập nhật",
+    "definitionEn": "to make something more modern or add the newest information",
+    "example": "Please update your contact details in the employee portal.",
+    "exampleTranslation": "Vui lòng cập nhật thông tin liên lạc của bạn trên cổng thông tin nhân viên.",
+    "levelId": 3,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1700,
+    "headword": "strong password",
+    "partOfSpeech": "phrase",
+    "meaningVi": "mật khẩu mạnh",
+    "definitionEn": "a password that is long and hard for others to guess",
+    "example": "A strong password should include letters, numbers and symbols.",
+    "exampleTranslation": "Một mật khẩu mạnh nên bao gồm chữ cái, chữ số và ký hiệu.",
+    "levelId": 3,
+    "topics": [
+      "it-security-data"
+    ]
+  },
+  {
+    "id": 1701,
+    "headword": "portfolio",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/pɔːtˈfəʊliəʊ/",
+    "phoneticUs": "/pɔːrtˈfoʊlioʊ/",
+    "meaningVi": "danh mục đầu tư",
+    "definitionEn": "a collection of investments owned by a person or organization",
+    "example": "A financial adviser can help you build a balanced portfolio.",
+    "exampleTranslation": "Chuyên viên tư vấn tài chính có thể giúp bạn xây dựng danh mục đầu tư cân bằng.",
+    "levelId": 5,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1702,
+    "headword": "stock",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/stɒk/",
+    "phoneticUs": "/stɑːk/",
+    "meaningVi": "cổ phiếu",
+    "definitionEn": "a share in the ownership of a company",
+    "example": "She bought stock in a technology company ten years ago.",
+    "exampleTranslation": "Cô ấy đã mua cổ phiếu của một công ty công nghệ cách đây mười năm.",
+    "levelId": 4,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1703,
+    "headword": "bond",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/bɒnd/",
+    "phoneticUs": "/bɑːnd/",
+    "meaningVi": "trái phiếu",
+    "definitionEn": "an official document showing that a government or company has borrowed money and will pay it back with interest",
+    "example": "Government bonds are considered a low-risk investment.",
+    "exampleTranslation": "Trái phiếu chính phủ được xem là khoản đầu tư rủi ro thấp.",
+    "levelId": 5,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1704,
+    "headword": "securities",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/sɪˈkjʊərətiz/",
+    "phoneticUs": "/sɪˈkjʊrətiz/",
+    "meaningVi": "chứng khoán",
+    "definitionEn": "investments such as stocks and bonds that can be bought and sold",
+    "example": "The bank offers advice on trading securities.",
+    "exampleTranslation": "Ngân hàng cung cấp tư vấn về giao dịch chứng khoán.",
+    "levelId": 5,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1705,
+    "headword": "invest",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ɪnˈvest/",
+    "phoneticUs": "/ɪnˈvest/",
+    "meaningVi": "đầu tư",
+    "definitionEn": "to put money into something in order to make a profit",
+    "example": "The company plans to invest heavily in new technology.",
+    "exampleTranslation": "Công ty dự định đầu tư mạnh vào công nghệ mới.",
+    "levelId": 3,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1706,
+    "headword": "investment",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪnˈvestmənt/",
+    "phoneticUs": "/ɪnˈvestmənt/",
+    "meaningVi": "sự đầu tư, khoản đầu tư",
+    "definitionEn": "money put into something to make a profit",
+    "example": "Buying property in the city center was a good investment.",
+    "exampleTranslation": "Mua bất động sản ở trung tâm thành phố là một khoản đầu tư tốt.",
+    "levelId": 3,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1707,
+    "headword": "return on investment",
+    "partOfSpeech": "phrase",
+    "meaningVi": "tỷ suất hoàn vốn (ROI)",
+    "definitionEn": "the profit made from an investment compared with its cost",
+    "example": "The new equipment delivered a strong return on investment within two years.",
+    "exampleTranslation": "Thiết bị mới mang lại tỷ suất hoàn vốn cao chỉ trong vòng hai năm.",
+    "levelId": 5,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1708,
+    "headword": "yield",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/jiːld/",
+    "phoneticUs": "/jiːld/",
+    "meaningVi": "lợi suất, lợi tức",
+    "definitionEn": "the amount of profit an investment produces",
+    "example": "These bonds offer an annual yield of 4 percent.",
+    "exampleTranslation": "Những trái phiếu này có lợi suất hằng năm là 4 phần trăm.",
+    "levelId": 5,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1709,
+    "headword": "principal",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈprɪnsəpl/",
+    "phoneticUs": "/ˈprɪnsəpl/",
+    "meaningVi": "tiền vốn gốc (khoản vay, đầu tư)",
+    "definitionEn": "the original amount of money borrowed or invested, not including interest",
+    "example": "Your monthly payment covers both interest and principal.",
+    "exampleTranslation": "Khoản thanh toán hằng tháng của bạn bao gồm cả lãi và tiền gốc.",
+    "levelId": 5,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1710,
+    "headword": "installment",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪnˈstɔːlmənt/",
+    "phoneticUs": "/ɪnˈstɔːlmənt/",
+    "meaningVi": "khoản trả góp, đợt thanh toán",
+    "definitionEn": "one of several regular payments made over a period of time",
+    "example": "You can pay for the laptop in twelve monthly installments.",
+    "exampleTranslation": "Bạn có thể trả góp chiếc máy tính trong mười hai đợt hằng tháng.",
+    "levelId": 4,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1711,
+    "headword": "overdraft",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈəʊvədrɑːft/",
+    "phoneticUs": "/ˈoʊvərdræft/",
+    "meaningVi": "khoản thấu chi",
+    "definitionEn": "an amount of money taken out of a bank account that is more than it contains",
+    "example": "The bank charges a fee if your account goes into overdraft.",
+    "exampleTranslation": "Ngân hàng tính phí nếu tài khoản của bạn bị thấu chi.",
+    "levelId": 5,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1712,
+    "headword": "checking account",
+    "partOfSpeech": "phrase",
+    "meaningVi": "tài khoản thanh toán, tài khoản vãng lai",
+    "definitionEn": "a bank account used for everyday payments and withdrawals",
+    "example": "Your salary will be paid directly into your checking account.",
+    "exampleTranslation": "Lương của bạn sẽ được chuyển thẳng vào tài khoản thanh toán.",
+    "levelId": 4,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1713,
+    "headword": "savings account",
+    "partOfSpeech": "phrase",
+    "meaningVi": "tài khoản tiết kiệm",
+    "definitionEn": "a bank account that pays interest on the money kept in it",
+    "example": "He puts a part of his paycheck into a savings account every month.",
+    "exampleTranslation": "Anh ấy gửi một phần tiền lương vào tài khoản tiết kiệm mỗi tháng.",
+    "levelId": 3,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1714,
+    "headword": "wire transfer",
+    "partOfSpeech": "phrase",
+    "meaningVi": "chuyển khoản điện tử (liên ngân hàng)",
+    "definitionEn": "an electronic payment sent from one bank account to another",
+    "example": "The supplier asked to be paid by wire transfer.",
+    "exampleTranslation": "Nhà cung cấp yêu cầu được thanh toán bằng chuyển khoản điện tử.",
+    "levelId": 4,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1715,
+    "headword": "teller",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtelə/",
+    "phoneticUs": "/ˈtelər/",
+    "meaningVi": "giao dịch viên ngân hàng",
+    "definitionEn": "a bank employee who receives and pays out money to customers",
+    "example": "The teller asked me to show my ID before cashing the check.",
+    "exampleTranslation": "Giao dịch viên yêu cầu tôi xuất trình giấy tờ tùy thân trước khi đổi séc.",
+    "levelId": 4,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1716,
+    "headword": "branch",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/brɑːntʃ/",
+    "phoneticUs": "/bræntʃ/",
+    "meaningVi": "chi nhánh",
+    "definitionEn": "a local office of a large organization such as a bank",
+    "example": "The bank is opening a new branch near the train station.",
+    "exampleTranslation": "Ngân hàng sắp mở một chi nhánh mới gần ga tàu.",
+    "levelId": 3,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1717,
+    "headword": "collateral",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kəˈlætərəl/",
+    "phoneticUs": "/kəˈlætərəl/",
+    "meaningVi": "tài sản thế chấp",
+    "definitionEn": "property promised to a lender if a loan is not repaid",
+    "example": "The business used its warehouse as collateral for the loan.",
+    "exampleTranslation": "Doanh nghiệp đã dùng nhà kho làm tài sản thế chấp cho khoản vay.",
+    "levelId": 5,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1718,
+    "headword": "credit limit",
+    "partOfSpeech": "phrase",
+    "meaningVi": "hạn mức tín dụng",
+    "definitionEn": "the largest amount a customer can borrow on a credit card or account",
+    "example": "The bank raised her credit limit after a year of on-time payments.",
+    "exampleTranslation": "Ngân hàng đã nâng hạn mức tín dụng của cô ấy sau một năm thanh toán đúng hạn.",
+    "levelId": 4,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1719,
+    "headword": "lender",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈlendə/",
+    "phoneticUs": "/ˈlendər/",
+    "meaningVi": "bên cho vay",
+    "definitionEn": "a person or organization that lends money",
+    "example": "Compare offers from several lenders before taking out a loan.",
+    "exampleTranslation": "Hãy so sánh đề nghị từ nhiều bên cho vay trước khi vay tiền.",
+    "levelId": 4,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1720,
+    "headword": "borrower",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbɒrəʊə/",
+    "phoneticUs": "/ˈbɑːroʊər/",
+    "meaningVi": "người đi vay",
+    "definitionEn": "a person or organization that borrows money",
+    "example": "Borrowers with good credit histories receive lower interest rates.",
+    "exampleTranslation": "Người đi vay có lịch sử tín dụng tốt được hưởng lãi suất thấp hơn.",
+    "levelId": 4,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1721,
+    "headword": "fluctuate",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˈflʌktʃueɪt/",
+    "phoneticUs": "/ˈflʌktʃueɪt/",
+    "meaningVi": "dao động, biến động",
+    "definitionEn": "to change often in amount or level",
+    "example": "Share prices fluctuated sharply after the announcement.",
+    "exampleTranslation": "Giá cổ phiếu biến động mạnh sau thông báo.",
+    "levelId": 5,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1722,
+    "headword": "volatile",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈvɒlətaɪl/",
+    "phoneticUs": "/ˈvɑːlətl/",
+    "meaningVi": "biến động thất thường",
+    "definitionEn": "likely to change suddenly and unexpectedly",
+    "example": "Oil prices have been extremely volatile this year.",
+    "exampleTranslation": "Giá dầu năm nay biến động vô cùng thất thường.",
+    "levelId": 5,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1723,
+    "headword": "inflation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ɪnˈfleɪʃn/",
+    "phoneticUs": "/ɪnˈfleɪʃn/",
+    "meaningVi": "lạm phát",
+    "definitionEn": "a general increase in prices over time",
+    "example": "High inflation has reduced the value of people's savings.",
+    "exampleTranslation": "Lạm phát cao đã làm giảm giá trị tiền tiết kiệm của người dân.",
+    "levelId": 4,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1724,
+    "headword": "currency",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈkʌrənsi/",
+    "phoneticUs": "/ˈkɜːrənsi/",
+    "meaningVi": "tiền tệ",
+    "definitionEn": "the system of money used in a particular country",
+    "example": "You can pay in the local currency or in U.S. dollars.",
+    "exampleTranslation": "Bạn có thể thanh toán bằng tiền địa phương hoặc đô la Mỹ.",
+    "levelId": 3,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1725,
+    "headword": "exchange rate",
+    "partOfSpeech": "phrase",
+    "meaningVi": "tỷ giá hối đoái",
+    "definitionEn": "the value of one currency compared with another",
+    "example": "The exchange rate changes daily, so prices may vary.",
+    "exampleTranslation": "Tỷ giá hối đoái thay đổi hằng ngày nên giá có thể khác nhau.",
+    "levelId": 4,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1726,
+    "headword": "equity",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈekwəti/",
+    "phoneticUs": "/ˈekwəti/",
+    "meaningVi": "vốn chủ sở hữu; cổ phần",
+    "definitionEn": "the value of a company or property after debts are paid; shares in a company",
+    "example": "The founders still hold 60 percent of the company's equity.",
+    "exampleTranslation": "Những người sáng lập vẫn nắm giữ 60 phần trăm vốn cổ phần của công ty.",
+    "levelId": 5,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1727,
+    "headword": "broker",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈbrəʊkə/",
+    "phoneticUs": "/ˈbroʊkər/",
+    "meaningVi": "người môi giới",
+    "definitionEn": "a person who buys and sells things such as stocks for other people",
+    "example": "Her broker recommended selling the shares before the market closed.",
+    "exampleTranslation": "Người môi giới của cô ấy khuyên bán cổ phiếu trước khi thị trường đóng cửa.",
+    "levelId": 4,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1728,
+    "headword": "withdrawal",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/wɪðˈdrɔːəl/",
+    "phoneticUs": "/wɪðˈdrɔːəl/",
+    "meaningVi": "sự rút tiền, khoản rút",
+    "definitionEn": "the act of taking money out of a bank account",
+    "example": "There is no fee for withdrawals from our own ATMs.",
+    "exampleTranslation": "Không mất phí khi rút tiền tại các máy ATM của chúng tôi.",
+    "levelId": 4,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1729,
+    "headword": "financial adviser",
+    "partOfSpeech": "phrase",
+    "meaningVi": "chuyên viên tư vấn tài chính",
+    "definitionEn": "a professional who gives advice about money and investments",
+    "example": "Many people consult a financial adviser before planning for retirement.",
+    "exampleTranslation": "Nhiều người tham khảo ý kiến chuyên viên tư vấn tài chính trước khi lên kế hoạch nghỉ hưu.",
+    "levelId": 4,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1730,
+    "headword": "account holder",
+    "partOfSpeech": "phrase",
+    "meaningVi": "chủ tài khoản",
+    "definitionEn": "the person in whose name a bank account is held",
+    "example": "Only the account holder can request changes to the account.",
+    "exampleTranslation": "Chỉ chủ tài khoản mới có thể yêu cầu thay đổi thông tin tài khoản.",
+    "levelId": 4,
+    "topics": [
+      "banking-investment"
+    ]
+  },
+  {
+    "id": 1731,
+    "headword": "dress code",
+    "partOfSpeech": "phrase",
+    "meaningVi": "quy định trang phục",
+    "definitionEn": "a set of rules about what clothes people must wear",
+    "example": "The company relaxed its dress code on Fridays.",
+    "exampleTranslation": "Công ty đã nới lỏng quy định trang phục vào các ngày thứ Sáu.",
+    "levelId": 3,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1732,
+    "headword": "code of conduct",
+    "partOfSpeech": "phrase",
+    "meaningVi": "bộ quy tắc ứng xử",
+    "definitionEn": "a set of rules about how people in an organization should behave",
+    "example": "All new employees must read and sign the code of conduct.",
+    "exampleTranslation": "Tất cả nhân viên mới phải đọc và ký bộ quy tắc ứng xử.",
+    "levelId": 4,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1733,
+    "headword": "compliance",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/kəmˈplaɪəns/",
+    "phoneticUs": "/kəmˈplaɪəns/",
+    "meaningVi": "sự tuân thủ",
+    "definitionEn": "the act of obeying a rule or law",
+    "example": "The compliance team checks that all contracts follow local laws.",
+    "exampleTranslation": "Nhóm tuân thủ kiểm tra để bảo đảm mọi hợp đồng tuân theo luật địa phương.",
+    "levelId": 5,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1734,
+    "headword": "in compliance with",
+    "partOfSpeech": "phrase",
+    "meaningVi": "tuân thủ theo",
+    "definitionEn": "following a rule, law or request",
+    "example": "All equipment must be used in compliance with safety regulations.",
+    "exampleTranslation": "Mọi thiết bị phải được sử dụng tuân thủ theo quy định an toàn.",
+    "levelId": 5,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1735,
+    "headword": "adhere to",
+    "partOfSpeech": "phrase",
+    "meaningVi": "tuân thủ, tuân theo",
+    "definitionEn": "to follow a rule, plan or agreement exactly",
+    "example": "Staff are expected to adhere to the company's privacy guidelines.",
+    "exampleTranslation": "Nhân viên phải tuân thủ các hướng dẫn về quyền riêng tư của công ty.",
+    "levelId": 5,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1736,
+    "headword": "mandatory",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈmændətəri/",
+    "phoneticUs": "/ˈmændətɔːri/",
+    "meaningVi": "bắt buộc",
+    "definitionEn": "required by a rule or law",
+    "example": "Attendance at the safety training is mandatory for all staff.",
+    "exampleTranslation": "Việc tham gia buổi đào tạo an toàn là bắt buộc đối với toàn bộ nhân viên.",
+    "levelId": 4,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1737,
+    "headword": "optional",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈɒpʃənl/",
+    "phoneticUs": "/ˈɑːpʃənl/",
+    "meaningVi": "không bắt buộc, tùy chọn",
+    "definitionEn": "available to choose but not required",
+    "example": "The Saturday workshop is optional, but we encourage you to join.",
+    "exampleTranslation": "Buổi hội thảo thứ Bảy là không bắt buộc, nhưng chúng tôi khuyến khích bạn tham gia.",
+    "levelId": 3,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1738,
+    "headword": "prohibit",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/prəˈhɪbɪt/",
+    "phoneticUs": "/proʊˈhɪbɪt/",
+    "meaningVi": "cấm",
+    "definitionEn": "to officially forbid something",
+    "example": "Smoking is prohibited anywhere inside the building.",
+    "exampleTranslation": "Hút thuốc bị cấm ở mọi nơi bên trong tòa nhà.",
+    "levelId": 4,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1739,
+    "headword": "permitted",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/pəˈmɪtɪd/",
+    "phoneticUs": "/pərˈmɪtɪd/",
+    "meaningVi": "được phép",
+    "definitionEn": "allowed by a rule or law",
+    "example": "Food is not permitted in the computer lab.",
+    "exampleTranslation": "Không được phép mang đồ ăn vào phòng máy tính.",
+    "levelId": 4,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1740,
+    "headword": "guideline",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɡaɪdlaɪn/",
+    "phoneticUs": "/ˈɡaɪdlaɪn/",
+    "meaningVi": "hướng dẫn, nguyên tắc chỉ đạo",
+    "definitionEn": "a piece of advice or a rule about how to do something",
+    "example": "Please follow the guidelines when booking business travel.",
+    "exampleTranslation": "Vui lòng làm theo hướng dẫn khi đặt lịch đi công tác.",
+    "levelId": 4,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1741,
+    "headword": "procedure",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/prəˈsiːdʒə/",
+    "phoneticUs": "/prəˈsiːdʒər/",
+    "meaningVi": "thủ tục, quy trình",
+    "definitionEn": "an official or accepted way of doing something",
+    "example": "The procedure for requesting time off has changed.",
+    "exampleTranslation": "Quy trình xin nghỉ phép đã thay đổi.",
+    "levelId": 4,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1742,
+    "headword": "protocol",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈprəʊtəkɒl/",
+    "phoneticUs": "/ˈproʊtəkɔːl/",
+    "meaningVi": "quy trình chuẩn, giao thức",
+    "definitionEn": "a set of official rules for how to act in a particular situation",
+    "example": "Staff must follow the emergency protocol during a fire drill.",
+    "exampleTranslation": "Nhân viên phải tuân theo quy trình khẩn cấp trong buổi diễn tập phòng cháy.",
+    "levelId": 5,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1743,
+    "headword": "harassment",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhærəsmənt/",
+    "phoneticUs": "/həˈræsmənt/",
+    "meaningVi": "sự quấy rối",
+    "definitionEn": "behavior that annoys, threatens or upsets someone repeatedly",
+    "example": "The company has a strict policy against workplace harassment.",
+    "exampleTranslation": "Công ty có chính sách nghiêm ngặt chống quấy rối nơi làm việc.",
+    "levelId": 5,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1744,
+    "headword": "discrimination",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/dɪˌskrɪmɪˈneɪʃn/",
+    "phoneticUs": "/dɪˌskrɪmɪˈneɪʃn/",
+    "meaningVi": "sự phân biệt đối xử",
+    "definitionEn": "unfair treatment of people because of their age, gender, race or other reasons",
+    "example": "Discrimination in hiring is against the law.",
+    "exampleTranslation": "Phân biệt đối xử trong tuyển dụng là vi phạm pháp luật.",
+    "levelId": 5,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1745,
+    "headword": "leave of absence",
+    "partOfSpeech": "phrase",
+    "meaningVi": "kỳ nghỉ phép dài (được chấp thuận)",
+    "definitionEn": "a period of approved time away from work",
+    "example": "He took a three-month leave of absence to care for his father.",
+    "exampleTranslation": "Anh ấy đã xin nghỉ phép ba tháng để chăm sóc cha.",
+    "levelId": 5,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1746,
+    "headword": "maternity leave",
+    "partOfSpeech": "phrase",
+    "meaningVi": "nghỉ thai sản",
+    "definitionEn": "time off work given to a mother before and after having a baby",
+    "example": "She will return from maternity leave in September.",
+    "exampleTranslation": "Cô ấy sẽ đi làm lại sau kỳ nghỉ thai sản vào tháng Chín.",
+    "levelId": 4,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1747,
+    "headword": "flexible",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˈfleksəbl/",
+    "phoneticUs": "/ˈfleksəbl/",
+    "meaningVi": "linh hoạt",
+    "definitionEn": "able to change easily to suit different situations",
+    "example": "The company offers flexible working hours to parents.",
+    "exampleTranslation": "Công ty cho phép các bậc cha mẹ làm việc với giờ giấc linh hoạt.",
+    "levelId": 3,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1748,
+    "headword": "flextime",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈflekstaɪm/",
+    "phoneticUs": "/ˈflekstaɪm/",
+    "meaningVi": "chế độ giờ làm linh hoạt",
+    "definitionEn": "a system that lets employees choose when they start and finish work",
+    "example": "Under flextime, staff can arrive any time between 7 and 10 A.M.",
+    "exampleTranslation": "Theo chế độ giờ làm linh hoạt, nhân viên có thể đến bất cứ lúc nào từ 7 đến 10 giờ sáng.",
+    "levelId": 5,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1749,
+    "headword": "telecommute",
+    "partOfSpeech": "verb",
+    "phoneticUk": "/ˌtelikəˈmjuːt/",
+    "phoneticUs": "/ˈtelikəmjuːt/",
+    "meaningVi": "làm việc từ xa",
+    "definitionEn": "to work from home using a computer and the internet",
+    "example": "Employees may telecommute up to two days a week.",
+    "exampleTranslation": "Nhân viên có thể làm việc từ xa tối đa hai ngày mỗi tuần.",
+    "levelId": 5,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1750,
+    "headword": "absenteeism",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌæbsənˈtiːɪzəm/",
+    "phoneticUs": "/ˌæbsənˈtiːɪzəm/",
+    "meaningVi": "tình trạng nghỉ làm thường xuyên",
+    "definitionEn": "the habit of often being away from work without a good reason",
+    "example": "The wellness program has helped reduce absenteeism.",
+    "exampleTranslation": "Chương trình chăm sóc sức khỏe đã giúp giảm tình trạng nghỉ làm.",
+    "levelId": 5,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1751,
+    "headword": "disciplinary",
+    "partOfSpeech": "adjective",
+    "phoneticUk": "/ˌdɪsəˈplɪnəri/",
+    "phoneticUs": "/ˈdɪsəplɪneri/",
+    "meaningVi": "(thuộc) kỷ luật",
+    "definitionEn": "relating to punishment for breaking rules",
+    "example": "Repeated lateness may result in disciplinary action.",
+    "exampleTranslation": "Đi trễ nhiều lần có thể dẫn đến hình thức kỷ luật.",
+    "levelId": 5,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1752,
+    "headword": "grievance",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈɡriːvns/",
+    "phoneticUs": "/ˈɡriːvns/",
+    "meaningVi": "khiếu nại, bất bình",
+    "definitionEn": "a formal complaint about unfair treatment at work",
+    "example": "Employees can file a grievance with the human resources department.",
+    "exampleTranslation": "Nhân viên có thể nộp đơn khiếu nại lên phòng nhân sự.",
+    "levelId": 5,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1753,
+    "headword": "handbook",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈhændbʊk/",
+    "phoneticUs": "/ˈhændbʊk/",
+    "meaningVi": "sổ tay (hướng dẫn)",
+    "definitionEn": "a book that gives information and instructions about a subject",
+    "example": "Details about vacation days can be found in the employee handbook.",
+    "exampleTranslation": "Thông tin chi tiết về ngày nghỉ phép có trong sổ tay nhân viên.",
+    "levelId": 3,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1754,
+    "headword": "be entitled to",
+    "partOfSpeech": "phrase",
+    "meaningVi": "được quyền hưởng",
+    "definitionEn": "to have the right to have or do something",
+    "example": "Full-time staff are entitled to 15 days of paid vacation per year.",
+    "exampleTranslation": "Nhân viên toàn thời gian được hưởng 15 ngày nghỉ phép có lương mỗi năm.",
+    "levelId": 4,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1755,
+    "headword": "on short notice",
+    "partOfSpeech": "phrase",
+    "meaningVi": "gấp, báo trước trong thời gian ngắn",
+    "definitionEn": "with very little warning or time to prepare",
+    "example": "Thank you for covering my shift on such short notice.",
+    "exampleTranslation": "Cảm ơn bạn đã làm thay ca cho tôi dù được báo gấp như vậy.",
+    "levelId": 4,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1756,
+    "headword": "in effect",
+    "partOfSpeech": "phrase",
+    "meaningVi": "có hiệu lực",
+    "definitionEn": "being applied or in use",
+    "example": "The new parking rules will be in effect from March 1.",
+    "exampleTranslation": "Quy định đỗ xe mới sẽ có hiệu lực từ ngày 1 tháng 3.",
+    "levelId": 4,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1757,
+    "headword": "violation",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌvaɪəˈleɪʃn/",
+    "phoneticUs": "/ˌvaɪəˈleɪʃn/",
+    "meaningVi": "sự vi phạm",
+    "definitionEn": "an action that breaks a rule or law",
+    "example": "Sharing client data without consent is a violation of company policy.",
+    "exampleTranslation": "Chia sẻ dữ liệu khách hàng khi chưa có sự đồng ý là vi phạm chính sách công ty.",
+    "levelId": 4,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1758,
+    "headword": "confidentiality",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌkɒnfɪˌdenʃiˈæləti/",
+    "phoneticUs": "/ˌkɑːnfɪˌdenʃiˈæləti/",
+    "meaningVi": "tính bảo mật",
+    "definitionEn": "the state of keeping information secret",
+    "example": "All interns must sign a confidentiality agreement.",
+    "exampleTranslation": "Tất cả thực tập sinh phải ký thỏa thuận bảo mật thông tin.",
+    "levelId": 5,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1759,
+    "headword": "punctuality",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˌpʌŋktʃuˈæləti/",
+    "phoneticUs": "/ˌpʌŋktʃuˈæləti/",
+    "meaningVi": "sự đúng giờ",
+    "definitionEn": "the quality of arriving or doing something at the expected time",
+    "example": "Punctuality is an important part of your performance evaluation.",
+    "exampleTranslation": "Sự đúng giờ là một phần quan trọng trong đánh giá hiệu quả công việc của bạn.",
+    "levelId": 4,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1760,
+    "headword": "clock in",
+    "partOfSpeech": "phrase",
+    "meaningVi": "chấm công vào ca",
+    "definitionEn": "to record the time you arrive at work",
+    "example": "Factory workers must clock in before 8 A.M.",
+    "exampleTranslation": "Công nhân nhà máy phải chấm công vào ca trước 8 giờ sáng.",
+    "levelId": 4,
+    "topics": [
+      "workplace-policies"
+    ]
+  },
+  {
+    "id": 1761,
+    "headword": "timesheet",
+    "partOfSpeech": "noun",
+    "phoneticUk": "/ˈtaɪmʃiːt/",
+    "phoneticUs": "/ˈtaɪmʃiːt/",
+    "meaningVi": "bảng chấm công",
+    "definitionEn": "a record of the hours an employee has worked",
+    "example": "Remember to submit your timesheet every Friday afternoon.",
+    "exampleTranslation": "Nhớ nộp bảng chấm công vào mỗi chiều thứ Sáu.",
+    "levelId": 4,
+    "topics": [
+      "workplace-policies"
+    ]
+  }
+]
