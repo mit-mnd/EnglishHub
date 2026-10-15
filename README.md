@@ -25,6 +25,9 @@ npm run build        # bản build tĩnh trong dist/ - đưa lên bất kỳ sta
 
 Bản build là trang tĩnh: chỉ cần phục vụ thư mục `dist/` và chuyển mọi đường dẫn về `index.html` (SPA fallback).
 
+**Triển khai:** repo GitHub `mit-mnd/EnglishHub` được nối với project Vercel `englishhub`: `git push` lên `main` tự deploy production
+(https://englishhub-eight.vercel.app), các nhánh khác có bản xem trước riêng. Cấu hình SPA fallback nằm ở `vercel.json`.
+
 ## Tính năng
 
 | Nhóm | Chức năng |
