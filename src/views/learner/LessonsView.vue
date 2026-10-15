@@ -147,12 +147,12 @@ onMounted(async () => {
   position: relative; overflow: hidden; display: flex; flex-direction: column; gap: 10px; padding-top: 24px;
   color: var(--eh-text); text-decoration: none; transition: transform 0.15s, box-shadow 0.15s;
 }
-.course:hover { transform: translateY(-2px); box-shadow: 0 10px 28px rgba(16, 24, 40, 0.1); text-decoration: none; }
+.course:hover { transform: translateY(-2px); box-shadow: var(--eh-shadow-lg); text-decoration: none; }
 .course__band { position: absolute; inset: 0 0 auto 0; height: 6px; background: var(--lv); }
 .course__top { display: flex; gap: 6px; }
 .course__level, .course__goal { font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 6px; }
-.course__level { background: color-mix(in srgb, var(--lv) 15%, white); color: color-mix(in srgb, var(--lv) 80%, black); }
-.course__goal { background: var(--eh-accent-soft); color: #b45309; }
+.course__level { background: color-mix(in srgb, var(--lv) 16%, transparent); color: color-mix(in srgb, var(--lv) 78%, var(--eh-text)); }
+.course__goal { background: var(--eh-accent-soft); color: var(--eh-accent-text); }
 .course h3 { font-size: 17px; }
 .course__desc { font-size: 14px; color: var(--eh-text-2); flex: 1; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 .course__skills { display: flex; gap: 6px; }

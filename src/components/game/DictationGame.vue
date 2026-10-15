@@ -120,17 +120,17 @@ onMounted(() => {
 .dictation__controls { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; }
 .dictation__form { display: flex; gap: 8px; max-width: 480px; width: 100%; margin: 0 auto; }
 .dictation__form :deep(.el-input__inner) { font-size: 18px; letter-spacing: 0.5px; }
-.dictation__input--correct :deep(.el-input__wrapper) { box-shadow: 0 0 0 2px #10b981 inset; }
-.dictation__input--close :deep(.el-input__wrapper) { box-shadow: 0 0 0 2px #f59e0b inset; }
-.dictation__input--wrong :deep(.el-input__wrapper) { box-shadow: 0 0 0 2px #ef4444 inset; }
+.dictation__input--correct :deep(.el-input__wrapper) { box-shadow: 0 0 0 2px var(--eh-success) inset; }
+.dictation__input--close :deep(.el-input__wrapper) { box-shadow: 0 0 0 2px var(--eh-accent) inset; }
+.dictation__input--wrong :deep(.el-input__wrapper) { box-shadow: 0 0 0 2px var(--eh-danger) inset; }
 
 .dictation__verdict {
   display: flex; gap: 10px; align-items: flex-start; max-width: 480px; width: 100%; margin: 0 auto;
   padding: 12px 14px; border-radius: 12px;
 }
-.dictation__verdict--correct { background: #d1fae5; color: #065f46; }
-.dictation__verdict--close { background: #fef3c7; color: #92400e; }
-.dictation__verdict--wrong { background: #fee2e2; color: #991b1b; }
+.dictation__verdict--correct { background: var(--eh-success-soft); color: var(--eh-success-text); }
+.dictation__verdict--close { background: var(--eh-highlight); color: var(--eh-accent-text); }
+.dictation__verdict--wrong { background: var(--eh-danger-soft); color: var(--eh-danger-text); }
 .dictation__word { font-size: 18px; font-weight: 700; margin-right: 6px; }
 .dictation__example { font-style: italic; margin-top: 2px; }
 </style>

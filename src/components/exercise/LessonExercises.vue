@@ -13,19 +13,20 @@ const exercises = ref([])
 const loading = ref(true)
 const activeTestId = ref(null)
 
-async function load() {
-  loading.value = true
+/** silent: làm mới số liệu mà không hiện khung loading (nếu không, trình làm bài đang mở sẽ bị huỷ và dựng lại -> bắt làm lại từ đầu). */
+async function load({ silent = false } = {}) {
+  if (!silent) loading.value = true
   try {
     exercises.value = await exerciseApi.list(props.lessonId)
   } catch {
-    exercises.value = []
+    if (!silent) exercises.value = []
   } finally {
     loading.value = false
   }
 }
 
 function onFinished(result) {
-  load()
+  load({ silent: true })
   if (result.lessonCompleted) emit('lesson-completed', result)
 }
 

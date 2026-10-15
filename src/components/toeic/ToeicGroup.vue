@@ -114,7 +114,7 @@ function choose(q, i) {
 .tg__graphic pre, .tg__text, .tg__translation pre {
   margin: 6px 0 0; white-space: pre-wrap; font-family: inherit; line-height: 1.65;
 }
-.tg__doc { padding: 14px 16px; border: 1px solid var(--eh-border); border-radius: 12px; background: #fffef8; }
+.tg__doc { padding: 14px 16px; border: 1px solid var(--eh-border); border-radius: 12px; background: var(--eh-paper); }
 .tg__doc-title { font-weight: 700; font-size: 13px; text-transform: uppercase; letter-spacing: 0.04em; color: var(--eh-text-2); margin-bottom: 6px; }
 .tg__passage { margin: 0; white-space: pre-wrap; line-height: 1.75; }
 .tg__blank { padding: 1px 6px; border-radius: 6px; background: var(--eh-primary-soft); color: var(--eh-primary); font-weight: 600; }
@@ -125,8 +125,8 @@ function choose(q, i) {
 .tq__no { font-weight: 700; flex-shrink: 0; }
 .tq__text { flex: 1; font-weight: 500; }
 .tq__mark { font-size: 20px; flex-shrink: 0; }
-.tq__mark--ok { color: #10b981; }
-.tq__mark--bad { color: #ef4444; }
+.tq__mark--ok { color: var(--eh-success); }
+.tq__mark--bad { color: var(--eh-danger); }
 .tq__options { display: grid; gap: 8px; }
 .opt {
   display: flex; align-items: center; gap: 10px; min-height: 44px; padding: 8px 12px; text-align: left;
@@ -140,12 +140,12 @@ function choose(q, i) {
   background: var(--eh-bg); font-weight: 700; font-size: 13px;
 }
 .opt--chosen { border-color: var(--eh-primary); background: var(--eh-primary-soft); }
-.opt--chosen .opt__letter { background: var(--eh-primary); color: #fff; }
-.opt--correct { border-color: #10b981; background: #ecfdf5; }
-.opt--correct .opt__letter { background: #10b981; color: #fff; }
-.opt--wrong { border-color: #ef4444; background: #fef2f2; }
-.opt--wrong .opt__letter { background: #ef4444; color: #fff; }
-.tq__explain { padding: 10px 12px; border-radius: 10px; background: #f8fafc; border-left: 3px solid var(--eh-primary); line-height: 1.55; font-size: 14px; }
+.opt--chosen .opt__letter { background: var(--eh-primary); color: var(--eh-on-primary); }
+.opt--correct { border-color: var(--eh-success); background: var(--eh-success-soft); }
+.opt--correct .opt__letter { background: var(--eh-success); color: var(--eh-on-primary); }
+.opt--wrong { border-color: var(--eh-danger); background: var(--eh-danger-soft); }
+.opt--wrong .opt__letter { background: var(--eh-danger); color: var(--eh-on-primary); }
+.tq__explain { padding: 10px 12px; border-radius: 10px; background: var(--eh-surface-2); border-left: 3px solid var(--eh-primary); line-height: 1.55; font-size: 14px; }
 .tg__translation summary { cursor: pointer; color: var(--eh-primary); font-weight: 500; }
 .tg__translation pre { padding: 10px 12px; border-radius: 10px; background: var(--eh-bg); }
 </style>

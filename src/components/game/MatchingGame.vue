@@ -93,7 +93,7 @@ onUnmounted(() => clearInterval(timer))
         <el-icon><Timer /></el-icon> {{ formatClock(timeLeftMs) }}
       </span>
       <el-progress class="matching__bar" :percentage="progress" :show-text="false" :stroke-width="8"
-                   :color="timeLeftMs < 10000 ? '#ef4444' : '#4f46e5'" />
+                   :color="timeLeftMs < 10000 ? 'var(--eh-danger)' : 'var(--eh-primary)'" />
       <span class="eh-subtle">{{ matched.size }}/{{ words.length }} cặp · {{ mistakes }} lỗi</span>
     </div>
 
@@ -118,7 +118,7 @@ onUnmounted(() => clearInterval(timer))
 .matching { display: grid; gap: 16px; }
 .matching__status { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
 .matching__clock { display: inline-flex; align-items: center; gap: 4px; font-weight: 700; font-variant-numeric: tabular-nums; }
-.matching__clock--low { color: #ef4444; }
+.matching__clock--low { color: var(--eh-danger); }
 .matching__bar { flex: 1; min-width: 120px; }
 .matching__board { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
 .matching__col { display: grid; gap: 10px; align-content: start; }
@@ -133,8 +133,8 @@ onUnmounted(() => clearInterval(timer))
 .tile--word { font-weight: 600; font-size: 16px; }
 .tile:hover:not(:disabled) { border-color: var(--eh-primary); }
 .tile--selected { border-color: var(--eh-primary); background: var(--eh-primary-soft); transform: scale(1.02); }
-.tile--wrong { border-color: #ef4444; background: #fee2e2; animation: shake 0.4s; }
-.tile--matched { border-color: #10b981; background: #d1fae5; opacity: 0.45; cursor: default; }
+.tile--wrong { border-color: var(--eh-danger); background: var(--eh-danger-soft); animation: shake 0.4s; }
+.tile--matched { border-color: var(--eh-success); background: var(--eh-success-soft); opacity: 0.45; cursor: default; }
 
 @keyframes shake {
   0%, 100% { transform: translateX(0); }

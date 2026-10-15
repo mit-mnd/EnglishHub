@@ -239,7 +239,7 @@ onBeforeUnmount(() => clearInterval(timer))
 .ts__title { flex: 1; min-width: 0; display: grid; }
 .ts__title strong { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .ts__timer { display: inline-flex; align-items: center; gap: 4px; font-weight: 700; font-variant-numeric: tabular-nums; }
-.ts__timer--low { color: #ef4444; }
+.ts__timer--low { color: var(--eh-danger); }
 .ts__progress { position: sticky; top: var(--eh-header-h); z-index: 9; }
 .ts__progress :deep(.el-progress-bar__outer) { border-radius: 0; }
 .ts__main { max-width: 1100px; margin: 0 auto; padding: 24px 16px 48px; }
@@ -260,8 +260,8 @@ onBeforeUnmount(() => clearInterval(timer))
 }
 .cell--done { background: var(--eh-primary-soft); border-color: var(--el-color-primary-light-5); color: var(--eh-primary); font-weight: 600; }
 .cell--now { outline: 2px solid var(--eh-primary); outline-offset: 1px; }
-.cell--ok { background: #ecfdf5; border-color: #10b981; color: #047857; }
-.cell--bad { background: #fef2f2; border-color: #ef4444; color: #b91c1c; }
+.cell--ok { background: var(--eh-success-soft); border-color: var(--eh-success); color: var(--eh-success-text); }
+.cell--bad { background: var(--eh-danger-soft); border-color: var(--eh-danger); color: var(--eh-danger-text); }
 
 .result { display: grid; justify-items: center; gap: 12px; text-align: center; max-width: 560px; margin: 0 auto; }
 .estimate { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; width: 100%; }

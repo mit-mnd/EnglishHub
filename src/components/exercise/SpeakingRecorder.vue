@@ -181,15 +181,15 @@ onBeforeUnmount(() => {
 
 <style scoped>
 .speaking { display: grid; gap: 16px; }
-.reference { padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #fff7ed, #ffedd5); }
-.reference__text { font-size: 22px; font-weight: 600; line-height: 1.4; margin: 4px 0 10px; color: #9a3412; }
+.reference { padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, var(--eh-warn-soft), var(--eh-warn-soft)); }
+.reference__text { font-size: 22px; font-weight: 600; line-height: 1.4; margin: 4px 0 10px; color: var(--eh-warn-text); }
 .reference__actions { display: flex; gap: 6px; }
 .reference__actions .el-button + .el-button { margin-left: 0; }
 
 .recorder { display: flex; align-items: center; gap: 16px; }
 .mic {
   display: grid; place-items: center; flex-shrink: 0; width: 72px; height: 72px; border-radius: 50%; border: 0;
-  background: #f97316; color: #fff; cursor: pointer; box-shadow: 0 8px 20px rgba(249, 115, 22, 0.35);
+  background: var(--eh-warn); color: var(--eh-on-primary); cursor: pointer; box-shadow: 0 8px 20px rgba(249, 115, 22, 0.35);
   transition: transform 0.15s, background-color 0.15s;
 }
 .mic:hover:not(:disabled) { transform: scale(1.05); }
@@ -207,9 +207,9 @@ onBeforeUnmount(() => {
 .metric { display: grid; grid-template-columns: 110px 1fr; align-items: center; gap: 8px; font-size: 14px; }
 .words { display: flex; flex-wrap: wrap; gap: 6px; }
 .word { padding: 4px 10px; border-radius: 8px; font-size: 17px; font-weight: 500; }
-.word--ok { background: var(--eh-success-soft); color: #047857; }
-.word--warn { background: #fff7ed; color: #c2410c; text-decoration: underline wavy #f97316; text-underline-offset: 4px; }
-.word--miss { background: var(--eh-danger-soft); color: #b91c1c; text-decoration: line-through; }
+.word--ok { background: var(--eh-success-soft); color: var(--eh-success-text); }
+.word--warn { background: var(--eh-warn-soft); color: var(--eh-warn-text); text-decoration: underline wavy var(--eh-warn); text-underline-offset: 4px; }
+.word--miss { background: var(--eh-danger-soft); color: var(--eh-danger-text); text-decoration: line-through; }
 .word--unknown { background: var(--eh-bg); color: var(--eh-text-2); }
 .tips { margin: 0; padding-left: 18px; display: grid; gap: 4px; font-size: 14px; color: var(--eh-text-2); }
 .result__actions { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }

@@ -9,7 +9,10 @@ import { useProfileStore } from '@/stores/profile'
 import { useDashboardStore } from '@/stores/dashboard'
 import { firstName, formatDate, formatMinutes, formatPercent, greeting } from '@/utils/format'
 import { GOAL_LABELS, levelColor, skillLabel } from '@/utils/labels'
+import { useTheme } from '@/composables/useTheme'
+import { cssVar, withAlpha } from '@/utils/cssVar'
 
+const { isDark } = useTheme()
 const router = useRouter()
 const learner = useProfileStore()
 const store = useDashboardStore()
@@ -36,37 +39,38 @@ function periodLabel(isoDate, granularity) {
 }
 
 const chartOption = computed(() => {
+  // Canvas không hiểu var(): lấy màu thật của giao diện hiện hành (tính lại khi đổi sáng/tối)
+  void isDark.value
+  const brand = { primary: cssVar('--eh-primary'), success: cssVar('--eh-success') }
   const series = d.value?.series ?? []
   const labels = series.map((p) => periodLabel(p.periodStart, d.value.granularity))
   const base = {
     // ECharts 6 tự chừa chỗ cho nhãn trục (outerBounds), không cần containLabel
     grid: { left: 8, right: 8, top: 36, bottom: 4 },
     tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
-    xAxis: { type: 'category', data: labels, axisTick: { show: false }, axisLine: { lineStyle: { color: '#e6e8f0' } },
-      axisLabel: { color: '#8e93a8', hideOverlap: true } },
-    yAxis: { type: 'value', minInterval: 1, splitLine: { lineStyle: { color: '#eef0f5' } }, axisLabel: { color: '#8e93a8' } },
-    textStyle: { fontFamily: 'Be Vietnam Pro, sans-serif' },
+    xAxis: { type: 'category', data: labels, axisLabel: { hideOverlap: true } },
+    yAxis: { type: 'value', minInterval: 1 },
   }
   if (metric.value === 'words') {
     return {
       ...base,
       legend: { top: 0, right: 0, itemWidth: 10, itemHeight: 10, icon: 'roundRect' },
       series: [
-        { name: 'Từ mới', type: 'bar', stack: 'w', data: series.map((p) => p.wordsLearned), itemStyle: { color: '#4f46e5' }, barMaxWidth: 28 },
+        { name: 'Từ mới', type: 'bar', stack: 'w', data: series.map((p) => p.wordsLearned), itemStyle: { color: brand.primary }, barMaxWidth: 28 },
         { name: 'Từ ôn tập', type: 'bar', stack: 'w', data: series.map((p) => p.wordsReviewed),
-          itemStyle: { color: '#a7a2f2', borderRadius: [6, 6, 0, 0] }, barMaxWidth: 28 },
+          itemStyle: { color: withAlpha(brand.primary, 0.45), borderRadius: [6, 6, 0, 0] }, barMaxWidth: 28 },
       ],
     }
   }
   if (metric.value === 'score') {
     return {
       ...base,
-      yAxis: { ...base.yAxis, max: 100, axisLabel: { color: '#8e93a8', formatter: '{value}%' } },
+      yAxis: { ...base.yAxis, max: 100, axisLabel: { formatter: '{value}%' } },
       tooltip: { trigger: 'axis', valueFormatter: (v) => (v == null ? 'Không làm quiz' : `${v}%`) },
       series: [{
         name: 'Điểm trung bình', type: 'line', smooth: true, connectNulls: true, symbolSize: 8,
         data: series.map((p) => (p.averageScore == null ? null : Number(p.averageScore))),
-        itemStyle: { color: '#10b981' }, areaStyle: { color: 'rgba(16,185,129,0.12)' },
+        itemStyle: { color: brand.success }, areaStyle: { color: withAlpha(brand.success, 0.14) },
       }],
     }
   }
@@ -75,7 +79,7 @@ const chartOption = computed(() => {
     tooltip: { ...base.tooltip, valueFormatter: (v) => `${v} phút` },
     series: [{
       name: 'Thời gian học', type: 'bar', data: series.map((p) => p.studyMinutes), barMaxWidth: 28,
-      itemStyle: { color: '#4f46e5', borderRadius: [6, 6, 0, 0] },
+      itemStyle: { color: brand.primary, borderRadius: [6, 6, 0, 0] },
     }],
   }
 })
@@ -132,7 +136,7 @@ onMounted(() => store.load(store.range))
 
         <div class="eh-card today">
           <el-progress type="circle" :percentage="todayPercent" :width="64" :stroke-width="7"
-                       :color="d.todayProgress.goalReached ? '#10b981' : '#4f46e5'">
+                       :color="d.todayProgress.goalReached ? 'var(--eh-success)' : 'var(--eh-primary)'">
             <template #default><span class="today__pct">{{ todayPercent }}%</span></template>
           </el-progress>
           <div>
@@ -250,9 +254,9 @@ onMounted(() => store.load(store.range))
 .cta {
   display: flex; align-items: center; gap: 16px; padding: 18px 20px; margin-bottom: 20px;
   border-radius: var(--eh-radius); border: 1px solid var(--el-color-primary-light-7);
-  background: linear-gradient(120deg, var(--eh-primary-soft), #fff7e6);
+  background: linear-gradient(120deg, var(--eh-primary-soft), var(--eh-accent-soft));
 }
-.cta__icon { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 12px; background: var(--eh-primary); color: #fff; font-size: 22px; }
+.cta__icon { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 12px; background: var(--eh-primary); color: var(--eh-on-primary); font-size: 22px; }
 .cta__text { flex: 1; }
 .cta__text p { color: var(--eh-text-2); font-size: 14px; }
 
@@ -271,7 +275,7 @@ onMounted(() => store.load(store.range))
 .chart-wrap { position: relative; }
 .chart-empty {
   position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center;
-  gap: 4px; padding: 16px; text-align: center; background: rgba(255, 255, 255, 0.75);
+  gap: 4px; padding: 16px; text-align: center; background: color-mix(in srgb, var(--eh-surface) 75%, transparent);
 }
 
 .side { display: grid; gap: 16px; }
@@ -284,7 +288,7 @@ onMounted(() => store.load(store.range))
 .no-path { display: grid; gap: 10px; justify-items: start; }
 
 .review-card { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
-.review-card--due { background: var(--eh-accent-soft); border-color: #fde68a; }
+.review-card--due { background: var(--eh-accent-soft); border-color: var(--eh-accent-border); }
 
 .placement { display: flex; align-items: center; gap: 12px; }
 .placement__badge {
@@ -305,7 +309,9 @@ onMounted(() => store.load(store.range))
   .cta { flex-wrap: wrap; }
   .cta .el-button { width: 100%; }
 }
+/* Điện thoại: giữ 2 cột (đỡ phải cuộn dài), xếp biểu tượng phía trên chữ */
 @media (max-width: 479.98px) {
-  .stats { grid-template-columns: 1fr; }
+  .stats > * { padding: 14px; }
+  .stats :deep(.stat), .stats .today { flex-direction: column; align-items: flex-start; gap: 10px; }
 }
 </style>

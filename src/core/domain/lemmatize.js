@@ -11,6 +11,12 @@ export function normalizeQuery(raw) {
   return (raw ?? '').toLowerCase().replace(/’/g, "'").replace(/^[^a-z]+|[^a-z]+$/g, '').replace(/\s+/g, ' ')
 }
 
+/** Từ / cụm từ ngắn tra được trong từ điển; ngoài ra (câu dài, có dấu câu) thì chỉ dịch. */
+export function isWordQuery(raw) {
+  const q = normalizeQuery(raw)
+  return q.length <= 60 && VALID_QUERY.test(q)
+}
+
 /** "stopp" -> "stop" (phụ âm cuối bị nhân đôi khi thêm -ed/-ing). */
 const undouble = (stem) => (stem.length > 2 && stem.at(-1) === stem.at(-2) ? stem.slice(0, -1) : stem)
 

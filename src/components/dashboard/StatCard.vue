@@ -25,9 +25,9 @@ defineProps({
   display: grid; place-items: center; flex-shrink: 0; width: 44px; height: 44px; border-radius: 12px; font-size: 22px;
 }
 .stat--primary .stat__icon { background: var(--eh-primary-soft); color: var(--eh-primary); }
-.stat--accent .stat__icon { background: var(--eh-accent-soft); color: #d97706; }
+.stat--accent .stat__icon { background: var(--eh-accent-soft); color: var(--eh-accent-text); }
 .stat--success .stat__icon { background: var(--eh-success-soft); color: var(--eh-success); }
-.stat--info .stat__icon { background: var(--eh-info-soft); color: #0284c7; }
+.stat--info .stat__icon { background: var(--eh-info-soft); color: var(--eh-info-text); }
 .stat__body { display: flex; flex-direction: column; min-width: 0; }
 .stat__label { font-size: 13px; color: var(--eh-text-2); }
 .stat__value { font-size: 26px; font-weight: 700; line-height: 1.25; margin-top: 2px; }

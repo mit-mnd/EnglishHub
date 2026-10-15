@@ -111,9 +111,9 @@ onMounted(async () => {
 .recent li:last-child { border-bottom: 0; }
 .recent__name { font-weight: 500; }
 .recent strong { text-align: right; }
-.good { color: #059669; }
-.ok { color: #d97706; }
-.bad { color: #dc2626; }
+.good { color: var(--eh-success-text); }
+.ok { color: var(--eh-accent-text); }
+.bad { color: var(--eh-danger-text); }
 .disclaimer { font-size: 13px; text-align: center; }
 @media (max-width: 1023.98px) {
   .hero { grid-template-columns: 1fr; }

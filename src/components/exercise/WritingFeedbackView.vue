@@ -109,8 +109,8 @@ async function copyCorrected() {
 .notes { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
 .note { padding: 12px 14px; border-radius: 12px; font-size: 14px; }
 .note ul { margin: 6px 0 0; padding-left: 18px; display: grid; gap: 4px; }
-.note--good { background: var(--eh-success-soft); color: #065f46; }
-.note--improve { background: var(--eh-accent-soft); color: #92400e; }
+.note--good { background: var(--eh-success-soft); color: var(--eh-success-text); }
+.note--improve { background: var(--eh-accent-soft); color: var(--eh-accent-text); }
 @media (max-width: 599.98px) {
   .criterion { grid-template-columns: 1fr; gap: 2px; }
 }

@@ -1,6 +1,7 @@
 <script setup>
 import { Check } from '@element-plus/icons-vue'
 import AppLogo from '@/components/common/AppLogo.vue'
+import ThemeToggle from '@/components/common/ThemeToggle.vue'
 
 const features = [
   'Không cần tài khoản - khai báo vài thông tin là bắt đầu học ngay',
@@ -27,6 +28,7 @@ const features = [
     </aside>
 
     <main class="auth__main">
+      <ThemeToggle class="auth__theme" />
       <div class="auth__mobile-logo"><AppLogo /></div>
       <div class="auth__panel">
         <RouterView />
@@ -48,6 +50,16 @@ const features = [
     radial-gradient(circle at 10% 90%, rgba(14, 165, 233, 0.35), transparent 45%),
     linear-gradient(160deg, #4338ca 0%, #4f46e5 45%, #6366f1 100%);
 }
+/* Lưới mờ + các nội dung nằm trên lớp trang trí */
+.auth__brand::after {
+  content: ''; position: absolute; inset: 0; pointer-events: none;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.07) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.07) 1px, transparent 1px);
+  background-size: 44px 44px;
+  mask-image: radial-gradient(circle at 75% 25%, #000 0%, transparent 70%);
+}
+.auth__brand > * { position: relative; z-index: 1; }
 .auth__pitch h1 { font-size: 32px; line-height: 1.25; max-width: 420px; margin-bottom: 28px; }
 .auth__pitch ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 14px; }
 .auth__pitch li { display: flex; gap: 12px; align-items: flex-start; font-size: 15px; color: #e0e7ff; }
@@ -57,8 +69,10 @@ const features = [
 }
 .auth__foot { font-size: 13px; color: #c7d2fe; }
 
-.auth__main { display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 32px 24px; }
-.auth__panel { width: 100%; max-width: 420px; }
+.auth__main { position: relative; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 32px 24px; }
+.auth__panel { width: 100%; max-width: 420px; animation: rise 0.5s var(--eh-ease) both; }
+.auth__theme { position: absolute; top: 16px; right: 16px; }
+@keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
 .auth__mobile-logo { display: none; }
 
 @media (max-width: 899.98px) {

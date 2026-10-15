@@ -1,13 +1,15 @@
 <script setup>
 /**
  * Bảng tra từ nổi cạnh từ được bấm (desktop) hoặc dạng bottom sheet (mobile).
- * Hiển thị phiên âm UK/US + phát âm, nghĩa tiếng Việt, định nghĩa, ví dụ; nút lưu vào sổ từ.
+ * Từ / cụm ngắn: phiên âm UK/US + phát âm, nghĩa tiếng Việt, định nghĩa, ví dụ; nút lưu vào sổ từ.
+ * Đoạn dài (cả câu, có dấu câu): chỉ hiện bản dịch tiếng Việt.
  */
 import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import { Check, Close, Headset, Plus } from '@element-plus/icons-vue'
 import { vocabularyApi } from '@/api'
 import { useBreakpoint } from '@/composables/useBreakpoint'
 import { useSpeech } from '@/composables/useSpeech'
+import { isWordQuery } from '@/core/domain/lemmatize'
 import { PART_OF_SPEECH } from '@/utils/skills'
 
 const props = defineProps({
@@ -24,10 +26,12 @@ const { pronounce } = useSpeech()
 const loading = ref(true)
 const error = ref('')
 const result = ref(null)
+const passage = ref(null)             // { text, translation, offline } khi dịch đoạn dài
 const activeIndex = ref(0)
 const saving = ref(false)
 const panel = ref()
 
+const isPassage = computed(() => !isWordQuery(props.query))
 const entry = computed(() => result.value?.entries?.[activeIndex.value])
 
 const PANEL_WIDTH = 340
@@ -50,8 +54,11 @@ async function lookup() {
   loading.value = true
   error.value = ''
   activeIndex.value = 0
+  result.value = null
+  passage.value = null
   try {
-    result.value = await vocabularyApi.lookup(props.query)
+    if (isPassage.value) passage.value = await vocabularyApi.translate(props.query)
+    else result.value = await vocabularyApi.lookup(props.query)
   } catch (e) {
     error.value = e.message
   } finally {
@@ -116,9 +123,28 @@ onBeforeUnmount(() => {
 
       <p v-else-if="error" class="lookup__error">{{ error }}</p>
 
+      <div v-else-if="passage" class="passage">
+        <blockquote class="example">{{ passage.text }}</blockquote>
+        <template v-if="passage.translation">
+          <p class="meaning">{{ passage.translation }}</p>
+          <p class="auto">Bản dịch tự động, chỉ mang tính tham khảo.</p>
+        </template>
+        <template v-else>
+          <p class="eh-muted">
+            {{ passage.offline ? 'Không kết nối được dịch vụ dịch (mất mạng hoặc hết hạn mức hôm nay).' : 'Chưa dịch được đoạn này.' }}
+          </p>
+          <el-button v-if="passage.offline" size="small" @click="lookup">Thử lại</el-button>
+        </template>
+        <button type="button" class="phon" @click="pronounce(passage.text, null, 'US')">
+          <el-icon><Headset /></el-icon> Nghe đọc
+        </button>
+      </div>
+
       <div v-else-if="!entry" class="lookup__empty">
         <strong>"{{ query }}"</strong>
-        <p class="eh-muted">Chưa tìm thấy từ này trong từ điển.</p>
+        <p v-if="result?.offline" class="eh-muted">Không kết nối được dịch vụ từ điển. Kiểm tra mạng rồi thử lại.</p>
+        <p v-else class="eh-muted">Chưa tìm thấy từ này trong từ điển.</p>
+        <el-button v-if="result?.offline" size="small" @click="lookup">Thử lại</el-button>
       </div>
 
       <template v-else>
@@ -142,7 +168,10 @@ onBeforeUnmount(() => {
         <el-segmented v-if="result.entries.length > 1" v-model="activeIndex" size="small" class="pos-tabs"
                       :options="result.entries.map((e, i) => ({ value: i, label: PART_OF_SPEECH[e.partOfSpeech] ?? e.partOfSpeech }))" />
 
-        <p v-if="entry.meaningVi" class="meaning">{{ entry.meaningVi }}</p>
+        <p v-if="entry.meaningVi" class="meaning">
+          {{ entry.meaningVi }}
+          <span v-if="entry.autoTranslated" class="auto">dịch tự động</span>
+        </p>
         <p v-else class="eh-subtle">Chưa có nghĩa tiếng Việt — định nghĩa tiếng Anh:</p>
         <p v-if="entry.definitionEn" class="definition">{{ entry.definitionEn }}</p>
         <blockquote v-if="entry.example" class="example">
@@ -166,7 +195,7 @@ onBeforeUnmount(() => {
 .lookup {
   position: fixed; z-index: 2100; width: 340px; max-height: min(460px, 80vh); overflow-y: auto;
   padding: 14px 16px 16px; border-radius: 14px; background: var(--eh-surface);
-  border: 1px solid var(--eh-border); box-shadow: 0 12px 40px rgba(16, 24, 40, 0.18);
+  border: 1px solid var(--eh-border); box-shadow: var(--eh-shadow-lg);
   display: grid; gap: 8px; animation: pop 0.12s ease-out;
 }
 @keyframes pop { from { opacity: 0; transform: translateY(4px); } }
@@ -188,10 +217,12 @@ onBeforeUnmount(() => {
 .phon span { color: var(--eh-text-2); }
 .pos-tabs { justify-self: start; }
 .meaning { font-size: 17px; font-weight: 600; color: var(--eh-primary); }
+.auto { font-size: 12px; font-weight: 400; color: var(--eh-text-2); }
+.passage { display: grid; gap: 8px; }
 .definition { color: var(--eh-text-2); font-size: 14px; }
 .example {
   margin: 0; padding: 8px 12px; border-left: 3px solid var(--el-color-primary-light-5); border-radius: 0 8px 8px 0;
-  background: #fafaff; font-style: italic; font-size: 14px; display: grid; gap: 2px;
+  background: var(--eh-surface-2); font-style: italic; font-size: 14px; display: grid; gap: 2px;
 }
 .example span { font-style: normal; color: var(--eh-text-2); font-size: 13px; }
 .save { width: 100%; margin-top: 4px; }

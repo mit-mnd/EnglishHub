@@ -163,10 +163,10 @@ onMounted(load)
   display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap;
   padding: 8px 12px; border-radius: 10px; background: var(--eh-bg);
 }
-.review__ok { color: #10b981; align-self: center; }
-.review__bad { color: #ef4444; align-self: center; }
+.review__ok { color: var(--eh-success); align-self: center; }
+.review__bad { color: var(--eh-danger); align-self: center; }
 .review__meaning { flex: 1; min-width: 120px; }
-.review__answer { font-size: 12px; color: #dc2626; }
+.review__answer { font-size: 12px; color: var(--eh-danger-text); }
 
 @media (max-width: 480px) {
   .game-card :deep(.el-card__body) { padding: 16px 12px; }

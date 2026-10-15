@@ -86,6 +86,7 @@ export const pathApi = {
 
 export const vocabularyApi = {
   lookup: call(vocabulary.lookup),
+  translate: call(vocabulary.translate),
   list: call(vocabulary.listNotebook),
   headwords: call(vocabulary.savedHeadwords),
   save: call(vocabulary.saveWord),

@@ -42,7 +42,7 @@ function onCommand(command) {
   background: transparent; cursor: pointer; font: inherit; color: inherit;
 }
 .user-menu:hover { background: var(--eh-bg); }
-.user-menu__avatar { background: var(--eh-primary); color: #fff; font-weight: 600; font-size: 14px; }
+.user-menu__avatar { background: var(--eh-primary); color: var(--eh-on-primary); font-weight: 600; font-size: 14px; }
 .user-menu__name { font-weight: 500; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .user-menu__caret { color: var(--eh-text-3); }
 .user-menu__header {

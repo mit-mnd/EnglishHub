@@ -32,11 +32,12 @@ Bản build là trang tĩnh: chỉ cần phục vụ thư mục `dist/` và chuy
 | Bắt đầu | Khai báo hồ sơ lần đầu · khôi phục từ file sao lưu |
 | Xếp lớp & lộ trình | Bài kiểm tra 20 câu (tự lưu, hẹn giờ) → xếp 5 trình độ, điểm theo kỹ năng → lộ trình tự sinh theo trình độ + mục tiêu + kỹ năng yếu, lên lịch theo phút/ngày; bỏ qua, sắp xếp, thêm bài |
 | 4 kỹ năng | Nghe: phụ đề tương tác, tốc độ 0.5-2x · Đọc: bấm từ để tra & lưu sổ · Nói: ghi âm, chấm phát âm từng từ (Web Speech API) · Viết: chấm theo quy tắc, gợi ý sửa lỗi |
-| Từ vựng | 1.506 từ (thông dụng, TOEIC, B1-B2, cụm từ & collocation), 59 bộ theo chủ đề, tra từ (kho nội bộ → Free Dictionary API), flashcard lặp lại ngắt quãng SM-2 |
+| Từ vựng | 1.506 từ (thông dụng, TOEIC, B1-B2, cụm từ & collocation), 59 bộ theo chủ đề, tra từ tự động (kho nội bộ → Free Dictionary API + Wiktionary + MyMemory dịch sang tiếng Việt, lưu cache vào máy), dịch cả câu / đoạn khi bôi đen, flashcard lặp lại ngắt quãng SM-2 |
 | Mẫu câu | 22 chủ đề · 272 mẫu câu đời sống / công việc / TOEIC, nghe mẫu, lưu, tự kiểm tra |
 | Luyện thi TOEIC | 788 câu Part 2-7 có giải thích tiếng Việt & bản dịch · luyện theo Part (ưu tiên câu chưa làm) · đề thi thử rút gọn có điểm ước lượng · phần Nghe đọc bằng giọng nam/nữ của trình duyệt |
 | Luyện tập | Trò chơi ghép từ, xếp chữ, nghe chép (kỷ lục cá nhân) |
 | Theo dõi | Dashboard: chuỗi ngày học, mục tiêu ngày, biểu đồ 7 ngày - 12 tháng · thông báo nhắc học, cảnh báo mất chuỗi, thành tích |
+| Giao diện | Sáng / Tối / Theo hệ thống (nút trên thanh trên, chọn ở Hồ sơ; nhớ lựa chọn, không nháy khi tải trang), chuyển trang mượt, dùng tốt trên điện thoại |
 
 ## Kiến trúc
 
@@ -85,7 +86,16 @@ Vue views ──> src/api (giữ nguyên giao diện API cũ, trả Promise)
   nếu không có file sao lưu. localStorage giới hạn ~5 MB: lịch sử ôn tập, kết quả luyện tập được tự cắt bớt phần cũ.
 - Ghi âm cần micro và chỉ chạy trên `localhost` hoặc HTTPS. Chấm phát âm từng từ cần Chrome / Edge (Web Speech API);
   trình duyệt khác chỉ cho điểm ước lượng. Bản ghi âm chỉ nghe lại được trong phiên hiện tại.
-- Tra từ ngoài kho nội bộ cần mạng (Free Dictionary API); từ tra được lưu lại trên máy.
+- Tra từ ngoài kho nội bộ cần mạng (Free Dictionary API, Wiktionary, MyMemory); từ tra được lưu lại trên máy.
+
+## Giao diện & màu sắc
+
+- Mọi màu đi qua token `--eh-*` trong `src/styles/main.css`; chế độ tối chỉ ghi đè token ở `html.dark`. **Không viết màu hex trong component**:
+  dùng `var(--eh-surface)`, `--eh-text`, `--eh-success-soft` / `--eh-success-text`... (đủ bộ cho primary, success, accent, warn, danger, info).
+- Chữ đặt trên nền màu đặc (`--eh-primary`, `--eh-success`...) dùng `var(--eh-on-primary)` (ở chế độ tối nền sáng hơn nên chữ phải tối).
+- Nền nhạt cho biểu tượng: `color-mix(in srgb, <màu> 14%, transparent)`, đúng ở cả hai chế độ.
+- Biểu đồ ECharts (canvas) không hiểu `var()`: lấy màu bằng `cssVar('--eh-primary')` (`src/utils/cssVar.js`) và để `EChart.vue` dựng lại khi đổi giao diện.
+- Logic đổi giao diện: `src/composables/useTheme.js` (+ script nhỏ trong `index.html` áp class `dark` trước khi vẽ).
 - Nhắc học hiển thị trong ứng dụng khi mở EnglishHub sau giờ nhắc (không có thông báo đẩy khi đóng trình duyệt).
 - Phần Nghe TOEIC dùng giọng tổng hợp của hệ điều hành; chất lượng tùy máy (Windows có sẵn giọng David / Zira).
 - Nội dung TOEIC do EnglishHub tự biên soạn theo định dạng đề thi, không phải đề chính thức của ETS; chưa có Part 1.

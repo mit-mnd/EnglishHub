@@ -27,7 +27,7 @@ const percent = computed(() => (props.minWords ? Math.min(100, Math.round((words
               aria-label="Bài viết" @update:model-value="(v) => $emit('update:modelValue', v)" />
     <div class="counter" :class="`counter--${status}`" aria-live="polite">
       <el-progress v-if="minWords" :percentage="percent" :show-text="false" :stroke-width="6" class="counter__bar"
-                   :color="status === 'long' ? '#ef4444' : status === 'ok' ? '#10b981' : '#f59e0b'" />
+                   :color="status === 'long' ? 'var(--eh-danger)' : status === 'ok' ? 'var(--eh-success)' : 'var(--eh-accent)'" />
       <span><strong>{{ words }}</strong> từ</span>
       <span v-if="minWords || maxWords" class="eh-subtle">
         · yêu cầu {{ minWords ?? 0 }}{{ maxWords ? `–${maxWords}` : '+' }} từ
@@ -43,6 +43,6 @@ const percent = computed(() => (props.minWords ? Math.min(100, Math.round((words
 .counter { display: flex; align-items: center; gap: 6px; font-size: 14px; flex-wrap: wrap; }
 .counter__bar { width: 120px; }
 .counter--ok strong { color: var(--eh-success); }
-.counter--short strong { color: #d97706; }
+.counter--short strong { color: var(--eh-accent-text); }
 .counter--long strong, .warn { color: var(--eh-danger); }
 </style>

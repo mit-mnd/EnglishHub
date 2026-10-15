@@ -1,6 +1,6 @@
 /**
  * Từ điển & sổ từ cá nhân.
- * Tra từ: kho từ nội bộ (JSON) trước, không có thì gọi Free Dictionary API (cần mạng) và lưu lại vào máy.
+ * Tra từ: kho từ nội bộ (JSON) trước, không có thì tra các từ điển trực tuyến (dictionary.js, cần mạng) và lưu lại vào máy.
  */
 import * as db from '../storage/db'
 import { nowIso } from '../clock'
@@ -8,12 +8,14 @@ import { invalid, notFound } from '../errors'
 import { findWordsByHeadword, getLesson, getVocabularySet, getWord, vocabularySets } from '../content'
 import { candidates, normalizeQuery, VALID_QUERY } from '../domain/lemmatize'
 import { newCardState, statusFor } from '../domain/sm2'
+import { lookupExternal, parseDictionary, translateVi } from './dictionary'
 import { likeMatch, paginate, sortItems } from './shared'
+
+export { parseDictionary }
 
 /** Id của từ tra từ từ điển ngoài bắt đầu từ đây để không trùng id trong kho nội dung. */
 const CUSTOM_WORD_ID_BASE = 1_000_000
-const DICTIONARY_URL = 'https://api.dictionaryapi.dev/api/v2/entries/en/'
-const KNOWN_POS = new Set(['noun', 'verb', 'adjective', 'adverb', 'pronoun', 'preposition', 'conjunction', 'interjection'])
+const MAX_TRANSLATE_CHARS = 300
 
 /** Tìm từ theo id trong kho nội dung hoặc trong các từ đã tra từ từ điển ngoài. */
 export function findWord(id) {
@@ -26,6 +28,7 @@ export function wordResponse(word, saved) {
     phoneticUs: word.phoneticUs ?? null, audioUrlUk: word.audioUrlUk ?? null, audioUrlUs: word.audioUrlUs ?? null,
     meaningVi: word.meaningVi ?? '', definitionEn: word.definitionEn ?? null, example: word.example ?? null,
     exampleTranslation: word.exampleTranslation ?? null, saved: !!saved, userWordId: saved?.id ?? null,
+    autoTranslated: word.source === 'DICTIONARY_API' && !!word.meaningVi,   // nghĩa tiếng Việt do dịch máy, chỉ tham khảo
   }
 }
 
@@ -38,82 +41,73 @@ export async function lookup(rawQuery) {
   if (query.length > 60 || !VALID_QUERY.test(query)) throw invalid('Từ cần tra không hợp lệ')
   const owned = notebookByWord()
   const list = candidates(query)
+  const respond = (source, matchedHeadword, words) => ({
+    query, matchedHeadword, source, entries: words.map((w) => wordResponse(w, owned.get(w.id))),
+  })
 
   // 1. Kho nội bộ + từ đã tra trước đây
   const custom = db.read('customWords')
   for (const candidate of list) {
     const hits = [...findWordsByHeadword(candidate), ...custom.filter((w) => w.headword.toLowerCase() === candidate)]
-    if (hits.length) {
-      return { query, matchedHeadword: candidate, source: 'LOCAL', entries: hits.map((w) => wordResponse(w, owned.get(w.id))) }
-    }
+    if (hits.length) return respond('LOCAL', candidate, await withVietnamese(hits))
   }
-  // 2. Từ điển ngoài: thử từ gốc tra được và tối đa 1 dạng rút gọn
+
+  // 2. Từ điển trực tuyến: thử từ gốc tra được và tối đa 1 dạng rút gọn.
+  //    Dạng nào chỉ dịch được (không có định nghĩa) thì giữ làm phương án cuối.
+  let translationOnly = null
+  let allFailed = true
   for (const candidate of list.slice(0, 2)) {
-    const entries = await fetchDictionary(candidate)
-    if (entries.length) {
-      const saved = entries.map(cacheCustomWord)
-      return { query, matchedHeadword: saved[0].headword, source: 'DICTIONARY_API', entries: saved.map((w) => wordResponse(w, owned.get(w.id))) }
+    const found = await lookupExternal(candidate)
+    allFailed &&= found.failed
+    if (found.englishFound) {
+      const saved = found.entries.map(cacheCustomWord)
+      return respond('DICTIONARY_API', saved[0].headword, saved)
     }
+    if (found.entries.length && !translationOnly) translationOnly = found.entries
   }
-  return { query, matchedHeadword: null, source: 'NONE', entries: [] }
+  if (translationOnly) {
+    const saved = translationOnly.map(cacheCustomWord)
+    return respond('DICTIONARY_API', saved[0].headword, saved)
+  }
+  return { query, matchedHeadword: null, source: 'NONE', offline: allFailed, entries: [] }
 }
 
-/** Gọi Free Dictionary API; lỗi mạng / không tìm thấy -> []. */
-async function fetchDictionary(word) {
-  try {
-    const controller = new AbortController()
-    const timer = setTimeout(() => controller.abort(), 5000)
-    const res = await fetch(DICTIONARY_URL + encodeURIComponent(word), { signal: controller.signal })
-    clearTimeout(timer)
-    if (!res.ok) return []
-    const root = await res.json()
-    return Array.isArray(root) && root.length ? parseDictionary(root) : []
-  } catch {
-    return []
-  }
+/** Từ đã tra trước đây mà chưa có nghĩa tiếng Việt: bổ sung một lần (lỗi mạng thì để lần sau). */
+async function withVietnamese(words) {
+  const target = words.find((w) => w.source === 'DICTIONARY_API' && !w.meaningVi && !w.viTried)
+  if (!target) return words
+  const { text, failed } = await translateVi(target.headword)
+  if (failed) return words
+  const patch = { meaningVi: text, viTried: true }
+  db.update('customWords', (list) => list.map((w) => (w.id === target.id ? { ...w, ...patch } : w)))
+  return words.map((w) => (w.id === target.id ? { ...w, ...patch } : w))
 }
 
-/** Gộp mọi entry; mỗi từ loại lấy định nghĩa + ví dụ đầu tiên (tối đa 3 từ loại). */
-export function parseDictionary(root) {
-  const headword = root[0].word
-  let fallback = root[0].phonetic ?? null
-  let phoneticUk = null, phoneticUs = null, audioUk = null, audioUs = null
-  for (const entry of root) {
-    for (const p of entry.phonetics ?? []) {
-      if (p.audio?.includes('-uk.') && !audioUk) {
-        audioUk = p.audio
-        phoneticUk = p.text ?? phoneticUk
-      } else if (p.audio?.includes('-us.') && !audioUs) {
-        audioUs = p.audio
-        phoneticUs = p.text ?? phoneticUs
-      } else if (p.text && !fallback) {
-        fallback = p.text
-      }
-    }
+const translationCache = new Map()
+
+/** Dịch một đoạn văn bản (bôi đen nhiều từ / cả câu) sang tiếng Việt. Không lưu vào sổ từ. */
+export async function translate(rawText) {
+  const text = (rawText ?? '').replace(/\s+/g, ' ').trim()
+  if (!text || text.length > MAX_TRANSLATE_CHARS || !/[A-Za-z]/.test(text)) {
+    throw invalid(`Đoạn cần dịch không hợp lệ (tối đa ${MAX_TRANSLATE_CHARS} ký tự)`)
   }
-  const byPos = new Map()
-  for (const entry of root) {
-    for (const meaning of entry.meanings ?? []) {
-      const pos = KNOWN_POS.has(meaning.partOfSpeech?.toLowerCase()) ? meaning.partOfSpeech.toLowerCase() : 'other'
-      const slot = byPos.get(pos) ?? {}
-      for (const def of meaning.definitions ?? []) {
-        slot.definition ??= def.definition
-        slot.example ??= def.example
-      }
-      byPos.set(pos, slot)
-    }
-  }
-  return [...byPos].filter(([, s]) => s.definition).slice(0, 3).map(([pos, s]) => ({
-    headword, partOfSpeech: pos, phoneticUk: phoneticUk ?? fallback, phoneticUs: phoneticUs ?? fallback,
-    audioUrlUk: audioUk, audioUrlUs: audioUs, definitionEn: s.definition, example: s.example ?? null,
-  }))
+  if (translationCache.has(text)) return { text, translation: translationCache.get(text), offline: false }
+  const { text: translation, failed } = await translateVi(text)
+  if (translation) translationCache.set(text, translation)
+  return { text, translation: translation || null, offline: !!failed }
 }
 
+/** Lưu từ tra được vào máy; trùng từ + từ loại thì dùng lại (bổ sung nghĩa tiếng Việt nếu bản cũ chưa có). */
 function cacheCustomWord(entry) {
   const existing = db.read('customWords').find((w) => w.headword.toLowerCase() === entry.headword.toLowerCase()
     && w.partOfSpeech === entry.partOfSpeech)
-  if (existing) return existing
-  const word = { ...entry, id: CUSTOM_WORD_ID_BASE + db.nextId('customWord'), meaningVi: '', source: 'DICTIONARY_API' }
+  if (existing) {
+    if (existing.meaningVi || !entry.meaningVi) return existing
+    const updated = { ...existing, meaningVi: entry.meaningVi, viTried: true }
+    db.update('customWords', (list) => list.map((w) => (w.id === existing.id ? updated : w)))
+    return updated
+  }
+  const word = { ...entry, id: CUSTOM_WORD_ID_BASE + db.nextId('customWord'), meaningVi: entry.meaningVi ?? '', source: 'DICTIONARY_API' }
   db.update('customWords', (list) => [...list, word])
   return word
 }

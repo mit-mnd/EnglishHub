@@ -41,7 +41,7 @@ const mediaKind = computed(() => {
 .stimulus__image { max-width: 100%; max-height: 280px; border-radius: 10px; object-fit: contain; justify-self: start; }
 .stimulus__passage {
   margin: 0; padding: 14px 18px; border-left: 4px solid var(--el-color-primary-light-5);
-  background: #fafaff; border-radius: 0 10px 10px 0;
+  background: var(--eh-surface-2); border-radius: 0 10px 10px 0;
 }
 .stimulus__passage p { margin-top: 6px; line-height: 1.7; font-size: 16px; white-space: pre-line; }
 </style>

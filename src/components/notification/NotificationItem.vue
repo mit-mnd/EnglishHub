@@ -10,12 +10,12 @@ const props = defineProps({
 const emit = defineEmits(['open', 'remove'])
 
 const TYPE_STYLE = {
-  STUDY_REMINDER: { icon: AlarmClock, color: '#4f46e5', bg: '#eef2ff' },
-  REVIEW_DUE: { icon: Collection, color: '#0891b2', bg: '#ecfeff' },
-  STREAK: { icon: Warning, color: '#d97706', bg: '#fef3c7' },
-  ACHIEVEMENT: { icon: Medal, color: '#059669', bg: '#d1fae5' },
-  PATH_UPDATED: { icon: Guide, color: '#7c3aed', bg: '#f3e8ff' },
-  SYSTEM: { icon: Bell, color: '#475569', bg: '#f1f5f9' },
+  STUDY_REMINDER: { icon: AlarmClock, color: 'color-mix(in srgb, #4f46e5 72%, var(--eh-text))', bg: 'color-mix(in srgb, #4f46e5 14%, transparent)' },
+  REVIEW_DUE: { icon: Collection, color: 'color-mix(in srgb, #0891b2 72%, var(--eh-text))', bg: 'color-mix(in srgb, #0891b2 14%, transparent)' },
+  STREAK: { icon: Warning, color: 'color-mix(in srgb, #d97706 72%, var(--eh-text))', bg: 'color-mix(in srgb, #d97706 14%, transparent)' },
+  ACHIEVEMENT: { icon: Medal, color: 'color-mix(in srgb, #059669 72%, var(--eh-text))', bg: 'color-mix(in srgb, #059669 14%, transparent)' },
+  PATH_UPDATED: { icon: Guide, color: 'color-mix(in srgb, #7c3aed 72%, var(--eh-text))', bg: 'color-mix(in srgb, #7c3aed 14%, transparent)' },
+  SYSTEM: { icon: Bell, color: 'color-mix(in srgb, #475569 72%, var(--eh-text))', bg: 'color-mix(in srgb, #475569 14%, transparent)' },
 }
 const style = computed(() => TYPE_STYLE[props.notification.type] ?? TYPE_STYLE.SYSTEM)
 </script>
@@ -47,7 +47,7 @@ const style = computed(() => TYPE_STYLE[props.notification.type] ?? TYPE_STYLE.S
   padding: 12px; border: 0; background: transparent; border-radius: 10px;
   text-align: left; font: inherit; color: inherit; cursor: pointer;
 }
-.noti__main:hover { background: rgba(79, 70, 229, 0.06); }
+.noti__main:hover { background: var(--eh-primary-soft); }
 .noti__icon { flex-shrink: 0; display: grid; place-items: center; width: 36px; height: 36px; border-radius: 50%; }
 .noti__body { flex: 1; min-width: 0; display: grid; gap: 2px; }
 .noti__title { font-weight: 600; font-size: 14px; }

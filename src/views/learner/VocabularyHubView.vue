@@ -178,7 +178,7 @@ onMounted(load)
 .set__name { font-size: 17px; font-weight: 700; color: var(--eh-text); }
 .set__desc { font-size: 14px; flex: 1; }
 .set__words { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
-.chip { padding: 2px 10px; border-radius: 999px; background: #fce7f3; color: #be185d; font-size: 13px; font-weight: 500; }
+.chip { padding: 2px 10px; border-radius: 999px; background: color-mix(in srgb, #ec4899 15%, transparent); color: color-mix(in srgb, #be185d 70%, var(--eh-text)); font-size: 13px; font-weight: 500; }
 .set__foot { display: flex; align-items: center; gap: 12px; margin-top: 6px; }
 .set__progress { flex: 1; }
 

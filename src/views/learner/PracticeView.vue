@@ -76,11 +76,11 @@ onMounted(async () => {
   border-radius: 16px; border: 1px solid var(--eh-border); background: var(--eh-surface);
   color: var(--eh-text); text-decoration: none; transition: transform 0.15s, box-shadow 0.15s;
 }
-.game-tile:hover { text-decoration: none; transform: translateY(-2px); box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08); }
+.game-tile:hover { text-decoration: none; transform: translateY(-2px); box-shadow: var(--eh-shadow-lg); }
 .game-tile__icon { display: grid; place-items: center; width: 56px; height: 56px; border-radius: 14px; }
 .game-tile__desc { color: var(--eh-text-2); font-size: 14px; flex: 1; }
 .game-tile__stats { display: grid; gap: 2px; font-size: 13px; color: var(--eh-text-2); }
-.game-tile__stats .el-icon { vertical-align: -2px; color: #d97706; }
+.game-tile__stats .el-icon { vertical-align: -2px; color: var(--eh-accent-text); }
 .game-tile__cta { display: inline-flex; align-items: center; gap: 6px; font-weight: 600; }
 
 .practice__srs :deep(.el-card__body) { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }

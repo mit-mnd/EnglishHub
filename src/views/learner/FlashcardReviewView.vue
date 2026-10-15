@@ -226,10 +226,10 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
 .grade strong { font-size: 16px; }
 .grade span { font-size: 13px; opacity: 0.8; }
 .grade kbd { position: absolute; top: 6px; right: 8px; font-size: 11px; opacity: 0.5; font-family: inherit; }
-.grade--danger { border-color: #fecaca; color: #b91c1c; }
-.grade--warning { border-color: #fde68a; color: #b45309; }
+.grade--danger { border-color: var(--eh-danger-border); color: var(--eh-danger-text); }
+.grade--warning { border-color: var(--eh-accent-border); color: var(--eh-accent-text); }
 .grade--primary { border-color: var(--el-color-primary-light-7); color: var(--eh-primary); }
-.grade--success { border-color: #a7f3d0; color: #047857; }
+.grade--success { border-color: var(--eh-success-border); color: var(--eh-success-text); }
 .show-btn { min-width: 220px; }
 
 .summary { width: 100%; text-align: center; display: grid; gap: 12px; justify-items: center; padding: 36px 24px; }

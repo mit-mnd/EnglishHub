@@ -1,46 +1,210 @@
-/* ===================== Design tokens ===================== */
+/* ===================== Design tokens =====================
+ * Mọi màu trong giao diện đi qua các biến --eh-*; chế độ tối chỉ cần ghi đè biến ở `html.dark`.
+ * Quy ước: x = màu chính (nền đặc / viền), x-soft = nền nhạt, x-text = chữ đặt trên x-soft, x-border = viền nhạt.
+ */
 :root {
   --eh-font: 'Be Vietnam Pro', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
 
+  /* Bề mặt */
+  --eh-bg: #f4f5fb;
+  --eh-surface: #ffffff;
+  --eh-surface-2: #f8f9fe;          /* ô phụ, trích dẫn, vùng lõm */
+  --eh-border: #e4e7f1;
+  --eh-border-strong: #cfd4e6;
+  --eh-overlay: rgba(15, 18, 38, 0.45);
+
+  /* Chữ */
+  --eh-text: #1b1f36;
+  --eh-text-2: #555c76;
+  --eh-text-3: #6e7590;
+
+  /* Thương hiệu */
   --eh-primary: #4f46e5;
-  --eh-primary-soft: #eef2ff;
-  --eh-accent: #f59e0b;
-  --eh-accent-soft: #fff7e6;
+  --eh-primary-hover: #4338ca;
+  --eh-primary-soft: #eef0ff;
+  --eh-primary-ring: rgba(79, 70, 229, 0.28);
+  --eh-on-primary: #ffffff;          /* chữ đặt trên nền --eh-primary */
+
+  /* Trạng thái */
   --eh-success: #10b981;
   --eh-success-soft: #ecfdf5;
+  --eh-success-text: #047857;
+  --eh-success-border: #a7f3d0;
+
+  --eh-accent: #f59e0b;
+  --eh-accent-soft: #fff7e6;
+  --eh-accent-text: #b45309;
+  --eh-accent-border: #fde68a;
+
+  --eh-warn: #f97316;                /* cam: gần đúng / cần chú ý */
+  --eh-warn-soft: #fff4e8;
+  --eh-warn-text: #9a3412;
+  --eh-warn-border: #fed7aa;
+
   --eh-danger: #ef4444;
   --eh-danger-soft: #fef2f2;
+  --eh-danger-text: #b91c1c;
+  --eh-danger-border: #fecaca;
+
+  --eh-info: #0ea5e9;
   --eh-info-soft: #f0f9ff;
+  --eh-info-text: #075985;
 
-  --eh-bg: #f5f6fb;
-  --eh-surface: #ffffff;
-  --eh-border: #e6e8f0;
-  --eh-text: #1e2235;
-  --eh-text-2: #5b6178;
-  --eh-text-3: #8e93a8;
+  --eh-highlight: #fef3c7;           /* tô sáng dòng đang đọc */
+  --eh-paper: #fffef8;               /* nền văn bản đọc hiểu */
 
-  --eh-radius: 14px;
+  --eh-grad-brand: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+  --eh-grad-soft: linear-gradient(135deg, var(--eh-primary-soft), var(--eh-surface-2));
+
+  --eh-radius: 16px;
   --eh-radius-sm: 10px;
-  --eh-shadow: 0 1px 2px rgba(16, 24, 40, 0.04), 0 4px 16px rgba(16, 24, 40, 0.06);
+  --eh-shadow: 0 1px 2px rgba(20, 24, 60, 0.04), 0 4px 18px rgba(20, 24, 60, 0.06);
+  --eh-shadow-lg: 0 12px 36px rgba(20, 24, 60, 0.14);
   --eh-sidebar-w: 248px;
   --eh-sidebar-collapsed-w: 76px;
   --eh-header-h: 64px;
   --eh-bottom-nav-h: 64px;
 
-  /* Element Plus theme: màu chính indigo (các sắc độ = trộn với trắng/đen) */
-  --el-color-primary: #4f46e5;
-  --el-color-primary-light-3: #847eed;
-  --el-color-primary-light-5: #a7a2f2;
-  --el-color-primary-light-7: #cac7f7;
-  --el-color-primary-light-8: #dcdafa;
-  --el-color-primary-light-9: #edecfc;
-  --el-color-primary-dark-2: #3f38b7;
+  --eh-ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+html.dark {
+  --eh-bg: #0d0f1f;
+  --eh-surface: #161a2f;
+  --eh-surface-2: #1c2039;
+  --eh-border: #272c47;
+  --eh-border-strong: #394061;
+  --eh-overlay: rgba(4, 5, 14, 0.66);
+
+  --eh-text: #e9ebf8;
+  --eh-text-2: #aab0cb;
+  --eh-text-3: #8389a6;
+
+  --eh-primary: #8f98fb;
+  --eh-primary-hover: #aab1ff;
+  --eh-primary-soft: rgba(143, 152, 251, 0.15);
+  --eh-primary-ring: rgba(143, 152, 251, 0.38);
+  --eh-on-primary: #0d1030;
+
+  --eh-success: #34d399;
+  --eh-success-soft: rgba(52, 211, 153, 0.13);
+  --eh-success-text: #6ee7b7;
+  --eh-success-border: rgba(52, 211, 153, 0.38);
+
+  --eh-accent: #fbbf24;
+  --eh-accent-soft: rgba(251, 191, 36, 0.12);
+  --eh-accent-text: #fcd34d;
+  --eh-accent-border: rgba(251, 191, 36, 0.35);
+
+  --eh-warn: #fb923c;
+  --eh-warn-soft: rgba(251, 146, 60, 0.14);
+  --eh-warn-text: #fdba74;
+  --eh-warn-border: rgba(251, 146, 60, 0.38);
+
+  --eh-danger: #f87171;
+  --eh-danger-soft: rgba(248, 113, 113, 0.14);
+  --eh-danger-text: #fca5a5;
+  --eh-danger-border: rgba(248, 113, 113, 0.4);
+
+  --eh-info: #38bdf8;
+  --eh-info-soft: rgba(56, 189, 248, 0.13);
+  --eh-info-text: #7dd3fc;
+
+  --eh-highlight: rgba(251, 191, 36, 0.2);
+  --eh-paper: #1a1e36;
+
+  --eh-grad-brand: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+
+  --eh-shadow: 0 1px 2px rgba(0, 0, 0, 0.35), 0 6px 22px rgba(0, 0, 0, 0.28);
+  --eh-shadow-lg: 0 16px 44px rgba(0, 0, 0, 0.55);
+  color-scheme: dark;
+}
+
+/* ===================== Element Plus theo token =====================
+ * Đặt sau file dark/css-vars của Element Plus (main.js) và cùng độ ưu tiên với `html.dark` nên thắng được nó.
+ * Các sắc độ nhạt/đậm của màu trạng thái là trộn với màu nền -> đúng ở cả hai chế độ.
+ */
+:root, html.dark {
   --el-font-family: var(--eh-font);
-  --el-border-radius-base: 8px;
+  --el-border-radius-base: 10px;
+  --el-border-radius-small: 8px;
+
+  --el-bg-color: var(--eh-surface);
+  --el-bg-color-page: var(--eh-bg);
+  --el-bg-color-overlay: var(--eh-surface);
+  --el-text-color-primary: var(--eh-text);
+  --el-text-color-regular: var(--eh-text);
+  --el-text-color-secondary: var(--eh-text-2);
+  --el-text-color-placeholder: var(--eh-text-3);
+  --el-text-color-disabled: var(--eh-text-3);
+  --el-border-color: var(--eh-border-strong);
+  --el-border-color-light: var(--eh-border);
+  --el-border-color-lighter: var(--eh-border);
+  --el-border-color-extra-light: var(--eh-border);
+  --el-border-color-dark: var(--eh-border-strong);
+  --el-border-color-darker: var(--eh-text-3);
+  --el-fill-color: var(--eh-surface-2);
+  --el-fill-color-light: var(--eh-surface-2);
+  --el-fill-color-lighter: var(--eh-surface-2);
+  --el-fill-color-extra-light: var(--eh-surface-2);
+  --el-fill-color-dark: var(--eh-border);
+  --el-fill-color-darker: var(--eh-border-strong);
+  --el-fill-color-blank: var(--eh-surface);
+  --el-mask-color: var(--eh-overlay);
+  --el-box-shadow-light: var(--eh-shadow);
+  --el-box-shadow: var(--eh-shadow-lg);
+
+  --el-color-primary: var(--eh-primary);
+  --el-color-primary-dark-2: var(--eh-primary-hover);
+  --el-color-success: var(--eh-success);
+  --el-color-warning: var(--eh-accent);
+  --el-color-danger: var(--eh-danger);
+  --el-color-error: var(--eh-danger);
+  --el-color-info: var(--eh-text-3);
+}
+
+:root, html.dark {
+  --el-color-primary-light-3: color-mix(in srgb, var(--eh-primary) 70%, var(--eh-surface));
+  --el-color-primary-light-5: color-mix(in srgb, var(--eh-primary) 50%, var(--eh-surface));
+  --el-color-primary-light-7: color-mix(in srgb, var(--eh-primary) 30%, var(--eh-surface));
+  --el-color-primary-light-8: color-mix(in srgb, var(--eh-primary) 20%, var(--eh-surface));
+  --el-color-primary-light-9: color-mix(in srgb, var(--eh-primary) 11%, var(--eh-surface));
+
+  --el-color-success-light-3: color-mix(in srgb, var(--eh-success) 70%, var(--eh-surface));
+  --el-color-success-light-5: color-mix(in srgb, var(--eh-success) 50%, var(--eh-surface));
+  --el-color-success-light-7: color-mix(in srgb, var(--eh-success) 30%, var(--eh-surface));
+  --el-color-success-light-8: color-mix(in srgb, var(--eh-success) 20%, var(--eh-surface));
+  --el-color-success-light-9: color-mix(in srgb, var(--eh-success) 11%, var(--eh-surface));
+
+  --el-color-warning-light-3: color-mix(in srgb, var(--eh-accent) 70%, var(--eh-surface));
+  --el-color-warning-light-5: color-mix(in srgb, var(--eh-accent) 50%, var(--eh-surface));
+  --el-color-warning-light-7: color-mix(in srgb, var(--eh-accent) 30%, var(--eh-surface));
+  --el-color-warning-light-8: color-mix(in srgb, var(--eh-accent) 20%, var(--eh-surface));
+  --el-color-warning-light-9: color-mix(in srgb, var(--eh-accent) 11%, var(--eh-surface));
+
+  --el-color-danger-light-3: color-mix(in srgb, var(--eh-danger) 70%, var(--eh-surface));
+  --el-color-danger-light-5: color-mix(in srgb, var(--eh-danger) 50%, var(--eh-surface));
+  --el-color-danger-light-7: color-mix(in srgb, var(--eh-danger) 30%, var(--eh-surface));
+  --el-color-danger-light-8: color-mix(in srgb, var(--eh-danger) 20%, var(--eh-surface));
+  --el-color-danger-light-9: color-mix(in srgb, var(--eh-danger) 11%, var(--eh-surface));
+  --el-color-error-light-3: var(--el-color-danger-light-3);
+  --el-color-error-light-5: var(--el-color-danger-light-5);
+  --el-color-error-light-7: var(--el-color-danger-light-7);
+  --el-color-error-light-8: var(--el-color-danger-light-8);
+  --el-color-error-light-9: var(--el-color-danger-light-9);
+
+  --el-color-info-light-3: color-mix(in srgb, var(--eh-text-3) 70%, var(--eh-surface));
+  --el-color-info-light-5: color-mix(in srgb, var(--eh-text-3) 50%, var(--eh-surface));
+  --el-color-info-light-7: color-mix(in srgb, var(--eh-text-3) 30%, var(--eh-surface));
+  --el-color-info-light-8: color-mix(in srgb, var(--eh-text-3) 20%, var(--eh-surface));
+  --el-color-info-light-9: color-mix(in srgb, var(--eh-text-3) 11%, var(--eh-surface));
 }
 
 /* ===================== Base ===================== */
 *, *::before, *::after { box-sizing: border-box; }
+
+html { color-scheme: light; }
+html.dark { color-scheme: dark; }
 
 html, body {
   margin: 0;
@@ -56,10 +220,25 @@ html, body {
 a { color: var(--eh-primary); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-h1, h2, h3, h4 { margin: 0; line-height: 1.3; font-weight: 700; }
+/* Trình duyệt không cho nút / ô nhập kế thừa font mặc định -> ép dùng font của ứng dụng */
+button, input, select, textarea { font-family: inherit; }
+
+h1, h2, h3, h4 { margin: 0; line-height: 1.3; font-weight: 700; letter-spacing: -0.01em; }
 p { margin: 0; }
 
-:focus-visible { outline: 2px solid var(--eh-primary); outline-offset: 2px; }
+:focus-visible { outline: 2px solid var(--eh-primary); outline-offset: 2px; border-radius: 6px; }
+::selection { background: var(--eh-primary-ring); }
+
+/* Thanh cuộn mảnh, đổi màu theo giao diện */
+* { scrollbar-width: thin; scrollbar-color: var(--eh-border-strong) transparent; }
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-thumb { background: var(--eh-border-strong); border-radius: 999px; border: 3px solid transparent; background-clip: content-box; }
+::-webkit-scrollbar-thumb:hover { background: var(--eh-text-3); background-clip: content-box; border: 3px solid transparent; }
+
+/* Đổi giao diện sáng/tối mượt (chỉ bật trong lúc đổi, xem composables/useTheme.js) */
+html.theme-anim, html.theme-anim *, html.theme-anim *::before, html.theme-anim *::after {
+  transition: background-color 0.28s ease, border-color 0.28s ease, color 0.2s ease, box-shadow 0.28s ease, fill 0.2s ease !important;
+}
 
 /* ===================== Building blocks ===================== */
 .eh-card {
@@ -69,6 +248,12 @@ p { margin: 0; }
   box-shadow: var(--eh-shadow);
   padding: 20px;
 }
+
+/* Thẻ bấm được: nhấc nhẹ khi rê chuột / focus */
+.eh-card--link {
+  transition: transform 0.2s var(--eh-ease), box-shadow 0.2s var(--eh-ease), border-color 0.2s;
+}
+.eh-card--link:hover { transform: translateY(-3px); box-shadow: var(--eh-shadow-lg); border-color: var(--eh-border-strong); text-decoration: none; }
 
 .eh-card__title {
   display: flex;
@@ -80,9 +265,9 @@ p { margin: 0; }
   margin-bottom: 16px;
 }
 
-.eh-page { padding: 24px; max-width: 1280px; margin: 0 auto; }
-.eh-page__header { margin-bottom: 20px; }
-.eh-page__title { font-size: 24px; }
+.eh-page { padding: 28px 24px 40px; max-width: 1280px; margin: 0 auto; }
+.eh-page__header { margin-bottom: 22px; }
+.eh-page__title { font-size: 26px; }
 .eh-page__subtitle { color: var(--eh-text-2); margin-top: 4px; }
 
 .eh-muted { color: var(--eh-text-2); }
@@ -108,9 +293,42 @@ p { margin: 0; }
   overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
 }
 
+/* ===================== Element Plus tinh chỉnh ===================== */
+.el-button { font-weight: 600; transition: transform 0.15s var(--eh-ease), box-shadow 0.2s, background-color 0.2s, border-color 0.2s, color 0.2s; }
+.el-button:not(.is-disabled):not(.is-text):not(.is-link):active { transform: scale(0.97); }
+.el-button--primary:not(.is-plain):not(.is-text):not(.is-link) {
+  --el-button-text-color: var(--eh-on-primary);
+  --el-button-hover-text-color: var(--eh-on-primary);
+  --el-button-active-text-color: var(--eh-on-primary);
+  --el-button-bg-color: var(--eh-primary);
+  --el-button-border-color: var(--eh-primary);
+  --el-button-hover-bg-color: var(--eh-primary-hover);
+  --el-button-hover-border-color: var(--eh-primary-hover);
+  --el-button-active-bg-color: var(--eh-primary-hover);
+  --el-button-active-border-color: var(--eh-primary-hover);
+  --el-button-disabled-text-color: var(--eh-on-primary);
+  box-shadow: 0 1px 2px rgba(79, 70, 229, 0.25), 0 6px 14px -6px rgba(79, 70, 229, 0.55);
+}
+html.dark .el-button--primary:not(.is-plain):not(.is-text):not(.is-link) { box-shadow: 0 6px 16px -8px rgba(143, 152, 251, 0.6); }
+.el-button--success:not(.is-plain):not(.is-text):not(.is-link) { --el-button-text-color: #fff; --el-button-hover-text-color: #fff; --el-button-active-text-color: #fff; }
+html.dark .el-button--success:not(.is-plain):not(.is-text):not(.is-link) { --el-button-text-color: #052e1b; --el-button-hover-text-color: #052e1b; --el-button-active-text-color: #052e1b; }
+.el-button--primary.is-plain { --el-button-text-color: var(--eh-primary); --el-button-bg-color: var(--eh-primary-soft); --el-button-border-color: var(--el-color-primary-light-7); --el-button-hover-text-color: var(--eh-on-primary); }
+html.dark .el-button.is-disabled { --el-button-disabled-text-color: var(--eh-text-3); }
+
+.el-input__wrapper, .el-textarea__inner, .el-select__wrapper { transition: box-shadow 0.2s, background-color 0.2s; }
+.el-input__wrapper.is-focus, .el-select__wrapper.is-focused { box-shadow: 0 0 0 1px var(--eh-primary) inset, 0 0 0 4px var(--eh-primary-ring) !important; }
+
+.el-tag { font-weight: 600; }
+.el-dropdown-menu__item { border-radius: 8px; margin: 0 6px; }
+.el-dropdown-menu__item.is-current { color: var(--eh-primary); font-weight: 600; }
+.el-popper.is-light { border-color: var(--eh-border); }
+.el-popper.is-light .el-popper__arrow::before { background: var(--eh-surface); border-color: var(--eh-border); }
+.el-dialog, .el-drawer, .el-message-box { border-radius: var(--eh-radius); }
+.el-skeleton { --el-skeleton-color: var(--eh-surface-2); --el-skeleton-to-color: var(--eh-border); }
+
 @media (max-width: 767.98px) {
-  .eh-page { padding: 16px; }
-  .eh-page__title { font-size: 20px; }
+  .eh-page { padding: 16px 16px 28px; }
+  .eh-page__title { font-size: 21px; }
   .eh-card { padding: 16px; }
 }
 
@@ -119,6 +337,12 @@ p { margin: 0; }
   .el-dialog { --el-dialog-width: calc(100vw - 24px) !important; }
   .el-message-box { max-width: calc(100vw - 24px); }
 }
+
+/* ===================== Chuyển trang ===================== */
+.page-enter-active { transition: opacity 0.28s ease, transform 0.32s var(--eh-ease); }
+.page-leave-active { transition: opacity 0.12s ease; }
+.page-enter-from { opacity: 0; transform: translateY(10px); }
+.page-leave-to { opacity: 0; }
 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }

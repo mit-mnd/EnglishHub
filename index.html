@@ -4,11 +4,29 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="theme-color" content="#4f46e5" />
+    <meta name="color-scheme" content="light dark" />
     <meta name="description" content="EnglishHub - học tiếng Anh theo lộ trình cá nhân hóa" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <!-- Áp giao diện sáng/tối trước khi vẽ để không bị nháy (logic đầy đủ ở src/composables/useTheme.js) -->
+    <style>
+      html { background: #f4f5fb; }
+      html.dark { background: #0d0f1f; color-scheme: dark; }
+    </style>
+    <script>
+      (function () {
+        try {
+          var mode = localStorage.getItem('eh:theme') || 'system'
+          var dark = mode === 'dark' || (mode === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches)
+          if (dark) {
+            document.documentElement.classList.add('dark')
+            document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0f1f')
+          }
+        } catch (e) { /* bỏ qua: dùng giao diện sáng */ }
+      })()
+    </script>
     <title>EnglishHub</title>
   </head>
   <body>

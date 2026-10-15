@@ -342,7 +342,7 @@ onMounted(load)
 .toolbar .el-button + .el-button { margin-left: 0; }
 .spacer { flex: 1; }
 
-.finished { display: flex; align-items: center; gap: 16px; margin-bottom: 16px; flex-wrap: wrap; background: var(--eh-accent-soft); border-color: #fde68a; }
+.finished { display: flex; align-items: center; gap: 16px; margin-bottom: 16px; flex-wrap: wrap; background: var(--eh-accent-soft); border-color: var(--eh-accent-border); }
 .finished__icon { font-size: 36px; }
 .finished > div { flex: 1; min-width: 200px; }
 

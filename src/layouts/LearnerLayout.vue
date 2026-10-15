@@ -8,6 +8,7 @@ import AppLogo from '@/components/common/AppLogo.vue'
 import FlameIcon from '@/components/common/FlameIcon.vue'
 import UserMenu from '@/components/common/UserMenu.vue'
 import NotificationBell from '@/components/notification/NotificationBell.vue'
+import ThemeToggle from '@/components/common/ThemeToggle.vue'
 import { useBreakpoint } from '@/composables/useBreakpoint'
 import { useDashboardStore } from '@/stores/dashboard'
 import { useNotificationStore } from '@/stores/notifications'
@@ -82,7 +83,7 @@ onUnmounted(() => notifications.stopPolling())
           <strong>{{ today.studyMinutes }}/{{ today.goalMinutes }} phút</strong>
         </div>
         <el-progress :percentage="goalPercent" :show-text="false" :stroke-width="8"
-                     :color="today.goalReached ? '#10b981' : '#4f46e5'" />
+                     :color="today.goalReached ? 'var(--eh-success)' : 'var(--eh-primary)'" />
         <p class="eh-subtle">{{ today.goalReached ? 'Tuyệt vời! Bạn đã hoàn thành mục tiêu.' : 'Học thêm một chút nữa nhé!' }}</p>
       </div>
     </aside>
@@ -99,6 +100,7 @@ onUnmounted(() => notifications.stopPolling())
             </span>
           </el-tooltip>
 
+          <ThemeToggle />
           <NotificationBell />
 
           <UserMenu />
@@ -106,7 +108,11 @@ onUnmounted(() => notifications.stopPolling())
       </header>
 
       <main class="content">
-        <RouterView />
+        <RouterView v-slot="{ Component, route: current }">
+          <Transition name="page" mode="out-in">
+            <component :is="Component" :key="String(current.name)" />
+          </Transition>
+        </RouterView>
       </main>
     </div>
 
@@ -151,17 +157,23 @@ onUnmounted(() => notifications.stopPolling())
   padding: 20px 14px;
   background: var(--eh-surface); border-right: 1px solid var(--eh-border);
 }
-.sidebar__logo { padding: 4px 10px 18px; text-decoration: none; }
+.sidebar__logo { padding: 4px 10px 20px; text-decoration: none; }
 .sidebar__nav { display: flex; flex-direction: column; gap: 4px; }
 
 .nav-item {
+  position: relative;
   display: flex; align-items: center; gap: 12px;
-  min-height: 44px; padding: 0 12px; border-radius: 10px;
+  min-height: 44px; padding: 0 12px; border-radius: 12px;
   color: var(--eh-text-2); font-weight: 500; text-decoration: none;
-  transition: background-color 0.15s, color 0.15s;
+  transition: background-color 0.15s, color 0.15s, transform 0.2s var(--eh-ease);
 }
-.nav-item:hover { background: var(--eh-bg); color: var(--eh-text); text-decoration: none; }
+.nav-item:hover { background: var(--eh-surface-2); color: var(--eh-text); text-decoration: none; transform: translateX(2px); }
 .nav-item--active { background: var(--eh-primary-soft); color: var(--eh-primary); font-weight: 600; }
+.nav-item--active:hover { background: var(--eh-primary-soft); color: var(--eh-primary); }
+.nav-item--active::before {
+  content: ''; position: absolute; left: -14px; top: 10px; bottom: 10px; width: 4px;
+  border-radius: 0 4px 4px 0; background: var(--eh-primary);
+}
 .nav-item__icon { font-size: 20px; }
 .nav-item__label { flex: 1; }
 .nav-item__soon {
@@ -170,8 +182,8 @@ onUnmounted(() => notifications.stopPolling())
 }
 
 .sidebar__goal {
-  margin-top: auto; padding: 14px; border-radius: 12px;
-  background: linear-gradient(135deg, var(--eh-primary-soft), #f5f3ff);
+  margin-top: auto; padding: 14px; border-radius: 14px;
+  background: var(--eh-grad-soft); border: 1px solid var(--eh-border);
   display: grid; gap: 8px;
 }
 .sidebar__goal-head { display: flex; justify-content: space-between; font-size: 13px; }
@@ -179,6 +191,7 @@ onUnmounted(() => notifications.stopPolling())
 .shell--collapsed .sidebar { width: var(--eh-sidebar-collapsed-w); padding: 20px 10px; align-items: center; }
 .shell--collapsed .sidebar__logo { padding: 4px 0 18px; }
 .shell--collapsed .nav-item { justify-content: center; width: 52px; padding: 0; }
+.shell--collapsed .nav-item--active::before { left: -10px; }
 .shell--collapsed .nav-item__label,
 .shell--collapsed .nav-item__soon { display: none; }
 
@@ -188,18 +201,18 @@ onUnmounted(() => notifications.stopPolling())
   position: sticky; top: 0; z-index: 20;
   display: flex; align-items: center; gap: 16px;
   height: var(--eh-header-h); padding: 0 24px;
-  background: rgba(245, 246, 251, 0.85); backdrop-filter: blur(10px);
+  background: color-mix(in srgb, var(--eh-bg) 82%, transparent); backdrop-filter: blur(14px) saturate(1.4);
   border-bottom: 1px solid var(--eh-border);
 }
-.topbar__title { font-size: 18px; font-weight: 600; flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.topbar__title { font-size: 18px; font-weight: 700; flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .topbar__actions { display: flex; align-items: center; gap: 8px; }
 
 .streak {
   display: inline-flex; align-items: center; gap: 4px;
   padding: 6px 12px; border-radius: 999px; font-weight: 700;
-  background: var(--eh-accent-soft); color: #d97706;
+  background: var(--eh-accent-soft); color: var(--eh-accent-text); border: 1px solid var(--eh-accent-border);
 }
-.streak--off { background: var(--eh-bg); color: var(--eh-text-3); }
+.streak--off { background: var(--eh-surface-2); color: var(--eh-text-3); border-color: var(--eh-border); }
 
 
 .content { flex: 1; }
@@ -214,11 +227,17 @@ onUnmounted(() => notifications.stopPolling())
   display: grid; grid-template-columns: repeat(5, 1fr);
   height: calc(var(--eh-bottom-nav-h) + env(safe-area-inset-bottom));
   padding-bottom: env(safe-area-inset-bottom);
-  background: var(--eh-surface); border-top: 1px solid var(--eh-border);
+  background: color-mix(in srgb, var(--eh-surface) 90%, transparent); backdrop-filter: blur(14px);
+  border-top: 1px solid var(--eh-border);
 }
 .bottom-nav__item {
+  position: relative;
   display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px;
   font-size: 11px; font-weight: 500; color: var(--eh-text-3); text-decoration: none;
+  transition: color 0.15s;
+}
+.bottom-nav__item--active::before {
+  content: ''; position: absolute; top: 0; left: 30%; right: 30%; height: 3px; border-radius: 0 0 4px 4px; background: var(--eh-primary);
 }
 .bottom-nav__item:hover { text-decoration: none; }
 button.bottom-nav__item { border: 0; background: none; font-family: inherit; cursor: pointer; }
@@ -230,7 +249,7 @@ button.bottom-nav__item { border: 0; background: none; font-family: inherit; cur
   display: flex; align-items: center; gap: 14px; min-height: 48px; padding: 0 14px;
   border-radius: 12px; color: var(--eh-text); font-weight: 500; text-decoration: none;
 }
-.more__item:hover { background: var(--eh-bg); text-decoration: none; }
+.more__item:hover { background: var(--eh-surface-2); text-decoration: none; }
 .more__item--active { background: var(--eh-primary-soft); color: var(--eh-primary); }
 </style>
 

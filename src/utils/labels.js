@@ -24,14 +24,14 @@ export const USER_STATUS = {
 
 export const ROLE_LABELS = { LEARNER: 'Học viên', ADMIN: 'Quản trị' }
 
-/** Màu nhận diện cho từng level (dùng cho badge, biểu đồ). */
+/** Màu nhận diện cho từng level: đủ đậm để chữ trắng trên badge đạt tương phản AA ở cả hai giao diện. */
 export const LEVEL_COLORS = {
-  FOUNDATION: '#94a3b8',
-  ELEMENTARY: '#22c55e',
-  INTERMEDIATE: '#0ea5e9',
-  ADVANCED: '#8b5cf6',
-  EXAM_PREP: '#f59e0b',
-  UNASSIGNED: '#cbd5e1',
+  FOUNDATION: '#64748b',
+  ELEMENTARY: '#15803d',
+  INTERMEDIATE: '#0369a1',
+  ADVANCED: '#7c3aed',
+  EXAM_PREP: '#b45309',
+  UNASSIGNED: '#64748b',
 }
 
 export const levelColor = (code) => LEVEL_COLORS[code] ?? '#4f46e5'

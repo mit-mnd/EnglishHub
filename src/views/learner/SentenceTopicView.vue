@@ -149,12 +149,12 @@ onMounted(load)
 .pat__meaning { margin: 0; color: var(--eh-text-2); }
 .pat__example { display: flex; gap: 10px; align-items: flex-start; padding: 10px 12px; border-radius: 10px; background: var(--eh-bg); }
 .pat__example p { margin: 0; line-height: 1.5; }
-.pat__note { margin: 0; font-size: 14px; color: #92400e; background: #fffbeb; padding: 8px 12px; border-radius: 10px; }
+.pat__note { margin: 0; font-size: 14px; color: var(--eh-accent-text); background: var(--eh-accent-soft); padding: 8px 12px; border-radius: 10px; }
 .pat__actions { display: flex; gap: 4px; }
 .quiz { display: grid; justify-items: center; gap: 12px; text-align: center; padding: 32px 20px; }
 .quiz__vi { font-size: 22px; font-weight: 600; margin: 8px 0 0; line-height: 1.4; }
-.quiz__answer { display: grid; gap: 6px; justify-items: center; padding: 14px 18px; border-radius: 12px; background: #ecfdf5; width: 100%; }
-.quiz__en { font-size: 20px; font-weight: 600; color: #065f46; margin: 0; }
+.quiz__answer { display: grid; gap: 6px; justify-items: center; padding: 14px 18px; border-radius: 12px; background: var(--eh-success-soft); width: 100%; }
+.quiz__en { font-size: 20px; font-weight: 600; color: var(--eh-success-text); margin: 0; }
 .quiz__actions { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; }
 .quiz__done { display: grid; gap: 8px; justify-items: center; }
 </style>

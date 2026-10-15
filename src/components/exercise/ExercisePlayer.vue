@@ -223,16 +223,16 @@ onMounted(start)
   width: 32px; height: 32px; border-radius: 50%; border: 1.5px solid var(--eh-border); background: var(--eh-surface);
   font: inherit; font-size: 13px; font-weight: 600; color: var(--eh-text-2); cursor: pointer;
 }
-.dot--right { background: var(--eh-success); border-color: var(--eh-success); color: #fff; }
-.dot--wrong { background: #f97316; border-color: #f97316; color: #fff; }
-.dot--current { box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.3); border-color: var(--eh-primary); }
+.dot--right { background: var(--eh-success); border-color: var(--eh-success); color: var(--eh-on-primary); }
+.dot--wrong { background: var(--eh-warn); border-color: var(--eh-warn); color: var(--eh-on-primary); }
+.dot--current { box-shadow: 0 0 0 3px var(--eh-primary-ring); border-color: var(--eh-primary); }
 .question { display: grid; gap: 12px; }
 .skill { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; font-weight: 600; }
 .prompt { font-size: 17px; font-weight: 500; line-height: 1.6; }
 .feedback { padding: 12px 16px; border-radius: 12px; display: grid; gap: 4px; }
 .feedback strong { display: inline-flex; align-items: center; gap: 6px; }
-.feedback--right { background: var(--eh-success-soft); color: #065f46; }
-.feedback--wrong { background: #fff7ed; color: #9a3412; }
+.feedback--right { background: var(--eh-success-soft); color: var(--eh-success-text); }
+.feedback--wrong { background: var(--eh-warn-soft); color: var(--eh-warn-text); }
 .pts { font-weight: 500; font-size: 13px; opacity: 0.8; margin-left: 4px; }
 .explain { font-size: 14px; }
 .actions { display: flex; align-items: center; gap: 8px; }

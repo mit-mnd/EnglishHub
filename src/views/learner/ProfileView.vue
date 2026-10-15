@@ -2,14 +2,21 @@
 import { nextTick, onMounted, reactive, ref } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { ElMessage, ElMessageBox } from 'element-plus'
-import { Delete, Download, Upload } from '@element-plus/icons-vue'
+import { Delete, Download, Monitor, Moon, Sunny, Upload } from '@element-plus/icons-vue'
 import { dataApi } from '@/api'
 import { useDashboardStore } from '@/stores/dashboard'
 import { useNotificationStore } from '@/stores/notifications'
 import { useProfileStore } from '@/stores/profile'
+import { useTheme } from '@/composables/useTheme'
 import { formatDate, localIsoDate } from '@/utils/format'
 import { GOAL_OPTIONS } from '@/utils/labels'
 
+const { mode: themeMode, setMode: setThemeMode } = useTheme()
+const THEME_CHOICES = [
+  { value: 'light', label: 'Sáng', icon: Sunny },
+  { value: 'dark', label: 'Tối', icon: Moon },
+  { value: 'system', label: 'Theo máy', icon: Monitor },
+]
 const learner = useProfileStore()
 const dashboard = useDashboardStore()
 const notifications = useNotificationStore()
@@ -149,6 +156,20 @@ onMounted(async () => {
 
       <div class="side">
         <section class="eh-card">
+          <div class="eh-card__title">Giao diện</div>
+          <div class="themes" role="radiogroup" aria-label="Giao diện">
+            <button v-for="t in THEME_CHOICES" :key="t.value" type="button" role="radio" class="theme-card"
+                    :class="{ 'theme-card--active': themeMode === t.value }" :aria-checked="themeMode === t.value"
+                    @click="setThemeMode(t.value)">
+              <span class="theme-card__preview" :class="`theme-card__preview--${t.value}`" aria-hidden="true">
+                <i /><i /><i />
+              </span>
+              <span class="theme-card__label"><el-icon><component :is="t.icon" /></el-icon>{{ t.label }}</span>
+            </button>
+          </div>
+        </section>
+
+        <section class="eh-card">
           <div class="eh-card__title">Thông tin học tập</div>
           <dl class="info">
             <div><dt>Trình độ</dt><dd>{{ learner.user?.currentLevel?.name ?? 'Chưa xếp lớp' }}</dd></div>
@@ -195,4 +216,30 @@ onMounted(async () => {
 @media (max-width: 1023.98px) {
   .grid { grid-template-columns: 1fr; }
 }
+
+/* Chọn giao diện */
+.themes { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.theme-card {
+  display: grid; gap: 8px; padding: 8px; font: inherit; color: var(--eh-text); cursor: pointer;
+  border: 2px solid var(--eh-border); border-radius: 14px; background: var(--eh-surface);
+  transition: border-color 0.15s, box-shadow 0.15s, transform 0.2s var(--eh-ease);
+}
+.theme-card:hover { transform: translateY(-2px); border-color: var(--el-color-primary-light-5); }
+.theme-card--active { border-color: var(--eh-primary); box-shadow: 0 0 0 3px var(--eh-primary-ring); }
+.theme-card__label { display: flex; align-items: center; justify-content: center; gap: 5px; font-size: 13px; font-weight: 600; padding-bottom: 2px; }
+.theme-card__preview {
+  display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: 1fr 1fr; gap: 4px; height: 56px; padding: 6px;
+  border-radius: 8px; border: 1px solid rgba(128, 128, 150, 0.25); background: #f4f5fb;
+}
+.theme-card__preview i { border-radius: 4px; background: #fff; }
+.theme-card__preview i:first-child { grid-row: span 2; background: #e4e7f1; }
+.theme-card__preview i:last-child { background: #c7caf8; }
+.theme-card__preview--dark { background: #0d0f1f; }
+.theme-card__preview--dark i { background: #1c2039; }
+.theme-card__preview--dark i:first-child { background: #272c47; }
+.theme-card__preview--dark i:last-child { background: #4a4f8c; }
+.theme-card__preview--system { background: linear-gradient(105deg, #f4f5fb 50%, #0d0f1f 50%); }
+.theme-card__preview--system i { background: rgba(255, 255, 255, 0.55); }
+.theme-card__preview--system i:first-child { background: rgba(160, 165, 190, 0.5); }
+.theme-card__preview--system i:last-child { background: rgba(110, 115, 200, 0.55); }
 </style>

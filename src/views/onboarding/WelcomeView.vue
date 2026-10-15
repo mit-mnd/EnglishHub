@@ -176,7 +176,7 @@ onMounted(async () => {
 .field { display: grid; gap: 8px; }
 .field--inline { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
 .field__label { font-weight: 600; }
-.field__error { color: #dc2626; font-size: 13px; }
+.field__error { color: var(--eh-danger-text); font-size: 13px; }
 .hint { margin-top: -12px; font-size: 13px; }
 
 .goals { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }

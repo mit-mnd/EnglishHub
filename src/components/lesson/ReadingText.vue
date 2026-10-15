@@ -2,7 +2,7 @@
 /**
  * Hiển thị nội dung bài (HTML đã lọc) với tra từ trực tiếp:
  *  - Bấm vào một từ -> tra từ đó.
- *  - Bôi đen một cụm (tối đa 4 từ) -> tra cả cụm.
+ *  - Bôi đen một cụm (tối đa 4 từ) -> tra cả cụm; bôi đen dài hơn (cả câu, đoạn) -> dịch sang tiếng Việt.
  * Từ đã lưu vào sổ được gạch chân để học viên nhận ra.
  */
 import { computed, ref } from 'vue'
@@ -16,6 +16,7 @@ const props = defineProps({
 })
 const emit = defineEmits(['saved'])
 
+const MAX_SELECTION = 300   // khớp giới hạn dịch ở core/services/vocabulary.js
 const container = ref()
 const lookup = ref(null)      // { query, rect, context }
 
@@ -34,11 +35,11 @@ function onClick(event) {
   lookup.value = { query: target.dataset.w, rect: target.getBoundingClientRect(), context: contextOf(target, target.dataset.w) }
 }
 
-/** Bôi đen nhiều từ -> tra cụm từ. */
+/** Bôi đen nhiều từ -> tra cụm từ hoặc dịch cả đoạn. */
 function onSelectionEnd() {
   const selection = window.getSelection()
   const text = selection?.toString().trim().replace(/\s+/g, ' ')
-  if (!text || text.split(' ').length > 4 || text.length > 60 || !/[A-Za-z]/.test(text)) return
+  if (!text || text.length > MAX_SELECTION || !/[A-Za-z]/.test(text)) return
   const range = selection.getRangeAt(0)
   if (!container.value?.contains(range.commonAncestorContainer)) return
   const node = range.startContainer.parentElement ?? container.value

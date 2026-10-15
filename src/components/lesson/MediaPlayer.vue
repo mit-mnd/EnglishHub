@@ -141,12 +141,12 @@ defineExpose({ seek, play, pause, playRange, playing, currentMs, durationMs })
 .player__video { width: 100%; max-height: 420px; border-radius: 12px; background: #000; cursor: pointer; }
 .controls {
   display: flex; align-items: center; gap: 8px; padding: 10px 14px; border-radius: 14px;
-  background: linear-gradient(135deg, var(--eh-primary-soft), #f5f3ff);
+  background: linear-gradient(135deg, var(--eh-primary-soft), var(--eh-surface-2));
 }
 .controls .el-button + .el-button { margin-left: 0; }
 .play {
   display: grid; place-items: center; flex-shrink: 0; width: 48px; height: 48px; border: 0; border-radius: 50%;
-  background: var(--eh-primary); color: #fff; cursor: pointer; box-shadow: 0 6px 16px rgba(79, 70, 229, 0.35);
+  background: var(--eh-primary); color: var(--eh-on-primary); cursor: pointer; box-shadow: 0 6px 16px rgba(79, 70, 229, 0.35);
 }
 .play:hover { background: var(--el-color-primary-dark-2); }
 .time { font-size: 13px; font-variant-numeric: tabular-nums; color: var(--eh-text-2); min-width: 40px; text-align: center; }

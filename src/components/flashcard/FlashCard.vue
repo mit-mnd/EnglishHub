@@ -84,11 +84,11 @@ const maskedContext = computed(() => {
 .face {
   grid-area: 1 / 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;
   padding: 32px 28px; border-radius: 22px; background: var(--eh-surface); border: 1px solid var(--eh-border);
-  box-shadow: 0 12px 36px rgba(16, 24, 40, 0.1); backface-visibility: hidden; -webkit-backface-visibility: hidden;
+  box-shadow: var(--eh-shadow-lg); backface-visibility: hidden; -webkit-backface-visibility: hidden;
 }
-.face--front { background: linear-gradient(160deg, #ffffff, #f5f3ff); }
+.face--front { background: linear-gradient(160deg, var(--eh-surface), var(--eh-surface-2)); }
 .face--back { transform: rotateY(180deg); justify-content: flex-start; }
-.badge { position: absolute; top: 16px; left: 16px; font-size: 12px; font-weight: 600; padding: 3px 10px; border-radius: 999px; background: var(--eh-accent-soft); color: #b45309; }
+.badge { position: absolute; top: 16px; left: 16px; font-size: 12px; font-weight: 600; padding: 3px 10px; border-radius: 999px; background: var(--eh-accent-soft); color: var(--eh-accent-text); }
 .headword { font-size: 44px; letter-spacing: -0.5px; }
 .headword--small { font-size: 30px; }
 .pos { display: inline-flex; align-items: center; gap: 8px; color: var(--eh-text-2); font-style: italic; }
@@ -106,7 +106,7 @@ const maskedContext = computed(() => {
   display: grid; place-items: center; width: 52px; height: 52px; border-radius: 50%; margin-top: 6px;
   background: var(--eh-primary-soft); color: var(--eh-primary); font-size: 22px;
 }
-.speak:hover { background: var(--eh-primary); color: #fff; }
+.speak:hover { background: var(--eh-primary); color: var(--eh-on-primary); }
 .speak--inline { width: 30px; height: 30px; margin: 0; font-size: 15px; }
 .hint { position: absolute; bottom: 16px; font-size: 13px; color: var(--eh-text-3); }
 

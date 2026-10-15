@@ -107,12 +107,12 @@ onMounted(async () => {
   display: grid; gap: 8px; padding: 16px; border-radius: 14px; border: 1px solid var(--eh-border);
   background: var(--eh-surface); color: var(--eh-text); text-decoration: none; transition: transform 0.15s, box-shadow 0.15s;
 }
-.topic:hover { text-decoration: none; transform: translateY(-2px); box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08); }
+.topic:hover { text-decoration: none; transform: translateY(-2px); box-shadow: var(--eh-shadow-lg); }
 .topic__head { display: flex; justify-content: space-between; gap: 8px; align-items: flex-start; }
 .topic__level { flex-shrink: 0; font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 999px; color: #fff; background: var(--lv); }
 .topic p { font-size: 13px; line-height: 1.5; min-height: 38px; }
 .topic__foot { display: flex; justify-content: space-between; font-size: 13px; color: var(--eh-text-2); }
-.topic__foot .el-icon { vertical-align: -2px; color: #f59e0b; }
+.topic__foot .el-icon { vertical-align: -2px; color: var(--eh-accent); }
 .saved { display: grid; gap: 10px; }
 .saved__item { display: flex; align-items: center; gap: 6px; }
 .saved__main { flex: 1; min-width: 0; display: grid; gap: 2px; }

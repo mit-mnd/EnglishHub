@@ -175,19 +175,19 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
 }
 .slot { border: 2px dashed var(--eh-border); background: var(--eh-surface); color: var(--eh-text); }
 .slot:disabled { cursor: default; }
-.slot--hint { border-style: solid; border-color: #f59e0b; background: #fef3c7; }
-.slots--wrong .slot { border-color: #ef4444; animation: shake 0.4s; }
-.slots--correct .slot { border-style: solid; border-color: #10b981; background: #d1fae5; }
+.slot--hint { border-style: solid; border-color: var(--eh-accent); background: var(--eh-highlight); }
+.slots--wrong .slot { border-color: var(--eh-danger); animation: shake 0.4s; }
+.slots--correct .slot { border-style: solid; border-color: var(--eh-success); background: var(--eh-success-soft); }
 .letter {
-  border: 0; background: var(--eh-primary); color: #fff;
-  box-shadow: 0 3px 0 #3730a3; transition: transform 0.1s, opacity 0.15s;
+  border: 0; background: var(--eh-primary); color: var(--eh-on-primary);
+  box-shadow: 0 3px 0 color-mix(in srgb, var(--eh-primary) 62%, #000); transition: transform 0.1s, opacity 0.15s;
 }
-.letter:active:not(:disabled) { transform: translateY(2px); box-shadow: 0 1px 0 #3730a3; }
+.letter:active:not(:disabled) { transform: translateY(2px); box-shadow: 0 1px 0 color-mix(in srgb, var(--eh-primary) 62%, #000); }
 .letter--used { opacity: 0.2; box-shadow: none; cursor: default; }
 
 .scramble__msg { min-height: 24px; }
-.scramble__msg--wrong { color: #dc2626; }
-.scramble__msg--ok { color: #059669; }
+.scramble__msg--wrong { color: var(--eh-danger-text); }
+.scramble__msg--ok { color: var(--eh-success-text); }
 .scramble__example { font-style: italic; margin-top: 4px; }
 .scramble__actions { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; }
 

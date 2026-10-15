@@ -163,14 +163,14 @@ function unpick(index) {
   background: var(--eh-surface); border: 1.5px solid var(--eh-border); border-radius: 12px;
   cursor: pointer; transition: border-color 0.15s, background-color 0.15s, box-shadow 0.15s;
 }
-.option:hover:not(:disabled) { border-color: var(--el-color-primary-light-5); background: #fafaff; }
+.option:hover:not(:disabled) { border-color: var(--el-color-primary-light-5); background: var(--eh-surface-2); }
 .option:disabled { cursor: not-allowed; opacity: 0.7; }
 .option--selected { border-color: var(--eh-primary); background: var(--eh-primary-soft); box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.12); }
 .option__letter {
   display: grid; place-items: center; flex-shrink: 0; width: 32px; height: 32px; border-radius: 8px;
   font-weight: 700; font-size: 14px; background: var(--eh-bg); color: var(--eh-text-2);
 }
-.option--selected .option__letter { background: var(--eh-primary); color: #fff; }
+.option--selected .option__letter { background: var(--eh-primary); color: var(--eh-on-primary); }
 .option__text { flex: 1; }
 
 .qr__matching { display: grid; gap: 10px; }
@@ -181,7 +181,7 @@ function unpick(index) {
 .qr__ordering { display: grid; gap: 16px; }
 .sentence {
   display: flex; flex-wrap: wrap; gap: 8px; min-height: 64px; padding: 12px;
-  border: 2px dashed var(--el-color-primary-light-7); border-radius: 12px; background: #fafaff; align-items: center;
+  border: 2px dashed var(--el-color-primary-light-7); border-radius: 12px; background: var(--eh-surface-2); align-items: center;
 }
 .bank { display: flex; flex-wrap: wrap; gap: 8px; }
 .chip {
@@ -190,7 +190,7 @@ function unpick(index) {
   box-shadow: 0 2px 0 var(--eh-border);
 }
 .chip:hover:not(:disabled) { border-color: var(--eh-primary); }
-.chip--placed { background: var(--eh-primary); border-color: var(--eh-primary); color: #fff; box-shadow: none; }
+.chip--placed { background: var(--eh-primary); border-color: var(--eh-primary); color: var(--eh-on-primary); box-shadow: none; }
 
 @media (max-width: 767.98px) {
   .qr__content { font-size: 17px; }

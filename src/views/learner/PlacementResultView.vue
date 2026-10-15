@@ -201,7 +201,7 @@ onMounted(load)
 .grid { display: grid; grid-template-columns: 3fr 2fr; gap: 20px; margin-bottom: 20px; }
 .skills { display: grid; gap: 14px; }
 .skill__head { display: flex; justify-content: space-between; margin-bottom: 6px; }
-.tip { margin-top: 18px; padding: 12px 14px; border-radius: 10px; background: var(--eh-accent-soft); color: #92400e; }
+.tip { margin-top: 18px; padding: 12px 14px; border-radius: 10px; background: var(--eh-accent-soft); color: var(--eh-accent-text); }
 
 .stats dl { margin: 0; display: grid; gap: 12px; }
 .stats dl div { display: flex; justify-content: space-between; padding-bottom: 12px; border-bottom: 1px solid var(--eh-border); }
@@ -218,7 +218,7 @@ onMounted(load)
 .review__pts { font-size: 13px; color: var(--eh-text-3); white-space: nowrap; }
 .review p { margin: 6px 0; }
 .passage { margin: 0 0 10px; padding: 10px 14px; border-left: 3px solid var(--eh-border); background: var(--eh-bg); border-radius: 0 8px 8px 0; }
-.explain { padding: 10px 14px; border-radius: 10px; background: var(--eh-info-soft); color: #075985; }
+.explain { padding: 10px 14px; border-radius: 10px; background: var(--eh-info-soft); color: var(--eh-info-text); }
 .ok { color: var(--eh-success); }
 .bad { color: var(--eh-danger); }
 

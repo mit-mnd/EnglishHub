@@ -73,5 +73,5 @@ onBeforeUnmount(stop)
   border-radius: 10px; background: var(--eh-bg); line-height: 1.6;
 }
 .lp__script li { padding: 2px 6px; border-radius: 6px; transition: background-color 0.2s; }
-.lp__line--now { background: #fef3c7; }
+.lp__line--now { background: var(--eh-highlight); }
 </style>

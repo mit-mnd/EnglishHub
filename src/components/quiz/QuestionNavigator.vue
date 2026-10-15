@@ -58,8 +58,8 @@ defineEmits(['go', 'submit'])
   border: 1.5px solid var(--eh-border); border-radius: 10px; background: var(--eh-surface);
   font: inherit; font-weight: 600; color: var(--eh-text-2); cursor: pointer;
 }
-.nav-cell--answered { background: var(--eh-primary); border-color: var(--eh-primary); color: #fff; }
-.nav-cell--current { box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.3); border-color: var(--eh-primary); }
+.nav-cell--answered { background: var(--eh-primary); border-color: var(--eh-primary); color: var(--eh-on-primary); }
+.nav-cell--current { box-shadow: 0 0 0 3px var(--eh-primary-ring); border-color: var(--eh-primary); }
 .nav-cell--flagged::after {
   content: ''; position: absolute; top: -4px; right: -4px; width: 10px; height: 10px;
   border-radius: 50%; background: var(--eh-accent); border: 2px solid var(--eh-surface);
