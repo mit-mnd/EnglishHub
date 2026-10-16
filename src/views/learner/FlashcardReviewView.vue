@@ -131,7 +131,7 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
 <template>
   <div class="review">
     <header class="review__head">
-      <AppLogo :compact="isMobile" />
+      <AppLogo :compact="isMobile" home />
       <div class="review__title">
         <strong>Ôn tập từ vựng</strong>
         <span v-if="!done && total" class="eh-subtle">{{ stats.cardIds.size }}/{{ total }} thẻ</span>

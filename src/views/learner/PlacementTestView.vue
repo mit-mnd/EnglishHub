@@ -220,7 +220,7 @@ onBeforeUnmount(() => {
 <template>
   <div class="test">
     <header class="test__header">
-      <AppLogo :compact="isMobile" />
+      <AppLogo :compact="isMobile" home />
       <div class="test__heading">
         <strong>{{ attempt?.title ?? 'Bài kiểm tra xếp lớp' }}</strong>
         <span v-if="attempt" class="eh-subtle">Đã làm {{ answeredCount }}/{{ questions.length }} câu</span>
